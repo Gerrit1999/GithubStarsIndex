@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27 15:17 UTC",
+  "last_updated": "2026-02-28 01:48 UTC",
   "repos": {
     "LifeArchiveProject/WeChatDataAnalysis": {
       "metadata": {
@@ -148,7 +148,7 @@
         "name": "prompt-optimizer",
         "owner": "linshenkx",
         "description": "一款提示词优化器，助力于编写高质量的提示词",
-        "stars": 22288,
+        "stars": 22310,
         "language": "TypeScript",
         "url": "https://github.com/linshenkx/prompt-optimizer",
         "homepage": "https://prompt.always200.com",
@@ -266,7 +266,7 @@
         "name": "everything-claude-code",
         "owner": "affaan-m",
         "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
-        "stars": 53921,
+        "stars": 54100,
         "language": "JavaScript",
         "url": "https://github.com/affaan-m/everything-claude-code",
         "homepage": "",
@@ -1196,7 +1196,7 @@
         "name": "serena",
         "owner": "oraios",
         "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)",
-        "stars": 20733,
+        "stars": 20751,
         "language": "Python",
         "url": "https://github.com/oraios/serena",
         "homepage": "https://oraios.github.io/serena",
@@ -1815,7 +1815,7 @@
         "name": "gemini-cli",
         "owner": "google-gemini",
         "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "stars": 95876,
+        "stars": 95919,
         "language": "TypeScript",
         "url": "https://github.com/google-gemini/gemini-cli",
         "homepage": "https://geminicli.com",
@@ -1828,7 +1828,7 @@
           "mcp-client",
           "mcp-server"
         ],
-        "updated_at": "2026-02-27"
+        "updated_at": "2026-02-28"
       },
       "summary": {
         "zh": "Gemini CLI 是一个开源 AI 代理工具，将谷歌 Gemini 模型能力直接集成到终端中。支持免费调用（60次/分钟）、1M 上下文窗口、内置搜索与文件操作工具，并通过 MCP 协议实现可扩展集成，专为开发者打造终端优先的高效交互体验。",
@@ -2881,7 +2881,7 @@
         "name": "file-transfer-go",
         "owner": "MatrixSeven",
         "description": "Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。",
-        "stars": 4676,
+        "stars": 4677,
         "language": "TypeScript",
         "url": "https://github.com/MatrixSeven/file-transfer-go",
         "homepage": "https://transfer.52python.cn",
@@ -3107,7 +3107,7 @@
         "name": "claude-code-router",
         "owner": "musistudio",
         "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
-        "stars": 28544,
+        "stars": 28562,
         "language": "TypeScript",
         "url": "https://github.com/musistudio/claude-code-router",
         "homepage": "https://musistudio.github.io/claude-code-router/",
@@ -5450,7 +5450,7 @@
         "name": "servers",
         "owner": "modelcontextprotocol",
         "description": "Model Context Protocol Servers",
-        "stars": 79580,
+        "stars": 79626,
         "language": "TypeScript",
         "url": "https://github.com/modelcontextprotocol/servers",
         "homepage": "https://modelcontextprotocol.io",
@@ -5672,7 +5672,7 @@
         "name": "markitdown",
         "owner": "microsoft",
         "description": "Python tool for converting files and office documents to Markdown.",
-        "stars": 87733,
+        "stars": 87774,
         "language": "Python",
         "url": "https://github.com/microsoft/markitdown",
         "homepage": "",
@@ -7055,7 +7055,7 @@
         "name": "browser-use",
         "owner": "browser-use",
         "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "stars": 79129,
+        "stars": 79159,
         "language": "Python",
         "url": "https://github.com/browser-use/browser-use",
         "homepage": "https://browser-use.com",
@@ -7471,7 +7471,7 @@
         "name": "ragflow",
         "owner": "infiniflow",
         "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-        "stars": 73851,
+        "stars": 73869,
         "language": "Python",
         "url": "https://github.com/infiniflow/ragflow",
         "homepage": "https://ragflow.io",
@@ -7818,7 +7818,7 @@
         "name": "go-cursor-help",
         "owner": "yuaotian",
         "description": "解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.",
-        "stars": 25983,
+        "stars": 25981,
         "language": "Shell",
         "url": "https://github.com/yuaotian/go-cursor-help",
         "homepage": "",
@@ -8291,7 +8291,7 @@
         "name": "playwright",
         "owner": "microsoft",
         "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
-        "stars": 83151,
+        "stars": 83168,
         "language": "TypeScript",
         "url": "https://github.com/microsoft/playwright",
         "homepage": "https://playwright.dev",
@@ -8312,7 +8312,7 @@
           "web",
           "webkit"
         ],
-        "updated_at": "2026-02-27"
+        "updated_at": "2026-02-28"
       },
       "summary": {
         "zh": "Playwright 是一个跨浏览器 Web 测试与自动化框架，支持 Chromium、Firefox 和 WebKit，提供统一 API。具备自动等待、Web 优先断言和追踪功能，确保测试稳定可靠，避免常见的不稳定问题，适用于端到端测试和自动化任务。",
@@ -8700,7 +8700,7 @@
         "name": "clash-party",
         "owner": "mihomo-party-org",
         "description": ":electron: Another Mihomo GUI. ",
-        "stars": 21097,
+        "stars": 21100,
         "language": "TypeScript",
         "url": "https://github.com/mihomo-party-org/clash-party",
         "homepage": "https://clashparty.org",
@@ -8868,7 +8868,7 @@
         "name": "MinerU",
         "owner": "opendatalab",
         "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
-        "stars": 55118,
+        "stars": 55131,
         "language": "Python",
         "url": "https://github.com/opendatalab/MinerU",
         "homepage": "https://opendatalab.github.io/MinerU/",
@@ -9227,7 +9227,7 @@
         "name": "mihomo",
         "owner": "MetaCubeX",
         "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
-        "stars": 27192,
+        "stars": 27195,
         "language": "Python",
         "url": "https://github.com/MetaCubeX/mihomo",
         "homepage": "https://wiki.metacubex.one",
@@ -9729,7 +9729,7 @@
         "name": "dify",
         "owner": "langgenius",
         "description": "Production-ready platform for agentic workflow development.",
-        "stars": 130580,
+        "stars": 130608,
         "language": "TypeScript",
         "url": "https://github.com/langgenius/dify",
         "homepage": "https://dify.ai",
@@ -12668,7 +12668,7 @@
         "name": "HelloGitHub",
         "owner": "521xueweihan",
         "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-        "stars": 144037,
+        "stars": 144067,
         "language": "Python",
         "url": "https://github.com/521xueweihan/HelloGitHub",
         "homepage": "https://hellogithub.com",
@@ -12678,7 +12678,7 @@
           "hellogithub",
           "python"
         ],
-        "updated_at": "2026-01-28"
+        "updated_at": "2026-02-28"
       },
       "summary": {
         "zh": "HelloGitHub 是一个专注于分享 GitHub 上有趣、适合入门的开源项目的中文社区项目，每月28日发布月刊，涵盖开源项目、书籍、实战案例等，帮助开发者快速发现优质资源，激发对开源的兴趣与参与热情。",
@@ -16937,7 +16937,7 @@
         "name": "jumpserver",
         "owner": "jumpserver",
         "description": "JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.",
-        "stars": 29949,
+        "stars": 29951,
         "language": "Python",
         "url": "https://github.com/jumpserver/jumpserver",
         "homepage": "https://jumpserver.com",
@@ -28709,6 +28709,370 @@
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-27"
+    },
+    "via007/bilibili-rag": {
+      "metadata": {
+        "full_name": "via007/bilibili-rag",
+        "name": "bilibili-rag",
+        "owner": "via007",
+        "description": "B站收藏夹RAG知识库：收藏不吃灰，B 站收藏夹 → 语音转写 → 向量检索 → 对话问答",
+        "stars": 500,
+        "language": "Python",
+        "url": "https://github.com/via007/bilibili-rag",
+        "homepage": "",
+        "topics": [
+          "rag-bilibili-knowledge-base-llm-chroma-qwen"
+        ],
+        "updated_at": "2026-02-05"
+      },
+      "summary": {
+        "zh": "将B站收藏夹转化为可对话的知识库，通过语音转写(ASR)将音视频内容文本化，利用ChromaDB向量检索与LLM实现RAG问答。支持扫码登录收藏夹、自动下载转写、语义搜索，适合访谈演讲课程等长视频内容的知识整理与追溯。",
+        "en": "Transform Bilibili favorites into conversable knowledge bases. Convert audio/video to text via ASR, use ChromaDB vector search with LLM for RAG-powered Q&A. Supports login, auto-download, transcription, and semantic search—ideal for organizing interviews, lectures, and long-form educational videos.",
+        "tags_zh": [
+          "RAG知识库",
+          "语音转写ASR",
+          "向量检索",
+          "ChromaDB",
+          "Bilibili内容处理"
+        ],
+        "tags_en": [
+          "RAG Knowledge Base",
+          "ASR Transcription",
+          "Vector Search",
+          "ChromaDB",
+          "Bilibili Content Processing"
+        ]
+      },
+      "pushed_at": "2026-02-05",
+      "updated_at": "2026-02-28"
+    },
+    "iblogc/GithubStarsIndex": {
+      "metadata": {
+        "full_name": "iblogc/GithubStarsIndex",
+        "name": "GithubStarsIndex",
+        "owner": "iblogc",
+        "description": "自动抓取 GitHub Stars，生成 AI 摘要，便于检索。",
+        "stars": 24,
+        "language": "Jinja",
+        "url": "https://github.com/iblogc/GithubStarsIndex",
+        "homepage": "https://iblogc.github.io/GithubStarsIndex/",
+        "topics": [],
+        "updated_at": "2026-02-27"
+      },
+      "summary": {
+        "zh": "自动抓取 GitHub Stars 仓库并调用 AI 生成中英文摘要与技术标签，支持并发加速处理。数据存储为 JSON 便于二次开发，通过 Jinja2 模板生成 Markdown 和 HTML 静态页面。集成 GitHub Actions 定时任务、Obsidian Vault 同步与 GitHub Pages 部署，构建个人技术资源知识库。",
+        "en": "Automatically fetch GitHub Stars repositories and generate AI-powered bilingual summaries with tech tags. Supports concurrent AI processing for efficiency. Data stored in JSON enables二次开发, while Jinja2 templates render Markdown and HTML pages. Integrated with GitHub Actions scheduling, Obsidian Vault sync, and GitHub Pages deployment for personal tech knowledge management.",
+        "tags_zh": [
+          "AI 摘要生成",
+          "GitHub Actions 自动化",
+          "知识库管理",
+          "Obsidian 集成"
+        ],
+        "tags_en": [
+          "AI Summarization",
+          "GitHub Automation",
+          "Knowledge Graph",
+          "Obsidian Integration"
+        ]
+      },
+      "pushed_at": "2026-02-27",
+      "updated_at": "2026-02-28"
+    },
+    "Spute/obsidian-copy-to-mp": {
+      "metadata": {
+        "full_name": "Spute/obsidian-copy-to-mp",
+        "name": "obsidian-copy-to-mp",
+        "owner": "Spute",
+        "description": "Obsidian插件，复制文档到微信公众号（包含图片）",
+        "stars": 108,
+        "language": "TypeScript",
+        "url": "https://github.com/Spute/obsidian-copy-to-mp",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2026-02-25"
+      },
+      "summary": {
+        "zh": "Obsidian插件，实现文档一键转换为微信公众号可粘贴的HTML格式。支持Markdown正文、本地图片和网络图片的完整复制，提供18种公众号排版样式可选。无需配置公众号密钥或依赖第三方服务，执行命令即可直接粘贴发布。",
+        "en": "An Obsidian plugin that converts documents to WeChat Official Account clipboard-ready HTML format. Supports full Markdown content, local and network images with 18 built-in article layout styles. No external services or API keys required—just execute a command to copy and paste for publishing.",
+        "tags_zh": [
+          "微信公众号排版",
+          "Obsidian插件",
+          "HTML转换工具",
+          "内容发布工作流"
+        ],
+        "tags_en": [
+          "WeChat Official Account",
+          "Obsidian Plugin",
+          "HTML Conversion",
+          "Content Publishing"
+        ]
+      },
+      "pushed_at": "2026-02-25",
+      "updated_at": "2026-02-28"
+    },
+    "blessonism/openclaw-search-skills": {
+      "metadata": {
+        "full_name": "blessonism/openclaw-search-skills",
+        "name": "openclaw-search-skills",
+        "owner": "blessonism",
+        "description": "OpenClaw skills for deep GitHub project analysis — multi-source search, content extraction, and structured research reports.",
+        "stars": 100,
+        "language": "Python",
+        "url": "https://github.com/blessonism/openclaw-search-skills",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2026-02-27"
+      },
+      "summary": {
+        "zh": "OpenClaw 技能集，提供深度 GitHub 项目分析能力。核心包括：四源并行搜索（Brave/Exa/Tavily/Grok）结合意图感知评分与自动去重；深度链式追踪支持 GitHub Issue/PR、Hacker News、Reddit、V2EX 等平台结构化提取；智能 URL 转 Markdown 内容提取，反爬站点自动降级至 MinerU 解析。",
+        "en": "OpenClaw skill set for deep GitHub project analysis. Features quad-source parallel search (Brave/Exa/Tavily/Grok) with intent-aware scoring and deduplication; deep chain tracking for structured extraction from GitHub Issues/PRs, Hacker News, Reddit, V2EX; intelligent URL-to-Markdown extraction with MinerU fallback for anti-crawl sites.",
+        "tags_zh": [
+          "多源并行搜索",
+          "深度链式追踪",
+          "内容提取",
+          "OpenClaw Skills"
+        ],
+        "tags_en": [
+          "Multi-source Parallel Search",
+          "Deep Chain Tracking",
+          "Content Extraction",
+          "OpenClaw Skills"
+        ]
+      },
+      "pushed_at": "2026-02-27",
+      "updated_at": "2026-02-28"
+    },
+    "alumnium-hq/alumnium": {
+      "metadata": {
+        "full_name": "alumnium-hq/alumnium",
+        "name": "alumnium",
+        "owner": "alumnium-hq",
+        "description": "Pave the way towards AI-powered test automation.",
+        "stars": 550,
+        "language": "Python",
+        "url": "https://github.com/alumnium-hq/alumnium",
+        "homepage": "https://alumnium.ai",
+        "topics": [
+          "ai",
+          "appium",
+          "llm",
+          "playwright",
+          "python",
+          "selenium",
+          "test-automation",
+          "testing",
+          "typescript"
+        ],
+        "updated_at": "2026-02-27"
+      },
+      "summary": {
+        "zh": "Alumnium是一个实验性AI驱动测试自动化框架，为现有测试生态提供高级抽象层。它允许使用自然语言编写测试用例和断言，简化应用交互并提供更强大的验证机制。支持Python和TypeScript，可对接Selenium、Playwright或Appium底层引擎，当前处于早期开发阶段。",
+        "en": "Alumnium is an experimental AI-powered test automation framework providing higher-level abstractions over existing testing ecosystems. It enables natural language test cases and assertions, simplifying application interactions with robust verification. Supports Python/TypeScript with Selenium, Playwright, or Appium backends, currently in early development.",
+        "tags_zh": [
+          "AI测试自动化",
+          "自然语言测试",
+          "Selenium",
+          "Playwright"
+        ],
+        "tags_en": [
+          "AI Test Automation",
+          "Natural Language Testing",
+          "Selenium",
+          "Playwright"
+        ]
+      },
+      "pushed_at": "2026-02-27",
+      "updated_at": "2026-02-28"
+    },
+    "liam798/docker-openclawd": {
+      "metadata": {
+        "full_name": "liam798/docker-openclawd",
+        "name": "docker-openclawd",
+        "owner": "liam798",
+        "description": "🚀 一键安装 OpenClawd / Clawdbot 的 Docker 部署方案｜内置飞书Channel，一键安装，开箱即用",
+        "stars": 25,
+        "language": "Shell",
+        "url": "https://github.com/liam798/docker-openclawd",
+        "homepage": "",
+        "topics": [],
+        "updated_at": "2026-02-25"
+      },
+      "summary": {
+        "zh": "提供 OpenClawd（自托管 AI 助手）的 Docker 一键部署方案，支持 WhatsApp、Telegram、Discord、Slack、飞书等多通道接入。采用 docker-compose 架构，一行命令自动安装配置，开箱即用。内置飞书 Channel 完整配置指南，支持自定义目录挂载，使用非 root 用户提升安全性。",
+        "en": "One-click Docker deployment solution for OpenClawd, a self-hosted AI assistant supporting WhatsApp, Telegram, Discord, Slack, and Feishu channels. Features docker-compose architecture, automatic installation, built-in Feishu configuration guide, custom volume mounts, and non-root user execution for enhanced security.",
+        "tags_zh": [
+          "Docker 部署",
+          "AI 助手",
+          "飞书集成",
+          "多通道接入"
+        ],
+        "tags_en": [
+          "Docker Deployment",
+          "AI Assistant",
+          "Feishu Integration",
+          "Multi-channel"
+        ]
+      },
+      "pushed_at": "2026-02-25",
+      "updated_at": "2026-02-28"
+    },
+    "openmozi/openfr": {
+      "metadata": {
+        "full_name": "openmozi/openfr",
+        "name": "openfr",
+        "owner": "openmozi",
+        "description": "OpenFR：A lightweight agent for financial research",
+        "stars": 27,
+        "language": "Python",
+        "url": "https://github.com/openmozi/openfr",
+        "homepage": "",
+        "topics": [
+          "agent",
+          "fiancial",
+          "financial-research",
+          "llm"
+        ],
+        "updated_at": "2026-02-25"
+      },
+      "summary": {
+        "zh": "OpenFR 是一个基于大语言模型的轻量级金融研究 Agent，集成 AKShare 数据接口，支持 A 股、港股、基金、期货等 35+ 金融数据工具。采用 Plan-Execute 架构先规划研究步骤再执行，支持 15+ 主流 LLM 提供商，具备多数据源自动切换、并行调用、缓存优化等性能特性，提供美观的 Rich 终端界面。",
+        "en": "OpenFR is a lightweight AI-powered financial research agent built on LLMs and AKShare data interface. It provides automated queries for stocks, funds, futures, indices, and macro data across 35+ financial tools. Using Plan-Execute architecture, it supports 15+ LLM providers with multi-source fallback, parallel tool calling, caching optimization, and a Rich terminal UI.",
+        "tags_zh": [
+          "金融 Agent",
+          "AKShare",
+          "Plan-Execute",
+          "LLM 量化投资"
+        ],
+        "tags_en": [
+          "Financial Agent",
+          "AKShare",
+          "Plan-Execute Agent",
+          "LLM Investment"
+        ]
+      },
+      "pushed_at": "2026-02-25",
+      "updated_at": "2026-02-28"
+    },
+    "achannarasappa/ticker": {
+      "metadata": {
+        "full_name": "achannarasappa/ticker",
+        "name": "ticker",
+        "owner": "achannarasappa",
+        "description": "Track stocks, crypto, and derivatives prices and positions in real time from your terminal",
+        "stars": 5949,
+        "language": "Go",
+        "url": "https://github.com/achannarasappa/ticker",
+        "homepage": "",
+        "topics": [
+          "bitcoin",
+          "crypto-trading",
+          "cryptocurrencies",
+          "derivatives",
+          "financial-markets",
+          "golang",
+          "golang-application",
+          "stock-market",
+          "stock-positions",
+          "stocks",
+          "stocks-app",
+          "terminal",
+          "terminal-app",
+          "ticker",
+          "trading",
+          "trading-software",
+          "tui"
+        ],
+        "updated_at": "2025-12-28"
+      },
+      "summary": {
+        "zh": "ticker是一款用Go语言开发的终端股票、加密货币和衍生品实时价格追踪工具。它提供多交易所实时行情、盘前盘后报价、持仓成本计算及盈亏分析，支持配置化watchlist和多维度行情展示，适合投资者在终端环境中进行快速市场监控。",
+        "en": "ticker is a terminal-based real-time stock, cryptocurrency and derivatives price tracker written in Go. It provides live quotes from multiple exchanges, pre/post-market pricing, position tracking with cost basis calculation, and portfolio gain/loss analysis, ideal for investors monitoring markets directly in terminal.",
+        "tags_zh": [
+          "终端工具",
+          "股票行情",
+          "加密货币",
+          "Go语言"
+        ],
+        "tags_en": [
+          "Terminal UI",
+          "Stock Tracker",
+          "Cryptocurrency",
+          "Go"
+        ]
+      },
+      "pushed_at": "2025-12-28",
+      "updated_at": "2026-02-28"
+    },
+    "zeroclaw-labs/zeroclaw": {
+      "metadata": {
+        "full_name": "zeroclaw-labs/zeroclaw",
+        "name": "zeroclaw",
+        "owner": "zeroclaw-labs",
+        "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+        "stars": 20510,
+        "language": "Rust",
+        "url": "https://github.com/zeroclaw-labs/zeroclaw",
+        "homepage": "https://www.zeroclawlabs.ai/",
+        "topics": [
+          "official",
+          "official-website"
+        ],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "ZeroClaw是100% Rust编写的超轻量级AI助手运行时基础设施，可在<5MB内存下运行，采用trait驱动架构实现模型、工具、内存和执行层的全组件可插拔替换，支持一次构建、随地部署的自主代理工作流。",
+        "en": "ZeroClaw is a 100% Rust ultra-lightweight AI assistant runtime requiring <5MB RAM, featuring trait-driven architecture with fully swappable models, tools, memory, and execution layers for autonomous agentic workflows deployable anywhere.",
+        "tags_zh": [
+          "Rust运行时",
+          "超轻量级AI",
+          "边缘计算",
+          "自主代理框架"
+        ],
+        "tags_en": [
+          "Rust Runtime",
+          "Edge AI",
+          "Autonomous Agents",
+          "Lightweight Infrastructure"
+        ]
+      },
+      "pushed_at": "2026-02-28",
+      "updated_at": "2026-02-28"
+    },
+    "p-e-w/heretic": {
+      "metadata": {
+        "full_name": "p-e-w/heretic",
+        "name": "heretic",
+        "owner": "p-e-w",
+        "description": "Fully automatic censorship removal for language models",
+        "stars": 9828,
+        "language": "Python",
+        "url": "https://github.com/p-e-w/heretic",
+        "homepage": "",
+        "topics": [
+          "abliteration",
+          "llm",
+          "transformer"
+        ],
+        "updated_at": "2026-02-27"
+      },
+      "summary": {
+        "zh": "Heretic 是一款基于方向性消融(abliteration)的全自动语言模型审查移除工具，结合 Optuna TPE 参数优化器，通过协同最小化拒绝率与 KL 散度自动寻找高质量消融参数。无需人工干预即可生成低能力损失的解审查模型，在 gemma-3-12b-it 上实现 3/100 拒绝率同时保持仅 0.16 的 KL 散度，优于人工专家消融效果。",
+        "en": "Heretic is a fully automatic censorship removal tool for language models using directional abliteration combined with Optuna TPE-based optimizer. It co-minimizes refusals and KL divergence to automatically find high-quality abliteration parameters without human intervention. On gemma-3-12b-it, it achieves 3/100 refusal rate with only 0.16 KL divergence, outperforming manual expert abliterations.",
+        "tags_zh": [
+          "方向性消融",
+          "模型解审查",
+          "Transformer",
+          "自动化对齐移除"
+        ],
+        "tags_en": [
+          "Directional Abliteration",
+          "Model Decensoring",
+          "LLM Alignment Removal",
+          "Automated Optimization"
+        ]
+      },
+      "pushed_at": "2026-02-27",
+      "updated_at": "2026-02-28"
     }
   }
 }
