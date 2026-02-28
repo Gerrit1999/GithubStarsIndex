@@ -1,11 +1,20 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-02-28 01:43 UTC · Total: 25
+> Updated: 2026-02-28 01:48 UTC · Total: 34
 
 ---
 
 ## 📑 Index
 - [[#p-e-w/heretic|p-e-w/heretic]]
+- [[#iblogc/GithubStarsIndex|iblogc/GithubStarsIndex]]
+- [[#alumnium-hq/alumnium|alumnium-hq/alumnium]]
+- [[#zeroclaw-labs/zeroclaw|zeroclaw-labs/zeroclaw]]
+- [[#blessonism/openclaw-search-skills|blessonism/openclaw-search-skills]]
+- [[#liam798/docker-openclawd|liam798/docker-openclawd]]
+- [[#openmozi/openfr|openmozi/openfr]]
+- [[#Spute/obsidian-copy-to-mp|Spute/obsidian-copy-to-mp]]
+- [[#achannarasappa/ticker|achannarasappa/ticker]]
+- [[#via007/bilibili-rag|via007/bilibili-rag]]
 - [[#affaan-m/everything-claude-code|affaan-m/everything-claude-code]]
 - [[#modelcontextprotocol/servers|modelcontextprotocol/servers]]
 - [[#oraios/serena|oraios/serena]]
@@ -36,17 +45,107 @@
 ## p-e-w/heretic
 
 > [!info]
-> ⭐ 9,827 · Python · 2026-02-27  
+> ⭐ 9,828 · Python · 2026-02-27  
 > [GitHub](https://github.com/p-e-w/heretic)  
-> `#方向性消融` `#大语言模型` `#自动脱敏` `#TPE优化` `#abliteration` `#llm` `#transformer` 
-> Heretic是一款完全自动化的语言模型审查移除工具。它结合方向性消融(abliteration)技术与Optuna的TPE参数优化,通过协同最小化拒绝次数和原始模型的KL散度来寻找高质量消融参数。该方法无需人工干预即可生成保持原模型能力的去审查模型,用户仅需运行命令行即可使用。
+> `#方向性消融` `#模型解审查` `#Transformer` `#自动化对齐移除` `#abliteration` `#llm` `#transformer` 
+> Heretic 是一款基于方向性消融(abliteration)的全自动语言模型审查移除工具，结合 Optuna TPE 参数优化器，通过协同最小化拒绝率与 KL 散度自动寻找高质量消融参数。无需人工干预即可生成低能力损失的解审查模型，在 gemma-3-12b-it 上实现 3/100 拒绝率同时保持仅 0.16 的 KL 散度，优于人工专家消融效果。
 > <sub>Fully automatic censorship removal for language models</sub>
+
+---
+## iblogc/GithubStarsIndex
+
+> [!info]
+> ⭐ 24 · Jinja · 2026-02-27  
+> [GitHub](https://github.com/iblogc/GithubStarsIndex) · [Website](https://iblogc.github.io/GithubStarsIndex/)  
+> `#AI 摘要生成` `#GitHub Actions 自动化` `#知识库管理` `#Obsidian 集成` 
+> 自动抓取 GitHub Stars 仓库并调用 AI 生成中英文摘要与技术标签，支持并发加速处理。数据存储为 JSON 便于二次开发，通过 Jinja2 模板生成 Markdown 和 HTML 静态页面。集成 GitHub Actions 定时任务、Obsidian Vault 同步与 GitHub Pages 部署，构建个人技术资源知识库。
+> <sub>自动抓取 GitHub Stars，生成 AI 摘要，便于检索。</sub>
+
+---
+## alumnium-hq/alumnium
+
+> [!info]
+> ⭐ 550 · Python · 2026-02-27  
+> [GitHub](https://github.com/alumnium-hq/alumnium) · [Website](https://alumnium.ai)  
+> `#AI测试自动化` `#自然语言测试` `#Selenium` `#Playwright` `#ai` `#appium` `#llm` `#playwright` `#python` `#selenium` `#test-automation` `#testing` `#typescript` 
+> Alumnium是一个实验性AI驱动测试自动化框架，为现有测试生态提供高级抽象层。它允许使用自然语言编写测试用例和断言，简化应用交互并提供更强大的验证机制。支持Python和TypeScript，可对接Selenium、Playwright或Appium底层引擎，当前处于早期开发阶段。
+> <sub>Pave the way towards AI-powered test automation.</sub>
+
+---
+## zeroclaw-labs/zeroclaw
+
+> [!info]
+> ⭐ 20,510 · Rust · 2026-02-28  
+> [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [Website](https://www.zeroclawlabs.ai/)  
+> `#Rust运行时` `#超轻量级AI` `#边缘计算` `#自主代理框架` `#official` `#official-website` 
+> ZeroClaw是100% Rust编写的超轻量级AI助手运行时基础设施，可在<5MB内存下运行，采用trait驱动架构实现模型、工具、内存和执行层的全组件可插拔替换，支持一次构建、随地部署的自主代理工作流。
+> <sub>Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀</sub>
+
+---
+## blessonism/openclaw-search-skills
+
+> [!info]
+> ⭐ 100 · Python · 2026-02-27  
+> [GitHub](https://github.com/blessonism/openclaw-search-skills)  
+> `#多源并行搜索` `#深度链式追踪` `#内容提取` `#OpenClaw Skills` 
+> OpenClaw 技能集，提供深度 GitHub 项目分析能力。核心包括：四源并行搜索（Brave/Exa/Tavily/Grok）结合意图感知评分与自动去重；深度链式追踪支持 GitHub Issue/PR、Hacker News、Reddit、V2EX 等平台结构化提取；智能 URL 转 Markdown 内容提取，反爬站点自动降级至 MinerU 解析。
+> <sub>OpenClaw skills for deep GitHub project analysis — multi-source search, content extraction, and structured research reports.</sub>
+
+---
+## liam798/docker-openclawd
+
+> [!info]
+> ⭐ 25 · Shell · 2026-02-25  
+> [GitHub](https://github.com/liam798/docker-openclawd)  
+> `#Docker 部署` `#AI 助手` `#飞书集成` `#多通道接入` 
+> 提供 OpenClawd（自托管 AI 助手）的 Docker 一键部署方案，支持 WhatsApp、Telegram、Discord、Slack、飞书等多通道接入。采用 docker-compose 架构，一行命令自动安装配置，开箱即用。内置飞书 Channel 完整配置指南，支持自定义目录挂载，使用非 root 用户提升安全性。
+> <sub>🚀 一键安装 OpenClawd / Clawdbot 的 Docker 部署方案｜内置飞书Channel，一键安装，开箱即用</sub>
+
+---
+## openmozi/openfr
+
+> [!info]
+> ⭐ 27 · Python · 2026-02-25  
+> [GitHub](https://github.com/openmozi/openfr)  
+> `#金融 Agent` `#AKShare` `#Plan-Execute` `#LLM 量化投资` `#agent` `#fiancial` `#financial-research` `#llm` 
+> OpenFR 是一个基于大语言模型的轻量级金融研究 Agent，集成 AKShare 数据接口，支持 A 股、港股、基金、期货等 35+ 金融数据工具。采用 Plan-Execute 架构先规划研究步骤再执行，支持 15+ 主流 LLM 提供商，具备多数据源自动切换、并行调用、缓存优化等性能特性，提供美观的 Rich 终端界面。
+> <sub>OpenFR：A lightweight agent for financial research</sub>
+
+---
+## Spute/obsidian-copy-to-mp
+
+> [!info]
+> ⭐ 108 · TypeScript · 2026-02-25  
+> [GitHub](https://github.com/Spute/obsidian-copy-to-mp)  
+> `#微信公众号排版` `#Obsidian插件` `#HTML转换工具` `#内容发布工作流` 
+> Obsidian插件，实现文档一键转换为微信公众号可粘贴的HTML格式。支持Markdown正文、本地图片和网络图片的完整复制，提供18种公众号排版样式可选。无需配置公众号密钥或依赖第三方服务，执行命令即可直接粘贴发布。
+> <sub>Obsidian插件，复制文档到微信公众号（包含图片）</sub>
+
+---
+## achannarasappa/ticker
+
+> [!info]
+> ⭐ 5,949 · Go · 2025-12-28  
+> [GitHub](https://github.com/achannarasappa/ticker)  
+> `#终端工具` `#股票行情` `#加密货币` `#Go语言` `#bitcoin` `#crypto-trading` `#cryptocurrencies` `#derivatives` `#financial-markets` `#golang` `#golang-application` `#stock-market` `#stock-positions` `#stocks` `#stocks-app` `#terminal` `#terminal-app` `#ticker` `#trading` `#trading-software` `#tui` 
+> ticker是一款用Go语言开发的终端股票、加密货币和衍生品实时价格追踪工具。它提供多交易所实时行情、盘前盘后报价、持仓成本计算及盈亏分析，支持配置化watchlist和多维度行情展示，适合投资者在终端环境中进行快速市场监控。
+> <sub>Track stocks, crypto, and derivatives prices and positions in real time from your terminal</sub>
+
+---
+## via007/bilibili-rag
+
+> [!info]
+> ⭐ 500 · Python · 2026-02-05  
+> [GitHub](https://github.com/via007/bilibili-rag)  
+> `#RAG知识库` `#语音转写ASR` `#向量检索` `#ChromaDB` `#Bilibili内容处理` `#rag-bilibili-knowledge-base-llm-chroma-qwen` 
+> 将B站收藏夹转化为可对话的知识库，通过语音转写(ASR)将音视频内容文本化，利用ChromaDB向量检索与LLM实现RAG问答。支持扫码登录收藏夹、自动下载转写、语义搜索，适合访谈演讲课程等长视频内容的知识整理与追溯。
+> <sub>B站收藏夹RAG知识库：收藏不吃灰，B 站收藏夹 → 语音转写 → 向量检索 → 对话问答</sub>
 
 ---
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 54,097 · JavaScript · 2026-02-27  
+> ⭐ 54,100 · JavaScript · 2026-02-27  
 > [GitHub](https://github.com/affaan-m/everything-claude-code)  
 > `#Claude Code` `#AI 代理配置` `#MCP` `#持续学习` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > 这是一个由 Anthropic 黑客马拉松获奖者整理的 Claude Code 完整配置集合，包含生产级代理、技能、钩子、命令、规则和 MCP 配置，经过 10 个月高强度实战验证，支持多语言与持续学习优化。
@@ -106,7 +205,7 @@
 ## langgenius/dify
 
 > [!info]
-> ⭐ 130,607 · TypeScript · 2026-02-27  
+> ⭐ 130,608 · TypeScript · 2026-02-27  
 > [GitHub](https://github.com/langgenius/dify) · [Website](https://dify.ai)  
 > `#AI工作流` `#智能体开发` `#大模型集成` `#自托管平台` `#agent` `#agentic-ai` `#agentic-framework` `#agentic-workflow` `#ai` `#automation` `#gemini` `#genai` `#gpt` `#gpt-4` `#llm` `#low-code` `#mcp` `#nextjs` `#no-code` `#openai` `#orchestration` `#python` `#rag` `#workflow` 
 > Dify 是一个生产就绪的 AI 智能体工作流开发平台，支持可视化编排复杂任务流程，集成大模型与外部工具。提供云端服务与自托管方案，适用于构建知识库问答、AI 播客生成等场景，具备高扩展性与企业级部署能力。
@@ -136,7 +235,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 22,309 · TypeScript · 2026-02-10  
+> ⭐ 22,310 · TypeScript · 2026-02-10  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#提示词优化` `#多模型集成` `#AI提示工程` `#图像生成` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer 是一款专注于提升AI提示词质量的智能优化工具，支持多模型集成（OpenAI、Gemini、DeepSeek等）、双模式优化、对比测试及图像生成功能。提供Web、桌面、Chrome插件和Docker四种部署方式，采用纯客户端架构保障数据安全，适用于角色扮演、知识图谱提取、创意写作等场景，助力开发者降本增效。
@@ -146,7 +245,7 @@
 ## musistudio/claude-code-router
 
 > [!info]
-> ⭐ 28,561 · TypeScript · 2026-01-10  
+> ⭐ 28,562 · TypeScript · 2026-01-10  
 > [GitHub](https://github.com/musistudio/claude-code-router) · [Website](https://musistudio.github.io/claude-code-router/)  
 > `#AI 模型路由` `#多供应商集成` `#Claude Code 扩展` 
 > 该项目基于 Claude Code 构建代码基础设施，支持将请求路由至不同 AI 模型（如 DeepSeek、Gemini、Ollama 等），提供多供应商支持、动态模型切换、请求/响应自定义转换及 CLI 管理功能，并可集成 GitHub Actions 实现自动化编码任务。
@@ -196,7 +295,7 @@
 ## microsoft/markitdown
 
 > [!info]
-> ⭐ 87,770 · Python · 2026-02-20  
+> ⭐ 87,774 · Python · 2026-02-20  
 > [GitHub](https://github.com/microsoft/markitdown)  
 > `#文档转换` `#Markdown生成` `#LLM工具` `#多格式支持` `#autogen` `#autogen-extension` `#langchain` `#markdown` `#microsoft-office` `#openai` `#pdf` 
 > MarkItDown 是微软开发的轻量级 Python 工具，用于将 PDF、Office 文档、图片、音频、HTML 等多种文件转换为 Markdown 格式，专为 LLM 文本分析优化。支持保留标题、列表、表格等结构，提供 CLI 和编程接口，并集成 MCP 服务以实现与大模型应用的无缝对接。
@@ -275,7 +374,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 144,066 · Python · 2026-02-28  
+> ⭐ 144,067 · Python · 2026-02-28  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#开源推荐` `#入门项目` `#月刊` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub 是一个专注于分享 GitHub 上有趣、适合入门的开源项目的中文社区项目，每月28日发布月刊，涵盖开源项目、书籍、实战案例等，帮助开发者快速发现优质资源，激发对开源的兴趣与参与热情。
