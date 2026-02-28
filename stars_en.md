@@ -1,13 +1,11 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-02-28 01:25 UTC · Total: 27
+> Updated: 2026-02-28 01:43 UTC · Total: 25
 
 ---
 
 ## 📑 Index
 - [[#p-e-w/heretic|p-e-w/heretic]]
-- [[#iblogc/GithubStarsIndex|iblogc/GithubStarsIndex]]
-- [[#alumnium-hq/alumnium|alumnium-hq/alumnium]]
 - [[#affaan-m/everything-claude-code|affaan-m/everything-claude-code]]
 - [[#modelcontextprotocol/servers|modelcontextprotocol/servers]]
 - [[#oraios/serena|oraios/serena]]
@@ -40,35 +38,15 @@
 > [!info]
 > ⭐ 9,827 · Python · 2026-02-27  
 > [GitHub](https://github.com/p-e-w/heretic)  
-> `#Automated Abliteration` `#TPE Optimizer` `#Censorship Removal` `#KL Divergence Minimization` `#abliteration` `#llm` `#transformer` 
-> Heretic is a fully automated censorship removal tool for language models, combining directional abliteration with TPE-based parameter optimization via Optuna. By co-minimizing refusal rates and KL divergence, it automatically searches for high-quality abliteration parameters without human intervention, producing decensored models with significantly lower KL divergence than expert-created versions, preserving maximum original model capabilities.
+> `#Directional Ablation` `#LLM Decensoring` `#TPE Optimization` `#Abliteration` `#abliteration` `#llm` `#transformer` 
+> Heretic is a fully automatic censorship removal tool for language models. It combines directional ablation (abliteration) with TPE-based parameter optimization powered by Optuna, finding high-quality abliteration parameters by co-minimizing refusal count and KL divergence from the original model. This approach produces decensored models that retain the original model's capabilities without any human intervention.
 > <sub>Fully automatic censorship removal for language models</sub>
-
----
-## iblogc/GithubStarsIndex
-
-> [!info]
-> ⭐ 24 · Jinja · 2026-02-27  
-> [GitHub](https://github.com/iblogc/GithubStarsIndex) · [Website](https://iblogc.github.io/GithubStarsIndex/)  
-> `#GitHub Actions Automation` `#AI Summarization` `#Obsidian Sync` `#Static Site Generation` 
-> Automation tool that uses GitHub Actions to periodically fetch starred repositories and generate AI-powered summaries with tech tags. Supports concurrent processing, incremental updates, and JSON-based data persistence. Renders Markdown/HTML via Jinja2 templates, with optional Obsidian Vault sync or GitHub Pages deployment. Compatible with any OpenAI-format API.
-> <sub>自动抓取 GitHub Stars，生成 AI 摘要，便于检索。</sub>
-
----
-## alumnium-hq/alumnium
-
-> [!info]
-> ⭐ 549 · Python · 2026-02-27  
-> [GitHub](https://github.com/alumnium-hq/alumnium) · [Website](https://alumnium.ai)  
-> `#AI Test Automation` `#Natural Language Testing` `#Selenium` `#Test Framework` `#ai` `#appium` `#llm` `#playwright` `#python` `#selenium` `#test-automation` `#testing` `#typescript` 
-> Alumnium is an experimental AI-powered test automation framework providing higher-level abstraction over existing testing ecosystems. It simplifies application interactions through natural language, supporting Selenium, Playwright, and Appium. The do/check/get APIs enable users to describe test steps in plain language, significantly lowering the barrier to automated testing. Currently in early development stages.
-> <sub>Pave the way towards AI-powered test automation.</sub>
 
 ---
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 54,086 · JavaScript · 2026-02-27  
+> ⭐ 54,097 · JavaScript · 2026-02-27  
 > [GitHub](https://github.com/affaan-m/everything-claude-code)  
 > `#Claude Code` `#AI Agent Configuration` `#MCP` `#Continuous Learning` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > A battle-tested, production-ready collection of Claude Code configurations—including agents, skills, hooks, commands, rules, and MCPs—curated by an Anthropic hackathon winner, with 10+ months of real-world usage and continuous learning optimizations.
@@ -78,7 +56,7 @@
 ## modelcontextprotocol/servers
 
 > [!info]
-> ⭐ 79,625 · TypeScript · 2026-02-25  
+> ⭐ 79,626 · TypeScript · 2026-02-25  
 > [GitHub](https://github.com/modelcontextprotocol/servers) · [Website](https://modelcontextprotocol.io)  
 > `#Model Context Protocol` `#LLM Tool Integration` `#Reference Implementation` 
 > This repository hosts official reference implementations of Model Context Protocol (MCP) servers, showcasing secure, controlled access for LLMs to tools and data sources. It includes examples across multiple SDKs (Python, TypeScript, Go, etc.) and features like filesystem, Git, memory, and time operations, serving as educational resources for MCP server development.
@@ -128,7 +106,7 @@
 ## langgenius/dify
 
 > [!info]
-> ⭐ 130,606 · TypeScript · 2026-02-27  
+> ⭐ 130,607 · TypeScript · 2026-02-27  
 > [GitHub](https://github.com/langgenius/dify) · [Website](https://dify.ai)  
 > `#AI Workflow` `#Agent Development` `#LLM Integration` `#Self-hosted Platform` `#agent` `#agentic-ai` `#agentic-framework` `#agentic-workflow` `#ai` `#automation` `#gemini` `#genai` `#gpt` `#gpt-4` `#llm` `#low-code` `#mcp` `#nextjs` `#no-code` `#openai` `#orchestration` `#python` `#rag` `#workflow` 
 > Dify is a production-ready platform for building agentic workflows with visual orchestration, integrating LLMs and external tools. It offers both cloud and self-hosted deployment, ideal for applications like knowledge-based Q&A and AI podcast generation, with high scalability and enterprise-grade features.
@@ -148,7 +126,7 @@
 ## google-gemini/gemini-cli
 
 > [!info]
-> ⭐ 95,916 · TypeScript · 2026-02-28  
+> ⭐ 95,919 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/google-gemini/gemini-cli) · [Website](https://geminicli.com)  
 > `#Terminal AI Agent` `#Gemini Models` `#Model Context Protocol` `#Developer Tools` `#ai` `#ai-agents` `#cli` `#gemini` `#gemini-api` `#mcp-client` `#mcp-server` 
 > Gemini CLI is an open-source AI agent that brings Google's Gemini models directly into the terminal. It offers free-tier access (60 req/min), a 1M-token context window, built-in tools like Google Search and file operations, and extensibility via the Model Context Protocol (MCP), designed for developers who work primarily in the command line.
@@ -158,7 +136,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 22,306 · TypeScript · 2026-02-10  
+> ⭐ 22,309 · TypeScript · 2026-02-10  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#Prompt Optimization` `#Multi-Model Integration` `#AI Prompt Engineering` `#Image Generation` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer is an intelligent tool designed to enhance the quality of AI prompts. It supports multi-model integration (OpenAI, Gemini, DeepSeek, etc.), dual-mode optimization, real-time comparison testing, and image generation (T2I/I2I). Available as Web app, desktop app, Chrome extension, and Docker deployment, it ensures data security via client-side processing and is ideal for roleplay, knowledge extraction, and creative tasks.
@@ -168,7 +146,7 @@
 ## musistudio/claude-code-router
 
 > [!info]
-> ⭐ 28,556 · TypeScript · 2026-01-10  
+> ⭐ 28,561 · TypeScript · 2026-01-10  
 > [GitHub](https://github.com/musistudio/claude-code-router) · [Website](https://musistudio.github.io/claude-code-router/)  
 > `#AI Model Routing` `#Multi-Provider Integration` `#Claude Code Extension` 
 > This project builds coding infrastructure on top of Claude Code, enabling intelligent routing of requests to various AI models (e.g., DeepSeek, Gemini, Ollama), with multi-provider support, dynamic model switching, customizable request/response transformation, CLI management, and GitHub Actions integration for automated workflows.
@@ -188,7 +166,7 @@
 ## mihomo-party-org/clash-party
 
 > [!info]
-> ⭐ 21,099 · TypeScript · 2026-02-25  
+> ⭐ 21,100 · TypeScript · 2026-02-25  
 > [GitHub](https://github.com/mihomo-party-org/clash-party) · [Website](https://clashparty.org)  
 > `#Mihomo` `#Proxy Client` `#Electron` `#Clash Meta` `#clash` `#clash-meta` `#electron` `#mihomo` 
 > Clash Party is an Electron-based GUI client for Mihomo (Clash Meta), offering out-of-the-box proxy management. It features smart core switching, AI-powered node selection, multi-theme UI, WebDAV config sync, and deep Sub-Store integration, running without Tun mode for a streamlined experience.
@@ -198,7 +176,7 @@
 ## browser-use/browser-use
 
 > [!info]
-> ⭐ 79,157 · Python · 2026-02-27  
+> ⭐ 79,159 · Python · 2026-02-27  
 > [GitHub](https://github.com/browser-use/browser-use) · [Website](https://browser-use.com)  
 > `#AI Agent` `#Browser Automation` `#LLM Integration` `#Web Interaction` `#ai-agents` `#ai-tools` `#browser-automation` `#browser-use` `#llm` `#playwright` `#python` 
 > browser-use enables AI agents to interact with and automate tasks on websites using large language models (LLMs). It supports both local and cloud-based browser control, integrates with multiple LLM providers like Google and Anthropic, and offers stealth capabilities to evade anti-bot detection—ideal for web scraping, form automation, and data extraction.
@@ -218,7 +196,7 @@
 ## microsoft/markitdown
 
 > [!info]
-> ⭐ 87,767 · Python · 2026-02-20  
+> ⭐ 87,770 · Python · 2026-02-20  
 > [GitHub](https://github.com/microsoft/markitdown)  
 > `#Document Conversion` `#Markdown Generation` `#LLM Tool` `#Multi-format Support` `#autogen` `#autogen-extension` `#langchain` `#markdown` `#microsoft-office` `#openai` `#pdf` 
 > MarkItDown is a lightweight Python tool by Microsoft that converts diverse file types—including PDFs, Office docs, images, audio, and HTML—into Markdown, optimized for LLM text analysis. It preserves document structure like headings and tables, offers CLI and API access, and includes an MCP server for integration with LLM applications.
@@ -238,7 +216,7 @@
 ## infiniflow/ragflow
 
 > [!info]
-> ⭐ 73,868 · Python · 2026-02-27  
+> ⭐ 73,869 · Python · 2026-02-27  
 > [GitHub](https://github.com/infiniflow/ragflow) · [Website](https://ragflow.io)  
 > `#Retrieval-Augmented Generation` `#Agent` `#Large Language Models` `#Context Engine` `#agent` `#agentic` `#agentic-ai` `#agentic-workflow` `#ai` `#ai-search` `#context-engineering` `#context-retrieval` `#deep-research` `#deepseek` `#deepseek-r1` `#document-parser` `#document-understanding` `#graphrag` `#llm` `#mcp` `#ollama` `#openai` `#rag` `#retrieval-augmented-generation` 
 > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that integrates advanced RAG with Agent capabilities to deliver a superior context layer for LLMs. It enables scalable, enterprise-ready RAG workflows with pre-built agent templates, enhancing accuracy and controllability in LLM applications.
@@ -248,7 +226,7 @@
 ## opendatalab/MinerU
 
 > [!info]
-> ⭐ 55,126 · Python · 2026-02-27  
+> ⭐ 55,131 · Python · 2026-02-27  
 > [GitHub](https://github.com/opendatalab/MinerU) · [Website](https://opendatalab.github.io/MinerU/)  
 > `#PDF Parsing` `#Document Structuring` `#LLM Preprocessing` `#ai4science` `#document-analysis` `#extract-data` `#layout-analysis` `#ocr` `#parser` `#pdf` `#pdf-converter` `#pdf-extractor-llm` `#pdf-extractor-pretrain` `#pdf-extractor-rag` `#pdf-parser` `#python` 
 > MinerU is an open-source tool that intelligently converts complex PDFs into LLM-ready formats like Markdown and JSON, designed for agentic workflows. It extracts structured content such as tables, formulas, and images to enhance accuracy and efficiency in large language model processing.
@@ -297,7 +275,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 144,065 · Python · 2026-02-28  
+> ⭐ 144,066 · Python · 2026-02-28  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#Open Source Curation` `#Beginner Projects` `#Monthly Newsletter` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub is a Chinese community project that curates interesting and beginner-friendly open-source projects from GitHub. It publishes a monthly newsletter on the 28th, featuring projects, books, and practical examples to help developers discover quality resources and foster a love for open source.

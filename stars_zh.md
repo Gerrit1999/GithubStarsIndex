@@ -1,13 +1,11 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-02-28 01:25 UTC · Total: 27
+> Updated: 2026-02-28 01:43 UTC · Total: 25
 
 ---
 
 ## 📑 Index
 - [[#p-e-w/heretic|p-e-w/heretic]]
-- [[#iblogc/GithubStarsIndex|iblogc/GithubStarsIndex]]
-- [[#alumnium-hq/alumnium|alumnium-hq/alumnium]]
 - [[#affaan-m/everything-claude-code|affaan-m/everything-claude-code]]
 - [[#modelcontextprotocol/servers|modelcontextprotocol/servers]]
 - [[#oraios/serena|oraios/serena]]
@@ -40,35 +38,15 @@
 > [!info]
 > ⭐ 9,827 · Python · 2026-02-27  
 > [GitHub](https://github.com/p-e-w/heretic)  
-> `#自动化abliteration` `#TPE参数优化` `#审查移除` `#KL散度最小化` `#abliteration` `#llm` `#transformer` 
-> Heretic 是一款完全自动化的语言模型审查移除工具，融合了方向性消融（abliteration）技术与基于 Optuna 的 TPE 参数优化算法。该工具通过协同最小化拒绝率与 KL 散度，自动搜索高质量消融参数，在完全无需人工干预的情况下生成脱敏模型，其 KL 散度显著低于人工专家创建的版本，最大程度保留了原模型的能力。
+> `#方向性消融` `#大语言模型` `#自动脱敏` `#TPE优化` `#abliteration` `#llm` `#transformer` 
+> Heretic是一款完全自动化的语言模型审查移除工具。它结合方向性消融(abliteration)技术与Optuna的TPE参数优化,通过协同最小化拒绝次数和原始模型的KL散度来寻找高质量消融参数。该方法无需人工干预即可生成保持原模型能力的去审查模型,用户仅需运行命令行即可使用。
 > <sub>Fully automatic censorship removal for language models</sub>
-
----
-## iblogc/GithubStarsIndex
-
-> [!info]
-> ⭐ 24 · Jinja · 2026-02-27  
-> [GitHub](https://github.com/iblogc/GithubStarsIndex) · [Website](https://iblogc.github.io/GithubStarsIndex/)  
-> `#GitHub Actions 自动化` `#AI 摘要生成` `#Obsidian 同步` `#静态站点生成` 
-> 自动化工具，通过 GitHub Actions 定时抓取用户 Stars 的仓库，调用 AI 生成摘要和技术标签。支持并发处理、增量更新和数据持久化至 JSON。使用 Jinja2 模板生成 Markdown/HTML 静态页面，可选同步至 Obsidian Vault 或部署为 GitHub Pages 搜索站点。兼容任意 OpenAI 格式接口。
-> <sub>自动抓取 GitHub Stars，生成 AI 摘要，便于检索。</sub>
-
----
-## alumnium-hq/alumnium
-
-> [!info]
-> ⭐ 549 · Python · 2026-02-27  
-> [GitHub](https://github.com/alumnium-hq/alumnium) · [Website](https://alumnium.ai)  
-> `#AI测试自动化` `#自然语言测试` `#Selenium` `#测试框架` `#ai` `#appium` `#llm` `#playwright` `#python` `#selenium` `#test-automation` `#testing` `#typescript` 
-> Alumnium是一个实验性的AI驱动测试自动化框架,为现有测试生态提供高级抽象层。它通过自然语言交互简化应用操作,支持Selenium、Playwright和Appium。提供`do/check/get`等API,使用户能用自然语言描述测试步骤,降低自动化测试门槛。目前处于早期开发阶段。
-> <sub>Pave the way towards AI-powered test automation.</sub>
 
 ---
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 54,086 · JavaScript · 2026-02-27  
+> ⭐ 54,097 · JavaScript · 2026-02-27  
 > [GitHub](https://github.com/affaan-m/everything-claude-code)  
 > `#Claude Code` `#AI 代理配置` `#MCP` `#持续学习` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > 这是一个由 Anthropic 黑客马拉松获奖者整理的 Claude Code 完整配置集合，包含生产级代理、技能、钩子、命令、规则和 MCP 配置，经过 10 个月高强度实战验证，支持多语言与持续学习优化。
@@ -78,7 +56,7 @@
 ## modelcontextprotocol/servers
 
 > [!info]
-> ⭐ 79,625 · TypeScript · 2026-02-25  
+> ⭐ 79,626 · TypeScript · 2026-02-25  
 > [GitHub](https://github.com/modelcontextprotocol/servers) · [Website](https://modelcontextprotocol.io)  
 > `#Model Context Protocol` `#LLM 工具集成` `#参考实现` 
 > 该仓库是 Model Context Protocol (MCP) 的官方参考服务器集合，提供多种语言 SDK 实现示例，涵盖文件系统、Git、内存、时间等核心功能，用于演示 MCP 如何为 LLM 提供安全可控的工具与数据访问能力，适合开发者学习与二次开发。
@@ -128,7 +106,7 @@
 ## langgenius/dify
 
 > [!info]
-> ⭐ 130,606 · TypeScript · 2026-02-27  
+> ⭐ 130,607 · TypeScript · 2026-02-27  
 > [GitHub](https://github.com/langgenius/dify) · [Website](https://dify.ai)  
 > `#AI工作流` `#智能体开发` `#大模型集成` `#自托管平台` `#agent` `#agentic-ai` `#agentic-framework` `#agentic-workflow` `#ai` `#automation` `#gemini` `#genai` `#gpt` `#gpt-4` `#llm` `#low-code` `#mcp` `#nextjs` `#no-code` `#openai` `#orchestration` `#python` `#rag` `#workflow` 
 > Dify 是一个生产就绪的 AI 智能体工作流开发平台，支持可视化编排复杂任务流程，集成大模型与外部工具。提供云端服务与自托管方案，适用于构建知识库问答、AI 播客生成等场景，具备高扩展性与企业级部署能力。
@@ -148,7 +126,7 @@
 ## google-gemini/gemini-cli
 
 > [!info]
-> ⭐ 95,916 · TypeScript · 2026-02-28  
+> ⭐ 95,919 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/google-gemini/gemini-cli) · [Website](https://geminicli.com)  
 > `#终端AI助手` `#Gemini模型` `#MCP协议` `#开发者工具` `#ai` `#ai-agents` `#cli` `#gemini` `#gemini-api` `#mcp-client` `#mcp-server` 
 > Gemini CLI 是一个开源 AI 代理工具，将谷歌 Gemini 模型能力直接集成到终端中。支持免费调用（60次/分钟）、1M 上下文窗口、内置搜索与文件操作工具，并通过 MCP 协议实现可扩展集成，专为开发者打造终端优先的高效交互体验。
@@ -158,7 +136,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 22,306 · TypeScript · 2026-02-10  
+> ⭐ 22,309 · TypeScript · 2026-02-10  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#提示词优化` `#多模型集成` `#AI提示工程` `#图像生成` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer 是一款专注于提升AI提示词质量的智能优化工具，支持多模型集成（OpenAI、Gemini、DeepSeek等）、双模式优化、对比测试及图像生成功能。提供Web、桌面、Chrome插件和Docker四种部署方式，采用纯客户端架构保障数据安全，适用于角色扮演、知识图谱提取、创意写作等场景，助力开发者降本增效。
@@ -168,7 +146,7 @@
 ## musistudio/claude-code-router
 
 > [!info]
-> ⭐ 28,556 · TypeScript · 2026-01-10  
+> ⭐ 28,561 · TypeScript · 2026-01-10  
 > [GitHub](https://github.com/musistudio/claude-code-router) · [Website](https://musistudio.github.io/claude-code-router/)  
 > `#AI 模型路由` `#多供应商集成` `#Claude Code 扩展` 
 > 该项目基于 Claude Code 构建代码基础设施，支持将请求路由至不同 AI 模型（如 DeepSeek、Gemini、Ollama 等），提供多供应商支持、动态模型切换、请求/响应自定义转换及 CLI 管理功能，并可集成 GitHub Actions 实现自动化编码任务。
@@ -188,7 +166,7 @@
 ## mihomo-party-org/clash-party
 
 > [!info]
-> ⭐ 21,099 · TypeScript · 2026-02-25  
+> ⭐ 21,100 · TypeScript · 2026-02-25  
 > [GitHub](https://github.com/mihomo-party-org/clash-party) · [Website](https://clashparty.org)  
 > `#Mihomo` `#代理客户端` `#Electron` `#Clash Meta` `#clash` `#clash-meta` `#electron` `#mihomo` 
 > Clash Party 是一款基于 Electron 开发的 Mihomo（Clash Meta）图形界面客户端，提供开箱即用的代理管理体验。支持智能内核切换、AI 驱动节点优选、多主题 UI、WebDAV 配置同步及 Sub-Store 深度集成，无需 Tun 模式即可运行，适合追求高效稳定代理的用户。
@@ -198,7 +176,7 @@
 ## browser-use/browser-use
 
 > [!info]
-> ⭐ 79,157 · Python · 2026-02-27  
+> ⭐ 79,159 · Python · 2026-02-27  
 > [GitHub](https://github.com/browser-use/browser-use) · [Website](https://browser-use.com)  
 > `#AI代理` `#浏览器自动化` `#LLM集成` `#网页交互` `#ai-agents` `#ai-tools` `#browser-automation` `#browser-use` `#llm` `#playwright` `#python` 
 > browser-use 是一个让 AI 代理能够访问和操作网页的开源工具，支持通过大语言模型（LLM）自动化执行在线任务。它提供本地与云端浏览器控制能力，集成多种 LLM 接口（如 Google、Anthropic），适用于网页抓取、表单填写、信息提取等场景，具备 stealth 模式以绕过反爬机制。
@@ -218,7 +196,7 @@
 ## microsoft/markitdown
 
 > [!info]
-> ⭐ 87,767 · Python · 2026-02-20  
+> ⭐ 87,770 · Python · 2026-02-20  
 > [GitHub](https://github.com/microsoft/markitdown)  
 > `#文档转换` `#Markdown生成` `#LLM工具` `#多格式支持` `#autogen` `#autogen-extension` `#langchain` `#markdown` `#microsoft-office` `#openai` `#pdf` 
 > MarkItDown 是微软开发的轻量级 Python 工具，用于将 PDF、Office 文档、图片、音频、HTML 等多种文件转换为 Markdown 格式，专为 LLM 文本分析优化。支持保留标题、列表、表格等结构，提供 CLI 和编程接口，并集成 MCP 服务以实现与大模型应用的无缝对接。
@@ -238,7 +216,7 @@
 ## infiniflow/ragflow
 
 > [!info]
-> ⭐ 73,868 · Python · 2026-02-27  
+> ⭐ 73,869 · Python · 2026-02-27  
 > [GitHub](https://github.com/infiniflow/ragflow) · [Website](https://ragflow.io)  
 > `#检索增强生成` `#智能体` `#大语言模型` `#上下文引擎` `#agent` `#agentic` `#agentic-ai` `#agentic-workflow` `#ai` `#ai-search` `#context-engineering` `#context-retrieval` `#deep-research` `#deepseek` `#deepseek-r1` `#document-parser` `#document-understanding` `#graphrag` `#llm` `#mcp` `#ollama` `#openai` `#rag` `#retrieval-augmented-generation` 
 > RAGFlow 是一款领先的开源检索增强生成（RAG）引擎，融合先进 RAG 技术与智能体（Agent）能力，为大型语言模型构建高质量上下文层。支持企业级可扩展部署，提供端到端 RAG 工作流与预置智能体模板，显著提升 LLM 应用的准确性与可控性。
@@ -248,7 +226,7 @@
 ## opendatalab/MinerU
 
 > [!info]
-> ⭐ 55,126 · Python · 2026-02-27  
+> ⭐ 55,131 · Python · 2026-02-27  
 > [GitHub](https://github.com/opendatalab/MinerU) · [Website](https://opendatalab.github.io/MinerU/)  
 > `#PDF解析` `#文档结构化` `#大模型预处理` `#ai4science` `#document-analysis` `#extract-data` `#layout-analysis` `#ocr` `#parser` `#pdf` `#pdf-converter` `#pdf-extractor-llm` `#pdf-extractor-pretrain` `#pdf-extractor-rag` `#pdf-parser` `#python` 
 > MinerU 是一款将复杂 PDF 文档智能转换为 LLM 友好格式（Markdown/JSON）的开源工具，专为 Agentic 工作流设计，支持表格、公式、图片等结构化内容提取，提升大模型处理文档的准确性与效率。
@@ -297,7 +275,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 144,065 · Python · 2026-02-28  
+> ⭐ 144,066 · Python · 2026-02-28  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#开源推荐` `#入门项目` `#月刊` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub 是一个专注于分享 GitHub 上有趣、适合入门的开源项目的中文社区项目，每月28日发布月刊，涵盖开源项目、书籍、实战案例等，帮助开发者快速发现优质资源，激发对开源的兴趣与参与热情。
