@@ -647,7 +647,7 @@
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 68,067 · JavaScript · 2026-03-08  
+> ⭐ 68,073 · JavaScript · 2026-03-08  
 > [GitHub](https://github.com/affaan-m/everything-claude-code) · [Website](https://ecc.tools)  
 > `#Claude Code` `#AI 代理配置` `#MCP` `#持续学习` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > 这是一个由 Anthropic 黑客马拉松获奖者整理的 Claude Code 完整配置集合，包含生产级代理、技能、钩子、命令、规则和 MCP 配置，经过 10 个月高强度实战验证，支持多语言与持续学习优化。
@@ -766,7 +766,7 @@
 ## zai-org/Open-AutoGLM
 
 > [!info]
-> ⭐ 24,131 · Python · 2026-03-06  
+> ⭐ 24,132 · Python · 2026-03-06  
 > [GitHub](https://github.com/zai-org/Open-AutoGLM) · [Website](https://autoglm.z.ai/blog)  
 > `#手机AI代理` `#视觉语言模型` `#ADB自动化` `#多模态交互` `#agent` `#phone-use-agent` 
 > Open-AutoGLM是智谱AI开源的手机端智能助理框架，基于视觉语言模型实现多模态屏幕理解，通过ADB/HDC控制Android/HarmonyOS设备，支持自然语言指令完成自动操作如打开应用、搜索内容等，提供远程调试与敏感操作确认机制，适合手机自动化、UI测试和无障碍辅助场景。
@@ -1005,7 +1005,7 @@
 ## toeverything/AFFiNE
 
 > [!info]
-> ⭐ 65,388 · TypeScript · 2026-03-09  
+> ⭐ 65,392 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/toeverything/AFFiNE) · [Website](https://affine.pro)  
 > `#块编辑器` `#本地优先` `#知识管理` `#实时协作` `#app` `#crdt` `#editor` `#electron` `#knowledge-base` `#markdown` `#miro` `#notes` `#notion` `#notion-alternative` `#rust` `#rust-lang` `#rust-language` `#table` `#tableview` `#whiteboard` `#wiki` `#workspace` 
 > AFFiNE 是一款开源下一代知识管理平台，深度融合文档、白板与数据库功能。首创「块」式编辑器与无边画布，支持将富文本、便签、网页、数据库等多种内容块自由放置于画布上。采用本地优先架构确保数据自主可控，集成多模态 AI 辅助创作，支持实时协作与自托管部署，是 Notion 和 Miro 的隐私优先开源替代方案。
@@ -1534,7 +1534,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 23,533 · TypeScript · 2026-03-09  
+> ⭐ 23,534 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#提示词优化` `#多模型集成` `#AI提示工程` `#图像生成` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer 是一款专注于提升AI提示词质量的智能优化工具，支持多模型集成（OpenAI、Gemini、DeepSeek等）、双模式优化、对比测试及图像生成功能。提供Web、桌面、Chrome插件和Docker四种部署方式，采用纯客户端架构保障数据安全，适用于角色扮演、知识图谱提取、创意写作等场景，助力开发者降本增效。
@@ -1744,7 +1744,7 @@
 ## mihomo-party-org/clash-party
 
 > [!info]
-> ⭐ 21,447 · TypeScript · 2026-03-07  
+> ⭐ 21,449 · TypeScript · 2026-03-07  
 > [GitHub](https://github.com/mihomo-party-org/clash-party) · [Website](https://clashparty.org)  
 > `#Mihomo` `#代理客户端` `#Electron` `#Clash Meta` `#clash` `#clash-meta` `#electron` `#mihomo` 
 > Clash Party 是一款基于 Electron 开发的 Mihomo（Clash Meta）图形界面客户端，提供开箱即用的代理管理体验。支持智能内核切换、AI 驱动节点优选、多主题 UI、WebDAV 配置同步及 Sub-Store 深度集成，无需 Tun 模式即可运行，适合追求高效稳定代理的用户。
@@ -1794,7 +1794,7 @@
 ## sytone/obsidian-remote
 
 > [!info]
-> ⭐ 2,439 · Dockerfile · 2025-10-31  
+> ⭐ 2,440 · Dockerfile · 2025-10-31  
 > [GitHub](https://github.com/sytone/obsidian-remote)  
 > `#Docker 容器化` `#NoVNC 远程桌面` `#Obsidian 笔记` `#反向代理部署` `#obsidian-md` 
 > 通过 Docker 容器在浏览器中远程运行 Obsidian.md 的开源项目。提供 Web 界面访问本地笔记库，支持卷挂载配置存储、Git 插件集成、字体自定义及 Nginx 反向代理部署。适用于服务器远程办公、跨设备同步笔记等场景，基于 NoVNC 技术实现浏览器内完整桌面体验。
@@ -1854,7 +1854,7 @@
 ## microsoft/markitdown
 
 > [!info]
-> ⭐ 90,398 · Python · 2026-02-20  
+> ⭐ 90,399 · Python · 2026-02-20  
 > [GitHub](https://github.com/microsoft/markitdown)  
 > `#文档转换` `#Markdown生成` `#LLM工具` `#多格式支持` `#autogen` `#autogen-extension` `#langchain` `#markdown` `#microsoft-office` `#openai` `#pdf` 
 > MarkItDown 是微软开发的轻量级 Python 工具，用于将 PDF、Office 文档、图片、音频、HTML 等多种文件转换为 Markdown 格式，专为 LLM 文本分析优化。支持保留标题、列表、表格等结构，提供 CLI 和编程接口，并集成 MCP 服务以实现与大模型应用的无缝对接。
@@ -1864,7 +1864,7 @@
 ## ourongxing/newsnow
 
 > [!info]
-> ⭐ 18,455 · TypeScript · 2026-02-27  
+> ⭐ 18,456 · TypeScript · 2026-02-27  
 > [GitHub](https://github.com/ourongxing/newsnow) · [Website](https://newsnow.busiyi.world)  
 > `#新闻聚合` `#自适应爬取` `#OAuth登录` `#Cloudflare D1` `#elegant` `#news` 
 > 一款优雅的新闻阅读应用，实时聚合热门中文资讯。支持GitHub OAuth登录实现数据同步，采用自适应爬取策略（最低2分钟间隔）优化资源并防止IP封禁。内置30分钟缓存机制，登录用户可强制刷新。UI设计简洁美观，支持MCP服务器扩展，可部署至Vercel、Cloudflare Pages或Docker。
@@ -1904,7 +1904,7 @@
 ## nelvko/clash-for-linux-install
 
 > [!info]
-> ⭐ 9,900 · Shell · 2026-03-05  
+> ⭐ 9,899 · Shell · 2026-03-05  
 > [GitHub](https://github.com/nelvko/clash-for-linux-install)  
 > `#Linux代理` `#Clash内核` `#系统运维` `#Tun模式` `#clash` `#clash-meta` `#linux` `#mihomo` `#subconverter` 
 > 面向 Linux 的一键式 Clash/mihomo 代理安装工具，支持自动检测系统架构、端口冲突处理、内核升级及 Tun 模式，提供 clashctl 命令行管理界面和 Web 控制台，兼容主流发行版及容器化环境。
@@ -2602,7 +2602,7 @@
 ## Orange-OpenSource/hurl
 
 > [!info]
-> ⭐ 18,609 · Rust · 2026-03-09  
+> ⭐ 18,610 · Rust · 2026-03-09  
 > [GitHub](https://github.com/Orange-OpenSource/hurl) · [Website](https://hurl.dev)  
 > `#命令行HTTP工具` `#接口测试框架` `#纯文本请求定义` `#断言验证` `#api-testing` `#cli` `#curl` `#http` `#http-client` `#integration-testing` `#testing` `#testing-tools` 
 > Hurl是由Orange-OpenSource开发的命令行HTTP工具，使用纯文本格式定义和执行HTTP请求。它支持链式请求、变量捕获、XPath/JSONPath查询及多种断言，可测试REST、SOAP、GraphQL等接口，并提供性能测试和CI/CD集成报告功能。
@@ -3002,7 +3002,7 @@
 ## doocs/source-code-hunter
 
 > [!info]
-> ⭐ 23,122 · Java · 2026-01-09  
+> ⭐ 23,123 · Java · 2026-01-09  
 > [GitHub](https://github.com/doocs/source-code-hunter) · [Website](https://schunter.doocs.org)  
 > `#源码分析` `#Spring 框架` `#底层原理` `#Java 中间件` `#dubbo` `#mybatis` `#netty` `#redis` `#sourcecode-analysis` `#spring` 
 > 这是一个专注于互联网主流技术源码分析的深度学习项目，系统剖析 Spring 全家桶、MyBatis、Netty、Dubbo、Redis、Tomcat 等框架和中间件的底层实现原理，通过详尽的源码解读帮助开发者深入理解技术内核，提升技术深度与竞争力。
@@ -3901,7 +3901,7 @@
 ## krahets/hello-algo
 
 > [!info]
-> ⭐ 122,829 · Java · 2026-01-23  
+> ⭐ 122,830 · Java · 2026-01-23  
 > [GitHub](https://github.com/krahets/hello-algo) · [Website](https://www.hello-algo.com)  
 > `#数据结构与算法` `#动画图解` `#多语言编程` `#开源教程` `#algo` `#algorithm` `#algorithms` `#book` `#data-structure` `#data-structures` `#data-structures-and-algorithms` `#dsa` `#education` `#leetcode` `#programming` 
 > 《Hello 算法》是一部开源免费的数据结构与算法入门教程，采用动画图解方式讲解，代码支持Python、Java、C++、Go等13种编程语言，一键运行便于实践。提供简中、繁中、英、日四种语言版本，适合算法初学者入门学习。
@@ -4371,7 +4371,7 @@
 ## winsw/winsw
 
 > [!info]
-> ⭐ 13,732 · C# · 2026-03-09  
+> ⭐ 13,733 · C# · 2026-03-09  
 > [GitHub](https://github.com/winsw/winsw)  
 > `#Windows服务封装` `#.NET 7` `#服务管理工具` `#XML配置` `#csharp` `#dotnet` `#hacktoberfest` `#nuget` `#windows-service` `#windows-service-wrapper` 
 > WinSW是Windows服务封装工具，可将任意可执行程序安装为Windows服务并进行管理。支持.NET Framework 4.6.1+和.NET 7，提供原生64/32位可执行文件。通过XML配置文件定义服务，支持安装、启动、停止、重启、日志等完整服务管理功能，采用宽松许可证。
@@ -4771,7 +4771,7 @@
 ## qbittorrent/qBittorrent
 
 > [!info]
-> ⭐ 35,870 · C++ · 2026-03-08  
+> ⭐ 35,871 · C++ · 2026-03-08  
 > [GitHub](https://github.com/qbittorrent/qBittorrent) · [Website](https://www.qbittorrent.org)  
 > `#BitTorrent客户端` `#C++/Qt开发` `#P2P下载` `#libtorrent引擎` `#bittorrent` `#bittorrent-client` `#c-plus-plus` `#crossplatform` `#torrent` `#torrent-client` 
 > 基于C++/Qt开发的开源BitTorrent客户端，集成libtorrent核心引擎，提供跨平台支持、高速稳定下载及Unicode编码支持。内置搜索、RSS订阅、带宽控制等功能，是μTorrent的优质开源替代方案。
@@ -4970,7 +4970,7 @@
 ## lllyasviel/ControlNet
 
 > [!info]
-> ⭐ 33,703 · Python · 2024-02-25  
+> ⭐ 33,702 · Python · 2024-02-25  
 > [GitHub](https://github.com/lllyasviel/ControlNet)  
 > `#扩散模型控制` `#零卷积` `#条件图像生成` `#Stable Diffusion` 
 > ControlNet是文本到图像扩散模型的条件控制框架，通过复制网络块为「锁定」和「可训练」双副本实现精细控制。其核心创新「零卷积」技术使权重和偏置初始化为零，训练前不产生任何干扰，支持在小数据集甚至个人设备上微调。该架构可复用Stable Diffusion编码器作为强大骨干网络，实现边缘、姿态、深度等多种条件的图像生成控制，且显存需求与原SD相当。
@@ -5110,7 +5110,7 @@
 ## the1812/Bilibili-Evolved
 
 > [!info]
-> ⭐ 28,646 · TypeScript · 2026-03-03  
+> ⭐ 28,647 · TypeScript · 2026-03-03  
 > [GitHub](https://github.com/the1812/Bilibili-Evolved)  
 > `#用户脚本` `#哔哩哔哩增强` `#浏览器扩展` `#模块化架构` `#bilibili` `#tampermonkey` `#userscript` 
 > 基于Tampermonkey/Violentmonkey的哔哩哔哩网站增强用户脚本，采用模块化组件架构提供弹幕控制、视频下载、界面定制等扩展功能。内置设置面板支持组件热插拔，需手动添加功能模块，对性能有一定要求。
@@ -5468,7 +5468,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 145,338 · Python · 2026-02-28  
+> ⭐ 145,340 · Python · 2026-02-28  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#开源推荐` `#入门项目` `#月刊` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub 是一个专注于分享 GitHub 上有趣、适合入门的开源项目的中文社区项目，每月28日发布月刊，涵盖开源项目、书籍、实战案例等，帮助开发者快速发现优质资源，激发对开源的兴趣与参与热情。

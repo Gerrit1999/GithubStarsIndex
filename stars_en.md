@@ -647,7 +647,7 @@
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 68,067 · JavaScript · 2026-03-08  
+> ⭐ 68,073 · JavaScript · 2026-03-08  
 > [GitHub](https://github.com/affaan-m/everything-claude-code) · [Website](https://ecc.tools)  
 > `#Claude Code` `#AI Agent Configuration` `#MCP` `#Continuous Learning` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > A battle-tested, production-ready collection of Claude Code configurations—including agents, skills, hooks, commands, rules, and MCPs—curated by an Anthropic hackathon winner, with 10+ months of real-world usage and continuous learning optimizations.
@@ -766,7 +766,7 @@
 ## zai-org/Open-AutoGLM
 
 > [!info]
-> ⭐ 24,131 · Python · 2026-03-06  
+> ⭐ 24,132 · Python · 2026-03-06  
 > [GitHub](https://github.com/zai-org/Open-AutoGLM) · [Website](https://autoglm.z.ai/blog)  
 > `#Phone AI Agent` `#Vision-Language Model` `#ADB Automation` `#Multimodal Interaction` `#agent` `#phone-use-agent` 
 > Open-AutoGLM is an open-source phone agent framework by ZhipuAI, leveraging vision-language models for multimodal screen understanding. It controls Android/HarmonyOS devices via ADB/HDB, executing natural language commands to automate tasks like app opening and content search, with remote debugging and sensitive operation confirmation for automation, UI testing, and accessibility.
@@ -1005,7 +1005,7 @@
 ## toeverything/AFFiNE
 
 > [!info]
-> ⭐ 65,388 · TypeScript · 2026-03-09  
+> ⭐ 65,392 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/toeverything/AFFiNE) · [Website](https://affine.pro)  
 > `#Block Editor` `#Local-first` `#Knowledge Management` `#Real-time Collaboration` `#app` `#crdt` `#editor` `#electron` `#knowledge-base` `#markdown` `#miro` `#notes` `#notion` `#notion-alternative` `#rust` `#rust-lang` `#rust-language` `#table` `#tableview` `#whiteboard` `#wiki` `#workspace` 
 > AFFiNE is an open-source next-gen knowledge management platform that deeply integrates docs, whiteboard, and database into one workspace. It pioneered block-based editor with an edgeless canvas, allowing free placement of rich text, sticky notes, web pages, and databases. Featuring local-first architecture for data ownership, multimodal AI assistance, real-time collaboration, and self-hosting - a privacy-first open-source alternative to Notion and Miro.
@@ -1534,7 +1534,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 23,533 · TypeScript · 2026-03-09  
+> ⭐ 23,534 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#Prompt Optimization` `#Multi-Model Integration` `#AI Prompt Engineering` `#Image Generation` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer is an intelligent tool designed to enhance the quality of AI prompts. It supports multi-model integration (OpenAI, Gemini, DeepSeek, etc.), dual-mode optimization, real-time comparison testing, and image generation (T2I/I2I). Available as Web app, desktop app, Chrome extension, and Docker deployment, it ensures data security via client-side processing and is ideal for roleplay, knowledge extraction, and creative tasks.
@@ -1744,7 +1744,7 @@
 ## mihomo-party-org/clash-party
 
 > [!info]
-> ⭐ 21,447 · TypeScript · 2026-03-07  
+> ⭐ 21,449 · TypeScript · 2026-03-07  
 > [GitHub](https://github.com/mihomo-party-org/clash-party) · [Website](https://clashparty.org)  
 > `#Mihomo` `#Proxy Client` `#Electron` `#Clash Meta` `#clash` `#clash-meta` `#electron` `#mihomo` 
 > Clash Party is an Electron-based GUI client for Mihomo (Clash Meta), offering out-of-the-box proxy management. It features smart core switching, AI-powered node selection, multi-theme UI, WebDAV config sync, and deep Sub-Store integration, running without Tun mode for a streamlined experience.
@@ -1794,7 +1794,7 @@
 ## sytone/obsidian-remote
 
 > [!info]
-> ⭐ 2,439 · Dockerfile · 2025-10-31  
+> ⭐ 2,440 · Dockerfile · 2025-10-31  
 > [GitHub](https://github.com/sytone/obsidian-remote)  
 > `#Docker Containerization` `#NoVNC Remote Desktop` `#Obsidian Notes` `#Reverse Proxy` `#obsidian-md` 
 > An open-source project enabling remote Obsidian.md access via Docker containers through a web browser. Features vault mounting, Git plugin support, custom fonts, and Nginx reverse proxy deployment. Ideal for remote work and cross-device note synchronization, delivering a full desktop experience in browsers using NoVNC technology.
@@ -1854,7 +1854,7 @@
 ## microsoft/markitdown
 
 > [!info]
-> ⭐ 90,398 · Python · 2026-02-20  
+> ⭐ 90,399 · Python · 2026-02-20  
 > [GitHub](https://github.com/microsoft/markitdown)  
 > `#Document Conversion` `#Markdown Generation` `#LLM Tool` `#Multi-format Support` `#autogen` `#autogen-extension` `#langchain` `#markdown` `#microsoft-office` `#openai` `#pdf` 
 > MarkItDown is a lightweight Python tool by Microsoft that converts diverse file types—including PDFs, Office docs, images, audio, and HTML—into Markdown, optimized for LLM text analysis. It preserves document structure like headings and tables, offers CLI and API access, and includes an MCP server for integration with LLM applications.
@@ -1864,7 +1864,7 @@
 ## ourongxing/newsnow
 
 > [!info]
-> ⭐ 18,455 · TypeScript · 2026-02-27  
+> ⭐ 18,456 · TypeScript · 2026-02-27  
 > [GitHub](https://github.com/ourongxing/newsnow) · [Website](https://newsnow.busiyi.world)  
 > `#News Aggregation` `#Adaptive Scraping` `#OAuth Login` `#Cloudflare D1` `#elegant` `#news` 
 > An elegant news aggregation app delivering real-time trending Chinese news. Features GitHub OAuth login for data sync, adaptive scraping (minimum 2-minute intervals) to prevent IP bans, and 30-minute caching with force refresh for logged-in users. Clean UI design with MCP server support, deployable via Vercel, Cloudflare Pages, or Docker.
@@ -1904,7 +1904,7 @@
 ## nelvko/clash-for-linux-install
 
 > [!info]
-> ⭐ 9,900 · Shell · 2026-03-05  
+> ⭐ 9,899 · Shell · 2026-03-05  
 > [GitHub](https://github.com/nelvko/clash-for-linux-install)  
 > `#Linux Proxy` `#Clash Core` `#System Administration` `#Tun Mode` `#clash` `#clash-meta` `#linux` `#mihomo` `#subconverter` 
 > One-click Clash/mihomo proxy installer for Linux with automatic system architecture detection, port conflict resolution, kernel upgrades, and Tun mode support. Features clashctl CLI and Web UI, compatible with major distributions and containerized environments.
@@ -2602,7 +2602,7 @@
 ## Orange-OpenSource/hurl
 
 > [!info]
-> ⭐ 18,609 · Rust · 2026-03-09  
+> ⭐ 18,610 · Rust · 2026-03-09  
 > [GitHub](https://github.com/Orange-OpenSource/hurl) · [Website](https://hurl.dev)  
 > `#CLI HTTP Tool` `#API Testing Framework` `#Plain Text Requests` `#Assertion Validation` `#api-testing` `#cli` `#curl` `#http` `#http-client` `#integration-testing` `#testing` `#testing-tools` 
 > Hurl is a command-line HTTP tool that executes requests defined in plain text format. It supports chained requests, variable capture, XPath/JSONPath queries and various assertions for testing REST, SOAP, GraphQL APIs, with performance testing and CI/CD integration reports.
@@ -3002,7 +3002,7 @@
 ## doocs/source-code-hunter
 
 > [!info]
-> ⭐ 23,122 · Java · 2026-01-09  
+> ⭐ 23,123 · Java · 2026-01-09  
 > [GitHub](https://github.com/doocs/source-code-hunter) · [Website](https://schunter.doocs.org)  
 > `#Source Code Analysis` `#Spring Framework` `#Underlying Principles` `#Java Middleware` `#dubbo` `#mybatis` `#netty` `#redis` `#sourcecode-analysis` `#spring` 
 > This project provides in-depth source code analysis of mainstream internet technologies, systematically dissecting the underlying implementation principles of frameworks like Spring ecosystem, MyBatis, Netty, Dubbo, Redis, and Tomcat. It helps developers gain deeper technical insights and enhance their expertise through detailed source code interpretation.
@@ -3901,7 +3901,7 @@
 ## krahets/hello-algo
 
 > [!info]
-> ⭐ 122,829 · Java · 2026-01-23  
+> ⭐ 122,830 · Java · 2026-01-23  
 > [GitHub](https://github.com/krahets/hello-algo) · [Website](https://www.hello-algo.com)  
 > `#Data Structures & Algorithms` `#Animated Visualization` `#Multi-language Support` `#Open-source Tutorial` `#algo` `#algorithm` `#algorithms` `#book` `#data-structure` `#data-structures` `#data-structures-and-algorithms` `#dsa` `#education` `#leetcode` `#programming` 
 > Hello Algo is an open-source, free data structures and algorithms tutorial featuring animated illustrations with runnable code in 13 programming languages including Python, Java, C++, and Go. Available in Simplified/Traditional Chinese, English, and Japanese, it's ideal for beginners.
@@ -4371,7 +4371,7 @@
 ## winsw/winsw
 
 > [!info]
-> ⭐ 13,732 · C# · 2026-03-09  
+> ⭐ 13,733 · C# · 2026-03-09  
 > [GitHub](https://github.com/winsw/winsw)  
 > `#Windows Service Wrapper` `#.NET 7` `#Service Management` `#XML Configuration` `#csharp` `#dotnet` `#hacktoberfest` `#nuget` `#windows-service` `#windows-service-wrapper` 
 > WinSW wraps any executable as a Windows service with full lifecycle management. Supports .NET Framework 4.6.1+ and .NET 7, offering native 64/32-bit binaries. Uses XML configuration for service definition, enabling install, start, stop, restart and logging. Released under permissive license.
@@ -4771,7 +4771,7 @@
 ## qbittorrent/qBittorrent
 
 > [!info]
-> ⭐ 35,870 · C++ · 2026-03-08  
+> ⭐ 35,871 · C++ · 2026-03-08  
 > [GitHub](https://github.com/qbittorrent/qBittorrent) · [Website](https://www.qbittorrent.org)  
 > `#BitTorrent Client` `#C++/Qt` `#P2P Download` `#libtorrent` `#bittorrent` `#bittorrent-client` `#c-plus-plus` `#crossplatform` `#torrent` `#torrent-client` 
 > An open-source BitTorrent client built with C++/Qt, powered by the libtorrent engine. Cross-platform, fast and stable with Unicode support, featuring integrated search, RSS subscription, and bandwidth control. A solid open-source alternative to μTorrent.
@@ -4970,7 +4970,7 @@
 ## lllyasviel/ControlNet
 
 > [!info]
-> ⭐ 33,703 · Python · 2024-02-25  
+> ⭐ 33,702 · Python · 2024-02-25  
 > [GitHub](https://github.com/lllyasviel/ControlNet)  
 > `#Diffusion Model Control` `#Zero Convolution` `#Conditional Image Generation` `#Stable Diffusion` 
 > ControlNet is a conditional control framework for text-to-image diffusion models, implementing fine-grained control by duplicating network blocks into 'locked' and 'trainable' copies. Its core innovation 'zero convolution' initializes weights and biases to zero, causing no interference before training and enabling fine-tuning on small datasets or personal devices. This architecture reuses Stable Diffusion encoder as a robust backbone for multi-condition control including edge, pose, and depth, with memory usage comparable to original SD.
@@ -5110,7 +5110,7 @@
 ## the1812/Bilibili-Evolved
 
 > [!info]
-> ⭐ 28,646 · TypeScript · 2026-03-03  
+> ⭐ 28,647 · TypeScript · 2026-03-03  
 > [GitHub](https://github.com/the1812/Bilibili-Evolved)  
 > `#Userscript` `#Bilibili Enhancement` `#Browser Extension` `#Modular Architecture` `#bilibili` `#tampermonkey` `#userscript` 
 > A modular userscript enhancing Bilibili with features like danmaku control, video download, and UI customization. Runs on Tampermonkey/Violentmonkey with a settings panel for component management. Requires manual module installation and has moderate hardware demands.
@@ -5468,7 +5468,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 145,338 · Python · 2026-02-28  
+> ⭐ 145,340 · Python · 2026-02-28  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#Open Source Curation` `#Beginner Projects` `#Monthly Newsletter` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub is a Chinese community project that curates interesting and beginner-friendly open-source projects from GitHub. It publishes a monthly newsletter on the 28th, featuring projects, books, and practical examples to help developers discover quality resources and foster a love for open source.
