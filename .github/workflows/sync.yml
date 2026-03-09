@@ -41,6 +41,8 @@ jobs:
       # ── 1. 检出代码 ───────────────────────────────────────
       - name: Checkout 仓库
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       # ── 2. 设置 Python 环境 ───────────────────────────────
       - name: 设置 Python 3.11
@@ -53,14 +55,29 @@ jobs:
       - name: 安装依赖
         run: pip install -r requirements.txt
 
-      # ── 4. 可选：强制重置数据集 ──────────────────────
+      # ── 4. 从同步分支恢复增量数据 ──────────────────────
+      - name: 恢复增量数据集
+        env:
+          TARGET_SYNC_BRANCH: ${{ vars.SYNC_BRANCH || 'data-sync' }}
+        run: |
+          mkdir -p data
+          git fetch origin "${TARGET_SYNC_BRANCH}" --depth=1 || true
+
+          if git show "origin/${TARGET_SYNC_BRANCH}:data/stars.json" > data/stars.json 2>/dev/null; then
+            echo "✅ 已从 ${TARGET_SYNC_BRANCH} 恢复 data/stars.json"
+          else
+            echo "ℹ️ ${TARGET_SYNC_BRANCH} 上暂无 data/stars.json，本次将按首次同步处理"
+            rm -f data/stars.json
+          fi
+
+      # ── 5. 可选：强制重置数据集 ──────────────────────
       - name: 重置数据集（仅在 force_rebuild=true 时执行）
         if: github.event.inputs.force_rebuild == 'true'
         run: |
           echo "⚠️ 强制重建模式：删除现有数据"
           rm -rf data/stars.json
 
-      # ── 5. 执行同步脚本 ───────────────────────────────────
+      # ── 6. 执行同步脚本 ───────────────────────────────────
       - name: 同步 GitHub Stars
         env:
           # ── Secrets（机密，加密保存）──
@@ -81,9 +98,8 @@ jobs:
           PAGES_SYNC_ENABLED: ${{ vars.PAGES_SYNC_ENABLED }}
         run: python scripts/sync_stars.py
 
-      # ── 6. 提交变更到本仓库 ───────────────────────────────
+      # ── 7. 提交变更到同步分支 ───────────────────────────────
       - name: 提交并推送变更
-        if: github.ref == format('refs/heads/{0}', vars.SYNC_BRANCH || 'data-sync')
         env:
           TARGET_SYNC_BRANCH: ${{ vars.SYNC_BRANCH || 'data-sync' }}
         run: |
@@ -91,13 +107,14 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/stars.json
 
-          # 仅在目标同步分支有变化时提交并推送。
+          # 定时任务运行在默认分支，但增量状态保存在同步分支。
+          # 只要 data/stars.json 有变化，就提交当前工作树并推回目标同步分支。
           git diff --staged --quiet && echo "✅ 无新内容，跳过提交" || {
             git commit -m "🤖 自动更新 GitHub Stars 摘要 [$(date -u '+%Y-%m-%d %H:%M UTC')]"
             git push origin HEAD:${TARGET_SYNC_BRANCH} --force-with-lease
           }
 
-      # ── 7. 部署到 GitHub Pages ─────────────────────────────
+      # ── 8. 部署到 GitHub Pages ─────────────────────────────
       - name: 部署到 GitHub Pages
         if: vars.PAGES_SYNC_ENABLED == 'true'
         uses: JamesIves/github-pages-deploy-action@v4
