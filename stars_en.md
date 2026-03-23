@@ -524,7 +524,7 @@
 ## abhigyanpatwari/GitNexus
 
 > [!info]
-> ⭐ 18,598 · TypeScript · 2026-03-21  
+> ⭐ 18,817 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/abhigyanpatwari/GitNexus) · [Website](https://gitnexus.vercel.app)  
 > `#Knowledge Graph` `#Code Intelligence` `#Tree-sitter Parsing` `#Local AI` 
 > GitNexus is a zero-server code intelligence engine that transforms codebases into interactive knowledge graphs entirely in the browser. Features built-in Graph RAG Agent for dependency tracking and call chain analysis. Offers CLI+MCP and Web UI modes with fully local execution for privacy, ideal for AI agent context augmentation and code architecture understanding.
@@ -534,7 +534,7 @@
 ## J3n5en/EnsoAI
 
 > [!info]
-> ⭐ 816 · TypeScript · 2026-03-20  
+> ⭐ 818 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/J3n5en/EnsoAI) · [Website](https://enso.j3.do)  
 > `#Multi-Agent Orchestration` `#Git Worktree` `#AI Coding Assistant` `#Electron App` 
 > EnsoAI is a parallel AI agent orchestration tool built on Git Worktrees, enabling Claude, Codex, Gemini, Cursor and other AI models to work simultaneously across different workspaces without context switching. Features a visual, keyboard-driven Git interface for code review and commit management.
@@ -544,7 +544,7 @@
 ## BloopAI/vibe-kanban
 
 > [!info]
-> ⭐ 23,561 · Rust · 2026-03-20  
+> ⭐ 23,608 · Rust · 2026-03-20  
 > [GitHub](https://github.com/BloopAI/vibe-kanban) · [Website](https://www.vibekanban.com/)  
 > `#AI Coding Agents` `#Task Orchestration` `#Kanban Board` `#MCP Configuration` `#agent` `#ai-agents` `#kanban` `#management` `#task-manager` 
 > Vibe Kanban is a task orchestration and visual kanban board designed for AI coding agents like Claude Code, Codex, and Gemini CLI. It enables parallel/sequential agent execution, centralized MCP configuration, remote SSH project access, and quick dev server launches—boosting human-AI collaboration efficiency in software development.
@@ -554,7 +554,7 @@
 ## sjjian/openhare
 
 > [!info]
-> ⭐ 209 · Dart · 2026-03-21  
+> ⭐ 211 · Dart · 2026-03-22  
 > [GitHub](https://github.com/sjjian/openhare) · [Website](https://sjjian.github.io/openhare/)  
 > `#Flutter Desktop` `#SQL Client` `#AI-assisted Programming` `#Multi-database Support` `#ai` `#desktop` `#mssql` `#mysql` `#nl2sql` `#oracle` `#pg` `#query` `#sql` `#sql-client` `#sql-server` `#sqlagent` `#sqlite` 
 > An AI-powered, cross-platform desktop SQL client built with Flutter and Rust. Supports MySQL, PostgreSQL, SQL Server, SQLite, and Oracle databases. Features AI assistance for SQL writing, optimization, and understanding, with a modern intuitive UI for developers and DBAs.
@@ -564,7 +564,7 @@
 ## golutra/golutra
 
 > [!info]
-> ⭐ 1,953 · Rust · 2026-03-20  
+> ⭐ 1,994 · Rust · 2026-03-22  
 > [GitHub](https://github.com/golutra/golutra) · [Website](https://www.golutra.com)  
 > `#Multi-Agent Collaboration` `#AI CLI Orchestration` `#Tauri Desktop App` `#Rust + Vue3` 
 > golutra is a multi-agent collaboration desktop app that unifies existing AI CLIs (Claude, Codex, Qwen, etc.) into a single workflow. It enables parallel execution, automated orchestration, and real-time log monitoring without project migration, upgrading single-person development to team collaboration. Built with Vue 3 + Rust (Tauri) for Windows and macOS.
@@ -582,7 +582,7 @@
 ## p-e-w/heretic
 
 > [!info]
-> ⭐ 16,345 · Python · 2026-03-21  
+> ⭐ 16,447 · Python · 2026-03-21  
 > [GitHub](https://github.com/p-e-w/heretic)  
 > `#Directional Abliteration` `#Model Decensoring` `#LLM Alignment Removal` `#Automated Optimization` `#abliteration` `#llm` `#transformer` 
 > Heretic is a fully automatic censorship removal tool for language models using directional abliteration combined with Optuna TPE-based optimizer. It co-minimizes refusals and KL divergence to automatically find high-quality abliteration parameters without human intervention. On gemma-3-12b-it, it achieves 3/100 refusal rate with only 0.16 KL divergence, outperforming manual expert abliterations.
@@ -592,7 +592,7 @@
 ## iblogc/GithubStarsIndex
 
 > [!info]
-> ⭐ 72 · Jinja · 2026-03-21  
+> ⭐ 72 · Jinja · 2026-03-22  
 > [GitHub](https://github.com/iblogc/GithubStarsIndex) · [Website](https://stars.iblogc.com)  
 > `#AI Summarization` `#GitHub Automation` `#Knowledge Graph` `#Obsidian Integration` 
 > Automatically fetch GitHub Stars repositories and generate AI-powered bilingual summaries with tech tags. Supports concurrent AI processing for efficiency. Data stored in JSON enables二次开发, while Jinja2 templates render Markdown and HTML pages. Integrated with GitHub Actions scheduling, Obsidian Vault sync, and GitHub Pages deployment for personal tech knowledge management.
@@ -612,7 +612,7 @@
 ## zeroclaw-labs/zeroclaw
 
 > [!info]
-> ⭐ 28,288 · Rust · 2026-03-22  
+> ⭐ 28,410 · Rust · 2026-03-23  
 > [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [Website](https://www.zeroclawlabs.ai/)  
 > `#Rust Runtime` `#Edge AI` `#Autonomous Agents` `#Lightweight Infrastructure` `#agent` `#agentic` `#ai` `#infra` `#ml` `#openclaw` `#os` `#zeroclaw` 
 > ZeroClaw is a 100% Rust ultra-lightweight AI assistant runtime requiring <5MB RAM, featuring trait-driven architecture with fully swappable models, tools, memory, and execution layers for autonomous agentic workflows deployable anywhere.
@@ -622,7 +622,7 @@
 ## blessonism/openclaw-search-skills
 
 > [!info]
-> ⭐ 342 · Python · 2026-03-18  
+> ⭐ 351 · Python · 2026-03-18  
 > [GitHub](https://github.com/blessonism/openclaw-search-skills)  
 > `#Multi-source Parallel Search` `#Deep Chain Tracking` `#Content Extraction` `#OpenClaw Skills` 
 > OpenClaw skill set for deep GitHub project analysis. Features quad-source parallel search (Brave/Exa/Tavily/Grok) with intent-aware scoring and deduplication; deep chain tracking for structured extraction from GitHub Issues/PRs, Hacker News, Reddit, V2EX; intelligent URL-to-Markdown extraction with MinerU fallback for anti-crawl sites.
@@ -652,7 +652,7 @@
 ## Spute/obsidian-copy-to-mp
 
 > [!info]
-> ⭐ 116 · TypeScript · 2026-02-28  
+> ⭐ 117 · TypeScript · 2026-02-28  
 > [GitHub](https://github.com/Spute/obsidian-copy-to-mp)  
 > `#WeChat Official Account` `#Obsidian Plugin` `#HTML Conversion` `#Content Publishing` `#obsidian` `#obsidian-plugin` 
 > An Obsidian plugin that converts documents to WeChat Official Account clipboard-ready HTML format. Supports full Markdown content, local and network images with 18 built-in article layout styles. No external services or API keys required—just execute a command to copy and paste for publishing.
@@ -672,7 +672,7 @@
 ## via007/bilibili-rag
 
 > [!info]
-> ⭐ 879 · Python · 2026-03-19  
+> ⭐ 886 · Python · 2026-03-19  
 > [GitHub](https://github.com/via007/bilibili-rag)  
 > `#RAG Knowledge Base` `#ASR Transcription` `#Vector Search` `#ChromaDB` `#Bilibili Content Processing` `#rag-bilibili-knowledge-base-llm-chroma-qwen` 
 > Transform Bilibili favorites into conversable knowledge bases. Convert audio/video to text via ASR, use ChromaDB vector search with LLM for RAG-powered Q&A. Supports login, auto-download, transcription, and semantic search—ideal for organizing interviews, lectures, and long-form educational videos.
@@ -692,7 +692,7 @@
 ## mindfold-ai/Trellis
 
 > [!info]
-> ⭐ 3,931 · Python · 2026-03-21  
+> ⭐ 3,989 · Python · 2026-03-22  
 > [GitHub](https://github.com/mindfold-ai/Trellis) · [Website](https://docs.trytrellis.app)  
 > `#Multi-Agent Framework` `#AI Coding Tools` `#Workspace Isolation` `#Team Collaboration` `#ai-agent` `#ai-coding` `#claude-code` `#cli` `#codex` `#cursor` `#developer-tools` `#typescript` `#workflow` 
 > Trellis is an all-in-one framework for AI coding tools, supporting Claude Code, Cursor, Gemini CLI and more. It solves core development challenges through auto-injected specs, parallel sessions, team sync, and session persistence—eliminating context loss, enabling efficient teamwork, and establishing unified coding standards across development teams.
@@ -702,7 +702,7 @@
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 94,319 · JavaScript · 2026-03-22  
+> ⭐ 98,103 · JavaScript · 2026-03-22  
 > [GitHub](https://github.com/affaan-m/everything-claude-code) · [Website](https://ecc.tools)  
 > `#Claude Code` `#AI Agent Configuration` `#MCP` `#Continuous Learning` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > A battle-tested, production-ready collection of Claude Code configurations—including agents, skills, hooks, commands, rules, and MCPs—curated by an Anthropic hackathon winner, with 10+ months of real-world usage and continuous learning optimizations.
@@ -712,7 +712,7 @@
 ## Alishahryar1/free-claude-code
 
 > [!info]
-> ⭐ 1,076 · Python · 2026-03-15  
+> ⭐ 1,088 · Python · 2026-03-15  
 > [GitHub](https://github.com/Alishahryar1/free-claude-code)  
 > `#API Proxy` `#Claude Code` `#NVIDIA NIM` `#LLM Gateway` 
 > A lightweight proxy server that translates Claude Code's Anthropic API calls into NVIDIA NIM, OpenRouter, or LM Studio formats. Just set 2 env vars to use Claude Code CLI and VSCode extension for free—40 req/min on NVIDIA NIM, hundreds of models on OpenRouter, or fully local with LM Studio. Features thinking token parsing, heuristic tool parser, request optimization, Discord bot, and smart rate limiting.
@@ -732,7 +732,7 @@
 ## hechtcarmel/jetbrains-debugger-mcp-plugin
 
 > [!info]
-> ⭐ 41 · Kotlin · 2026-03-14  
+> ⭐ 42 · Kotlin · 2026-03-14  
 > [GitHub](https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin)  
 > `#MCP Protocol` `#JetBrains Plugin` `#AI Debugging Assistant` `#Programmatic Debugger` 
 > A JetBrains IDE plugin exposing an MCP server that grants AI coding assistants full programmatic control over the debugger. Features 22 tools including breakpoints, conditional breakpoints, step execution, variable inspection/modification, expression evaluation, and stack trace navigation across major IDEs like IntelliJ IDEA, PyCharm, and WebStorm.
@@ -751,7 +751,7 @@
 ## charmbracelet/glow
 
 > [!info]
-> ⭐ 23,860 · Go · 2026-03-16  
+> ⭐ 23,878 · Go · 2026-03-16  
 > [GitHub](https://github.com/charmbracelet/glow)  
 > `#Terminal UI` `#Markdown Rendering` `#Go` `#CLI Tool` `#cli` `#excitement` `#hacktoberfest` `#markdown` 
 > Glow is a Go-based terminal Markdown reader with a beautiful TUI. It automatically discovers Markdown files in the current directory or Git repositories, supports fetching from local files, stdin, and GitHub/GitLab URLs, with high-performance paging.
@@ -771,7 +771,7 @@
 ## Turbo1123/roubao
 
 > [!info]
-> ⭐ 1,975 · Kotlin · 2026-01-08  
+> ⭐ 1,983 · Kotlin · 2026-01-08  
 > [GitHub](https://github.com/Turbo1123/roubao)  
 > `#Vision-Language Models` `#Android Automation` `#Shizuku` `#Multi-Agent System` `#ai` `#ai-agents` `#android` `#android-automation` `#kotlin` `#mobile-agents` `#mobileagent` `#phone-automation` 
 > Roubao is the first open-source AI phone automation assistant running entirely on Android without a computer. Built with native Kotlin and Vision-Language Models (VLM), it uses Shizuku for system-level permissions to perform screenshot capture, analysis, and execution locally. Features a Tools/Skills dual-layer Agent architecture enabling natural language control for complex tasks like food delivery and navigation.
@@ -781,7 +781,7 @@
 ## PDFCraftTool/pdfcraft
 
 > [!info]
-> ⭐ 3,547 · JavaScript · 2026-03-15  
+> ⭐ 3,552 · JavaScript · 2026-03-15  
 > [GitHub](https://github.com/PDFCraftTool/pdfcraft) · [Website](https://pdfcraft.devtoolcafe.com)  
 > `#WebAssembly` `#PDF Toolkit` `#Client-side Processing` `#Privacy-First` 
 > PDFCraft is a privacy-first browser-based PDF toolkit offering 90+ professional tools for editing, converting, merging, splitting, compressing, and securing documents. Powered by WebAssembly, all processing happens client-side with zero server uploads, ensuring complete data security. Features a visual workflow editor for drag-and-drop automated processing pipelines.
@@ -801,7 +801,7 @@
 ## Luokavin/AutoGLM-For-Android
 
 > [!info]
-> ⭐ 593 · Kotlin · 2026-01-15  
+> ⭐ 595 · Kotlin · 2026-01-15  
 > [GitHub](https://github.com/Luokavin/AutoGLM-For-Android)  
 > `#Android Automation` `#Shizuku Permission` `#AI Task Planning` `#Screen Visual Understanding` 
 > Android native implementation of Open-AutoGLM that transforms PC-based phone automation into a standalone mobile app. Uses Shizuku for system permissions, enabling AI-powered task planning and execution through natural language input. Features screen capture visual analysis, operation command output, and real-time progress display via floating window. Offers native Material Design UI with OpenAI-compatible vision model API support.
@@ -811,7 +811,7 @@
 ## suyiiyii/AutoGLM-GUI
 
 > [!info]
-> ⭐ 937 · Python · 2026-03-21  
+> ⭐ 937 · Python · 2026-03-22  
 > [GitHub](https://github.com/suyiiyii/AutoGLM-GUI) · [Website](https://autoglm-gui.vercel.app)  
 > `#Android Automation` `#AI-driven` `#ADB Control` `#Scheduled Tasks` 
 > AutoGLM-GUI is an AI-powered Android automation tool with a modern web GUI for device control via ADB and scrcpy. It supports scheduled tasks and Docker deployment for 24/7 automation, featuring a layered agent architecture combining decision and vision models. Supports multi-device management, MCP protocol integration, and zero-config emulator connectivity.
@@ -821,7 +821,7 @@
 ## zai-org/Open-AutoGLM
 
 > [!info]
-> ⭐ 24,476 · Python · 2026-03-06  
+> ⭐ 24,498 · Python · 2026-03-06  
 > [GitHub](https://github.com/zai-org/Open-AutoGLM) · [Website](https://autoglm.z.ai/blog)  
 > `#Phone AI Agent` `#Vision-Language Model` `#ADB Automation` `#Multimodal Interaction` `#agent` `#phone-use-agent` 
 > Open-AutoGLM is an open-source phone agent framework by ZhipuAI, leveraging vision-language models for multimodal screen understanding. It controls Android/HarmonyOS devices via ADB/HDB, executing natural language commands to automate tasks like app opening and content search, with remote debugging and sensitive operation confirmation for automation, UI testing, and accessibility.
@@ -831,7 +831,7 @@
 ## burugo/one-mcp
 
 > [!info]
-> ⭐ 367 · Go · 2026-03-18  
+> ⭐ 368 · Go · 2026-03-18  
 > [GitHub](https://github.com/burugo/one-mcp) · [Website](https://demo.one-mcp.com)  
 > `#MCP Service Management` `#Reverse Proxy` `#Service Grouping` `#Anthropic Skills` `#ai-agent` `#mcp` `#mcp-convert-to-skill` `#mcp-manager` `#mcp-proxy` `#modelcontextprotocol` 
 > One MCP is a centralized reverse-proxy platform for Model Context Protocol services. It enables installing, configuring, and monitoring MCP servers (stdio/SSE/streamable HTTP), grouping multiple services, and exporting as Anthropic Skills for Claude Code. Features real-time analytics, OAuth login (GitHub/Google), RBAC, built with Go + React, Docker-ready.
@@ -841,7 +841,7 @@
 ## numman-ali/openskills
 
 > [!info]
-> ⭐ 9,153 · TypeScript · 2026-01-18  
+> ⭐ 9,173 · TypeScript · 2026-01-18  
 > [GitHub](https://github.com/numman-ali/openskills)  
 > `#CLI Tool` `#AI Coding Agents` `#Skills System` `#AGENTS.md` 
 > OpenSkills universalizes Claude Code's skill system for every AI coding agent by generating compatible `<available_skills>` XML. It enables cross-platform support for Cursor, Windsurf, Aider, Codex and other agents, with skills installable from Anthropic marketplace, GitHub repos, or local paths. Progressive disclosure loads skills on-demand to maintain clean context.
@@ -861,7 +861,7 @@
 ## jacob-bd/notebooklm-mcp-cli
 
 > [!info]
-> ⭐ 2,781 · Python · 2026-03-19  
+> ⭐ 2,833 · Python · 2026-03-22  
 > [GitHub](https://github.com/jacob-bd/notebooklm-mcp-cli)  
 > `#Python` `#MCP Protocol` `#NotebookLM API` `#AI Workflow Automation` 
 > Programmatic access to Google NotebookLM via CLI and MCP server. Supports notebook management, source addition, AI querying, and audio/video generation. Seamlessly integrates with AI assistants like Claude and Cursor for natural language workflow automation.
@@ -870,7 +870,7 @@
 ## vicanso/zedis
 
 > [!info]
-> ⭐ 1,772 · Rust · 2026-03-21  
+> ⭐ 1,775 · Rust · 2026-03-22  
 > [GitHub](https://github.com/vicanso/zedis)  
 > `#Rust + GPUI` `#Redis GUI` `#GPU Rendering` `#Virtual Scrolling` `#gpui` `#redis` `#redis-client` 
 > Zedis is a blazing-fast Redis GUI client built with Rust and GPUI, delivering native 60 FPS experience with minimal memory footprint. It features GPU-accelerated rendering, virtual scrolling for 100k+ keys, and smart data viewers supporting JSON/Protobuf/MessagePack deserialization and image preview. Enterprise features include namespace tree grouping, SSH tunneling, TLS encryption, and read-only mode for production safety.
@@ -890,7 +890,7 @@
 ## flingjie/InvestAI
 
 > [!info]
-> ⭐ 149 · Python · 2026-01-21  
+> ⭐ 151 · Python · 2026-01-21  
 > [GitHub](https://github.com/flingjie/InvestAI)  
 > `#AI Investment Assistant` `#Rule-Based Trading` `#Explainable AI` `#Trend Monitoring` 
 > InvestAI is an AI-powered investment monitoring assistant that continuously analyzes stocks based on predefined trading rules (e.g., Turtle Trading Rules), identifying buy signals, risk triggers, and trend structure changes. It doesn't predict prices or execute trades—instead, it presents explainable rule-based analysis to help investors stay rational and maintain disciplined decision-making.
@@ -910,7 +910,7 @@
 ## wailsapp/wails
 
 > [!info]
-> ⭐ 33,357 · Go · 2026-03-22  
+> ⭐ 33,366 · Go · 2026-03-22  
 > [GitHub](https://github.com/wailsapp/wails) · [Website](https://wails.io)  
 > `#Go Desktop App` `#Cross-platform Framework` `#Native Rendering` `#Web Frontend Integration` `#angular` `#desktop-application` `#go` `#golang` `#javascript` `#linux` `#macos` `#react` `#svelte` `#vuejs` `#windows` 
 > Wails is a framework for building desktop applications using Go and web technologies. It packages Go code with frontend into a single executable, using native rendering engines instead of embedded browsers. Supports Go-JavaScript interop, auto-generated TypeScript definitions, native dialogs/menus, dark mode, and frosted glass effects, with a powerful CLI for rapid project generation and building.
@@ -920,7 +920,7 @@
 ## pressly/goose
 
 > [!info]
-> ⭐ 10,342 · Go · 2026-03-21  
+> ⭐ 10,347 · Go · 2026-03-22  
 > [GitHub](https://github.com/pressly/goose) · [Website](http://pressly.github.io/goose/)  
 > `#Database Migration` `#Go Language` `#Multi-Database` `#SQL Migration` `#database` `#database-migrations` `#go` `#golang` `#migration` `#migrations` `#mysql` `#postgres` `#postgresql` `#schema` `#sql` `#sqlite` 
 > Goose is a database migration tool written in Go, available as both CLI and library. It supports SQL and Go function migrations across 10+ databases including Postgres, MySQL, SQLite, and ClickHouse. Features include embedded migrations, out-of-order execution, environment variable substitution, and data seeding capabilities.
@@ -930,7 +930,7 @@
 ## GoogleContainerTools/jib
 
 > [!info]
-> ⭐ 14,357 · Java · 2026-02-18  
+> ⭐ 14,358 · Java · 2026-02-18  
 > [GitHub](https://github.com/GoogleContainerTools/jib)  
 > `#Daemonless Build` `#Java Containerization` `#Maven Plugin` `#Gradle Plugin` `#containers` `#docker` `#docker-registry` `#gradle` `#gradle-plugin` `#java` `#jib` `#kubernetes` `#maven` `#maven-plugin` `#microservices` `#oci` 
 > Jib is Google's Java container image builder that creates optimized Docker and OCI images without a Docker daemon. Available as Maven/Gradle plugins, it separates dependencies from application code, enabling reproducible builds and significantly faster deployment.
@@ -950,7 +950,7 @@
 ## WCY-dt/MrRSS
 
 > [!info]
-> ⭐ 1,956 · Go · 2026-03-21  
+> ⭐ 1,968 · Go · 2026-03-22  
 > [GitHub](https://github.com/WCY-dt/MrRSS) · [Website](https://mrrss.ch3nyang.top/)  
 > `#AI RSS Reader` `#Wails Desktop App` `#Go Vue3 Stack` `#Cross-platform Tool` `#ai` `#atom` `#feed-reader` `#feeds` `#rss` `#rss-reader` 
 > MrRSS is a cross-platform AI-enhanced RSS reader built with Wails, Vue.js, and Go. It features automatic translation, AI-powered summarization, a plugin ecosystem integrating with Obsidian/Notion/FreshRSS, and supports XPath subscriptions with script-based automation workflows.
@@ -960,7 +960,7 @@
 ## HeyPuter/puter
 
 > [!info]
-> ⭐ 40,007 · JavaScript · 2026-03-21  
+> ⭐ 40,023 · JavaScript · 2026-03-22  
 > [GitHub](https://github.com/HeyPuter/puter) · [Website](https://puter.com)  
 > `#Internet OS` `#Personal Cloud Storage` `#Self-Hosted Cloud` `#Node.js Platform` `#cloud` `#cloud-os` `#cloud-storage` `#desktop` `#desktop-environment` `#dropbox` `#good-first-issue` `#gui` `#javascript` `#nas` `#open-source` `#operating-system` `#os` `#osjs` `#puter` `#remote-desktop` `#storage` `#web-desktop` `#web-os` `#webtop` 
 > Puter is a feature-rich, highly extensible open-source Internet OS serving as a privacy-first personal cloud with integrated file management, app store, and gaming platform. It functions as a self-hostable alternative to Dropbox and Google Drive, supporting Docker deployment and offering remote desktop capabilities for building and publishing web applications.
@@ -980,7 +980,7 @@
 ## GuDaStudio/codexmcp
 
 > [!info]
-> ⭐ 1,776 · Python · 2026-01-13  
+> ⭐ 1,783 · Python · 2026-01-13  
 > [GitHub](https://github.com/GuDaStudio/codexmcp) · [Website](https://code.guda.studio)  
 > `#MCP Protocol` `#Multi-Agent Collaboration` `#AI Coding Assistant` `#Session Persistence` `#codex` `#codex-mcp` `#codexmcp` 
 > CodexMCP is an MCP-based collaboration framework linking Claude Code with Codex for unified architecture design and code generation. It offers enterprise features including session persistence, parallel execution, and reasoning tracking, adding multi-turn dialogue and error handling over the official version to dramatically improve development efficiency.
@@ -990,7 +990,7 @@
 ## 1mcp-app/agent
 
 > [!info]
-> ⭐ 402 · TypeScript · 2026-03-16  
+> ⭐ 402 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/1mcp-app/agent) · [Website](https://docs.1mcp.app)  
 > `#MCP Aggregation` `#OAuth 2.1` `#AI Assistant Integration` `#Server Aggregation` `#mcp` `#mcp-client` `#mcp-gateway` `#mcp-proxy` `#mcp-server` `#unified-mcp-server` 
 > 1MCP is a unified Model Context Protocol server that aggregates multiple MCP servers into a single endpoint. It features OAuth 2.1 authentication, stdio transport isolation, input sanitization, and audit logging. With high-performance request forwarding and hot-reload configuration, it simplifies integration with AI clients like Claude Desktop, Cursor, and VSCode through built-in health monitoring.
@@ -1010,7 +1010,7 @@
 ## modelcontextprotocol/servers
 
 > [!info]
-> ⭐ 81,714 · TypeScript · 2026-03-17  
+> ⭐ 81,807 · TypeScript · 2026-03-17  
 > [GitHub](https://github.com/modelcontextprotocol/servers) · [Website](https://modelcontextprotocol.io)  
 > `#Model Context Protocol` `#LLM Tool Integration` `#Reference Implementation` 
 > This repository hosts official reference implementations of Model Context Protocol (MCP) servers, showcasing secure, controlled access for LLMs to tools and data sources. It includes examples across multiple SDKs (Python, TypeScript, Go, etc.) and features like filesystem, Git, memory, and time operations, serving as educational resources for MCP server development.
@@ -1030,7 +1030,7 @@
 ## oraios/serena
 
 > [!info]
-> ⭐ 21,877 · Python · 2026-03-21  
+> ⭐ 21,927 · Python · 2026-03-22  
 > [GitHub](https://github.com/oraios/serena) · [Website](https://oraios.github.io/serena)  
 > `#Semantic Code Retrieval` `#Model Context Protocol` `#LLM Coding Agent` `#Symbol-level Editing` `#agent` `#ai` `#ai-coding` `#claude` `#claude-code` `#language-server` `#llms` `#mcp-server` `#programming` `#vibe-coding` 
 > Serena is a powerful open-source coding agent toolkit that enables LLMs to act as full-featured agents operating directly on codebases. It provides semantic code retrieval and editing tools—such as symbol-based查找 and relational-aware modifications—via MCP server integration, boosting efficiency and accuracy in large-scale development workflows across IDEs and LLM clients.
@@ -1040,7 +1040,7 @@
 ## xiaoyaocz/dart_simple_live
 
 > [!info]
-> ⭐ 15,243 · Dart · 2026-01-23  
+> ⭐ 15,255 · Dart · 2026-01-23  
 > [GitHub](https://github.com/xiaoyaocz/dart_simple_live)  
 > `#Flutter` `#Live Streaming Aggregation` `#Danmaku System` `#Cross-platform App` 
 > A cross-platform live streaming aggregator built with Flutter, supporting Huya, Douyu, Bilibili, and Douyin. It provides stream URL fetching and real-time danmaku (bullet comments). The project features a modular architecture with core library, console program, app client, and TV client, supporting Android, iOS, Windows, MacOS, Linux, and Android TV.
@@ -1060,7 +1060,7 @@
 ## toeverything/AFFiNE
 
 > [!info]
-> ⭐ 66,413 · TypeScript · 2026-03-22  
+> ⭐ 66,468 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/toeverything/AFFiNE) · [Website](https://affine.pro)  
 > `#Block Editor` `#Local-first` `#Knowledge Management` `#Real-time Collaboration` `#app` `#crdt` `#editor` `#electron` `#knowledge-base` `#markdown` `#miro` `#notes` `#notion` `#notion-alternative` `#rust` `#rust-lang` `#rust-language` `#table` `#tableview` `#whiteboard` `#wiki` `#workspace` 
 > AFFiNE is an open-source next-gen knowledge management platform that deeply integrates docs, whiteboard, and database into one workspace. It pioneered block-based editor with an edgeless canvas, allowing free placement of rich text, sticky notes, web pages, and databases. Featuring local-first architecture for data ownership, multimodal AI assistance, real-time collaboration, and self-hosting - a privacy-first open-source alternative to Notion and Miro.
@@ -1080,7 +1080,7 @@
 ## mochi-mqtt/server
 
 > [!info]
-> ⭐ 1,819 · Go · 2025-04-16  
+> ⭐ 1,820 · Go · 2025-04-16  
 > [GitHub](https://github.com/mochi-mqtt/server)  
 > `#MQTT v5` `#Go` `#IoT` `#Message Broker` `#golang` `#golang-library` `#golang-package` `#iot` `#mqtt` `#mqtt-broker` `#mqtt-server` `#mqtt-smarthome` `#mqtt3` `#mqtt5` `#mqttv5` `#tcp` `#websocket` 
 > Mochi-MQTT is a fully compliant, embeddable high-performance Go MQTT v5 broker with v3.1.1 compatibility. Features TCP/WebSocket with SSL/TLS, built-in Redis/Badger/Pebble/Bolt persistence, flexible Hook extension system, and rule-based auth ACL. Supports QoS0/1/2, shared subscriptions, topic aliases, and message expiry. Ideal for IoT, smart home and pub/sub applications.
@@ -1090,7 +1090,7 @@
 ## pages-cms/pages-cms
 
 > [!info]
-> ⭐ 3,513 · TypeScript · 2026-03-21  
+> ⭐ 3,516 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/pages-cms/pages-cms) · [Website](https://pagescms.org)  
 > `#Static Site Generator` `#GitHub CMS` `#Headless CMS` `#Next.js` `#11ty` `#astro` `#cms` `#docusaurus` `#eleventy` `#gatsby` `#hugo` `#jekyll` `#nextjs` `#ssg` `#static-site` `#static-site-generator` `#vitepress` `#vue` `#vuejs` `#vuejs3` `#vuepress` 
 > Open-source GitHub-integrated CMS designed for static site generators. Provides visual interface to edit content for Jekyll, Next.js, VuePress, Hugo projects directly on GitHub, supports self-hosting or Vercel deployment with OAuth and Webhook sync.
@@ -1110,7 +1110,7 @@
 ## open-telemetry/opentelemetry-java-instrumentation
 
 > [!info]
-> ⭐ 2,484 · Java · 2026-03-22  
+> ⭐ 2,485 · Java · 2026-03-23  
 > [GitHub](https://github.com/open-telemetry/opentelemetry-java-instrumentation) · [Website](https://opentelemetry.io)  
 > `#Java Agent` `#Bytecode Instrumentation` `#Auto-Observability` `#Distributed Tracing` 
 > OpenTelemetry Java Instrumentation provides auto-instrumentation for Java 8+ applications via Java Agent technology that dynamically injects bytecode to capture telemetry data (traces, metrics, logs) from popular libraries and frameworks without code changes. Supports multiple export formats and flexible configuration for observability.
@@ -1120,7 +1120,7 @@
 ## deuxfleurs-org/garage
 
 > [!info]
-> ⭐ 3,254 · Rust · 2026-03-20  
+> ⭐ 3,264 · Rust · 2026-03-22  
 > [GitHub](https://github.com/deuxfleurs-org/garage) · [Website](https://garagehq.deuxfleurs.fr)  
 > `#S3-compatible Storage` `#Geo-distributed` `#Lightweight Object Storage` `#Self-hosted Storage` `#object-storage` `#rust` `#s3` 
 > Garage is an S3-compatible distributed object storage service designed for small-to-medium scale self-hosting. It supports geo-distributed deployments across multiple physical locations, ensuring high availability even when some servers are unreachable. Key advantages include lightweight architecture, easy operation, and AGPLv3 open-source licensing.
@@ -1140,7 +1140,7 @@
 ## mmulet/term.everything
 
 > [!info]
-> ⭐ 7,795 · Go · 2026-03-18  
+> ⭐ 7,797 · Go · 2026-03-18  
 > [GitHub](https://github.com/mmulet/term.everything)  
 > `#Wayland Compositor` `#Terminal GUI Rendering` `#Go` `#Remote SSH Graphics` `#alacritty` `#cli` `#foss` `#iterm2` `#kitty` `#linux` `#ssh` `#terminal` `#wayland` `#wayland-compositor` 
 > term.everything is a Linux CLI tool that runs any GUI application in the terminal. It's a from-scratch Wayland compositor that outputs graphical windows to the terminal instead of the display. Supports X11 and Wayland host systems, enables remote GUI transmission over SSH, and can run Firefox, games, or even entire desktop environments in a terminal.
@@ -1150,7 +1150,7 @@
 ## liu-ziting/what-to-eat
 
 > [!info]
-> ⭐ 3,272 · Vue · 2026-01-12  
+> ⭐ 3,274 · Vue · 2026-01-12  
 > [GitHub](https://github.com/liu-ziting/what-to-eat) · [Website](http://eat.lz-t.top)  
 > `#AI Recipe Generation` `#Vue3 Framework` `#Nutrition Analysis` `#Chinese Cuisines` `#ai` `#gpt` `#vibe-coding` 
 > Yi Fan Shen Shen is an AI-powered smart recipe generation platform supporting Chinese eight major cuisines and international dishes. Features include intelligent recipe generation, nutrition analysis, AI dish visualization, wine pairing, and sauce design. Built with Vue 3 + TypeScript + Tailwind CSS, supporting dynamic multi-model AI configuration and one-click deployment.
@@ -1160,7 +1160,7 @@
 ## topcss/docker-pull-tar
 
 > [!info]
-> ⭐ 899 · Python · 2025-12-04  
+> ⭐ 900 · Python · 2025-12-04  
 > [GitHub](https://github.com/topcss/docker-pull-tar)  
 > `#Docker Offline Import` `#Image Tar Export` `#Zero Dependency` `#Mirror Acceleration` 
 > A standalone tool to pull Docker images without installing Docker or Python, supporting domestic mirror sources and exporting images as .tar files for offline intranet environments. Supports amd64/arm64 architectures with Docker Hub API compatibility, available in interactive and CLI modes.
@@ -1179,7 +1179,7 @@
 ## Sayi/poi-tl
 
 > [!info]
-> ⭐ 5,046 · Java · 2026-02-24  
+> ⭐ 5,047 · Java · 2026-02-24  
 > [GitHub](https://github.com/Sayi/poi-tl) · [Website](https://deepoove.com/poi-tl/)  
 > `#Java Library` `#Word Document Generation` `#Template Engine` `#Apache POI` `#docx` `#export` `#java` `#markdown` `#poi` `#template` `#word` 
 > poi-tl is a Java Word template engine built on Apache POI that generates .docx documents dynamically from Word templates and data. It perfectly preserves template styles and supports rich features including text, images, tables, charts, code highlighting, and Markdown conversion, with powerful capabilities like loops, conditionals, and template nesting.
@@ -1209,7 +1209,7 @@
 ## googleapis/genai-toolbox
 
 > [!info]
-> ⭐ 13,486 · Go · 2026-03-21  
+> ⭐ 13,492 · Go · 2026-03-21  
 > [GitHub](https://github.com/googleapis/genai-toolbox) · [Website](https://googleapis.github.io/genai-toolbox/getting-started/introduction/)  
 > `#MCP Server` `#Database Tools` `#AI Agent Integration` `#Go` `#agent` `#agents` `#ai` `#bigquery` `#clickhouse` `#cockroachdb` `#database` `#elasticsearch` `#firestore` `#genai` `#llm` `#mcp` `#mongodb` `#mysql` `#oracle` `#postgresql` `#redis` `#server` `#spanner` `#tidb` 
 > Google's open-source MCP server designed specifically for database scenarios. Provides enterprise-grade features including connection pooling, authentication, and observability. Supports natural language queries and automated SQL generation, enabling developers to integrate AI agents with databases in under 10 lines of code.
@@ -1219,7 +1219,7 @@
 ## saltpi/iPlay
 
 > [!info]
-> ⭐ 1,221 · C · 2026-02-12  
+> ⭐ 1,222 · C · 2026-02-12  
 > [GitHub](https://github.com/saltpi/iPlay) · [Website](https://iplay.saltpi.cn)  
 > `#Cross-Platform Player` `#Streaming Client` `#Media Server` `#Multi-Device Sync` 
 > iPlay is a modern cross-platform video player supporting Android, iOS, Windows, macOS, and Xbox. It integrates with Emby and Jellyfin media servers, offering multi-site switching, audio playback, and custom fonts. Built on mpv, VLC, and ExoPlayer codecs, it delivers consistent media experiences across all platforms.
@@ -1229,7 +1229,7 @@
 ## luckygc/cap-server
 
 > [!info]
-> ⭐ 5 · Java · 2026-01-26  
+> ⭐ 5 · Java · 2026-03-22  
 > [GitHub](https://github.com/luckygc/cap-server)  
 > `#Human Verification` `#Java Backend` `#CAPTCHA` `#Bot Protection` 
 > Java backend implementation of CAPTCHA human verification system, providing challenge creation, validation and token redemption. Supports custom storage implementation, configurable challenge parameters (count/size/difficulty) and token expiration, suitable for web application bot protection.
@@ -1239,7 +1239,7 @@
 ## tiagozip/cap
 
 > [!info]
-> ⭐ 5,105 · JavaScript · 2026-03-20  
+> ⭐ 5,110 · JavaScript · 2026-03-20  
 > [GitHub](https://github.com/tiagozip/cap) · [Website](http://capjs.js.org/)  
 > `#Proof-of-Work` `#Privacy-First` `#Self-Hosted` `#Web Security` `#anti-abuse` `#anti-bot` `#anti-scraper` `#antispam` `#bun` `#captcha` `#defense` `#hashcash` `#javascript` `#proof-of-work` `#turing-test` `#web` 
 > Cap is a lightweight, open-source CAPTCHA alternative using SHA-256 proof-of-work challenges. At ~20KB with zero dependencies, it offers privacy-first protection without visual puzzles or tracking. Fully self-hostable via Docker with deep CSS customization, serving as a modern replacement for reCAPTCHA and hCaptcha.
@@ -1259,7 +1259,7 @@
 ## brianpetro/obsidian-smart-connections
 
 > [!info]
-> ⭐ 4,688 · JavaScript · 2026-03-20  
+> ⭐ 4,699 · JavaScript · 2026-03-20  
 > [GitHub](https://github.com/brianpetro/obsidian-smart-connections) · [Website](https://smartconnections.app)  
 > `#AI Embeddings` `#Obsidian Plugin` `#Local-First` `#Knowledge Management` `#chatgpt` `#claude` `#embeddings` `#gemini` `#llama3` `#obsidian` `#obsidian-plugin` 
 > An Obsidian plugin using AI semantic embeddings to automatically discover related notes, eliminating manual linking and tagging. Supports local models or 100+ APIs (Claude, Gemini, ChatGPT, Llama 3), zero-config setup, privacy-first offline capability, and full mobile support.
@@ -1269,7 +1269,7 @@
 ## microsoft/playwright-mcp
 
 > [!info]
-> ⭐ 29,398 · TypeScript · 2026-03-20  
+> ⭐ 29,460 · TypeScript · 2026-03-20  
 > [GitHub](https://github.com/microsoft/playwright-mcp) · [Website](https://www.npmjs.com/package/@playwright/mcp)  
 > `#Browser Automation` `#Model Context Protocol` `#Accessibility Tree` `#LLM Tools` `#mcp` `#playwright` 
 > Microsoft's MCP server enabling browser automation via Playwright. Interacts with web pages through structured accessibility snapshots instead of screenshots, eliminating vision model requirements. Supports VS Code, Claude Desktop, Cursor, and other MCP clients for exploratory automation and self-healing tests.
@@ -1279,7 +1279,7 @@
 ## ThinkInAIXYZ/deepchat
 
 > [!info]
-> ⭐ 5,612 · TypeScript · 2026-03-21  
+> ⭐ 5,617 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [Website](https://deepchat.thinkinai.xyz/)  
 > `#AI Agent Platform` `#MCP Tool Calling` `#Multi-Model Support` `#Open-Source Desktop App` `#agent` `#agent-skills` `#agentic` `#agentic-ai` `#ai` `#ai-assistant` `#ai-chat` `#chatbot` `#chatgpt` `#claude` `#cross-platform` `#deepseek` `#electron` `#gemini` `#llm-client` `#mcp` `#mcp-client` `#openai-client` `#tool-calling` 
 > DeepChat is a powerful open-source AI agent platform that unifies models, tools, and agent runtimes in a desktop app. It supports multi-LLM chat, MCP tool calling, and ACP agent integration, compatible with OpenAI, Gemini, Anthropic, and local Ollama models, enabling personalized AI assistants with smooth user experience.
@@ -1289,7 +1289,7 @@
 ## crystaldba/postgres-mcp
 
 > [!info]
-> ⭐ 2,383 · Python · 2026-01-22  
+> ⭐ 2,390 · Python · 2026-01-22  
 > [GitHub](https://github.com/crystaldba/postgres-mcp)  
 > `#PostgreSQL` `#MCP Protocol` `#Index Tuning` `#Query Optimization` 
 > Postgres MCP Pro is an open-source Model Context Protocol server providing comprehensive PostgreSQL support for AI agents. It offers database health analysis, intelligent index tuning, EXPLAIN plan interpretation, schema-aware SQL generation, and configurable read/write access control. Supports stdio and SSE transports, covering the entire development lifecycle from coding to production tuning.
@@ -1309,7 +1309,7 @@
 ## GhostenEditor/Ghosten-Player
 
 > [!info]
-> ⭐ 2,890 · Dart · 2026-03-01  
+> ⭐ 2,894 · Dart · 2026-03-01  
 > [GitHub](https://github.com/GhostenEditor/Ghosten-Player) · [Website](https://ghosteneditor.github.io/Ghosten-Player)  
 > `#Android Player` `#Cloud Storage Playback` `#Media Metadata Scraping` `#IPTV` `#aliyundrive` `#android-tv` `#emby` `#flutter` `#flutter-apps` `#iptv` `#jellyfin` `#player` `#quark` `#tv` `#video-player` 
 > Ghosten Player is an Android video player supporting both phone and TV terminals. Core features include direct playback from Aliyun Drive and Quark Drive, Emby/Jellyfin integration, automatic metadata scraping from TMDB, IPTV streaming, and local file management. Runs purely locally without backend services, built with native Android development, weighing only ~15MB.
@@ -1319,7 +1319,7 @@
 ## MatrixSeven/file-transfer-go
 
 > [!info]
-> ⭐ 4,736 · TypeScript · 2026-03-18  
+> ⭐ 4,738 · TypeScript · 2026-03-18  
 > [GitHub](https://github.com/MatrixSeven/file-transfer-go) · [Website](https://transfer.52python.cn)  
 > `#WebRTC` `#P2P Transfer` `#End-to-End Encryption` `#Go` 
 > A secure, serverless P2P file transfer tool built with Go and React using WebRTC for end-to-end encrypted file, text, and desktop sharing. Features Next.js frontend, Go backend, responsive design, and Docker support for cross-platform deployment.
@@ -1329,7 +1329,7 @@
 ## withastro/astro
 
 > [!info]
-> ⭐ 57,739 · TypeScript · 2026-03-21  
+> ⭐ 57,780 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/withastro/astro) · [Website](https://astro.build)  
 > `#Island Architecture` `#Static Site Generation` `#SSR/SSG` `#Multi-framework Integration` `#astro` `#blog` `#browser` `#components` `#hybrid` `#islands` `#node` `#server` `#static` `#static-site-generator` `#universal` 
 > Astro is a modern web framework for content-driven websites, featuring Island Architecture to achieve "Zero JS by Default". It delivers exceptional performance through Static Site Generation (SSG) and Server-Side Rendering (SSR), while supporting seamless integration with React, Vue, Svelte, Preact, Solid and other popular UI frameworks.
@@ -1339,7 +1339,7 @@
 ## mengxi-ream/read-frog
 
 > [!info]
-> ⭐ 4,874 · TypeScript · 2026-03-21  
+> ⭐ 4,894 · TypeScript · 2026-03-21  
 > [GitHub](https://github.com/mengxi-ream/read-frog) · [Website](https://readfrog.app)  
 > `#Browser Extension` `#AI Translation` `#Immersive Learning` `#Multi-LLM` `#browser-extension` `#chinese` `#chrome-extension` `#deepseek` `#english` `#english-learning` `#gpt` `#immersive-translate` `#japanese` `#language-learning` `#llm` `#openai` `#react` `#translate` `#wxt` 
 > Read Frog is an open-source AI-powered browser extension for immersive language learning. Supporting 20+ AI models, it offers bilingual translation, context-aware translation, selection translation, subtitle translation, and TTS voice reading to enhance language skills during web browsing.
@@ -1349,7 +1349,7 @@
 ## winsiderss/systeminformer
 
 > [!info]
-> ⭐ 13,811 · C · 2026-03-22  
+> ⭐ 13,819 · C · 2026-03-22  
 > [GitHub](https://github.com/winsiderss/systeminformer) · [Website](https://systeminformer.com)  
 > `#System Monitoring` `#Process Management` `#Malware Detection` `#Windows Kernel` `#administrator` `#benchmarking` `#debugger` `#monitor` `#monitor-performance` `#monitoring` `#performance` `#performance-monitoring` `#performance-tuning` `#process-manager` `#process-monitor` `#processhacker` `#profiling` `#realtime` `#security` `#system-monitor` `#systeminformer` `#task-manager` `#windows` 
 > System Informer is a free and open-source Windows system monitoring and debugging tool offering process management, network connection monitoring, disk I/O tracking, and kernel-level stack analysis. It identifies resource-consuming programs, detects potential malware, and supports creating/editing Windows services. Portable and installation-free, it's an essential assistant for system administrators and security researchers.
@@ -1359,7 +1359,7 @@
 ## tw93/Pake
 
 > [!info]
-> ⭐ 46,792 · Rust · 2026-03-22  
+> ⭐ 46,918 · Rust · 2026-03-22  
 > [GitHub](https://github.com/tw93/Pake) · [Website](https://x.com/twitter/status/2025197688422339010)  
 > `#Rust Tauri` `#Web-to-Desktop` `#Lightweight Packaging` `#Cross-platform CLI` `#chatgpt` `#claude` `#desktop` `#gemini` `#hight-performance` `#linux` `#macos` `#no-electron` `#package` `#rust` `#tauri` `#windows` `#youtube` 
 > Pake is a Rust Tauri-based CLI tool that converts any webpage into a cross-platform desktop app with one command. At only ~5MB, it's nearly 20x smaller than Electron, offering faster performance and lower memory usage. Features include shortcuts, immersive windows, drag & drop, style customization, and ad removal—ideal for quickly desktopifying web applications.
@@ -1369,7 +1369,7 @@
 ## coderamp-labs/gitingest
 
 > [!info]
-> ⭐ 14,195 · Python · 2026-03-20  
+> ⭐ 14,203 · Python · 2026-03-20  
 > [GitHub](https://github.com/coderamp-labs/gitingest) · [Website](https://gitingest.com)  
 > `#LLM Prompt Engineering` `#Code Digest` `#Python CLI` `#Developer Productivity` `#ai` `#code` `#developer-tool` `#ingestion` 
 > Transforms any Git repository into LLM-friendly text format for AI prompting. Users can replace 'hub' with 'ingest' in GitHub URLs or use CLI/Python API to generate code digests with file structure, statistics, and token counts. Supports private repositories via PAT.
@@ -1379,7 +1379,7 @@
 ## LearnOpenGL-CN/LearnOpenGL-CN
 
 > [!info]
-> ⭐ 6,063 · CSS · 2026-03-20  
+> ⭐ 6,062 · CSS · 2026-03-20  
 > [GitHub](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) · [Website](https://learnopengl-cn.github.io/)  
 > `#OpenGL` `#Computer Graphics` `#Graphics Programming` `#Chinese Translation` `#learnopengl` `#translation` 
 > A Chinese translation project of the learnopengl.com tutorial series, built with MkDocs static site generator. Covers essential graphics programming topics including OpenGL fundamentals, advanced lighting, shadows, and PBR rendering with complete code examples. Continuously updated with community contributions.
@@ -1399,7 +1399,7 @@
 ## massCodeIO/massCode
 
 > [!info]
-> ⭐ 6,673 · TypeScript · 2026-03-17  
+> ⭐ 6,674 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/massCodeIO/massCode) · [Website](https://masscode.io)  
 > `#Electron` `#Vue.js` `#Snippet Manager` `#Developer Tools` `#developer-tools` `#electron` `#linux` `#macos` `#notes` `#productivity` `#snippets` `#snippets-manager` `#vite` `#vue` `#windows` 
 > massCode is a free, open-source code snippet manager for developers, built with Electron, Vue, and Codemirror. It enables creating, organizing, and instantly accessing personal snippet libraries with VS Code and Raycast extensions, inspired by SnippetsLab and Quiver.
@@ -1409,7 +1409,7 @@
 ## microsoft/prompty
 
 > [!info]
-> ⭐ 1,171 · Python · 2026-03-04  
+> ⭐ 1,172 · Python · 2026-03-04  
 > [GitHub](https://github.com/microsoft/prompty) · [Website](https://prompty.ai)  
 > `#Prompt Engineering` `#VS Code Extension` `#LLM Orchestration` `#Azure AI` `#generative-ai` `#llm-evaluation` `#llms` `#promptengineering` `#prompty` 
 > Prompty is Microsoft's LLM prompt asset format and tooling designed to enhance observability, understandability, and portability. It provides a VS Code extension for prompt creation, preview, execution, and multi-model configuration management. Supports Azure AD and OpenAI authentication, with seamless integrations into orchestration frameworks including Prompt flow, LangChain, and Semantic Kernel.
@@ -1419,7 +1419,7 @@
 ## AmoyLab/Unla
 
 > [!info]
-> ⭐ 2,069 · TypeScript · 2026-03-19  
+> ⭐ 2,070 · TypeScript · 2026-03-19  
 > [GitHub](https://github.com/AmoyLab/Unla)  
 > `#MCP Gateway` `#Go` `#Zero-Code Transformation` `#Docker Deployment` `#awesome` `#mcp` `#mcp-adapter` `#mcp-gateway` `#mcp-server` `#rest-to-mcp` `#restful-to-mcp` 
 > Unla is a lightweight MCP gateway written in Go that transforms existing MCP servers and APIs into MCP protocol-compliant endpoints through configuration without any code changes. It supports one-click Docker deployment with a built-in web management UI, enabling automatic API-to-MCP conversion via YAML configuration across diverse infrastructure including bare metal, VMs, and Kubernetes.
@@ -1429,7 +1429,7 @@
 ## alibaba/higress
 
 > [!info]
-> ⭐ 7,870 · Go · 2026-03-20  
+> ⭐ 7,879 · Go · 2026-03-22  
 > [GitHub](https://github.com/alibaba/higress) · [Website](https://higress.ai)  
 > `#Cloud-Native Gateway` `#AI Gateway` `#MCP Protocol` `#Wasm Plugins` `#ai-gateway` `#ai-native` `#api-gateway` `#cloud-native` `#envoy` 
 > Higress is a cloud-native API gateway developed by Alibaba, built on Istio and Envoy with flexible Wasm plugin extensibility supporting Go, Rust, and JavaScript. As an AI Gateway, it provides unified management for LLM and MCP APIs, connecting to mainstream domestic and international LLM providers while offering MCP server hosting. Deployed at scale in Alibaba Cloud and Alibaba's core AI services.
@@ -1439,7 +1439,7 @@
 ## rustfs/rustfs
 
 > [!info]
-> ⭐ 23,581 · Rust · 2026-03-22  
+> ⭐ 23,619 · Rust · 2026-03-23  
 > [GitHub](https://github.com/rustfs/rustfs) · [Website](https://rustfs.com/download/)  
 > `#Object Storage` `#Rust` `#S3-Compatible` `#Distributed Storage` `#ai-native` `#ai-storage` `#amazon-s3` `#bigdata` `#cloud-native` `#filesystem` `#minio` `#multi-cloud` `#object-storage` `#objectstorage` `#rust` `#s3` 
 > RustFS is a high-performance, distributed object storage system built in Rust with full S3 compatibility. It delivers 2.3x faster performance than MinIO for 4KB object payloads and supports seamless migration and coexistence with other S3-compatible platforms like MinIO and Ceph. Licensed under Apache 2.0, it's optimized for data lakes, AI, and big data workloads with scalable and fault-tolerant architecture.
@@ -1459,7 +1459,7 @@
 ## coleam00/context-engineering-intro
 
 > [!info]
-> ⭐ 12,847 · Python · 2026-03-16  
+> ⭐ 12,866 · Python · 2026-03-16  
 > [GitHub](https://github.com/coleam00/context-engineering-intro)  
 > `#Context Engineering` `#Claude Code` `#AI Coding Assistant` `#Workflow Automation` 
 > Context Engineering is a systematic methodology for providing comprehensive context to AI coding assistants through CLAUDE.md project rules, INITIAL.md feature requests, PRP (Product Requirements Prompts), and code examples. This template offers a standardized workflow that dramatically enhances AI code generation quality and consistency, enabling end-to-end complex task execution.
@@ -1469,7 +1469,7 @@
 ## bytedance/trae-agent
 
 > [!info]
-> ⭐ 11,090 · Python · 2026-02-05  
+> ⭐ 11,098 · Python · 2026-02-05  
 > [GitHub](https://github.com/bytedance/trae-agent) · [Website](https://www.trae.ai/)  
 > `#LLM Agent` `#Software Engineering Automation` `#AI Agent` `#CLI Tool` `#agent` `#llm` `#software-engineering` 
 > ByteDance's LLM-based agent for general-purpose software engineering tasks. Features a powerful CLI interface with multi-model support including OpenAI, Anthropic, Claude and Google Gemini. Its transparent modular architecture is research-friendly, enabling easy extension, analysis and ablation studies for AI agent research.
@@ -1479,7 +1479,7 @@
 ## nocodb/nocodb
 
 > [!info]
-> ⭐ 62,530 · TypeScript · 2026-03-21  
+> ⭐ 62,544 · TypeScript · 2026-03-21  
 > [GitHub](https://github.com/nocodb/nocodb) · [Website](https://nocodb.com)  
 > `#No-code Database` `#Airtable Alternative` `#Self-hosted` `#Low-code Platform` `#airtable` `#airtable-alternative` `#automatic-api` `#hacktoberfest` `#low-code` `#no-code` `#no-code-database` `#no-code-platform` `#postgresql` `#rest-api` `#restful-api` `#spreadsheet` `#sqlite` `#swagger` 
 > NocoDB is a free, self-hostable online database builder positioned as an Airtable alternative. It offers a no-code/low-code interface with Docker deployment support, supporting both SQLite and PostgreSQL backends. Features include spreadsheet-like views, API generation, and team collaboration—ideal for building internal tools and data management applications.
@@ -1489,7 +1489,7 @@
 ## OpenListTeam/OpenList
 
 > [!info]
-> ⭐ 21,478 · Go · 2026-03-19  
+> ⭐ 21,496 · Go · 2026-03-19  
 > [GitHub](https://github.com/OpenListTeam/OpenList) · [Website](https://doc.oplist.org)  
 > `#Cloud Storage Aggregation` `#File Manager` `#AList Fork` `#Open Source Governance` `#alist` `#aliyunpan` `#baidupan` `#openlist` 
 > OpenList is a community-governed fork of AList designed to defend open source against trust-based attacks. It supports 20+ storage services including AliyunDrive, OneDrive, GoogleDrive, and S3, offering file browsing, preview, and download capabilities. Built with Go under AGPL-3.0 license, emphasizing code transparency and long-term maintenance.
@@ -1499,7 +1499,7 @@
 ## GyulyVGC/sniffnet
 
 > [!info]
-> ⭐ 33,017 · Rust · 2026-03-21  
+> ⭐ 33,029 · Rust · 2026-03-21  
 > [GitHub](https://github.com/GyulyVGC/sniffnet) · [Website](https://sniffnet.net)  
 > `#Network Traffic Monitoring` `#Rust` `#Traffic Analysis` `#Cross-platform` `#application` `#gui` `#iced` `#linux` `#macos` `#network` `#network-analysis` `#network-monitoring` `#networking` `#packet-analyser` `#packet-capture` `#packet-sniffer` `#pcap` `#rust` `#rust-crate` `#security` `#tool` `#utility` `#windows` 
 > Sniffnet is a cross-platform network traffic monitoring application built with Rust, featuring an intuitive GUI for real-time display of traffic statistics, protocol distribution, and connection details. Supports traffic alerts, custom themes, and multilingual interface. Fully free and open-source.
@@ -1509,7 +1509,7 @@
 ## arch3rPro/1Panel-Appstore
 
 > [!info]
-> ⭐ 123 · CSS · 2026-03-21  
+> ⭐ 124 · CSS · 2026-03-22  
 > [GitHub](https://github.com/arch3rPro/1Panel-Appstore) · [Website](https://arch3rpro.github.io/appstore)  
 > `#LLM Reverse API` `#1Panel App Store` `#Docker Deployment` `#Free LLM API` `#1panel` `#1panel-appstore` `#documentation` `#llm` `#monitoring-tool` `#nas` `#network-analysis` 
 > A third-party app store for 1Panel focusing on free LLM reverse APIs and DevOps tools. Offers one-click Docker deployment for APIs including DeepSeek, Kimi, Qwen, GLM, and Minimax, with 1Panel automation support. Rebuilt after security review, featuring curated quality apps over quantity.
@@ -1539,7 +1539,7 @@
 ## langfuse/langfuse
 
 > [!info]
-> ⭐ 23,519 · TypeScript · 2026-03-21  
+> ⭐ 23,568 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/langfuse/langfuse) · [Website](https://langfuse.com/docs)  
 > `#LLM Observability` `#Prompt Management` `#LLM Engineering` `#AI Evaluation` `#analytics` `#autogen` `#evaluation` `#langchain` `#large-language-models` `#llama-index` `#llm` `#llm-evaluation` `#llm-observability` `#llmops` `#monitoring` `#observability` `#open-source` `#openai` `#playground` `#prompt-engineering` `#prompt-management` `#self-hosted` `#ycombinator` 
 > Open-source LLM engineering platform offering observability, metrics tracking, evals, prompt management, playground, and dataset management. Integrates with OpenTelemetry, Langchain, OpenAI SDK, and LiteLLM. Supports self-hosted and cloud deployment. Y Combinator W23 batch.
@@ -1549,7 +1549,7 @@
 ## langgenius/dify
 
 > [!info]
-> ⭐ 133,875 · TypeScript · 2026-03-21  
+> ⭐ 133,973 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/langgenius/dify) · [Website](https://dify.ai)  
 > `#AI Workflow` `#Agent Development` `#LLM Integration` `#Self-hosted Platform` `#agent` `#agentic-ai` `#agentic-framework` `#agentic-workflow` `#ai` `#automation` `#gemini` `#genai` `#gpt` `#gpt-4` `#llm` `#low-code` `#mcp` `#nextjs` `#no-code` `#openai` `#orchestration` `#python` `#rag` `#workflow` 
 > Dify is a production-ready platform for building agentic workflows with visual orchestration, integrating LLMs and external tools. It offers both cloud and self-hosted deployment, ideal for applications like knowledge-based Q&A and AI podcast generation, with high scalability and enterprise-grade features.
@@ -1569,7 +1569,7 @@
 ## wyeeeee/hajimi
 
 > [!info]
-> ⭐ 1,750 · Python · 2025-09-21  
+> ⭐ 1,747 · Python · 2025-09-21  
 > [GitHub](https://github.com/wyeeeee/hajimi)  
 > `#FastAPI` `#Gemini Proxy` `#API Compatibility` `#Key Rotation` 
 > FastAPI-based Gemini API proxy with OpenAI API format compatibility, featuring API key rotation, fake streaming to prevent disconnections, concurrent caching, request obfuscation, and web search mode, with web UI configuration and flexible deployment options.
@@ -1579,7 +1579,7 @@
 ## google-gemini/gemini-cli
 
 > [!info]
-> ⭐ 98,597 · TypeScript · 2026-03-21  
+> ⭐ 98,712 · TypeScript · 2026-03-23  
 > [GitHub](https://github.com/google-gemini/gemini-cli) · [Website](https://geminicli.com)  
 > `#Terminal AI Agent` `#Gemini Models` `#Model Context Protocol` `#Developer Tools` `#ai` `#ai-agents` `#cli` `#gemini` `#gemini-api` `#mcp-client` `#mcp-server` 
 > Gemini CLI is an open-source AI agent that brings Google's Gemini models directly into the terminal. It offers free-tier access (60 req/min), a 1M-token context window, built-in tools like Google Search and file operations, and extensibility via the Model Context Protocol (MCP), designed for developers who work primarily in the command line.
@@ -1589,7 +1589,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 25,215 · TypeScript · 2026-03-18  
+> ⭐ 25,282 · TypeScript · 2026-03-18  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#Prompt Optimization` `#Multi-Model Integration` `#AI Prompt Engineering` `#Image Generation` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer is an intelligent tool designed to enhance the quality of AI prompts. It supports multi-model integration (OpenAI, Gemini, DeepSeek, etc.), dual-mode optimization, real-time comparison testing, and image generation (T2I/I2I). Available as Web app, desktop app, Chrome extension, and Docker deployment, it ensures data security via client-side processing and is ideal for roleplay, knowledge extraction, and creative tasks.
@@ -1599,7 +1599,7 @@
 ## leaningtech/webvm
 
 > [!info]
-> ⭐ 16,570 · JavaScript · 2026-02-24  
+> ⭐ 16,574 · JavaScript · 2026-02-24  
 > [GitHub](https://github.com/leaningtech/webvm) · [Website](https://webvm.io)  
 > `#WebAssembly VM` `#Browser-based Linux` `#CheerpX Virtualization` `#x86-to-WASM JIT` `#cheerp` `#cheerpx` `#cpp` `#lwip` `#repl` `#tailscale` `#vm` `#wasm` `#webassembly` `#webvm` `#xterm-js` 
 > WebVM is a Linux virtual machine running entirely client-side in the browser, powered by the CheerpX virtualization engine. Server-less and WebAssembly-based, it executes unmodified x86 binaries via JIT compilation, supporting Debian distributions with native development toolchains. Features virtual block storage and Linux syscall emulation, with networking via Tailscale integration.
@@ -1619,7 +1619,7 @@
 ## jackyzha0/quartz
 
 > [!info]
-> ⭐ 11,556 · TypeScript · 2026-03-20  
+> ⭐ 11,572 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/jackyzha0/quartz) · [Website](https://quartz.jzhao.xyz)  
 > `#Static Site Generator` `#Digital Garden` `#Markdown` `#Note Publishing` `#digital-garden` `#networked-thought` `#obsidian` `#obsidian-md` `#quartz-ssg` `#static-site-generator` 
 > Quartz is a fast static-site generator designed for publishing digital gardens and personal notes. It transforms Markdown content into fully functional websites with built-in bi-directional links, tag system, and full-text search, deployable to GitHub Pages.
@@ -1629,7 +1629,7 @@
 ## FreshRSS/FreshRSS
 
 > [!info]
-> ⭐ 14,461 · PHP · 2026-03-21  
+> ⭐ 14,476 · PHP · 2026-03-21  
 > [GitHub](https://github.com/FreshRSS/FreshRSS) · [Website](https://freshrss.org)  
 > `#RSS Aggregator` `#Self-Hosted` `#PHP8.1+` `#XPath Scraping` `#feed` `#freshrss` `#news-aggregator` `#php` `#rss` `#rss-aggregator` `#rss-reader` `#self-hosted` `#websub` 
 > FreshRSS is an open-source, self-hosted RSS/Atom/JSON feed aggregator supporting multi-user accounts, anonymous reading, custom tags, XPath-based web scraping, and WebSub push notifications. Built with PHP 8.1+, licensed under AGPL v3, optimized for lightweight servers including Raspberry Pi.
@@ -1639,7 +1639,7 @@
 ## weekend-project-space/top-rss-list
 
 > [!info]
-> ⭐ 6,022 · N/A · 2026-03-12  
+> ⭐ 6,028 · N/A · 2026-03-12  
 > [GitHub](https://github.com/weekend-project-space/top-rss-list) · [Website](https://toprss.ifeed.cc)  
 > `#RSS Feed` `#Chinese Content` `#Information Aggregation` `#Content Discovery` `#rss` `#rss-feed` `#rss-reader` 
 > A curated collection of the most subscribed Chinese RSS feeds, covering tech blogs, news sites, and community content. Sorted by subscription count with direct links and online preview, enabling users to discover high-quality Chinese content efficiently.
@@ -1649,7 +1649,7 @@
 ## musistudio/claude-code-router
 
 > [!info]
-> ⭐ 30,147 · TypeScript · 2026-03-04  
+> ⭐ 30,205 · TypeScript · 2026-03-04  
 > [GitHub](https://github.com/musistudio/claude-code-router) · [Website](https://musistudio.github.io/claude-code-router/)  
 > `#AI Model Routing` `#Multi-Provider Integration` `#Claude Code Extension` 
 > This project builds coding infrastructure on top of Claude Code, enabling intelligent routing of requests to various AI models (e.g., DeepSeek, Gemini, Ollama), with multi-provider support, dynamic model switching, customizable request/response transformation, CLI management, and GitHub Actions integration for automated workflows.
@@ -1659,7 +1659,7 @@
 ## honojs/hono
 
 > [!info]
-> ⭐ 29,479 · TypeScript · 2026-03-21  
+> ⭐ 29,492 · TypeScript · 2026-03-21  
 > [GitHub](https://github.com/honojs/hono) · [Website](https://hono.dev)  
 > `#Web Framework` `#Multi-runtime` `#TypeScript` `#Edge Computing` `#aws-lambda` `#bun` `#cloudflare` `#cloudflare-workers` `#deno` `#npm` `#router` `#typescript` `#web-framework` 
 > A lightweight, high-performance web framework built on Web Standards, supporting Cloudflare Workers, Deno, Bun, Node.js and more. Features RegExpRouter for ultrafast routing, zero dependencies, with hono/tiny package under 12KB, built-in middleware, and first-class TypeScript support.
@@ -1679,7 +1679,7 @@
 ## 78/xiaozhi-esp32
 
 > [!info]
-> ⭐ 24,983 · C++ · 2026-03-21  
+> ⭐ 25,000 · C++ · 2026-03-22  
 > [GitHub](https://github.com/78/xiaozhi-esp32) · [Website](https://xiaozhi.me)  
 > `#MCP Protocol` `#ESP32` `#Voice Interaction` `#Smart Hardware` `#chatbot` `#esp32` `#mcp` 
 > An intelligent voice chatbot based on MCP protocol, powered by large models like Qwen/DeepSeek. Features streaming ASR+LLM+TTS voice interaction architecture with ESP-SR offline wake-up and 3D Speaker voiceprint recognition. Supports ESP32-C3/S3/P4 platforms, extends capabilities via MCP for device control and cloud services including smart home, PC operation, and knowledge search, with OLED display, battery management, and multi-language support.
@@ -1689,7 +1689,7 @@
 ## dzikoysk/reposilite
 
 > [!info]
-> ⭐ 1,771 · Kotlin · 2026-03-21  
+> ⭐ 1,771 · Kotlin · 2026-03-22  
 > [GitHub](https://github.com/dzikoysk/reposilite) · [Website](https://reposilite.com)  
 > `#Maven Repository` `#Kotlin` `#Self-hosted` `#Lightweight` `#artifact-repository-manager` `#deploy` `#gradle` `#hacktoberfest` `#javalin` `#maven` `#maven-repository` `#reposilite` `#repository-management` `#repository-manager` `#sbt` 
 > Reposilite is a lightweight Maven repository manager designed for the JVM ecosystem. As an open-source alternative to Nexus, Archiva, and Artifactory, it runs on approximately 20MB of RAM, supports Docker deployment, is written in Kotlin, and provides a simple, extensible self-hosted solution for managing Maven-based artifacts.
@@ -1699,7 +1699,7 @@
 ## codexu/note-gen
 
 > [!info]
-> ⭐ 11,109 · TypeScript · 2026-03-21  
+> ⭐ 11,113 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/codexu/note-gen) · [Website](https://notegen.top)  
 > `#Cross-platform Notes` `#AI Note-taking` `#Markdown Editor` `#RAG Retrieval` `#agent` `#chatbot` `#knowledge-base` `#llm` `#markdown` `#mcp` `#nextjs` `#note-taking` `#rag` `#tauri` `#webdav` 
 > NoteGen is a cross-platform Markdown AI note-taking app that bridges recording and writing using AI, organizing fragmented knowledge into readable notes. It supports RAG retrieval-augmented generation and MCP protocol extension, featuring intelligent agents for automated note processing, lightweight 25MB size with no ads, running across Windows/macOS/Linux/Android/iOS.
@@ -1709,7 +1709,7 @@
 ## certimate-go/certimate
 
 > [!info]
-> ⭐ 8,400 · Go · 2026-03-17  
+> ⭐ 8,406 · Go · 2026-03-17  
 > [GitHub](https://github.com/certimate-go/certimate) · [Website](https://docs.certimate.me)  
 > `#ACME Protocol` `#SSL Certificate Automation` `#DNS-01 Challenge` `#Certificate Deployment` `#acme` `#acme-client` `#automation` `#certbot` `#certificate` `#certificate-management` `#certificate-manager` `#certificates` `#devops` `#https` `#https-certificate` `#lego` `#letsencrypt` `#self-hosted` `#ssl` `#ssl-cert` `#ssl-certificate` `#ssl-certificates` 
 > An open-source self-hosted SSL certificate management tool using ACME protocol, providing visual automation for the entire certificate lifecycle including issuance, deployment, renewal, and monitoring. Supports DNS-01/HTTP-01 challenges with 60+ DNS providers and 110+ deployment targets, featuring zero dependencies and ~16MB minimal memory footprint.
@@ -1719,7 +1719,7 @@
 ## hadolint/hadolint
 
 > [!info]
-> ⭐ 12,011 · Haskell · 2026-03-09  
+> ⭐ 12,013 · Haskell · 2026-03-09  
 > [GitHub](https://github.com/hadolint/hadolint)  
 > `#Haskell` `#Dockerfile Linting` `#ShellCheck Integration` `#DevOps Tool` `#docker` `#dockerfile` `#dockerfile-linter` `#haskell` `#linter` `#shellcheck` `#static-analysis` 
 > A smart Dockerfile linter written in Haskell that parses Dockerfiles into an AST and performs rule-based validation. It leverages ShellCheck to lint Bash code within RUN instructions, helping developers build best-practice Docker images. Supports CLI, Docker containers, and provides extensive rule configuration with CI/CD integrations.
@@ -1729,7 +1729,7 @@
 ## comet-ml/opik
 
 > [!info]
-> ⭐ 18,409 · Python · 2026-03-21  
+> ⭐ 18,435 · Python · 2026-03-23  
 > [GitHub](https://github.com/comet-ml/opik) · [Website](https://www.comet.com/docs/opik/)  
 > `#LLM Observability` `#Distributed Tracing` `#RAG Evaluation` `#AI Application Monitoring` `#evaluation` `#hacktoberfest` `#hacktoberfest2025` `#langchain` `#llama-index` `#llm` `#llm-evaluation` `#llm-observability` `#llmops` `#open-source` `#openai` `#playground` `#prompt-engineering` 
 > Opik is an open-source AI observability platform by Comet for managing the complete LLM application lifecycle. It provides comprehensive tracing, automated evaluations, and production-ready dashboards to improve RAG systems, code assistants, and agentic workflows. Supports prompt optimization and LLM-as-a-judge capabilities.
@@ -1739,7 +1739,7 @@
 ## liriliri/aya
 
 > [!info]
-> ⭐ 4,875 · TypeScript · 2025-12-25  
+> ⭐ 4,877 · TypeScript · 2025-12-25  
 > [GitHub](https://github.com/liriliri/aya) · [Website](https://aya.liriliri.io)  
 > `#Android ADB Tool` `#Cross-platform Desktop` `#Device Management GUI` `#adb` `#android` `#electron` `#electron-app` 
 > AYA is an open-source desktop application for controlling Android devices, functioning as a GUI wrapper for ADB. It offers screen mirroring, file explorer, app manager, process monitor, layout inspector, CPU/memory/FPS monitoring, logcat viewer, and interactive shell. Supports Windows, macOS, and Linux.
@@ -1749,7 +1749,7 @@
 ## SheepChef/Abracadabra
 
 > [!info]
-> ⭐ 2,315 · JavaScript · 2026-03-10  
+> ⭐ 2,317 · JavaScript · 2026-03-10  
 > [GitHub](https://github.com/SheepChef/Abracadabra) · [Website](https://abracadabra.js.org)  
 > `#Classical Chinese Encryption` `#AES256` `#WASM` `#Text Cryptography` `#chinese` `#chinese-characters` `#encoding` `#encryption` `#enigma` `#javascript` `#webassembly` 
 > A text encryption tool that fuses AES256 cryptography with Classical Chinese grammar. Using complex sentence construction and syntax matching, it transforms ciphertext into highly realistic Ancient Chinese prose, referencing classics like Guwen Guanzhi. Supports WASM acceleration with both web and browser extension interfaces, combining security with classical cultural aesthetics.
@@ -1759,7 +1759,7 @@
 ## langhuihui/jessibuca
 
 > [!info]
-> ⭐ 2,797 · C · 2026-03-20  
+> ⭐ 2,798 · C · 2026-03-20  
 > [GitHub](https://github.com/langhuihui/jessibuca) · [Website](https://jessibuca.com)  
 > `#WebAssembly Player` `#H.265 Decoding` `#FLV Streaming` `#Plugin-free H5 Player` `#ffmpeg` `#h264-h265` `#h5` `#http-flv` `#webassembly` `#webgl` `#websocket-flv` 
 > Jessibuca is a pure H5 live streaming player that runs audio/video decoding libraries as WebAssembly in browsers. It supports H.264/H.265 video and AAC audio decoding, works seamlessly across PC, mobile, and WeChat without plugins, enabling low-latency live streaming playback.
@@ -1789,7 +1789,7 @@
 ## MetaCubeX/mihomo
 
 > [!info]
-> ⭐ 28,005 · Python · 2026-03-21  
+> ⭐ 28,031 · Python · 2026-03-22  
 > [GitHub](https://github.com/MetaCubeX/mihomo) · [Website](https://wiki.metacubex.one)  
 > `#Pydantic` `#API Parsing` `#Honkai: Star Rail` `#Data Modeling` `#honkai-star-rail` `#mihomo` `#python` `#star-rail-api` 
 > mihomo is a Python library using Pydantic to parse Honkai: Star Rail data from the Mihomo API, offering type hints and autocompletion. It supports both V1 and V2 data formats, includes structured character and player info, and provides utilities like deduplication, merging, and data persistence.
@@ -1799,7 +1799,7 @@
 ## mihomo-party-org/clash-party
 
 > [!info]
-> ⭐ 21,798 · TypeScript · 2026-03-21  
+> ⭐ 21,830 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/mihomo-party-org/clash-party) · [Website](https://clashparty.org)  
 > `#Mihomo` `#Proxy Client` `#Electron` `#Clash Meta` `#clash` `#clash-meta` `#electron` `#mihomo` 
 > Clash Party is an Electron-based GUI client for Mihomo (Clash Meta), offering out-of-the-box proxy management. It features smart core switching, AI-powered node selection, multi-theme UI, WebDAV config sync, and deep Sub-Store integration, running without Tun mode for a streamlined experience.
@@ -1809,7 +1809,7 @@
 ## MetaCubeX/ClashMetaForAndroid
 
 > [!info]
-> ⭐ 35,805 · Kotlin · 2026-03-21  
+> ⭐ 35,887 · Kotlin · 2026-03-21  
 > [GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid)  
 > `#Clash.Meta Client` `#Rule-Based Proxy` `#Android VPN` `#Network Tunnel` 
 > A rule-based network tunnel client for Android powered by Clash.Meta kernel, featuring a graphical interface for proxy management. Supports multi-protocol proxies, automatic rule matching, and system-wide traffic forwarding, ideal for network debugging and bypass. Compatible with Android 5.0+ and major CPU architectures.
@@ -1829,7 +1829,7 @@
 ## star7th/coolmonitor
 
 > [!info]
-> ⭐ 877 · TypeScript · 2026-02-06  
+> ⭐ 878 · TypeScript · 2026-02-06  
 > [GitHub](https://github.com/star7th/coolmonitor)  
 > `#Website Monitoring` `#SSL Certificate` `#Next.js` `#Docker Deployment` 
 > CoolMonitor is an open-source monitoring tool with a modern UI, supporting HTTP/HTTPS website, API, HTTPS certificate expiration, TCP port, MySQL/Redis database monitoring and more. Built with Next.js and SQLite, it supports Docker one-click deployment with dark/light theme switching and multi-channel notifications.
@@ -1839,7 +1839,7 @@
 ## louislam/uptime-kuma
 
 > [!info]
-> ⭐ 84,319 · JavaScript · 2026-03-22  
+> ⭐ 84,354 · JavaScript · 2026-03-23  
 > [GitHub](https://github.com/louislam/uptime-kuma) · [Website](https://uptime.kuma.pet)  
 > `#Self-hosted Monitoring` `#Node.js` `#Docker Monitoring` `#Real-time Alerts` `#docker` `#monitor` `#monitoring` `#responsive` `#self-hosted` `#selfhosted` `#single-page-app` `#socket-io` `#uptime` `#uptime-monitoring` `#webapp` `#websocket` 
 > An elegant open-source self-hosted monitoring tool supporting HTTP, TCP, Ping, DNS, WebSocket, Docker containers and more, with 90+ notification channels, reactive UI, multiple status pages, and 2FA, achieving 20-second monitoring intervals.
@@ -1849,7 +1849,7 @@
 ## sytone/obsidian-remote
 
 > [!info]
-> ⭐ 2,464 · Dockerfile · 2025-10-31  
+> ⭐ 2,469 · Dockerfile · 2025-10-31  
 > [GitHub](https://github.com/sytone/obsidian-remote)  
 > `#Docker Containerization` `#NoVNC Remote Desktop` `#Obsidian Notes` `#Reverse Proxy` `#obsidian-md` 
 > An open-source project enabling remote Obsidian.md access via Docker containers through a web browser. Features vault mounting, Git plugin support, custom fonts, and Nginx reverse proxy deployment. Ideal for remote work and cross-device note synchronization, delivering a full desktop experience in browsers using NoVNC technology.
@@ -1859,7 +1859,7 @@
 ## jingyaogong/minimind-v
 
 > [!info]
-> ⭐ 6,832 · Python · 2026-02-04  
+> ⭐ 6,880 · Python · 2026-02-04  
 > [GitHub](https://github.com/jingyaogong/minimind-v) · [Website](https://jingyaogong.github.io/minimind-v)  
 > `#Vision Language Model` `#Compact Model` `#Multimodal Learning` `#CLIP Encoder` `#artificial-intelligence` `#chatgpt` `#vision-language-model` 
 > An ultra-compact Vision Language Model project that trains a 26M-parameter VLM in just 1 hour at ~$0.18 cost. Features complete pipeline of data cleaning, pretraining, and SFT, built on CLIP vision encoder and MiniMind language model, supporting personal GPU inference and ideal for VLM learning.
@@ -1869,7 +1869,7 @@
 ## browser-use/browser-use
 
 > [!info]
-> ⭐ 81,854 · Python · 2026-03-22  
+> ⭐ 82,574 · Python · 2026-03-22  
 > [GitHub](https://github.com/browser-use/browser-use) · [Website](https://browser-use.com)  
 > `#AI Agent` `#Browser Automation` `#LLM Integration` `#Web Interaction` `#ai-agents` `#ai-tools` `#browser-automation` `#browser-use` `#llm` `#playwright` `#python` 
 > browser-use enables AI agents to interact with and automate tasks on websites using large language models (LLMs). It supports both local and cloud-based browser control, integrates with multiple LLM providers like Google and Anthropic, and offers stealth capabilities to evade anti-bot detection—ideal for web scraping, form automation, and data extraction.
@@ -1879,7 +1879,7 @@
 ## microsoft/playwright
 
 > [!info]
-> ⭐ 84,689 · TypeScript · 2026-03-22  
+> ⭐ 84,752 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/microsoft/playwright) · [Website](https://playwright.dev)  
 > `#Web Testing` `#Browser Automation` `#End-to-End Testing` `#Cross-Browser` `#automation` `#chrome` `#chromium` `#e2e-testing` `#electron` `#end-to-end-testing` `#firefox` `#javascript` `#playwright` `#test` `#test-automation` `#testing` `#testing-tools` `#web` `#webkit` 
 > Playwright is a cross-browser web testing and automation framework supporting Chromium, Firefox, and WebKit via a unified API. It features auto-waiting, web-first assertions, and tracing to ensure resilient, flake-free end-to-end testing and automation across platforms.
@@ -1909,7 +1909,7 @@
 ## microsoft/markitdown
 
 > [!info]
-> ⭐ 91,363 · Python · 2026-03-16  
+> ⭐ 91,720 · Python · 2026-03-16  
 > [GitHub](https://github.com/microsoft/markitdown)  
 > `#Document Conversion` `#Markdown Generation` `#LLM Tool` `#Multi-format Support` `#autogen` `#autogen-extension` `#langchain` `#markdown` `#microsoft-office` `#openai` `#pdf` 
 > MarkItDown is a lightweight Python tool by Microsoft that converts diverse file types—including PDFs, Office docs, images, audio, and HTML—into Markdown, optimized for LLM text analysis. It preserves document structure like headings and tables, offers CLI and API access, and includes an MCP server for integration with LLM applications.
@@ -1919,7 +1919,7 @@
 ## ourongxing/newsnow
 
 > [!info]
-> ⭐ 18,962 · TypeScript · 2026-02-27  
+> ⭐ 19,024 · TypeScript · 2026-02-27  
 > [GitHub](https://github.com/ourongxing/newsnow) · [Website](https://newsnow.busiyi.world)  
 > `#News Aggregation` `#Adaptive Scraping` `#OAuth Login` `#Cloudflare D1` `#elegant` `#news` 
 > An elegant news aggregation app delivering real-time trending Chinese news. Features GitHub OAuth login for data sync, adaptive scraping (minimum 2-minute intervals) to prevent IP bans, and 30-minute caching with force refresh for logged-in users. Clean UI design with MCP server support, deployable via Vercel, Cloudflare Pages, or Docker.
@@ -1929,7 +1929,7 @@
 ## AntonyCheng/spring-boot-init-template
 
 > [!info]
-> ⭐ 516 · Java · 2026-03-20  
+> ⭐ 517 · Java · 2026-03-20  
 > [GitHub](https://github.com/AntonyCheng/spring-boot-init-template)  
 > `#Spring Boot` `#Spring AI` `#Distributed Database` `#Enterprise Development` `#caffeine` `#elastic` `#minio` `#mongodb` `#mybatis-plus` `#ollama` `#rabbitmq` `#redis` `#satoken` `#shardingsphere-jdbc` `#springai` `#springboot2` `#springboot3` 
 > Enterprise-grade SpringBoot initialization template integrating Mybatis-Plus, ShardingSphere, Redis, RabbitMQ, Elasticsearch, and SaToken. Latest version supports Spring AI 1.1.0 with JDK11/17 compatibility, designed for modern web application development with front-end/back-end separation architecture.
@@ -1939,7 +1939,7 @@
 ## glanceapp/glance
 
 > [!info]
-> ⭐ 32,690 · Go · 2025-12-10  
+> ⭐ 32,722 · Go · 2025-12-10  
 > [GitHub](https://github.com/glanceapp/glance)  
 > `#Self-hosted Dashboard` `#Go` `#RSS Aggregator` `#YAML Configuration` `#aggregator` `#dashboard` `#docker` `#feed-reader` `#go` `#homelab` `#homepage` `#monitoring` `#reddit` `#rss` `#rss-reader` `#self-hosted` `#startpage` `#youtube` 
 > Glance is a lightweight, self-hosted dashboard written in Go that aggregates RSS feeds, Reddit, Hacker News, YouTube, Twitch, weather, stocks, and more. Configured via YAML with multi-page layouts, custom CSS, and theme support, it runs as a sub-20MB binary with minimal memory usage and fast loading.
@@ -1949,7 +1949,7 @@
 ## yuaotian/go-cursor-help
 
 > [!info]
-> ⭐ 26,115 · Shell · 2026-03-08  
+> ⭐ 26,122 · Shell · 2026-03-08  
 > [GitHub](https://github.com/yuaotian/go-cursor-help)  
 > `#Cursor Trial Reset` `#Account Unlock Tool` `#Cursor Pro Membership` `#cursor` `#error` 
 > This repo offers a Cursor free trial reset tool to bypass blocks like 'suspicious activity' or 'trial limit reached', and sells high-credit Cursor Pro accounts and Google Gemini subscriptions with official billing and tiered pricing plans.
@@ -1959,7 +1959,7 @@
 ## nelvko/clash-for-linux-install
 
 > [!info]
-> ⭐ 10,725 · Shell · 2026-03-05  
+> ⭐ 10,760 · Shell · 2026-03-05  
 > [GitHub](https://github.com/nelvko/clash-for-linux-install)  
 > `#Linux Proxy` `#Clash Core` `#System Administration` `#Tun Mode` `#clash` `#clash-meta` `#linux` `#mihomo` `#subconverter` 
 > One-click Clash/mihomo proxy installer for Linux with automatic system architecture detection, port conflict resolution, kernel upgrades, and Tun mode support. Features clashctl CLI and Web UI, compatible with major distributions and containerized environments.
@@ -1969,7 +1969,7 @@
 ## ArvinLovegood/go-stock
 
 > [!info]
-> ⭐ 5,022 · Go · 2026-03-21  
+> ⭐ 5,032 · Go · 2026-03-22  
 > [GitHub](https://github.com/ArvinLovegood/go-stock) · [Website](https://go-stock.sparkmemory.top)  
 > `#AI Quantitative Investment` `#LLM Integration` `#Stock Analysis` `#FinTech` `#anythingllm` `#deepseek` `#golang` `#lmstudio` `#naiveui` `#ollama` `#openai` `#stock` `#wails` 
 > An AI-powered stock analysis tool built with Wails and NaiveUI, leveraging large language models for intelligent stock screening, sentiment analysis, financial analysis, and technical indicator calculations. Supports A-shares, Hong Kong and US stock markets with price alerts and local data storage, compatible with DeepSeek, OpenAI, Ollama and other LLM APIs.
@@ -1988,7 +1988,7 @@
 ## TheR1D/shell_gpt
 
 > [!info]
-> ⭐ 11,908 · Python · 2026-01-28  
+> ⭐ 11,913 · Python · 2026-01-28  
 > [GitHub](https://github.com/TheR1D/shell_gpt)  
 > `#AI CLI Tool` `#Shell Command Generation` `#LLM Integration` `#Cross-platform` `#chatgpt` `#cheat-sheet` `#cli` `#commands` `#gpt-3` `#gpt-4` `#gpt-5` `#linux` `#llama` `#llm` `#ollama` `#openai` `#productivity` `#python` `#shell` `#terminal` 
 > An AI LLM-powered command-line productivity tool for generating shell commands, code snippets, and documentation. Cross-platform support for Linux, macOS, Windows with shells like PowerShell, CMD, Bash, and Zsh. Features OS-aware command generation and supports pipe/redirection input, ideal for log analysis and git workflows.
@@ -2037,7 +2037,7 @@
 ## khoj-ai/khoj
 
 > [!info]
-> ⭐ 33,544 · Python · 2026-03-19  
+> ⭐ 33,563 · Python · 2026-03-19  
 > [GitHub](https://github.com/khoj-ai/khoj) · [Website](https://khoj.dev)  
 > `#Self-hosted AI Assistant` `#Multi-model LLM Integration` `#Semantic Vector Search` `#Intelligent Document Processing` `#agent` `#ai` `#assistant` `#chat` `#chatgpt` `#emacs` `#image-generation` `#llama3` `#llamacpp` `#llm` `#obsidian` `#obsidian-md` `#offline-llm` `#productivity` `#rag` `#research` `#self-hosted` `#semantic-search` `#stt` `#whatsapp-ai` 
 > Khoj is an open-source, self-hostable AI personal assistant supporting multiple local and cloud LLMs (GPT, Claude, Gemini, Llama, Qwen, Mistral). It retrieves answers from docs and the web, enables custom agent creation, automates research, provides semantic search, and supports cross-platform access.
@@ -2047,7 +2047,7 @@
 ## zai-org/GLM-4
 
 > [!info]
-> ⭐ 7,073 · Python · 2025-07-04  
+> ⭐ 7,074 · Python · 2025-07-04  
 > [GitHub](https://github.com/zai-org/GLM-4)  
 > `#Large Language Model` `#Multimodal Model` `#Reasoning Model` `#Open Source Model` `#chatglm` `#chatglm-6b` `#glm` `#glm-4` `#glm4` 
 > GLM-4-0414 series is an open-source multilingual multimodal chat model from Zhipu AI, featuring 32B parameter variants including Base, reasoning (Z1), and rumination models. Pretrained on 15T high-quality data with RL post-training, it achieves GPT-4o-level performance in code generation, function calling, and instruction following while supporting local deployment.
@@ -2067,7 +2067,7 @@
 ## infiniflow/ragflow
 
 > [!info]
-> ⭐ 75,729 · Python · 2026-03-21  
+> ⭐ 75,809 · Python · 2026-03-21  
 > [GitHub](https://github.com/infiniflow/ragflow) · [Website](https://ragflow.io)  
 > `#Retrieval-Augmented Generation` `#Agent` `#Large Language Models` `#Context Engine` `#agent` `#agentic` `#agentic-ai` `#agentic-workflow` `#ai` `#ai-search` `#context-engineering` `#context-retrieval` `#deep-research` `#deepseek` `#deepseek-r1` `#document-parser` `#document-understanding` `#graphrag` `#llm` `#mcp` `#ollama` `#openai` `#rag` `#retrieval-augmented-generation` 
 > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that integrates advanced RAG with Agent capabilities to deliver a superior context layer for LLMs. It enables scalable, enterprise-ready RAG workflows with pre-built agent templates, enhancing accuracy and controllability in LLM applications.
@@ -2077,7 +2077,7 @@
 ## Mereithhh/vanblog
 
 > [!info]
-> ⭐ 3,560 · TypeScript · 2025-06-12  
+> ⭐ 3,562 · TypeScript · 2025-06-12  
 > [GitHub](https://github.com/Mereithhh/vanblog) · [Website](https://vanblog.mereith.com)  
 > `#Static Blog` `#SSG` `#Auto HTTPS` `#Markdown Editor` `#blog` `#nextjs` `#nodejs` `#typescript` 
 > VanBlog is a concise, elegant personal blogging system featuring static site generation (SSG) with automatic on-demand HTTPS certificate provisioning. It includes built-in image hosting, analytics, and comment system. The powerful Markdown editor supports charts, math formulas, and emoji. Offers dark mode, SEO optimization, incremental rendering, CDN-friendly architecture, with one-click Docker deployment and ARM support.
@@ -2087,7 +2087,7 @@
 ## Y2Z/monolith
 
 > [!info]
-> ⭐ 14,892 · Rust · 2026-02-05  
+> ⭐ 14,898 · Rust · 2026-02-05  
 > [GitHub](https://github.com/Y2Z/monolith) · [Website](https://crates.io/crates/monolith)  
 > `#Web Archiving` `#Offline Browsing` `#Rust CLI` `#Data Hoarding` `#come-and-take-it` `#e-hoarding` `#its-mine` `#make-the-internet-great-again` `#no-more-404` `#procrastination` `#save-the-internet` `#tab-rehab` 
 > Monolith is a Rust-powered CLI tool that saves complete web pages as single HTML files. It embeds all CSS, images, and JavaScript as data URLs, producing standalone offline-ready HTML5 documents. Unlike wget, it preserves exact visual rendering for web archiving and offline storage.
@@ -2097,7 +2097,7 @@
 ## saoshao/DetSql
 
 > [!info]
-> ⭐ 766 · Java · 2026-02-26  
+> ⭐ 767 · Java · 2026-02-26  
 > [GitHub](https://github.com/saoshao/DetSql)  
 > `#SQL Injection Detection` `#BurpSuite Extension` `#Penetration Testing` `#Web Security` `#burp-extensions` `#burp-plugin` `#burpsuite-extender` 
 > DetSql is an automated SQL injection detection plugin for BurpSuite built on the Montoya API. It automatically identifies and marks potential SQL injection parameters from HTTP traffic using multiple detection methods including error-based, response similarity algorithms (Levenshtein/Jaccard), and boolean-based blind injection, significantly improving penetration testing efficiency.
@@ -2107,7 +2107,7 @@
 ## metabase/metabase
 
 > [!info]
-> ⭐ 46,501 · Clojure · 2026-03-21  
+> ⭐ 46,509 · Clojure · 2026-03-23  
 > [GitHub](https://github.com/metabase/metabase) · [Website](https://metabase.com)  
 > `#Business Intelligence` `#Embedded Analytics` `#No-Code Analytics` `#Clojure Backend` `#analytics` `#bi` `#business-intelligence` `#businessintelligence` `#clojure` `#dashboard` `#data` `#data-analysis` `#data-visualization` `#database` `#metabase` `#mysql` `#postgres` `#postgresql` `#reporting` `#slack` `#sql-editor` `#visualization` 
 > Metabase is an open-source Business Intelligence and Embedded Analytics tool that enables non-technical users to query data and gain insights through a visual interface without knowing SQL. It supports multiple databases, creates interactive dashboards, data models, and custom metrics, with a React SDK for embedding analytics components into third-party applications.
@@ -2137,7 +2137,7 @@
 ## pagehelper-org/pagehelper-spring-boot
 
 > [!info]
-> ⭐ 1,609 · Java · 2025-06-20  
+> ⭐ 1,608 · Java · 2025-06-20  
 > [GitHub](https://github.com/pagehelper-org/pagehelper-spring-boot)  
 > `#Spring Boot Starter` `#MyBatis Pagination` `#PageHelper` `#Database Paging` 
 > PageHelper-Spring-Boot-Starter integrates the PageHelper pagination plugin into Spring Boot, enabling MyBatis paging capabilities via Maven dependency. Supports PageHelper 6.x with advanced features including async count, automatic dialect detection, and extensible SQL parsers, compatible with Spring Boot 3.x and JDK17+.
@@ -2147,7 +2147,7 @@
 ## Kong/kong
 
 > [!info]
-> ⭐ 43,014 · Lua · 2026-03-10  
+> ⭐ 43,018 · Lua · 2026-03-10  
 > [GitHub](https://github.com/Kong/kong) · [Website](https://konghq.com/install/)  
 > `#API Gateway` `#Cloud-Native` `#Kubernetes Ingress` `#LLM Gateway` `#ai` `#ai-gateway` `#api-gateway` `#api-management` `#apis` `#artificial-intelligence` `#cloud-native` `#devops` `#kubernetes` `#kubernetes-ingress` `#kubernetes-ingress-controller` `#llm-gateway` `#llm-ops` `#mcp` `#mcp-gateway` `#microservice` `#microservices` `#openai-proxy` `#reverse-proxy` `#serverless` 
 > Kong Gateway is a cloud-native API/LLM/MCP gateway renowned for high performance and plugin extensibility. It provides proxying, routing, load balancing, health checking, authentication and more, with multi-LLM support, semantic security, and MCP traffic analytics. Native Kubernetes Ingress Controller support makes it ideal for microservices and AI traffic management.
@@ -2167,7 +2167,7 @@
 ## WEIFENG2333/VideoCaptioner
 
 > [!info]
-> ⭐ 13,659 · Python · 2026-02-26  
+> ⭐ 13,669 · Python · 2026-03-22  
 > [GitHub](https://github.com/WEIFENG2333/VideoCaptioner) · [Website](https://www.videocaptioner.cn)  
 > `#LLM Subtitle Processing` `#Automatic Speech Recognition` `#Whisper Model` `#Video Subtitle Synthesis` `#ai` `#subtitle` `#translate` `#video-subtile` 
 > VideoCaptioner is an LLM-powered video subtitle processing tool featuring ASR, intelligent sentence segmentation, correction, and translation. It supports local Whisper offline recognition and API calls, leveraging LLM semantic understanding for natural subtitle restructuring with word-level timestamps, VAD detection, batch processing, and an intuitive editing interface.
@@ -2177,7 +2177,7 @@
 ## opendatalab/MinerU
 
 > [!info]
-> ⭐ 56,733 · Python · 2026-03-21  
+> ⭐ 56,825 · Python · 2026-03-21  
 > [GitHub](https://github.com/opendatalab/MinerU) · [Website](https://opendatalab.github.io/MinerU/)  
 > `#PDF Parsing` `#Document Structuring` `#LLM Preprocessing` `#ai4science` `#document-analysis` `#extract-data` `#layout-analysis` `#ocr` `#parser` `#pdf` `#pdf-converter` `#pdf-extractor-llm` `#pdf-extractor-pretrain` `#pdf-extractor-rag` `#pdf-parser` `#python` 
 > MinerU is an open-source tool that intelligently converts complex PDFs into LLM-ready formats like Markdown and JSON, designed for agentic workflows. It extracts structured content such as tables, formulas, and images to enhance accuracy and efficiency in large language model processing.
@@ -2197,7 +2197,7 @@
 ## rapidsai/cugraph
 
 > [!info]
-> ⭐ 2,147 · Cuda · 2026-03-20  
+> ⭐ 2,148 · Cuda · 2026-03-20  
 > [GitHub](https://github.com/rapidsai/cugraph) · [Website](https://docs.rapids.ai/api/cugraph/stable/)  
 > `#GPU Graph Analytics` `#CUDA Acceleration` `#Graph Algorithms` `#RAPIDS Ecosystem` `#complex-networks` `#cuda` `#gpu` `#graph` `#graph-algorithms` `#graph-analysis` `#graph-framework` `#graphml` `#nvidia` `#rapids` 
 > cuGraph is a GPU-accelerated graph analytics library within the RAPIDS ecosystem, enabling high-performance execution of scalable graph algorithms. It offers multi-layer Python, C/C++ APIs with seamless cuDF and cuML integration, supporting Pandas and NetworkX data formats for significant GPU-accelerated performance gains.
@@ -2217,7 +2217,7 @@
 ## pgcentralfoundation/pgrx
 
 > [!info]
-> ⭐ 4,412 · Rust · 2026-03-20  
+> ⭐ 4,416 · Rust · 2026-03-22  
 > [GitHub](https://github.com/pgcentralfoundation/pgrx)  
 > `#Rust Extension` `#PostgreSQL Extension` `#Database UDF` `#Procedural Macro` `#postgres` `#postgresql` `#postgresql-extension` `#rust` `#rustlang` 
 > pgrx is a framework for building PostgreSQL extensions in Rust, supporting Postgres 13-18. It provides cargo-pgrx for the full development lifecycle, #[pg_extern] macros for automatic SQL schema generation, custom types with CBOR/JSON/binary protocol support, and memory-safe panic-to-error translation.
@@ -2237,7 +2237,7 @@
 ## noimank/tvbox
 
 > [!info]
-> ⭐ 2,345 · N/A · 2026-01-02  
+> ⭐ 2,349 · N/A · 2026-01-02  
 > [GitHub](https://github.com/noimank/tvbox)  
 > `#TVBox` `#IPTV` `#Multi-source` `#Streaming` 
 > This repository shares self-used TVBox and影视仓 multi-source APIs along with IPTV live streaming sources. 影视仓 is an Android app based on TVBox code modification, supporting multi-warehouse source switching, video aggregation, and IPTV live streaming. The repo provides multiple JSON source interfaces and curates quality IPTV sources from GitHub.
@@ -2257,7 +2257,7 @@
 ## dockur/macos
 
 > [!info]
-> ⭐ 19,343 · Shell · 2026-03-05  
+> ⭐ 19,354 · Shell · 2026-03-05  
 > [GitHub](https://github.com/dockur/macos)  
 > `#KVM virtualization` `#Containerized macOS` `#Docker virtualization` `#noVNC remote access` `#docker` `#docker-container` `#mac` `#macos` `#macos-virtual-machine` `#macos-vm` `#macosx` `#osx` `#osx-virtual-machine` `#virtualization` 
 > Run macOS inside Docker containers with KVM hardware virtualization acceleration. Supports automatic download of macOS 11-15 versions, features a web-based remote viewer (noVNC), and allows configurable CPU, RAM, and disk size. Ideal for development, testing, CI/CD pipelines, and server deployment.
@@ -2267,7 +2267,7 @@
 ## dockur/windows
 
 > [!info]
-> ⭐ 50,669 · Shell · 2026-03-09  
+> ⭐ 50,681 · Shell · 2026-03-09  
 > [GitHub](https://github.com/dockur/windows)  
 > `#Windows Containerization` `#KVM Virtualization` `#Desktop Virtualization` `#RDP Remote Access` `#docker` `#docker-container` `#virtualization` `#windows` `#windows-virtual-desktop` `#windows-virtual-machine` `#windows-virtual-machines` `#windows-vm` 
 > An open-source project enabling Windows to run inside Docker containers, supporting Windows 11/10/8.1/7 and Server versions. Features KVM hardware virtualization acceleration, web-based remote access via browser, and automated ISO downloading. Ideal for development testing, desktop virtualization, and CI/CD pipelines.
@@ -2287,7 +2287,7 @@
 ## chartdb/chartdb
 
 > [!info]
-> ⭐ 21,636 · TypeScript · 2026-03-21  
+> ⭐ 21,647 · TypeScript · 2026-03-21  
 > [GitHub](https://github.com/chartdb/chartdb) · [Website](https://chartdb.io)  
 > `#Database Diagrams` `#SQL Visualization` `#Database Design` `#Schema Editor` `#database` `#db` `#db-migration` `#editor` `#erd` `#mariadb` `#mssql` `#mysql` `#postgresql` `#react` `#react-flow` `#schema-migrations` `#sql` `#sqlite` `#typescript` `#visualization` `#xyflow` 
 > ChartDB is a powerful web-based database diagramming editor that instantly visualizes schema through a single SQL query. Supporting 8 major databases including PostgreSQL and MySQL, it offers AI-powered cross-database DDL export and interactive editing—no account required. Ideal for documentation, team collaboration, and migration tasks.
@@ -2297,7 +2297,7 @@
 ## itwanger/toBeBetterJavaer
 
 > [!info]
-> ⭐ 16,783 · Python · 2026-03-20  
+> ⭐ 16,786 · Python · 2026-03-20  
 > [GitHub](https://github.com/itwanger/toBeBetterJavaer) · [Website](https://javabetter.cn)  
 > `#Java Basics` `#Concurrent Programming` `#JVM` `#Interview Guide` `#java` `#jvm` `#mysql` `#redis` `#springboot` 
 > A comprehensive Java learning guide featuring witty and accessible explanations for developers at all levels. Covers core Java fundamentals, concurrent programming, JVM internals, enterprise development, databases, and includes practical interview preparation with structured learning paths.
@@ -2317,7 +2317,7 @@
 ## hatoo/oha
 
 > [!info]
-> ⭐ 10,127 · Rust · 2026-03-16  
+> ⭐ 10,129 · Rust · 2026-03-16  
 > [GitHub](https://github.com/hatoo/oha)  
 > `#Rust Load Testing` `#TUI Real-time Dashboard` `#tokio Async Runtime` `#HTTP Stress Testing` `#benchmark` `#cli` `#command-line` `#http` `#http2` `#load-generator` `#load-testing` `#rust` `#tui` 
 > oha is a high-performance HTTP load generator written in Rust, inspired by rakyll/hey. It features a real-time TUI dashboard displaying latency, QPS, and error rate metrics. Built on tokio async runtime for high concurrency, it supports HTTP/1.1, HTTP/2, and experimental HTTP/3 with cross-platform deployment.
@@ -2327,7 +2327,7 @@
 ## Klocman/Bulk-Crap-Uninstaller
 
 > [!info]
-> ⭐ 17,977 · C# · 2026-03-07  
+> ⭐ 17,993 · C# · 2026-03-07  
 > [GitHub](https://github.com/Klocman/Bulk-Crap-Uninstaller) · [Website](https://www.bcuninstaller.com/)  
 > `#Batch Uninstall` `#Windows System Utility` `#.NET6 Desktop App` `#System Cleanup` `#application-manager` `#application-uninstaller` `#bloatware` `#bulk-actions` `#bulk-uninstall` `#cleaner` `#debloat` `#disk-space` `#inno-setup` `#msi` `#nsis` `#portableapps` `#software-management` `#unattended-uninstall` `#uninstall` `#uninstaller` `#windows` `#windows-10` `#windows-forms` 
 > Bulk Crap Uninstaller is a free open-source Windows batch uninstaller. It excels at removing large amounts of unwanted applications with minimal user input, cleaning leftovers, and detecting orphaned programs. Fully supports Windows Store apps, Steam games, and various installer systems including NSIS, InnoSetup, and Msiexec. Designed for IT professionals yet accessible to regular users.
@@ -2337,7 +2337,7 @@
 ## wh1t3zer/SpringBootVul-GUI
 
 > [!info]
-> ⭐ 777 · Java · 2025-09-30  
+> ⭐ 776 · Java · 2025-09-30  
 > [GitHub](https://github.com/wh1t3zer/SpringBootVul-GUI)  
 > `#SpringBoot Security` `#Vulnerability Exploit` `#Remote Code Execution` `#Penetration Testing` 
 > A semi-automated security testing tool for SpringBoot applications featuring password desensitization, multiple RCE exploits (Eureka deserialization, H2 database, SpEL injection, Groovy RCE), memory shell injection, and heapdump acquisition with GUI support for single or batch vulnerability detection in authorized security research scenarios.
@@ -2347,7 +2347,7 @@
 ## sxyazi/yazi
 
 > [!info]
-> ⭐ 34,973 · Rust · 2026-03-21  
+> ⭐ 35,041 · Rust · 2026-03-21  
 > [GitHub](https://github.com/sxyazi/yazi) · [Website](https://yazi-rs.github.io)  
 > `#Rust Async IO` `#Terminal File Manager` `#Plugin System` `#Virtual Filesystem` `#android` `#asyncio` `#cli` `#command-line` `#concurrency` `#cross-platform` `#developer-tools` `#file-explorer` `#file-manager` `#filesystem` `#linux` `#macos` `#neovim` `#productivity` `#rust` `#terminal` `#tui` `#vim` `#windows` 
 > Yazi is a blazing-fast terminal file manager written in Rust, utilizing non-blocking async I/O for exceptional performance. It features built-in code highlighting, image preview, and a concurrent Lua-based plugin system. The client-server architecture enables cross-instance communication and state persistence, while a built-in package manager simplifies plugin and theme installation.
@@ -2357,7 +2357,7 @@
 ## cmliu/CF-Workers-docker.io
 
 > [!info]
-> ⭐ 9,136 · JavaScript · 2025-06-26  
+> ⭐ 9,143 · JavaScript · 2025-06-26  
 > [GitHub](https://github.com/cmliu/CF-Workers-docker.io) · [Website](https://Docker.fxxk.dedyn.io)  
 > `#Cloudflare Workers` `#Docker Registry Proxy` `#Serverless Functions` `#Container Image Acceleration` `#cloudflare-pages` `#cloudflare-workers` `#docker` `#dockerhub` 
 > A Docker registry proxy tool built on Cloudflare Workers that forwards requests to Docker Hub via serverless functions, solving access restrictions and accelerating image pulls. Supports both Workers and Pages deployment with configurable homepage masquerading, 302 redirects, and UA spoofing features, plus a curated list of third-party DockerHub mirror services.
@@ -2367,7 +2367,7 @@
 ## Richasy/Bili.Copilot
 
 > [!info]
-> ⭐ 5,113 · GLSL · 2025-11-26  
+> ⭐ 5,133 · GLSL · 2025-11-26  
 > [GitHub](https://github.com/Richasy/Bili.Copilot)  
 > `#Windows App SDK` `#WinUI3` `#Video Playback` `#AI Assistant` `#bilibili` `#windows-app-sdk` `#winui3` 
 > Bili.Copilot is a third-party Bilibili desktop client for Windows, built with Windows App SDK as a native WinUI3 application. Features video playback (MPV/external), AI assistant (20+ models), video downloading, with reusable components like bili-kernel and agent-kernel.
@@ -2377,7 +2377,7 @@
 ## linyimin0812/spring-startup-analyzer
 
 > [!info]
-> ⭐ 1,844 · Java · 2025-07-10  
+> ⭐ 1,843 · Java · 2025-07-10  
 > [GitHub](https://github.com/linyimin0812/spring-startup-analyzer)  
 > `#Spring Boot` `#Performance Analysis` `#Startup Optimization` `#Flame Graph` `#async-spring-bean` `#spring` `#spring-boot` `#spring-boot-startup` `#spring-boot-startup-optimization` `#spring-startup-monitor` `#spring-startup-optimization` `#startup-time-optimization` 
 > Spring Startup Analyzer collects application startup data including Bean initialization, method invocations, and thread execution to generate interactive visualization reports with Bean details, timeline, and flame graphs, helping developers identify performance bottlenecks. It also provides async Bean initialization components that execute init and @PostConstruct methods asynchronously to significantly improve startup speed.
@@ -2407,7 +2407,7 @@
 ## dandavison/delta
 
 > [!info]
-> ⭐ 29,598 · Rust · 2026-03-20  
+> ⭐ 29,615 · Rust · 2026-03-22  
 > [GitHub](https://github.com/dandavison/delta) · [Website](https://dandavison.github.io/delta/)  
 > `#Rust` `#Git Tools` `#Syntax Highlighting` `#Diff Visualization` `#color-themes` `#delta` `#diff` `#git` `#git-delta` `#pager` `#rust` `#syntax-highlighter` 
 > Delta is a Rust-based syntax-highlighting pager for git diff, grep, and blame output. It provides word-level diff highlighting using Levenshtein edit inference, side-by-side view with line numbering, enhanced merge conflict display, and terminal hyperlinks. Features 20+ customizable styles using bat's syntax themes, supports diff-highlight/diff-so-fancy emulation, and auto-detects terminal color schemes.
@@ -2427,7 +2427,7 @@
 ## XayahSuSuSu/Android-DataBackup
 
 > [!info]
-> ⭐ 6,375 · Kotlin · 2026-03-11  
+> ⭐ 6,381 · Kotlin · 2026-03-22  
 > [GitHub](https://github.com/XayahSuSuSu/Android-DataBackup) · [Website](https://DataBackupOfficial.github.io)  
 > `#Root Backup` `#Android Backup Tool` `#Multi-user Support` `#Cloud Sync` `#android` `#backup` `#compose` `#root` `#zstd` 
 > An open-source data backup app for Android 7.0+, developed from speed-backup script. Provides complete data backup and restore with Root privileges, supporting mainstream Root solutions like Magisk, KernelSU, and APatch, while handling multi-user environments and cloud backup with 100% data integrity.
@@ -2437,7 +2437,7 @@
 ## xyflow/xyflow
 
 > [!info]
-> ⭐ 35,777 · TypeScript · 2026-03-19  
+> ⭐ 35,789 · TypeScript · 2026-03-19  
 > [GitHub](https://github.com/xyflow/xyflow) · [Website](https://xyflow.com)  
 > `#Node Editor` `#React Components` `#Svelte Components` `#Visual Workflow` `#flowchart` `#graph` `#javascript` `#node-based-ui` `#react` `#react-flow` `#svelte` `#svelte-flow` `#typescript` `#typescript-library` `#workflow` 
 > xyflow is a powerful open-source node-based UI library supporting both React (React Flow) and Svelte (Svelte Flow). It offers out-of-the-box nodes, edges, controls, and mini-maps for building workflow editors, flowcharts, and chatbot interfaces with seamless customization and extensibility.
@@ -2447,7 +2447,7 @@
 ## tstack/lnav
 
 > [!info]
-> ⭐ 9,744 · C++ · 2026-03-21  
+> ⭐ 9,745 · C++ · 2026-03-22  
 > [GitHub](https://github.com/tstack/lnav) · [Website](http://lnav.org)  
 > `#Terminal Tools` `#Log Analysis` `#C++ Development` `#SQLite Queries` `#command-line-tool` `#less` `#log-analysis` `#log-monitor` `#log-viewer` `#log-visualization` `#logging` `#more` `#pager` `#tail` `#terminal` `#terminal-pager` `#tui` 
 > lnav is a terminal-based log file navigator with automatic decompression, format detection, timestamp merging, and file monitoring. Features error index navigation, regex search, text highlighting, filtering, time histogram visualization, and SQLite log analysis—smarter than traditional tail/grep/less for log processing.
@@ -2467,7 +2467,7 @@
 ## xiangyuecn/AreaCity-JsSpider-StatsGov
 
 > [!info]
-> ⭐ 6,429 · JavaScript · 2025-10-30  
+> ⭐ 6,430 · JavaScript · 2025-10-30  
 > [GitHub](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) · [Website](https://xiangyuecn.github.io/AreaCity-JsSpider-StatsGov/)  
 > `#Administrative Division` `#Geo-coordinates` `#GIS Data` `#Multi-level Linkage` 
 > A comprehensive China administrative division data collection project providing province/city/district/township-level data from multiple sources including NBS, Ministry of Civil Affairs, Amap and Tencent Maps. Features CSV files with pinyin annotations, coordinates and boundary ranges, supporting conversion to JSON/multi-level JS, with tools exporting to shp, geojson, sql formats for map visualization and geolocation applications.
@@ -2477,7 +2477,7 @@
 ## ChirmyRam/ChirmyRam-OneDrive-Repository
 
 > [!info]
-> ⭐ 1,862 · N/A · 2025-10-26  
+> ⭐ 1,864 · N/A · 2025-10-26  
 > [GitHub](https://github.com/ChirmyRam/ChirmyRam-OneDrive-Repository)  
 > `#OneDrive Storage` `#WebDAV Mount` `#alist` `#4K Video` 
 > ChirmyRam's OneDrive repository hosting ~170TB of movies, anime, e-books, and 4K content. Built with alist (Golang), supports WebDAV protocol for local player mounting with multi-account load balancing. Currently experiencing frequent API throttling due to high traffic, intended for learning exchange only.
@@ -2487,7 +2487,7 @@
 ## IceWhaleTech/CasaOS
 
 > [!info]
-> ⭐ 33,447 · Go · 2025-08-06  
+> ⭐ 33,458 · Go · 2025-08-06  
 > [GitHub](https://github.com/IceWhaleTech/CasaOS) · [Website](https://casaos.zimaspace.com)  
 > `#Personal Cloud` `#Self-hosted` `#Docker` `#Home Server` `#casaos` `#docker` `#golang` `#home-automation` `#home-cloud` `#home-server` `#iot` `#raspberry` `#self-hosted` `#vuejs` 
 > CasaOS is an open-source personal cloud system that enables users to quickly deploy private cloud services on home servers or single-board computers through a simple, elegant web interface. It supports file management, app store, Docker container deployment, reducing reliance on commercial SaaS and achieving data autonomy.
@@ -2517,7 +2517,7 @@
 ## rancher/local-path-provisioner
 
 > [!info]
-> ⭐ 2,809 · Go · 2026-03-20  
+> ⭐ 2,810 · Go · 2026-03-20  
 > [GitHub](https://github.com/rancher/local-path-provisioner)  
 > `#Kubernetes Storage` `#Local Persistent Volume` `#Dynamic Provisioning` `#Container Storage` `#k8s-sig-storage` 
 > Local Path Provisioner is a Kubernetes dynamic storage provisioner developed by Rancher that automatically creates hostPath or local persistent volumes on nodes. It simplifies Kubernetes' native Local Persistent Volume feature, providing an easier local storage solution for cloud-native applications requiring high performance or cost-effective storage.
@@ -2527,7 +2527,7 @@
 ## mherrmann/helium
 
 > [!info]
-> ⭐ 8,258 · Python · 2026-02-04  
+> ⭐ 8,260 · Python · 2026-02-04  
 > [GitHub](https://github.com/mherrmann/helium)  
 > `#Python Library` `#Web Automation` `#Selenium Wrapper` `#Browser Testing` `#chrome` `#firefox` `#helium` `#python` `#python3` `#selenium` `#selenium-python` `#web-automation` `#web-scraping` `#webdriver` 
 > Helium is a Python browser automation library built on Selenium that lets users locate elements using visible text labels (like button names) instead of HTML IDs or XPaths, making scripts shorter and more readable. Compared to pure Selenium, code is reduced by 30-50%, with built-in iFrame handling, smart window management, and implicit waiting.
@@ -2537,7 +2537,7 @@
 ## cryptomator/cryptomator
 
 > [!info]
-> ⭐ 14,819 · Java · 2026-03-20  
+> ⭐ 14,822 · Java · 2026-03-20  
 > [GitHub](https://github.com/cryptomator/cryptomator) · [Website](https://cryptomator.org)  
 > `#Client-side Encryption` `#Virtual Filesystem` `#Cloud Storage Security` `#End-to-End Encryption` `#cloud-storage` `#crypto` `#cryptography` `#cryptomator` `#encryption` `#java` `#privacy` `#security` 
 > Cryptomator is an open-source cross-platform client-side encryption tool for Windows, macOS, and Linux. It provides transparent encryption for cloud storage through a virtual encrypted filesystem using AES-256 encryption with Scrypt key derivation, protecting file content and names while supporting major cloud services like Dropbox, Google Drive, and OneDrive.
@@ -2547,7 +2547,7 @@
 ## dundee/gdu
 
 > [!info]
-> ⭐ 5,447 · Go · 2026-03-21  
+> ⭐ 5,451 · Go · 2026-03-21  
 > [GitHub](https://github.com/dundee/gdu)  
 > `#Go` `#Disk Analysis` `#Parallel Processing` `#Console UI` `#cli` `#disk-usage` `#filesystem` `#golang` `#hacktoberfest` 
 > Gdu is a fast disk usage analyzer written in Go, optimized for SSDs to leverage parallel processing, while also supporting HDDs. It features an interactive console interface with capabilities including directory exclusion, symlink following, cross-filesystem scanning, and database storage for analysis results, ideal for disk space management in servers and desktops.
@@ -2577,7 +2577,7 @@
 ## labring/sealos
 
 > [!info]
-> ⭐ 17,024 · TypeScript · 2026-03-21  
+> ⭐ 17,030 · TypeScript · 2026-03-21  
 > [GitHub](https://github.com/labring/sealos) · [Website](https://sealos.io)  
 > `#Kubernetes` `#Cloud Operating System` `#AI-native Platform` `#Database-as-a-Service` `#cloudos` `#container` `#docker` `#golang` `#install` `#ipvs` `#kubeadm` `#kubernetes` `#kubernetes-ha` 
 > Sealos is an AI-native Cloud OS built on Kubernetes that unifies the full application lifecycle from cloud IDE development to production deployment. Supports one-click dev environments, managed databases (MySQL/PostgreSQL/Redis/MongoDB), and microservice architectures.
@@ -2587,7 +2587,7 @@
 ## oceanbase/oceanbase
 
 > [!info]
-> ⭐ 10,029 · C++ · 2026-03-22  
+> ⭐ 10,031 · C++ · 2026-03-23  
 > [GitHub](https://github.com/oceanbase/oceanbase) · [Website](https://en.oceanbase.com)  
 > `#Distributed Database` `#HTAP` `#Vector Database` `#Paxos Consensus` `#analytics` `#cloud-native` `#database` `#distributed-database` `#fulltext` `#fulltext-search` `#fulltext-support` `#hacktoberfest` `#htap` `#mysql` `#mysql-compatibility` `#oceanbase` `#olap` `#oltp` `#paxos` `#scalable` `#vector` `#vector-database` `#vector-search` `#vectors` 
 > OceanBase is a distributed relational database developed by Ant Group, featuring Paxos-based high availability and linear scalability. It supports vector search for AI applications and HTAP workloads, achieving 707M TPC-C and 15.26M TPC-H with 70-90% storage cost reduction.
@@ -2597,7 +2597,7 @@
 ## AlistGo/alist
 
 > [!info]
-> ⭐ 49,194 · Go · 2026-03-16  
+> ⭐ 49,199 · Go · 2026-03-16  
 > [GitHub](https://github.com/AlistGo/alist) · [Website](https://alistgo.com)  
 > `#Multi-Cloud Storage` `#WebDAV Server` `#File Management` `#Golang Backend` `#file-server` `#gin` `#golang` `#onedrive` `#solidjs` `#webdav` 
 > A file list and WebDAV program supporting 40+ storage backends, built with Go/Gin for backend and Solidjs for frontend. It aggregates local storage and cloud drives (Aliyun Drive, OneDrive, Google Drive, Baidu Netdisk, S3, etc.) into a unified file management interface with WebDAV access, deployable via Docker.
@@ -2637,7 +2637,7 @@
 ## xiaye13579/BBLL
 
 > [!info]
-> ⭐ 17,337 · N/A · 2025-02-28  
+> ⭐ 17,340 · N/A · 2025-02-28  
 > [GitHub](https://github.com/xiaye13579/BBLL)  
 > `#Android Client` `#Bilibili API` `#Video Streaming` `#Third-party App` `#android` `#apk` `#bilibili` `#bilibili-client` `#bilibili-tv` `#tv` 
 > BBLL is a third-party Bilibili client for Android, developed for learning and communication purposes. The app encapsulates Bilibili's official APIs to provide core video streaming functionalities including playback and live streaming. It uses hardware decoding and supports multiple navigation methods. Without any cracking behavior, all data is sourced directly from Bilibili's official interfaces.
@@ -2647,7 +2647,7 @@
 ## istio/istio
 
 > [!info]
-> ⭐ 38,124 · Go · 2026-03-21  
+> ⭐ 38,125 · Go · 2026-03-22  
 > [GitHub](https://github.com/istio/istio) · [Website](https://istio.io)  
 > `#Service Mesh` `#Microservices Governance` `#Cloud Native` `#Envoy Proxy` `#api-management` `#circuit-breaker` `#consul` `#enforce-policies` `#envoy` `#fault-injection` `#kubernetes` `#lyft-envoy` `#microservice` `#microservices` `#nomad` `#polyglot-microservices` `#proxies` `#request-routing` `#resiliency` `#service-mesh` 
 > Istio is an open-source service mesh that transparently layers onto distributed applications, enabling traffic management, secure service connectivity, mTLS authentication, and observability via Envoy sidecar proxies or Ztunnel's sidecar-less mode. Istiod provides unified service discovery, configuration, and certificate management as the control plane for cloud-native microservices.
@@ -2657,7 +2657,7 @@
 ## Orange-OpenSource/hurl
 
 > [!info]
-> ⭐ 18,658 · Rust · 2026-03-21  
+> ⭐ 18,665 · Rust · 2026-03-22  
 > [GitHub](https://github.com/Orange-OpenSource/hurl) · [Website](https://hurl.dev)  
 > `#CLI HTTP Tool` `#API Testing Framework` `#Plain Text Requests` `#Assertion Validation` `#api-testing` `#cli` `#curl` `#http` `#http-client` `#integration-testing` `#testing` `#testing-tools` 
 > Hurl is a command-line HTTP tool that executes requests defined in plain text format. It supports chained requests, variable capture, XPath/JSONPath queries and various assertions for testing REST, SOAP, GraphQL APIs, with performance testing and CI/CD integration reports.
@@ -2667,7 +2667,7 @@
 ## aristocratos/btop
 
 > [!info]
-> ⭐ 31,112 · C++ · 2026-03-21  
+> ⭐ 31,125 · C++ · 2026-03-22  
 > [GitHub](https://github.com/aristocratos/btop)  
 > `#C++23` `#System Monitor` `#Terminal Tool` `#Cross-Platform` 
 > btop++ is a modern system resource monitor written in C++23, supporting Linux, macOS, FreeBSD, NetBSD, and OpenBSD. It provides an intuitive terminal interface for real-time monitoring of CPU, memory, disk, network, and Intel GPU usage, featuring customizable themes and multiple view layouts as a powerful alternative to traditional top/htop.
@@ -2677,7 +2677,7 @@
 ## searxng/searxng
 
 > [!info]
-> ⭐ 26,945 · Python · 2026-03-20  
+> ⭐ 27,010 · Python · 2026-03-20  
 > [GitHub](https://github.com/searxng/searxng) · [Website](https://docs.searxng.org)  
 > `#Metasearch Engine` `#Privacy Protection` `#Open Source Search` `#AGPL License` `#bing` `#brave` `#degoogle` `#duckduckgo` `#google` `#metasearch` `#privacy` `#python` `#qwant` `#search` `#search-engine` `#searx` `#searxng` `#startpage` `#yahoo` 
 > SearXNG is a free and open-source internet metasearch engine that aggregates results from various search services and databases. It queries multiple sources simultaneously while ensuring user privacy—no tracking or profiling. Licensed under AGPL-3.0 with comprehensive documentation.
@@ -2687,7 +2687,7 @@
 ## adyliu/china_area
 
 > [!info]
-> ⭐ 2,459 · N/A · 2023-12-23  
+> ⭐ 2,460 · N/A · 2023-12-23  
 > [GitHub](https://github.com/adyliu/china_area)  
 > `#Administrative Division` `#5-level Hierarchy` `#National Statistics` `#GIS Data` `#china` `#china-city` `#china-location` `#zone` 
 > This repository provides complete 2024 China's five-level administrative division data with 665,552 records spanning provinces, cities, counties, towns, and villages, sourced from the National Bureau of Statistics. Includes 2010-2024 administrative changes and urban-rural classification statistics, available in CSV and SQL formats for GIS, address pickers, and regional analysis applications.
@@ -2697,7 +2697,7 @@
 ## nats-io/nats-server
 
 > [!info]
-> ⭐ 19,391 · Go · 2026-03-20  
+> ⭐ 19,393 · Go · 2026-03-20  
 > [GitHub](https://github.com/nats-io/nats-server) · [Website](https://nats.io)  
 > `#Message Middleware` `#Cloud Native` `#Pub/Sub` `#Edge Computing` `#cloud` `#cloud-computing` `#cloud-native` `#connected-vehicle` `#distributed-systems` `#edge` `#edge-ai` `#edge-computing` `#go` `#golang` `#message-bus` `#message-queue` `#messaging` `#microservices-architecture` `#nats-server` 
 > NATS Server is a CNCF-hosted high-performance messaging middleware providing lightweight pub/sub and request/reply communication for cloud-native and edge computing. With 40+ language clients, it offers low latency, high throughput, clustering and flow control, widely used in microservices, IoT and distributed system decoupling.
@@ -2707,7 +2707,7 @@
 ## tech-shrimp/docker_image_pusher
 
 > [!info]
-> ⭐ 2,859 · N/A · 2024-08-21  
+> ⭐ 2,858 · N/A · 2024-08-21  
 > [GitHub](https://github.com/tech-shrimp/docker_image_pusher)  
 > `#GitHub Actions` `#Aliyun ACR` `#Image Sync` `#Container Registry` `#aliyun` `#docker` `#docker-image` `#dockerhub` `#github-actions` 
 > A GitHub Actions-based tool that syncs Docker images from foreign registries (DockerHub, gcr.io, k8s.io, ghcr.io) to Aliyun Container Registry, solving slow or failed image pulls in China. Supports 40GB large images, multi-architecture, and automatic handling of name conflicts.
@@ -2717,7 +2717,7 @@
 ## apache/hertzbeat
 
 > [!info]
-> ⭐ 7,134 · Java · 2026-03-21  
+> ⭐ 7,135 · Java · 2026-03-22  
 > [GitHub](https://github.com/apache/hertzbeat) · [Website](https://hertzbeat.apache.org/)  
 > `#Observability` `#Real-time Monitoring` `#Agentless Monitoring` `#Alerting Platform` `#agent` `#ai` `#alerting` `#database` `#grafana` `#linux` `#llm` `#logs` `#metrics` `#monitor` `#monitoring` `#notifications` `#observability` `#prometheus` `#self-hosted` `#server` `#status` `#status-page` `#uptime` `#zabbix` 
 > Apache HertzBeat is an AI-powered next-generation open-source real-time observability platform featuring unified metrics and logs collection, alerting distribution, and intelligent analysis. It enables high-performance cluster monitoring without agents and provides powerful custom monitoring and status page building capabilities.
@@ -2727,7 +2727,7 @@
 ## NginxProxyManager/nginx-proxy-manager
 
 > [!info]
-> ⭐ 32,192 · TypeScript · 2026-03-21  
+> ⭐ 32,202 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) · [Website](https://nginxproxymanager.com)  
 > `#Docker Containerization` `#Nginx Reverse Proxy` `#Let's Encrypt SSL` `#Web Admin Interface` `#nginx` `#nginx-proxy` 
 > Nginx Proxy Manager is a Docker-based reverse proxy management tool with a visual Web UI to simplify Nginx configuration. It supports free Let's Encrypt SSL certificate auto-renewal, domain forwarding, redirection, access control and user management. Ideal for exposing home network services to the internet without deep Nginx knowledge.
@@ -2757,7 +2757,7 @@
 ## fathyb/carbonyl
 
 > [!info]
-> ⭐ 16,154 · Rust · 2024-07-01  
+> ⭐ 16,156 · Rust · 2024-07-01  
 > [GitHub](https://github.com/fathyb/carbonyl)  
 > `#Terminal Browser` `#Chromium` `#Rust` `#WebGL` `#browser` `#chromium` `#terminal` 
 > Carbonyl is a Chromium-based browser designed to run natively in terminals. Built with a Rust rendering core, it achieves sub-second startup, 60 FPS performance, and 0% idle CPU usage. Requires no window server, supports modern Web APIs including WebGL and WebGPU, and works through SSH or in safe-mode console environments.
@@ -2787,7 +2787,7 @@
 ## makeplane/plane
 
 > [!info]
-> ⭐ 46,837 · TypeScript · 2026-03-20  
+> ⭐ 46,857 · TypeScript · 2026-03-20  
 > [GitHub](https://github.com/makeplane/plane) · [Website](http://plane.so)  
 > `#Project Management` `#Agile Development` `#Self-hosted` `#Issue Tracking` `#boards` `#bug-tracker` `#django` `#docker` `#gantt` `#issue-tracker` `#jira` `#jira-alternative` `#kanban` `#linear` `#postgresql` `#product-management` `#project-management` `#project-planning` `#python` `#react` `#redis` `#typescipt` `#vite` `#work-management` 
 > Plane is an open-source project management platform serving as an alternative to Jira, Linear, Monday, and ClickUp. It supports task management, sprint cycles, documentation, modules, and real-time analytics. Built with Django and React, offering Docker and Kubernetes deployment for self-hosting.
@@ -2797,7 +2797,7 @@
 ## mfts/papermark
 
 > [!info]
-> ⭐ 8,143 · TypeScript · 2026-03-21  
+> ⭐ 8,146 · TypeScript · 2026-03-21  
 > [GitHub](https://github.com/mfts/papermark) · [Website](https://www.papermark.com)  
 > `#Document Sharing` `#DocSend Alternative` `#Self-hosted Documents` `#Next.js Full-stack` `#dataroom` `#hacktoberfest` `#next-auth` `#nextjs` `#open-source` `#pdf` `#postgresql` `#prisma` `#tailwindcss` `#typescript` `#zod` 
 > Papermark is an open-source document sharing platform serving as a DocSend alternative. It enables secure document sharing via custom links, custom domains, and branding, with built-in document tracking and analytics. Supports self-hosted deployment, built with Next.js + TypeScript + PostgreSQL.
@@ -2807,7 +2807,7 @@
 ## blossom-editor/blossom
 
 > [!info]
-> ⭐ 3,795 · Java · 2025-12-23  
+> ⭐ 3,794 · Java · 2025-12-23  
 > [GitHub](https://github.com/blossom-editor/blossom) · [Website](https://www.wangyunf.com/blossom-doc/index)  
 > `#Bi-directional Notes` `#Self-hosted` `#Markdown Editor` `#Knowledge Management` `#blog` `#client-server` `#editor` `#markdown` 
 > Blossom is a self-hostable cloud-based bi-directional note-taking application with Markdown support, enabling multi-device sync across Windows, Mac and web clients. Features built-in image management, calendar planning, todos, Pomodoro timer, and dynamic blogging—ideal for personal knowledge management and team collaboration.
@@ -2817,7 +2817,7 @@
 ## shadow1ng/fscan
 
 > [!info]
-> ⭐ 13,520 · Go · 2026-01-31  
+> ⭐ 13,522 · Go · 2026-01-31  
 > [GitHub](https://github.com/shadow1ng/fscan)  
 > `#Intranet Penetration` `#Vulnerability Scanner` `#Go Security Tool` `#Password Brute-force` `#fscan` `#scanner` `#scanning` `#sec` `#security` `#security-tools` 
 > Fscan is a Go-based comprehensive intranet scanning tool featuring automated host discovery, port scanning, password brute-forcing, vulnerability detection (MS17-010), Web fingerprinting, and XRay POC-compatible scanning. Includes Redis/SSH exploitation modules for one-click intranet reconnaissance and security assessment, ideal for enterprise penetration testing.
@@ -2827,7 +2827,7 @@
 ## remotely-save/remotely-save
 
 > [!info]
-> ⭐ 7,018 · TypeScript · 2024-11-10  
+> ⭐ 7,021 · TypeScript · 2024-11-10  
 > [GitHub](https://github.com/remotely-save/remotely-save) · [Website](https://remotelysave.com)  
 > `#Obsidian Plugin` `#Cloud Sync` `#End-to-End Encryption` `#S3-Compatible Storage` 
 > An unofficial sync plugin for Obsidian notes app, supporting 12+ cloud storage services including S3-compatible (Cloudflare R2/Backblaze B2), Dropbox, WebDAV, OneDrive, Google Drive. Features end-to-end encryption, mobile sync, scheduled auto-sync, file skip rules, and smart conflict handling.
@@ -2837,7 +2837,7 @@
 ## zsviczian/obsidian-excalidraw-plugin
 
 > [!info]
-> ⭐ 6,465 · TypeScript · 2026-03-20  
+> ⭐ 6,471 · TypeScript · 2026-03-20  
 > [GitHub](https://github.com/zsviczian/obsidian-excalidraw-plugin)  
 > `#Obsidian Plugin` `#Sketching Tool` `#Visual Thinking` `#Excalidraw` 
 > An Obsidian plugin integrating Excalidraw sketching tool, enabling storage and editing of drawings directly in your vault. Supports embedding drawings into Markdown documents with bidirectional linking to other notes. Features stencil library, templates, and scripting for visual thinking and knowledge management.
@@ -2857,7 +2857,7 @@
 ## nvm-sh/nvm
 
 > [!info]
-> ⭐ 92,445 · Shell · 2026-03-13  
+> ⭐ 92,464 · Shell · 2026-03-13  
 > [GitHub](https://github.com/nvm-sh/nvm)  
 > `#Node.js Version Management` `#bash Script` `#Multi-version Switching` `#Development Environment Tool` `#bash` `#install` `#lts` `#node` `#node-js` `#nodejs` `#nvm` `#nvmrc` `#posix` `#posix-compliant` `#shell` `#version-manager` `#zsh` 
 > nvm (Node Version Manager) is a POSIX-compliant bash script for managing multiple active Node.js versions via command line. It supports automatic version switching via .nvmrc files, provides shell integration for bash/zsh/fish, and is compatible with Linux, macOS, WSL, and Alpine Linux. CII Best Practices certified, it's the de facto standard tool for Node.js version management.
@@ -2867,7 +2867,7 @@
 ## jumpserver/jumpserver
 
 > [!info]
-> ⭐ 30,097 · Python · 2026-03-20  
+> ⭐ 30,099 · Python · 2026-03-20  
 > [GitHub](https://github.com/jumpserver/jumpserver) · [Website](https://jumpserver.com)  
 > `#Bastion Host` `#PAM` `#Access Control` `#Session Auditing` `#bastion-host` `#cyberark` `#django` `#jumpserver` `#pam` `#python` `#ssh-server` `#teleport` `#terminal` 
 > JumpServer is an open-source Privileged Access Management (PAM) platform that enables secure, on-demand access to SSH, RDP, Kubernetes, databases, and RemoteApp endpoints via a web browser. It offers role-based access control, session auditing, and centralized management for hybrid cloud environments.
@@ -2877,7 +2877,7 @@
 ## 1Panel-dev/1Panel
 
 > [!info]
-> ⭐ 34,472 · Go · 2026-03-20  
+> ⭐ 34,490 · Go · 2026-03-20  
 > [GitHub](https://github.com/1Panel-dev/1Panel) · [Website](https://1panel.pro)  
 > `#VPS Control Panel` `#Container Management` `#OpenClaw Deployment` `#SSL Automation` `#1panel` `#agent` `#clawdbot` `#copaw` `#docker` `#docker-ui` `#linux` `#lnmp` `#ollama` `#openclaw` `#openresty` `#webmin` 
 > 1Panel is a modern open-source VPS control panel featuring a clean web interface for one-click OpenClaw AI agent deployment, local LLM hosting via Ollama, and automated website management with SSL provisioning. It offers a curated app marketplace, container orchestration, and real-time server monitoring, ideal for developers and small businesses.
@@ -2897,7 +2897,7 @@
 ## wd210010/only_for_happly
 
 > [!info]
-> ⭐ 1,412 · Python · 2026-03-21  
+> ⭐ 1,411 · Python · 2026-03-22  
 > [GitHub](https://github.com/wd210010/only_for_happly)  
 > `#QingLong Panel` `#Python Check-in Script` `#Automation Task` `#Scheduled Check-in` 
 > A Python-based automation script collection for QingLong panel, supporting daily check-in tasks across dozens of platforms including Baidu Tieba, Xiaomi Sports, Aliyun Drive, Tianyi Cloud, and iQIYI. Features dependency management and cookie configuration for automated羊毛 (benefits grabbing) and scheduled check-ins.
@@ -2907,7 +2907,7 @@
 ## hwanz/SSR-V2ray-Trojan
 
 > [!info]
-> ⭐ 11,201 · N/A · 2026-03-16  
+> ⭐ 11,226 · N/A · 2026-03-16  
 > [GitHub](https://github.com/hwanz/SSR-V2ray-Trojan)  
 > `#Internet Freedom` `#Airport Review` `#IEPL Dedicated Line` `#VPN Comparison` 
 > This repository offers comprehensive VPN/proxy service recommendations and reviews for internet freedom in China. It features detailed comparisons of 10+ airport providers, including plan pricing, line quality analysis, and multi-platform client configuration guides. Recommended providers cover IEPL dedicated lines and transit airports like BoostNet and Youtu.
@@ -2947,7 +2947,7 @@
 ## apache/nifi
 
 > [!info]
-> ⭐ 6,012 · Java · 2026-03-20  
+> ⭐ 6,017 · Java · 2026-03-20  
 > [GitHub](https://github.com/apache/nifi) · [Website](https://nifi.apache.org/)  
 > `#Data Flow Orchestration` `#ETL Pipeline` `#Visual Flow Editor` `#Apache TLP` `#apache` `#hacktoberfest` `#java` `#nifi` 
 > Apache NiFi is an Apache top-level project for automated data flow orchestration, featuring a visual browser-based UI for data ingestion, routing, transformation, and distribution. It supports data lineage tracking, flow control policies, and encryption, ideal for ETL pipelines, IoT data collection, and enterprise integration.
@@ -2957,7 +2957,7 @@
 ## Eugeny/tabby
 
 > [!info]
-> ⭐ 69,710 · TypeScript · 2026-03-20  
+> ⭐ 69,732 · TypeScript · 2026-03-20  
 > [GitHub](https://github.com/Eugeny/tabby) · [Website](https://tabby.sh)  
 > `#Terminal Emulator` `#SSH Client` `#Cross-platform Terminal` `#Serial Client` `#serial` `#ssh-client` `#telnet-client` `#terminal` `#terminal-emulators` 
 > Tabby is a highly configurable cross-platform terminal emulator, SSH and serial client for Windows, macOS and Linux. It features an integrated SSH/Telnet connection manager, serial terminal, split panes, theming, customizable shortcuts, and supports PowerShell, WSL, Git-Bash and more. Includes encrypted storage for SSH credentials and a self-hostable web app.
@@ -2977,7 +2977,7 @@
 ## breezy-weather/breezy-weather
 
 > [!info]
-> ⭐ 9,637 · Kotlin · 2026-03-21  
+> ⭐ 9,655 · Kotlin · 2026-03-21  
 > [GitHub](https://github.com/breezy-weather/breezy-weather)  
 > `#Weather App` `#Kotlin` `#Jetpack Compose` `#Material 3` 
 > Breezy Weather is a feature-rich open source weather application built with Kotlin and Jetpack Compose, featuring Material 3 design. It supports over 50 weather data sources, providing forecasts, real-time observations, nowcasting, air quality, pollen data, and weather alerts with sophisticated visualizations. Compatible with Android 5.0+.
@@ -2997,7 +2997,7 @@
 ## IoT-Technology/IoT-Technical-Guide
 
 > [!info]
-> ⭐ 4,512 · Java · 2023-09-05  
+> ⭐ 4,513 · Java · 2023-09-05  
 > [GitHub](https://github.com/IoT-Technology/IoT-Technical-Guide) · [Website](https://iot.mushuwei.cn/)  
 > `#IoT Platform` `#MQTT Protocol` `#Thingsboard` `#CoAP Protocol` `#coap` `#gateway` `#internet-of-things` `#iot` `#iot-platform` `#jwt` `#micorservice` `#modbus` `#mqtt` `#multitenant` `#nosql` `#opc-ua` `#real-time` `#rule-engine` `#thingsboard` `#token` `#tsl` `#websocket` 
 > A comprehensive IoT technical tutorial covering the entire journey from foundational learning to high-performance platform construction. It provides in-depth explanations of core IoT protocols like MQTT and CoAP, offers Thingsboard open-source platform source code analysis, and includes key technical implementations such as message queuing, database selection, security authentication, and rule engines. An invaluable practical guide for IoT developers.
@@ -3007,7 +3007,7 @@
 ## thingsboard/thingsboard
 
 > [!info]
-> ⭐ 21,397 · Java · 2026-03-21  
+> ⭐ 21,400 · Java · 2026-03-21  
 > [GitHub](https://github.com/thingsboard/thingsboard) · [Website](https://thingsboard.io)  
 > `#IoT Platform` `#Device Management` `#SCADA` `#Data Visualization` `#big-data` `#cloud` `#coap-server` `#dashboards` `#http` `#iiot` `#iot` `#iot-analytics` `#iot-framework` `#iot-platform` `#iot-solutions` `#lwm2m-server` `#microservices` `#middleware` `#mqtt` `#snmp` `#thingsboard` `#visualization` 
 > ThingsBoard is an enterprise-grade open-source IoT platform offering comprehensive device management, data collection, processing, and visualization. It supports device provisioning, real-time monitoring, SCADA dashboards, alarm rule engines, and multi-channel notifications. Deployable on-premises or in the cloud, it serves smart city and industrial IoT applications.
@@ -3017,7 +3017,7 @@
 ## svenstaro/genact
 
 > [!info]
-> ⭐ 11,948 · Rust · 2026-03-09  
+> ⭐ 11,949 · Rust · 2026-03-09  
 > [GitHub](https://github.com/svenstaro/genact) · [Website](https://svenstaro.github.io/genact/)  
 > `#Rust` `#Terminal Emulator` `#Productivity Theater` `#Cross-platform CLI` `#cli` `#fake` `#hacktoberfest` `#nonsense` `#useless` `#wasm` `#webassembly` 
 > A Rust-based terminal activity simulator that displays fake high-load operations like kernel compilation, Docker builds, and crypto mining to help users appear busy. Supports Linux, macOS, Windows, and WebAssembly with multiple simulated scenarios for legitimate 'productivity theater'.
@@ -3027,7 +3027,7 @@
 ## Avaiga/taipy
 
 > [!info]
-> ⭐ 19,122 · Python · 2026-03-21  
+> ⭐ 19,123 · Python · 2026-03-22  
 > [GitHub](https://github.com/Avaiga/taipy) · [Website](https://www.taipy.io)  
 > `#Low-code Framework` `#Data Science` `#ML Applications` `#Python Web` `#automation` `#data-engineering` `#data-integration` `#data-ops` `#data-visualization` `#datascience` `#developer-tools` `#hacktoberfest` `#hacktoberfest2023` `#job-scheduler` `#mlops` `#orchestration` `#pipeline` `#pipelines` `#python` `#scenario` `#scenario-analysis` `#taipy-core` `#taipy-gui` `#workflow` 
 > Taipy is a Python low-code framework designed for data scientists and ML engineers to rapidly convert data and AI algorithms into production-ready web applications. It provides end-to-end features including UI generation, pipeline orchestration, what-if analysis, scenario management, and user authentication without requiring frontend development expertise.
@@ -3037,7 +3037,7 @@
 ## datalab-to/marker
 
 > [!info]
-> ⭐ 32,899 · Python · 2026-03-10  
+> ⭐ 32,936 · Python · 2026-03-10  
 > [GitHub](https://github.com/datalab-to/marker) · [Website](https://www.datalab.to)  
 > `#Document Conversion` `#PDF Parsing` `#Table Extraction` `#Deep Learning` 
 > Marker converts PDFs, images, and documents to markdown, JSON, and HTML with high accuracy. It handles tables, equations, code blocks, and images, supports GPU/CPU/MPS, and offers optional LLM enhancement for improved precision.
@@ -3057,7 +3057,7 @@
 ## doocs/source-code-hunter
 
 > [!info]
-> ⭐ 23,132 · Java · 2026-01-09  
+> ⭐ 23,131 · Java · 2026-01-09  
 > [GitHub](https://github.com/doocs/source-code-hunter) · [Website](https://schunter.doocs.org)  
 > `#Source Code Analysis` `#Spring Framework` `#Underlying Principles` `#Java Middleware` `#dubbo` `#mybatis` `#netty` `#redis` `#sourcecode-analysis` `#spring` 
 > This project provides in-depth source code analysis of mainstream internet technologies, systematically dissecting the underlying implementation principles of frameworks like Spring ecosystem, MyBatis, Netty, Dubbo, Redis, and Tomcat. It helps developers gain deeper technical insights and enhance their expertise through detailed source code interpretation.
@@ -3067,7 +3067,7 @@
 ## gravitational/teleport
 
 > [!info]
-> ⭐ 20,054 · Go · 2026-03-22  
+> ⭐ 20,055 · Go · 2026-03-23  
 > [GitHub](https://github.com/gravitational/teleport) · [Website](https://goteleport.com)  
 > `#Zero Trust Architecture` `#Infrastructure Security` `#Identity Access Management` `#Short-lived Certificate` `#audit` `#bastion` `#certificate` `#cluster` `#database-access` `#firewall` `#firewalls` `#go` `#golang` `#jumpserver` `#kubernetes` `#kubernetes-access` `#pam` `#postgres` `#rbac` `#rdp` `#security` `#ssh` `#teleport` `#teleport-binaries` 
 > Teleport is an infrastructure access and security platform providing SSO, short-lived certificate authentication, RBAC/ABAC access controls, and session auditing. It supports SSH, Kubernetes, databases, RDP, web apps, and MCP servers, enabling zero-trust architecture with secure tunnel access without VPNs and least privilege enforcement.
@@ -3077,7 +3077,7 @@
 ## mattermost-community/focalboard
 
 > [!info]
-> ⭐ 25,974 · TypeScript · 2026-03-16  
+> ⭐ 25,977 · TypeScript · 2026-03-16  
 > [GitHub](https://github.com/mattermost-community/focalboard) · [Website](https://www.focalboard.com)  
 > `#Kanban Board` `#Open Source PM` `#Self-hosted` `#Go Backend` `#asana` `#collaboration` `#goal-tracking` `#golang` `#hacktoberfest` `#kanban-board` `#notion` `#project` `#project-management` `#trello` 
 > Focalboard is an open source project management tool by the Mattermost community, featuring Kanban-style task organization. As an open source alternative to Trello, Notion, and Asana, it supports multilingual interfaces and cross-platform deployment (Windows/Mac/Linux) with self-hosting capability. The desktop edition uses embedded SQLite, while the server edition enables multi-user collaboration for personal and team project management.
@@ -3097,7 +3097,7 @@
 ## Java-Edge/Java-Interview-Tutorial
 
 > [!info]
-> ⭐ 2,861 · Shell · 2026-03-19  
+> ⭐ 2,862 · Shell · 2026-03-22  
 > [GitHub](https://github.com/Java-Edge/Java-Interview-Tutorial) · [Website](http://www.javaedge.cn/)  
 > `#Java Development` `#Technical Interview` `#Microservices` `#DDD Design` `#architecture` `#blockchain` `#ddd` `#java` 
 > A comprehensive Java technical interview and development practice tutorial covering concurrent programming, database optimization, DDD, design patterns, microservices, middleware, AI large model applications, and blockchain best practices. Built with Vuepress, it offers structured learning paths for Java developers preparing for interviews and technical advancement.
@@ -3107,7 +3107,7 @@
 ## tporadowski/redis
 
 > [!info]
-> ⭐ 10,041 · C · 2023-04-02  
+> ⭐ 10,042 · C · 2023-04-02  
 > [GitHub](https://github.com/tporadowski/redis) · [Website](http://redis.io)  
 > `#In-Memory Database` `#Windows Port` `#NoSQL Database` `#Key-Value Store` `#redis` `#redis-for-windows` `#redis-msi-installer` `#redis-windows` `#redis-windows-installer` `#redis-windows-native` `#redis-windows-service` 
 > An unofficial native port of Redis (versions 4.0.14 and 5.0.14) for Windows x64. Built upon the MS Open Tech fork, compiled with Visual Studio 2019, featuring customized jemalloc allocator to enable fork-based RDB/AOF persistence on Windows. Ideal for enterprise applications requiring Redis on Windows infrastructure.
@@ -3117,7 +3117,7 @@
 ## openwrt/openwrt
 
 > [!info]
-> ⭐ 25,963 · C · 2026-03-21  
+> ⭐ 25,983 · C · 2026-03-23  
 > [GitHub](https://github.com/openwrt/openwrt)  
 > `#Embedded Linux` `#Router Firmware` `#Cross-Compilation` `#opkg Package Manager` 
 > OpenWrt is an open-source Linux OS firmware project targeting embedded devices. Unlike traditional router firmware, it provides a fully writable filesystem with opkg package management, enabling users to customize devices via packages. Developers can use its cross-compilation toolchain to build custom firmware for multiple hardware architectures, widely used in routers and IoT gateways.
@@ -3147,7 +3147,7 @@
 ## o2oa/o2oa
 
 > [!info]
-> ⭐ 4,544 · JavaScript · 2026-03-20  
+> ⭐ 4,542 · JavaScript · 2026-03-20  
 > [GitHub](https://github.com/o2oa/o2oa) · [Website](http://www.o2oa.net/)  
 > `#JavaEE Architecture` `#Low-code Platform` `#Workflow Engine` `#Trusted IT Certification` 
 > O2OA is a 100% open-source enterprise collaboration platform built on JavaEE distributed architecture. It offers low-code development capabilities including workflow engine, form customization, and page customization with cross-platform mobile office support. Certified for China's trusted IT ecosystem, it supports domestic operating systems like Kylin and databases such as Dameng and Kingbase, ideal for government OA and military information systems.
@@ -3157,7 +3157,7 @@
 ## bostrot/wsl2-distro-manager
 
 > [!info]
-> ⭐ 3,667 · Dart · 2026-03-09  
+> ⭐ 3,673 · Dart · 2026-03-09  
 > [GitHub](https://github.com/bostrot/wsl2-distro-manager) · [Website](https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB)  
 > `#Flutter` `#WSL2` `#Docker Container` `#Linux Distribution Management` `#collaborate` `#docker` `#flutter` `#github` `#gui` `#rootfs` `#turnkey` `#windows` `#wsl` `#wsl2` 
 > WSL Distro Manager is a free, open-source Flutter desktop app providing a GUI for managing Windows Subsystem for Linux. It supports installing, uninstalling, updating, backing up and restoring WSL distros, importing Docker images and LXC containers as WSL instances, with quick actions and cross-machine sharing capabilities.
@@ -3167,7 +3167,7 @@
 ## ByteByteGoHq/system-design-101
 
 > [!info]
-> ⭐ 81,277 · N/A · 2025-04-04  
+> ⭐ 81,294 · N/A · 2025-04-04  
 > [GitHub](https://github.com/ByteByteGoHq/system-design-101) · [Website](https://bytebytego.com/guides)  
 > `#System Design` `#Interview Prep` `#Distributed Systems` `#Visual Learning` `#aws` `#cloud-computing` `#coding-interviews` `#computer-science` `#interview-questions` `#software-architecture` `#software-development` `#software-engineering` `#system-design` `#system-design-interview` 
 > A visual system design tutorial from ByteByteGo, explaining complex technical concepts through diagrams and simple language. Covers API design, load balancing, network protocols, and GraphQL - an essential resource for system design interview preparation.
@@ -3177,7 +3177,7 @@
 ## josdejong/jsoneditor
 
 > [!info]
-> ⭐ 12,210 · JavaScript · 2026-03-21  
+> ⭐ 12,209 · JavaScript · 2026-03-21  
 > [GitHub](https://github.com/josdejong/jsoneditor)  
 > `#JSON Editor Component` `#JSON Schema Validation` `#Multi-mode Editing` `#Web Frontend Tool` 
 > A web-based JSON editor component with tree, code, text, and preview modes. Features JSON Schema validation via ajv, JMESPath querying, and large file support up to 500MiB. Integrates Ace editor for syntax highlighting, formatting, and JSON repair. Embeddable as a component supporting CommonJS, AMD, and regular JS loading.
@@ -3187,7 +3187,7 @@
 ## excalidraw/excalidraw
 
 > [!info]
-> ⭐ 119,287 · TypeScript · 2026-03-21  
+> ⭐ 119,366 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/excalidraw/excalidraw) · [Website](https://excalidraw.com)  
 > `#Hand-drawn Whiteboard` `#Real-time Collaboration` `#End-to-End Encryption` `#React Component` `#canvas` `#collaboration` `#diagrams` `#drawing` `#hacktoberfest` `#productivity` `#whiteboard` 
 > Excalidraw is an open-source virtual whiteboard featuring hand-drawn aesthetics with real-time collaboration and end-to-end encryption. As an embeddable React component, it offers infinite canvas, diverse drawing tools, PNG/SVG export, and PWA offline capability, ideal for team collaboration, flowchart design, and remote meeting whiteboards.
@@ -3197,7 +3197,7 @@
 ## grbnb/xp_module
 
 > [!info]
-> ⭐ 1,470 · HTML · 2025-07-12  
+> ⭐ 1,469 · HTML · 2025-07-12  
 > [GitHub](https://github.com/grbnb/xp_module) · [Website](https://grbnb.suiyue.tk/)  
 > `#Magisk` `#Xposed Framework` `#Android Root` `#LSPosed` `#edxposed` `#lsposed` `#magisk` `#xposed` 
 > A collection of Android Root and Xposed framework resources shared by Coolapk user 'Midnight God'. Includes Magisk variants (Stable/Canary/Alpha/Delta/Lite), APatch root solution, LSPosed/EDXposed/Dreamland frameworks, and免Root solutions like TaiChi. Provides Magisk managers, module collections, and Shamiko hide tool.
@@ -3207,7 +3207,7 @@
 ## kingToolbox/WindTerm
 
 > [!info]
-> ⭐ 30,131 · C · 2025-03-11  
+> ⭐ 30,191 · C · 2025-03-11  
 > [GitHub](https://github.com/kingToolbox/WindTerm) · [Website](https://kingtoolbox.github.io)  
 > `#Cross-platform Terminal` `#SSH Client` `#SFTP File Transfer` `#Tmux Integration` `#bash` `#client` `#cmd` `#linux` `#mac` `#powershell` `#serial` `#sftp` `#shell` `#ssh` `#telnet` `#terminal` `#tmux` `#windows` `#wsl` `#x11` `#xmodem` `#xterm` `#ymodem` `#zmodem` 
 > WindTerm is a professional cross-platform terminal supporting SSH/SFTP/Telnet/Serial/Shell/Tmux protocols. Features include port forwarding, X11 forwarding, proxy jump, SSH ControlMaster, integrated SFTP/SCP, multilingual UI, auto-completion, and split views. Completely free and open-source.
@@ -3227,7 +3227,7 @@
 ## keepassxreboot/keepassxc
 
 > [!info]
-> ⭐ 26,315 · C++ · 2026-03-15  
+> ⭐ 26,331 · C++ · 2026-03-15  
 > [GitHub](https://github.com/keepassxreboot/keepassxc) · [Website](https://keepassxc.org/)  
 > `#Password Manager` `#KDBX Encryption` `#Cross-Platform` `#TOTP 2FA` `#cross-platform` `#hacktoberfest` `#keepass` `#keepassxc` `#linux` `#macos` `#password` `#password-manager` `#privacy` `#security` `#windows` `#yubikey` 
 > KeePassXC is an open-source cross-platform password manager for Windows, macOS, and Linux. It stores encrypted data in KDBX format offline, offering enterprise-grade security features including password generator, TOTP tokens, browser integration, SSH agent, and YubiKey hardware key authentication for secure personal data management.
@@ -3237,7 +3237,7 @@
 ## PhilippC/keepass2android
 
 > [!info]
-> ⭐ 5,892 · C# · 2026-03-01  
+> ⭐ 5,894 · C# · 2026-03-01  
 > [GitHub](https://github.com/PhilippC/keepass2android) · [Website](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)  
 > `#Android Password Manager` `#KDBX Encryption` `#Cloud Sync` `#Open Source Security` `#android` `#keepass` `#keepass2` `#keepass2android` `#password-manager` 
 > Keepass2Android is an open-source password manager for Android that securely stores passwords and sensitive information protected by strong encryption. Compatible with KeePass 2.x and KeePassXC databases, it enables cross-device synchronization via built-in cloud storage or third-party apps, meeting mobile credential management needs.
@@ -3247,7 +3247,7 @@
 ## xushengfeng/eSearch
 
 > [!info]
-> ⭐ 6,316 · TypeScript · 2026-03-14  
+> ⭐ 6,317 · TypeScript · 2026-03-14  
 > [GitHub](https://github.com/xushengfeng/eSearch) · [Website](https://esearch-app.netlify.app/)  
 > `#Offline OCR` `#Screen Overlay` `#Electron App` `#Scrolling Screenshot` `#clipboard` `#color-picker` `#cross-platform` `#electron` `#image-editing` `#image-editor` `#linux` `#live-text` `#macos` `#ocr` `#paddleocr` `#recorder` `#screen-capture` `#screen-recorder` `#screenshot` `#search` `#search-photos` `#translate` `#translator` `#windows` 
 > eSearch is a cross-platform screenshot and OCR tool featuring offline text recognition, screen image overlay, reverse image search, scrolling screenshots, screen recording, and real-time screen translation. Built with Electron and PaddleOCR, it supports Windows, Linux, and macOS for efficient screenshot editing, information extraction, and multilingual translation.
@@ -3257,7 +3257,7 @@
 ## lizongying/my-tv
 
 > [!info]
-> ⭐ 32,233 · C · 2024-06-20  
+> ⭐ 32,231 · C · 2024-06-20  
 > [GitHub](https://github.com/lizongying/my-tv) · [Website](https://lyrics.run/my-tv.html)  
 > `#Android TV` `#IPTV` `#Live TV` `#Streaming App` `#iptv` `#my-tv` `#mytv` `#tv` 
 > Android TV live streaming application supporting USB, Xiaomi TV Assistant, and ADB installation methods for TV channel broadcasting.
@@ -3267,7 +3267,7 @@
 ## apache/shardingsphere
 
 > [!info]
-> ⭐ 20,701 · Java · 2026-03-21  
+> ⭐ 20,701 · Java · 2026-03-22  
 > [GitHub](https://github.com/apache/shardingsphere)  
 > `#Distributed Database` `#Data Sharding` `#Distributed Transaction` `#Database Middleware` `#bigdata` `#data-encryption` `#data-pipeline` `#database` `#database-cluster` `#database-gateway` `#database-middleware` `#distributed-database` `#distributed-sql-database` `#distributed-transaction` `#encrypt` `#mysql` `#postgresql` `#read-write-splitting` `#shard` `#sql` 
 > Apache ShardingSphere is an enterprise-grade distributed database middleware ecosystem providing distributed SQL, horizontal sharding, read-write splitting, distributed transactions, and database governance. Its pluggable architecture supports MySQL, PostgreSQL, Oracle, and other databases, enabling elastic data scaling and unified heterogeneous database management.
@@ -3277,7 +3277,7 @@
 ## apache/shenyu
 
 > [!info]
-> ⭐ 8,781 · Java · 2026-03-09  
+> ⭐ 8,782 · Java · 2026-03-09  
 > [GitHub](https://github.com/apache/shenyu) · [Website](https://shenyu.apache.org/)  
 > `#API Gateway` `#Microservices Governance` `#Service Proxy` `#Plugin Hot-Swapping` `#api-gateway` `#dubbo-proxy` `#grpc-proxy` `#http-proxy` `#motan-proxy` `#reactor-java` `#sofa-proxy` `#spring-cloud-proxy` 
 > Apache ShenYu is a Java-native API gateway supporting multi-protocol proxy including Dubbo, Spring Cloud, and gRPC with protocol conversion. It provides OAuth 2.0 and JWT security, integrates circuit breaking, rate limiting, and tracing features with hot-swappable plugins for microservices traffic control and API governance.
@@ -3287,7 +3287,7 @@
 ## secure-77/Perlite
 
 > [!info]
-> ⭐ 1,679 · CSS · 2026-01-21  
+> ⭐ 1,681 · CSS · 2026-01-21  
 > [GitHub](https://github.com/secure-77/Perlite) · [Website](https://perlite.secure77.de/)  
 > `#Markdown Viewer` `#Obsidian Publishing` `#PHP` `#Static Site Generator` `#markdown` `#obsidian` `#parsedown` `#perlite` 
 > Perlite is a PHP-based web markdown viewer optimized for Obsidian vault publishing. No database required—it auto-builds sites from Markdown folder structures as an open-source alternative to Obsidian Publish. Features include theme support, interactive graph visualization, LaTeX, Mermaid diagrams, and full-text search.
@@ -3297,7 +3297,7 @@
 ## jianchang512/pyvideotrans
 
 > [!info]
-> ⭐ 16,539 · Python · 2026-03-21  
+> ⭐ 16,554 · Python · 2026-03-22  
 > [GitHub](https://github.com/jianchang512/pyvideotrans) · [Website](https://pyvideotrans.com)  
 > `#Voice Cloning` `#Video Translation` `#Multi-speaker Dubbing` `#End-to-End AI` `#speech-to-text` `#text-to-speech` `#video-transition` 
 > Open-source video translation and AI dubbing tool that automates the entire workflow: speech recognition, subtitle translation, and AI voice synthesis. Features voice cloning via F5-TTS and GPT-SoVITS, with per-speaker voice assignment, interactive proofreading, and CLI mode for video localization and multilingual content production.
@@ -3307,7 +3307,7 @@
 ## tyxsspa/AnyText
 
 > [!info]
-> ⭐ 4,842 · Python · 2025-03-07  
+> ⭐ 4,843 · Python · 2025-03-07  
 > [GitHub](https://github.com/tyxsspa/AnyText)  
 > `#Diffusion Model` `#Visual Text Generation` `#Multilingual Rendering` `#Image Editing` 
 > AnyText is a diffusion-based multilingual visual text generation and editing framework, featuring an auxiliary latent module and text embedding module to produce text seamlessly integrated with backgrounds. It uses text-control diffusion loss and text perceptual loss to enhance writing accuracy, supporting generation, editing and community model weight merging. Accepted as ICLR 2024 Spotlight.
@@ -3317,7 +3317,7 @@
 ## tiny-craft/tiny-rdm
 
 > [!info]
-> ⭐ 12,635 · Vue · 2026-03-09  
+> ⭐ 12,634 · Vue · 2026-03-09  
 > [GitHub](https://github.com/tiny-craft/tiny-rdm) · [Website](https://tinyrdm.com)  
 > `#Redis GUI` `#Wails Framework` `#Cross-platform Client` `#Go` `#go` `#golang` `#icon-pack` `#naive-ui` `#redis` `#redis-client` `#redis-desktop` `#redis-gui` `#redis-manager` `#redis-web` `#vue` `#wails` `#wails-app` `#web-view` 
 > Tiny RDM is a modern lightweight Redis desktop client built with Wails framework, supporting Mac, Windows and Linux. Built on Webview2 without embedded browsers, it offers light/dark themes, SSH tunnel, SSL, Sentinel/Cluster mode support, visual CRUD for all Redis data types, SCAN-based pagination for millions of keys, real-time command monitoring, Monaco Editor integration, and custom encoder/decoder functionality.
@@ -3327,7 +3327,7 @@
 ## AaronFeng753/Waifu2x-Extension-GUI
 
 > [!info]
-> ⭐ 16,297 · C++ · 2026-03-17  
+> ⭐ 16,300 · C++ · 2026-03-17  
 > [GitHub](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) · [Website](https://patreon.com/aaronfeng)  
 > `#Deep Learning Super-Resolution` `#Video Frame Interpolation` `#Multi-GPU Acceleration` `#Neural Upscaling` `#anime` `#anime4k` `#esrgan` `#frame-interpolation` `#image-enlarger` `#ncnn` `#noise-reduction` `#rtx-video-super-resolution` `#rtx-vsr` `#super-resolution` `#upscaling` `#video` `#video-enlarger` `#video-frame-interpolation` `#video-interpolation` `#video-processing` `#video-super-resolution` `#vulkan` `#waifu2x` `#waifu2x-ncnn-vulkan` 
 > A GUI tool for image, video, and GIF super-resolution enlargement using deep CNNs. Supports 10+ AI algorithms including Waifu2x, Real-ESRGAN, Real-CUGAN, and RTX VSR with full AMD/Nvidia/Intel GPU compatibility. Features one-click presets and multi-GPU acceleration for anime and photo enhancement.
@@ -3337,7 +3337,7 @@
 ## portainer/portainer
 
 > [!info]
-> ⭐ 36,914 · TypeScript · 2026-03-20  
+> ⭐ 36,920 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/portainer/portainer) · [Website](https://www.portainer.io)  
 > `#Container Management` `#Docker GUI` `#Kubernetes Dashboard` `#Container Orchestration` `#docker` `#docker-compose` `#docker-container` `#docker-deployment` `#docker-image` `#docker-swarm` `#docker-ui` `#dockerfile` `#hacktoberfest` `#kubernetes` `#moby` `#portainer` `#ui` 
 > Portainer is a lightweight service delivery platform for managing Docker, Swarm, Kubernetes, and ACI environments. It provides an intuitive web GUI and extensive API to manage containers, images, volumes, and networks. Deployed as a single container, it runs on any cluster across Linux and Windows.
@@ -3347,7 +3347,7 @@
 ## Unitech/pm2
 
 > [!info]
-> ⭐ 42,998 · JavaScript · 2026-02-08  
+> ⭐ 43,002 · JavaScript · 2026-02-08  
 > [GitHub](https://github.com/Unitech/pm2) · [Website](https://pm2.keymetrics.io/docs/usage/quick-start/)  
 > `#Process Management` `#Load Balancing` `#Cluster Mode` `#Production Deployment` `#command-line` `#command-line-tool` `#deploy` `#load-balancer` `#monitoring` `#node` `#nodejs` `#pm2` `#process-manager` `#production` 
 > PM2 is a production-grade process manager for Node.js/Bun with built-in load balancing. It provides daemonization, zero-downtime reload, clustering, and container support. The de facto standard for Node.js production deployments with simple commands for process management and monitoring.
@@ -3367,7 +3367,7 @@
 ## nomic-ai/gpt4all
 
 > [!info]
-> ⭐ 77,235 · C++ · 2025-05-27  
+> ⭐ 77,236 · C++ · 2025-05-27  
 > [GitHub](https://github.com/nomic-ai/gpt4all) · [Website](https://nomic.ai/gpt4all)  
 > `#Local LLM` `#llama.cpp` `#Privacy-First AI` `#Cross-Platform` `#ai-chat` `#llm-inference` 
 > GPT4All is an open-source project enabling users to run large language models locally on everyday desktops and laptops without API calls or GPUs. Built on llama.cpp, it supports Windows, macOS and Linux with Python bindings, available for commercial use. The latest version supports DeepSeek R1 distillations.
@@ -3377,7 +3377,7 @@
 ## LC044/WeChatMsg
 
 > [!info]
-> ⭐ 40,674 · N/A · 2025-12-30  
+> ⭐ 40,675 · N/A · 2025-12-30  
 > [GitHub](https://github.com/LC044/WeChatMsg)  
 > `#WeChat Data Export` `#Personal AI` `#Data Sovereignty` `#Memory Preservation` `#chatgpt` `#llms` `#pyqt` `#wechat` 
 > This project empowers users to take control of their WeChat chat data, transforming conversations into meaningful personal memories and AI training material. Though development has paused, it inspired the TrailSnap AI photo album project, aiming to build personal AI data centers for intelligent life trace preservation and emotional continuity.
@@ -3396,7 +3396,7 @@
 ## sqlpage/SQLPage
 
 > [!info]
-> ⭐ 2,486 · Rust · 2026-03-21  
+> ⭐ 2,487 · Rust · 2026-03-21  
 > [GitHub](https://github.com/sqlpage/SQLPage) · [Website](https://sql-page.com)  
 > `#SQL-driven` `#Low-code Platform` `#Web UI Generation` `#Database Tools` `#database` `#framework` `#mysql` `#postgresql` `#server` `#serverless` `#sql` `#sqlite` `#web` 
 > SQLPage is an SQL-only web application builder that automatically generates interactive data interfaces from simple .sql query files. It supports SQLite, PostgreSQL, MySQL, SQL Server and various ODBC databases, providing UI components like lists, charts, forms, and cards for rapid data application development without frontend coding.
@@ -3406,7 +3406,7 @@
 ## orhun/git-cliff
 
 > [!info]
-> ⭐ 11,607 · Rust · 2026-03-14  
+> ⭐ 11,610 · Rust · 2026-03-22  
 > [GitHub](https://github.com/orhun/git-cliff) · [Website](https://git-cliff.org)  
 > `#Rust` `#Changelog Generator` `#Conventional Commits` `#CLI Tool` `#changelog` `#changelog-generator` `#commit` `#conventional-changelog` `#conventional-commit` `#conventional-commits` `#generator` `#git` `#git-cliff` `#hacktoberfest` `#keepachangelog` `#rust` `#semver` 
 > git-cliff is a highly customizable Changelog generator written in Rust that follows Conventional Commit specifications to automatically generate changelogs from Git commit history. It supports regex-powered custom parsers and flexible templating, fitting into various release workflows and adopted by many open-source projects.
@@ -3416,7 +3416,7 @@
 ## cheat/cheat
 
 > [!info]
-> ⭐ 13,215 · Go · 2026-02-26  
+> ⭐ 13,217 · Go · 2026-02-26  
 > [GitHub](https://github.com/cheat/cheat)  
 > `#CLI Tool` `#Cheatsheet` `#Go` `#Syntax Highlighting` `#bash` `#cheat` `#cheatsheet` `#cheatsheets` `#documentation` `#help` `#interactive-cheatsheets` `#man-page` 
 > cheat is a CLI tool for creating and viewing interactive cheatsheets, designed to help *nix sysadmins recall command options they use frequently but can't remember. It supports YAML frontmatter for tags and syntax highlighting via Chroma, offers multiple cheatpaths, tag filtering, and regex search with community-sourced sheets available.
@@ -3426,7 +3426,7 @@
 ## apache/cassandra
 
 > [!info]
-> ⭐ 9,663 · Java · 2026-03-21  
+> ⭐ 9,666 · Java · 2026-03-22  
 > [GitHub](https://github.com/apache/cassandra) · [Website](https://cassandra.apache.org/)  
 > `#Distributed Database` `#NoSQL Database` `#Wide-Column Store` `#Partitioned Storage` `#cassandra` `#database` `#java` 
 > Apache Cassandra is a highly scalable distributed NoSQL database featuring partitioned row storage that transparently distributes data across multiple machines. With a SQL-like CQL query language, it offers high availability, no single point of failure, and multi-datacenter deployment support, ideal for large-scale distributed applications requiring resilient data storage.
@@ -3436,7 +3436,7 @@
 ## CorentinTh/it-tools
 
 > [!info]
-> ⭐ 37,733 · Vue · 2026-03-13  
+> ⭐ 37,758 · Vue · 2026-03-13  
 > [GitHub](https://github.com/CorentinTh/it-tools) · [Website](https://it-tools.tech)  
 > `#Vue3` `#Developer Utilities` `#Docker Self-hosting` `#TypeScript` `#converter` `#developer-productivity` `#developer-tools` `#frontend` `#javascript` `#productivity` `#tool` `#tools` `#typescript` `#vuejs` `#website` 
 > A web-based collection of 80+ developer tools including JSON formatting, encoding/decoding, encryption, date calculators, and more. Built with Vue3 and TypeScript, supports Docker self-hosting, focused on exceptional UX.
@@ -3446,7 +3446,7 @@
 ## abi/screenshot-to-code
 
 > [!info]
-> ⭐ 72,010 · TypeScript · 2026-03-19  
+> ⭐ 72,018 · TypeScript · 2026-03-19  
 > [GitHub](https://github.com/abi/screenshot-to-code) · [Website](https://screenshottocode.com)  
 > `#AI Code Generation` `#Frontend Development` `#Design to Code` 
 > screenshot-to-code is an AI-powered tool that converts screenshots, mockups, or Figma designs into clean, functional frontend code (HTML/Tailwind/React/Vue). It supports top models like Gemini, Claude Opus, and GPT, with experimental video-to-prototype capabilities for rapid development.
@@ -3456,7 +3456,7 @@
 ## SigNoz/signoz
 
 > [!info]
-> ⭐ 26,214 · TypeScript · 2026-03-21  
+> ⭐ 26,222 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/SigNoz/signoz) · [Website](https://signoz.io)  
 > `#Observability Platform` `#APM` `#OpenTelemetry` `#Distributed Tracing` `#apm` `#application-monitoring` `#distributed-tracing` `#go` `#good-first-issue` `#jaeger` `#log` `#logs` `#metrics` `#monitoring` `#nextjs` `#observability` `#open-source` `#opentelemetry` `#prometheus` `#react` `#reactjs` `#self-hosted` `#tracing` `#typescript` 
 > SigNoz is an open-source observability platform native to OpenTelemetry, unifying logs, traces, and metrics in a single application. It uses ClickHouse for high-performance log storage and provides out-of-box APM metrics including p99 latency, error rate, and Apdex. Distributed tracing features Flamegraphs and Gantt Charts for request flow visualization, serving as an open-source alternative to Datadog and New Relic.
@@ -3466,7 +3466,7 @@
 ## Z-Siqi/Clash-for-Windows_Chinese
 
 > [!info]
-> ⭐ 27,941 · JavaScript · 2025-06-26  
+> ⭐ 27,945 · JavaScript · 2025-06-26  
 > [GitHub](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)  
 > `#Electron Localization` `#Clash Proxy` `#UI Translation` `#Proxy Tool` `#chinese` `#clash` `#clash-chinese` `#shadowsocks` `#windows` `#zh-cn` 
 > A Chinese localization of Clash for Windows, providing localized patches and installers. This project implements UI translation by modifying app.asar files (renderer.js, main.js, etc.) in the Electron application, supporting versions from 0.15.3 to the latest compatible release, with an Optimize version available. Features built-in update hijacking for seamless upgrades.
@@ -3506,7 +3506,7 @@
 ## rest-assured/rest-assured
 
 > [!info]
-> ⭐ 7,122 · Java · 2026-02-04  
+> ⭐ 7,123 · Java · 2026-02-04  
 > [GitHub](https://github.com/rest-assured/rest-assured)  
 > `#Java DSL` `#REST API Testing` `#Response Validation` `#Spring Integration` `#groovy` `#http` `#java` `#json` `#kotlin` `#rest` `#rest-api` `#test` `#test-automation` `#xml` 
 > REST Assured is a Java DSL that simplifies REST API testing by bringing the expressiveness of dynamic languages into the Java domain. It supports JSON/XML response validation, parameters, headers, cookies and body assertions, includes built-in JsonPath and XmlPath parsers, offers multiple authentication mechanisms like Basic and OAuth, and integrates with Spring Framework for MockMvc testing.
@@ -3516,7 +3516,7 @@
 ## dromara/forest
 
 > [!info]
-> ⭐ 1,929 · Java · 2026-01-26  
+> ⭐ 1,928 · Java · 2026-01-26  
 > [GitHub](https://github.com/dromara/forest)  
 > `#Declarative HTTP Client` `#Java HTTP Framework` `#Annotation-Driven` `#Spring Boot Integration` `#declarative-http-client` `#fegin` `#http` `#http-client` `#https` `#java-http-client` `#request` `#rest` `#restful` `#retrofit` `#socks` 
 > Forest is a declarative HTTP client framework for Java that transforms HTTP requests into local interface method calls via annotations, decoupling business logic from HTTP protocols. Supporting dual backend engines (HttpClient/OkHttp), it provides enterprise features including JSON/XML/Protobuf serialization, interceptors, and OAuth2 authentication with seamless Spring Boot integration.
@@ -3536,7 +3536,7 @@
 ## deepseek-ai/DeepSeek-Coder
 
 > [!info]
-> ⭐ 22,942 · Python · 2025-11-11  
+> ⭐ 22,945 · Python · 2025-11-11  
 > [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [Website](https://chat.deepseek.com/)  
 > `#Code LLM` `#Code Completion` `#LLM Pre-training` `#Open Source Code Model` 
 > DeepSeek-Coder is a series of specialized code large language models developed by DeepSeek, trained from scratch on 2T tokens with sizes ranging from 1B to 33B parameters. Featuring a 16K context window and fill-in-the-blank tasks, it enables project-level code completion and infilling. It outperforms CodeLlama and other open-source models on HumanEval, MBPP, and DS-1000 benchmarks, achieving competitive performance with GPT-3.5.
@@ -3546,7 +3546,7 @@
 ## localstack/localstack
 
 > [!info]
-> ⭐ 64,717 · Python · 2026-03-18  
+> ⭐ 64,745 · Python · 2026-03-18  
 > [GitHub](https://github.com/localstack/localstack) · [Website](https://localstack.cloud)  
 > `#AWS Emulator` `#Cloud Development` `#Containerized` `#Serverless Testing` `#aws` `#cloud` `#continuous-integration` `#developer-tools` `#localstack` `#python` `#testing` 
 > LocalStack is a local AWS cloud service emulator running in Docker containers, providing a fully functional local AWS stack. It supports dozens of AWS services including Lambda, S3, DynamoDB, and Kinesis, enabling developers to build and test cloud applications and serverless functions offline without real AWS credentials, significantly improving development velocity and reducing cloud costs.
@@ -3556,7 +3556,7 @@
 ## alibaba/QLExpress
 
 > [!info]
-> ⭐ 5,549 · Java · 2026-03-04  
+> ⭐ 5,548 · Java · 2026-03-04  
 > [GitHub](https://github.com/alibaba/QLExpress)  
 > `#Rule Engine` `#Dynamic Scripting` `#Antlr4` `#Business Rule Configuration` 
 > Alibaba's open-source embedded Java dynamic scripting engine derived from e-commerce business rules. Built on Antlr4, it supports custom functions/operators, native JSON syntax, and expression execution tracing. Features secure sandbox, functional programming, and Lambda expressions with interpreted execution that doesn't occupy JVM metaspace, ideal for coupon rules, workflow engines, and advertising billing scenarios.
@@ -3616,7 +3616,7 @@
 ## facebook/rocksdb
 
 > [!info]
-> ⭐ 31,649 · C++ · 2026-03-21  
+> ⭐ 31,654 · C++ · 2026-03-21  
 > [GitHub](https://github.com/facebook/rocksdb) · [Website](http://rocksdb.org)  
 > `#Key-Value Store` `#LSM Tree` `#Embedded Database` `#Flash Storage` `#database` `#storage-engine` 
 > RocksDB is Facebook's open-source embedded persistent key-value store built on LSM-tree architecture, optimized for Flash and RAM storage. It offers flexible tradeoffs between Write-Amplification-Factor, Read-Amplification-Factor and Space-Amplification-Factor, supporting multi-threaded compaction to efficiently handle terabyte-scale data across database engines and caching systems.
@@ -3646,7 +3646,7 @@
 ## yangshun/tech-interview-handbook
 
 > [!info]
-> ⭐ 138,275 · TypeScript · 2026-03-20  
+> ⭐ 138,312 · TypeScript · 2026-03-20  
 > [GitHub](https://github.com/yangshun/tech-interview-handbook) · [Website](https://www.techinterviewhandbook.org)  
 > `#Algorithm Interview` `#LeetCode Practice` `#Technical Interview Prep` `#Resume Optimization` `#algorithm` `#algorithm-interview` `#algorithm-interview-questions` `#algorithms` `#behavioral-interviews` `#coding-interviews` `#interview-practice` `#interview-preparation` `#interview-questions` `#system-design` 
 > Created by the author of Blind 75, this handbook has helped 1M+ engineers ace tech interviews. It offers curated algorithm cheatsheets, Grind 75 question sets, resume guides, and behavioral questions covering the full interview journey from application to offer negotiation.
@@ -3666,7 +3666,7 @@
 ## IgorMundstein/WinMemoryCleaner
 
 > [!info]
-> ⭐ 4,407 · C# · 2025-12-19  
+> ⭐ 4,412 · C# · 2025-12-19  
 > [GitHub](https://github.com/IgorMundstein/WinMemoryCleaner)  
 > `#Memory Optimization` `#Windows System Utility` `#RAM Cleaner` `#Portable Application` `#cleaner` `#foss` `#gaming-performance` `#memory` `#memory-cache` `#memory-cleaner` `#memory-leak` `#memory-management` `#memory-manager` `#memory-monitoring` `#memory-optimization` `#memory-optimizer` `#ram` `#ram-cleaner` `#rammap` `#windows-optimization-tool` 
 > WinMemoryCleaner is a free Windows RAM cleaner that uses native Windows APIs to optimize memory areas by releasing improperly allocated memory, improving system performance. This portable application requires no installation but needs administrator privileges. It features auto-optimization, global hotkeys, system tray support, and multi-language interface, compatible with Windows XP to 11 and Server 2003 to 2025.
@@ -3676,7 +3676,7 @@
 ## vectordotdev/vector
 
 > [!info]
-> ⭐ 21,522 · Rust · 2026-03-21  
+> ⭐ 21,526 · Rust · 2026-03-21  
 > [GitHub](https://github.com/vectordotdev/vector) · [Website](https://vector.dev)  
 > `#Rust` `#Observability Pipeline` `#Log & Metric Processing` `#End-to-End Data Routing` `#agent` `#cloud-native` `#data-transformation` `#datadog` `#etl` `#events` `#forwarder` `#hacktoberfest` `#high-performance` `#logs` `#metrics` `#monitoring` `#observability` `#pipelines` `#rust-lang` `#stream-processing` `#telemetry` `#traces` 
 > Vector is a high-performance observability data pipeline built in Rust, maintained by Datadog. Deployable as both agent and aggregator, it unifies collection, transformation, and routing for logs, metrics, and traces. Up to 10x faster than alternatives, used in production by companies like Atlassian, T-Mobile, and Comcast for massive-scale observability data processing.
@@ -3726,7 +3726,7 @@
 ## influxdata/influxdb
 
 > [!info]
-> ⭐ 31,398 · Rust · 2026-03-21  
+> ⭐ 31,399 · Rust · 2026-03-21  
 > [GitHub](https://github.com/influxdata/influxdb) · [Website](https://influxdata.com)  
 > `#Time-series Database` `#Diskless Architecture` `#Real-time Analytics` `#Embedded Python VM` `#database` `#go` `#influxdb` `#metrics` `#monitoring` `#react` `#rust` `#time-series` 
 > InfluxDB 3 Core is InfluxData's third-generation time-series database designed for metrics, events, and real-time analytics. Featuring a diskless architecture with object storage support, it delivers sub-10ms query response for last-value queries. The embedded Python VM enables plugin development, while Parquet file persistence ensures efficient data handling. Dual query engines (SQL via FlightSQL/HTTP and InfluxQL) provide full backward compatibility with InfluxDB 1.x/2.x APIs, ideal for sensor monitoring, server/APM, network monitoring, financial analytics, and behavioral analysis.
@@ -3756,7 +3756,7 @@
 ## apache/airflow
 
 > [!info]
-> ⭐ 44,738 · Python · 2026-03-21  
+> ⭐ 44,745 · Python · 2026-03-22  
 > [GitHub](https://github.com/apache/airflow) · [Website](https://airflow.apache.org/)  
 > `#Workflow Orchestration` `#Data Pipeline` `#DAG Scheduling` `#Python` `#airflow` `#apache` `#apache-airflow` `#automation` `#dag` `#data-engineering` `#data-integration` `#data-orchestrator` `#data-pipelines` `#data-science` `#elt` `#etl` `#machine-learning` `#mlops` `#orchestration` `#python` `#scheduler` `#workflow` `#workflow-engine` `#workflow-orchestration` 
 > Apache Airflow is an open-source workflow orchestration platform written in Python, enabling programmatic authoring, scheduling, and monitoring of workflows defined as DAGs. Widely used for data pipelines, ETL jobs, and batch processing with high extensibility and a rich ecosystem of integrations.
@@ -3786,7 +3786,7 @@
 ## qishibo/AnotherRedisDesktopManager
 
 > [!info]
-> ⭐ 34,069 · JavaScript · 2025-10-16  
+> ⭐ 34,068 · JavaScript · 2025-10-16  
 > [GitHub](https://github.com/qishibo/AnotherRedisDesktopManager)  
 > `#Redis GUI Client` `#Cross-platform Desktop` `#Database Management` `#High Performance` `#redis` `#redis-client` `#redis-cluster` `#redis-desktop-manager` `#redis-gui` 
 > A faster, better and more stable Redis desktop GUI client compatible with Linux, Windows, and Mac. Its core advantage is handling massive keys without crashing, offering smooth database management with key browsing, command execution, and log monitoring capabilities.
@@ -3806,7 +3806,7 @@
 ## redis/RedisInsight
 
 > [!info]
-> ⭐ 8,283 · TypeScript · 2026-03-21  
+> ⭐ 8,284 · TypeScript · 2026-03-21  
 > [GitHub](https://github.com/redis/RedisInsight) · [Website](https://redis.io/insight/)  
 > `#Redis GUI` `#Electron Desktop` `#Database Visualization` `#Redis Modules` `#database-gui` `#redis` `#redis-gui` `#redis-gui-client` 
 > The official Redis visual database management tool built with Electron and Monaco Editor. It supports key-value data browsing, CRUD operations for JSON/lists/hashes, real-time command profiling, performance optimization recommendations, SlowLog analysis, Pub/Sub interaction, and Workbench with intelligent auto-completion. Available as desktop app or Docker container, featuring tutorials for Redis modules including Search, JSON, Time-Series, and vector search.
@@ -3816,7 +3816,7 @@
 ## QIN2DIM/hcaptcha-challenger
 
 > [!info]
-> ⭐ 2,231 · Python · 2026-01-28  
+> ⭐ 2,236 · Python · 2026-01-28  
 > [GitHub](https://github.com/QIN2DIM/hcaptcha-challenger)  
 > `#Multimodal LLM` `#hCaptcha Solver` `#ONNX Model` `#Object Detection` `#agent` `#ai-agents` `#captcha` `#captcha-solver` `#captcha-solving` `#chatgpt` `#clip` `#gemini` `#hcaptcha` `#hcaptcha-solver` `#llm` `#openai` `#playwright` `#yolo` 
 > An hCaptcha challenge solver using multimodal large language models without third-party services. Leverages ONNX models including ResNet, YOLOv8, ViT, and CLIP for image classification, point/bounding box detection, zero-shot multiple-choice, and drag-drop verification. Supports agentic workflows with spatial chain-of-thought reasoning.
@@ -3836,7 +3836,7 @@
 ## mulaRahul/keyviz
 
 > [!info]
-> ⭐ 9,104 · TypeScript · 2026-03-03  
+> ⭐ 9,105 · TypeScript · 2026-03-03  
 > [GitHub](https://github.com/mulaRahul/keyviz) · [Website](https://keyviz.org)  
 > `#Keystroke Visualization` `#Tauri Desktop App` `#Presentation Tool` `#Cross-platform Desktop` `#keypress` `#keystroke` `#tauri-rust` 
 > Keyviz is a free and open-source keystroke and mouse action visualizer that displays keyboard presses, mouse clicks, scrolls, and drags in real-time. It offers full customization of styling, colors, layout, filters, and animations. Designed for tutorials, presentations, and remote collaboration to help audiences clearly see shortcut operations. Built with Tauri, supporting Windows, macOS, and Linux.
@@ -3846,7 +3846,7 @@
 ## gkd-kit/gkd
 
 > [!info]
-> ⭐ 37,154 · Kotlin · 2026-03-17  
+> ⭐ 37,180 · Kotlin · 2026-03-17  
 > [GitHub](https://github.com/gkd-kit/gkd) · [Website](https://gkd.li)  
 > `#Android Automation` `#Accessibility API` `#Advanced Selectors` `#Rule Subscription` `#accessibility` `#android` `#auto` `#click` `#compose` `#jetpack-compose` `#kotlin` `#kotlin-js` `#kotlin-multiplatform` `#webassembly` 
 > An Android automation app leveraging Accessibility API for custom screen tapping. Uses advanced CSS-like selectors for precise UI node targeting with subscription-based remote rule support. Ideal for ad-skipping and workflow automation, requiring user-configured or subscribed rules.
@@ -3856,7 +3856,7 @@
 ## wanglin2/mind-map
 
 > [!info]
-> ⭐ 11,890 · JavaScript · 2026-03-20  
+> ⭐ 11,894 · JavaScript · 2026-03-20  
 > [GitHub](https://github.com/wanglin2/mind-map) · [Website](https://wanglin2.github.io/mind-map-docs/)  
 > `#Mind Map Library` `#Plugin Architecture` `#Cross-platform Client` `#SVG Export` `#graph` `#jsmind` `#mind-map` `#mind-mapping` `#mindmap` `#mindmapping` `#svg` `#xmind` 
 > SimpleMindMap is a powerful web mind map library and application built with pure JavaScript. It features a plugin-based architecture, supports multiple diagram structures including logic diagrams, org charts, and timelines. Nodes support rich text, images, and formulas. Exports to PNG/SVG/PDF formats, with cross-platform desktop client and plugins for Obsidian and UTools.
@@ -3866,7 +3866,7 @@
 ## czy0729/Bangumi
 
 > [!info]
-> ⭐ 5,315 · TypeScript · 2026-03-20  
+> ⭐ 5,316 · TypeScript · 2026-03-20  
 > [GitHub](https://github.com/czy0729/Bangumi)  
 > `#React Native` `#ACG Tracking` `#Bangumi Client` `#Anime Management` `#android` `#android-app` `#bangumi` `#design` `#expo` `#ios` `#ios-app` `#mobx` `#moe` `#react` `#react-native` 
 > An unofficial React Native mobile client for Bangumi (bgm.tv), providing tracking and discovery for anime, games, and music content. Features self-built CDN acceleration for stable data loading, supports iOS/Android platforms with 100+ pages, covering subjects, timeline, rakuen, and enhanced features like photo walls and AI recommendations.
@@ -3876,7 +3876,7 @@
 ## Stirling-Tools/Stirling-PDF
 
 > [!info]
-> ⭐ 75,643 · TypeScript · 2026-03-21  
+> ⭐ 75,677 · TypeScript · 2026-03-21  
 > [GitHub](https://github.com/Stirling-Tools/Stirling-PDF) · [Website](https://stirling.com)  
 > `#PDF Processing` `#Self-Hosted` `#Enterprise PDF` `#Document Automation` `#docker` `#hacktoberfest` `#java` `#pdf` `#pdf-converter` `#pdf-editor` `#pdf-manipulation` `#pdf-merger` `#pdf-ocr` `#pdf-tools` `#pdf-web-apps` `#pdfmerger` 
 > The #1 open-source PDF processing platform on GitHub, Stirling PDF supports desktop, browser, and self-hosted server deployment. Offers 50+ PDF tools including editing, merging, splitting, signing, redacting, converting, OCR, and compression. Features REST APIs, enterprise SSO, audit logging, and no-code workflow automation across 40+ languages with full local processing for data privacy.
@@ -3886,7 +3886,7 @@
 ## hellzerg/optimizer
 
 > [!info]
-> ⭐ 18,069 · C# · 2026-01-20  
+> ⭐ 18,071 · C# · 2026-01-20  
 > [GitHub](https://github.com/hellzerg/optimizer)  
 > `#Windows Optimization` `#Privacy Security` `#System Hardening` `#NET Application` `#cleanup` `#hosts-file` `#optimize` `#privacy` `#registry-hacks` `#registry-tweaks` `#startup-items` `#toolbox` `#tweaks` `#windows` `#windows-10` `#windows-7` `#windows-8` `#windows-8-1` `#windows-tweaks` 
 > A comprehensive Windows privacy and security configuration utility with 24-language support. Disables Windows/Office telemetry, Cortana, and auto-updates; cleans system and browser data; manages DNS and HOSTS files; provides hardware inspection, process management, and automation templates. Compatible with Windows 7-11 and servers, requires .NET Framework 4.8.1.
@@ -3896,7 +3896,7 @@
 ## questdb/questdb
 
 > [!info]
-> ⭐ 16,782 · Java · 2026-03-22  
+> ⭐ 16,784 · Java · 2026-03-22  
 > [GitHub](https://github.com/questdb/questdb) · [Website](https://questdb.com)  
 > `#Time-Series Database` `#Column-oriented Storage` `#SIMD Vectorization` `#Financial Data` `#capital-markets` `#cpp` `#database` `#financial-analysis` `#grafana` `#java` `#kdb` `#low-latency` `#market-data` `#olap` `#parquet` `#postgresql` `#questdb` `#real-time-analytics` `#simd` `#sql` `#tick-data` `#time-series` `#time-series-database` `#tsdb` 
 > QuestDB is a high-performance open-source time-series database leveraging column-oriented storage, vectorized execution, and SIMD acceleration. It features a multi-tier storage engine from WAL to Parquet, delivering low-latency SQL queries and real-time ingestion. Specialized for financial tick data, sensor telemetry, and real-time monitoring, with Postgres protocol compatibility and Apache 2.0 licensing.
@@ -3906,7 +3906,7 @@
 ## timescale/timescaledb
 
 > [!info]
-> ⭐ 22,170 · C · 2026-03-20  
+> ⭐ 22,178 · C · 2026-03-22  
 > [GitHub](https://github.com/timescale/timescaledb) · [Website](https://www.tigerdata.com/)  
 > `#time-series database` `#PostgreSQL extension` `#columnar storage` `#hypertable` `#analytics` `#database` `#financial-analysis` `#hacktoberfest` `#iot` `#postgres` `#postgresql` `#sql` `#tigerdata` `#time-series` `#time-series-database` `#timescaledb` `#tsdb` 
 > TimescaleDB is a PostgreSQL extension for time-series data, engineered for high-throughput writes and real-time analytics. It uses hypertables for automatic partitioning and columnar storage for analytical query acceleration, fully compatible with the PostgreSQL ecosystem. Ideal for IoT monitoring, financial trading, and APM use cases.
@@ -3926,7 +3926,7 @@
 ## rustdesk/rustdesk
 
 > [!info]
-> ⭐ 109,773 · Rust · 2026-03-21  
+> ⭐ 109,840 · Rust · 2026-03-21  
 > [GitHub](https://github.com/rustdesk/rustdesk) · [Website](https://rustdesk.com)  
 > `#Remote Desktop` `#Rust` `#Self-hosted` `#Cross-platform` `#android` `#anydesk` `#dart` `#flatpak` `#flutter` `#flutter-apps` `#ios` `#linux` `#macos` `#p2p` `#rdp` `#remote-control` `#remote-desktop` `#rust` `#rust-lang` `#teamviewer` `#vnc` `#wayland` `#windows` 
 > Open-source remote desktop written in Rust, self-hostable alternative to TeamViewer. Works out of the box across Windows, Linux, macOS, Android and iOS with full data control and optional self-deployed relay servers.
@@ -3946,7 +3946,7 @@
 ## pixeltris/YgoMaster
 
 > [!info]
-> ⭐ 1,239 · C# · 2026-02-13  
+> ⭐ 1,240 · C# · 2026-02-13  
 > [GitHub](https://github.com/pixeltris/YgoMaster)  
 > `#Game Mod` `#Offline Mode` `#Card Game` `#.NET Framework` `#masterduel` `#yugioh` 
 > YgoMaster is an offline mod for Yu-Gi-Oh! Master Duel enabling deck creation, pack opening, solo content, custom CPU duels and PvP without official servers. Supports YDK/YDKe imports, replay functionality and ~6000 pre-built decks. Runs fully offline without Steam dependency.
@@ -3956,7 +3956,7 @@
 ## krahets/hello-algo
 
 > [!info]
-> ⭐ 123,621 · Java · 2026-01-23  
+> ⭐ 123,672 · Java · 2026-01-23  
 > [GitHub](https://github.com/krahets/hello-algo) · [Website](https://www.hello-algo.com)  
 > `#Data Structures & Algorithms` `#Animated Visualization` `#Multi-language Support` `#Open-source Tutorial` `#algo` `#algorithm` `#algorithms` `#book` `#data-structure` `#data-structures` `#data-structures-and-algorithms` `#dsa` `#education` `#leetcode` `#programming` 
 > Hello Algo is an open-source, free data structures and algorithms tutorial featuring animated illustrations with runnable code in 13 programming languages including Python, Java, C++, and Go. Available in Simplified/Traditional Chinese, English, and Japanese, it's ideal for beginners.
@@ -3966,7 +3966,7 @@
 ## containers/podman
 
 > [!info]
-> ⭐ 31,085 · Go · 2026-03-20  
+> ⭐ 31,092 · Go · 2026-03-22  
 > [GitHub](https://github.com/containers/podman) · [Website](https://podman.io)  
 > `#Container Runtime` `#Daemonless` `#Rootless Container` `#Pod Management` `#containers` `#docker` `#kubernetes` `#linux` `#oci` 
 > Podman is a daemonless OCI container and Pod management tool built on libpod library. It supports OCI and Docker image formats, provides complete container lifecycle management, network isolation and resource management. Runs rootless on Linux and via VM on Mac/Windows, offering Docker-compatible CLI and REST API.
@@ -3986,7 +3986,7 @@
 ## ClickHouse/ClickHouse
 
 > [!info]
-> ⭐ 46,440 · C++ · 2026-03-22  
+> ⭐ 46,463 · C++ · 2026-03-23  
 > [GitHub](https://github.com/ClickHouse/ClickHouse) · [Website](https://clickhouse.com)  
 > `#Columnar Database` `#Real-time OLAP` `#Vectorized Execution` `#Big Data Analytics` `#ai` `#analytics` `#big-data` `#clickhouse` `#cloud-native` `#cpp` `#database` `#dbms` `#distributed` `#embedded` `#hacktoberfest` `#lakehouse` `#mpp` `#olap` `#rust` `#self-hosted` `#sql` 
 > ClickHouse is an open-source column-oriented DBMS designed for real-time OLAP analytics. It features vectorized execution engine and columnar storage architecture, delivering sub-second query performance on petabyte-scale data for analytics and logging workloads.
@@ -4016,7 +4016,7 @@
 ## eip-work/kuboard-press
 
 > [!info]
-> ⭐ 24,882 · JavaScript · 2026-03-15  
+> ⭐ 24,886 · JavaScript · 2026-03-15  
 > [GitHub](https://github.com/eip-work/kuboard-press) · [Website](https://kuboard.cn/)  
 > `#Kubernetes UI` `#Multi-cluster Management` `#Microservices` `#DevOps Tools` `#docker` `#k8s` `#kubernetes` `#kubernetes-kuboard` 
 > Kuboard is a free Kubernetes management UI compatible with version 1.13+. It offers multi-cluster management, fine-grained permission control, microservices layer visualization, and graphical workload editing. Built-in monitoring suite via Prometheus/Grafana and logging via Loki support NFS/CephFS storage, serving 1000+ enterprises in production.
@@ -4026,7 +4026,7 @@
 ## seaweedfs/seaweedfs
 
 > [!info]
-> ⭐ 31,062 · Go · 2026-03-21  
+> ⭐ 31,081 · Go · 2026-03-22  
 > [GitHub](https://github.com/seaweedfs/seaweedfs) · [Website](https://seaweedfs.com)  
 > `#Distributed Storage` `#Object Storage` `#Erasure Coding` `#S3 Compatible` `#blob-storage` `#cloud-drive` `#distributed-file-system` `#distributed-storage` `#distributed-systems` `#erasure-coding` `#fuse` `#hadoop-hdfs` `#hdfs` `#kubernetes` `#object-storage` `#posix` `#replication` `#s3` `#s3-storage` `#seaweedfs` `#tiered-file-system` 
 > SeaweedFS is a high-performance distributed storage system designed for massive-scale data with billions of files. It achieves O(1) disk seek efficiency with cloud tiering and erasure coding support. Offers multi-protocol access including S3 API, S3 Gateway, Hadoop, and WebDAV, with Kubernetes deployment, FUSE mounting, and cross-datacenter replication. Ideal for object storage, file systems, and data lakes.
@@ -4036,7 +4036,7 @@
 ## juicedata/juicefs
 
 > [!info]
-> ⭐ 13,342 · Go · 2026-03-20  
+> ⭐ 13,343 · Go · 2026-03-22  
 > [GitHub](https://github.com/juicedata/juicefs) · [Website](https://juicefs.com)  
 > `#Distributed Filesystem` `#Cloud-Native Storage` `#POSIX-Compatible` `#Object Storage` `#bigdata` `#cloud-native` `#distributed-systems` `#filesystem` `#go` `#golang` `#hdfs` `#object-storage` `#posix` `#redis` `#s3` `#storage` 
 > JuiceFS is a high-performance distributed POSIX file system built on Redis and S3, designed for cloud-native environments. It stores data in object storage with flexible metadata engines including Redis, MySQL, and TiKV. Offering full POSIX compatibility, Hadoop ecosystem integration, Kubernetes CSI driver, strong consistency, and millisecond-level latency, it enables massive cloud storage to be used as efficiently as local storage without code modification for big data, ML, and AI workloads.
@@ -4066,7 +4066,7 @@
 ## apache/ozone
 
 > [!info]
-> ⭐ 1,183 · Java · 2026-03-21  
+> ⭐ 1,185 · Java · 2026-03-22  
 > [GitHub](https://github.com/apache/ozone) · [Website](https://ozone.apache.org)  
 > `#Distributed Object Store` `#RAFT Consensus` `#Cloud-Native Storage` `#Hadoop Ecosystem` `#big-data` `#hadoop` `#kubernetes` `#object-store` `#s3` `#storage` 
 > Apache Ozone is a scalable, redundant, distributed object store developed under Apache Software Foundation, optimized for Hadoop and cloud-native environments. It supports both S3 and Hadoop File System APIs, scales to billions of objects and files, ensures strong consistency via RAFT consensus protocol, supports containerized deployment on Kubernetes and YARN, and provides enterprise security with Kerberos authentication, native ACLs, Ranger integration, and encryption.
@@ -4076,7 +4076,7 @@
 ## kamranahmedse/githunt
 
 > [!info]
-> ⭐ 3,110 · JavaScript · 2024-03-25  
+> ⭐ 3,112 · JavaScript · 2024-03-25  
 > [GitHub](https://github.com/kamranahmedse/githunt) · [Website](https://kamranahmed.info/githunt)  
 > `#React App` `#Chrome Extension` `#GitHub Trending` `#Open Source Discovery` `#chrome-extension` `#github-extension` `#trending-repositories` `#trending-topics` 
 > GitHunt is a React-based web application and Chrome extension that helps users discover the most starred GitHub projects on any date. It provides weekly trending rankings with list and grid view options, plus language filtering, ideal for developers to track open-source trends.
@@ -4096,7 +4096,7 @@
 ## sagframe/sagacity-sqltoy
 
 > [!info]
-> ⭐ 1,149 · Java · 2026-03-16  
+> ⭐ 1,150 · Java · 2026-03-16  
 > [GitHub](https://github.com/sagframe/sagacity-sqltoy)  
 > `#Java ORM` `#Database Sharding` `#Cache Translation` `#OLAP Analytics` `#orm` `#sagacity` `#sagacity-orm` `#sagacity-sqltoy` `#sql` `#sql-orm` `#sqltoy` `#sqltoy-orm` `#sqltoy-sql` 
 > Sagacity-SQLToy is an intelligent Java ORM framework that deeply integrates JPA functionality with powerful query capabilities. It features innovative cache translation to replace LIKE queries, cross-database SQL auto-adaptation, complex analytics including group summary, pivot/unpivot, YoY/MoM analysis, and tree aggregation. With sharding, multi-tenancy, data masking, and high-concurrency updateFetch, it excellently supports OLAP scenarios like ClickHouse and Doris.
@@ -4106,7 +4106,7 @@
 ## lionsoul2014/ip2region
 
 > [!info]
-> ⭐ 18,846 · Java · 2026-03-13  
+> ⭐ 18,851 · Java · 2026-03-13  
 > [GitHub](https://github.com/lionsoul2014/ip2region) · [Website](https://ip2region.net)  
 > `#Offline IP Geolocation` `#xdb Database` `#Microsecond Query` `#IPv6 Support` `#ip-address` `#ip-address-database` `#ip-address-location` `#ip-location` `#ip-lookup` `#ipv4-address` `#ipv4-lookup` `#ipv4-support` `#ipv6-address` `#ipv6-lookup` `#ipv6-support` `#xdb-engine` `#xdb-ipv4` `#xdb-ipv6` 
 > ip2region is a high-performance offline IP address geolocation library supporting both IPv4 and IPv6. Using xdb format to store billions of IP segments, it achieves microsecond-level query performance (<10μs) through vIndex caching or full-file memory caching. Provides city-level IP location lookup with built-in data deduplication and compression, available in multiple language bindings including Golang, Java, PHP, and Python.
@@ -4116,7 +4116,7 @@
 ## YunaiV/yudao-cloud
 
 > [!info]
-> ⭐ 18,690 · Java · 2026-03-08  
+> ⭐ 18,692 · Java · 2026-03-08  
 > [GitHub](https://github.com/YunaiV/yudao-cloud) · [Website](https://cloud.iocoder.cn)  
 > `#Spring Cloud Alibaba` `#Microservices` `#Multi-tenant SaaS` `#Vue3 Admin` `#dubbo` `#elasticsearch` `#mall` `#mysql` `#nacos` `#redis` `#rocketmq` `#seata` `#sharding-sphere` `#skywalking` `#spring-cloud` `#spring-cloud-alibaba` `#springboot` `#springcloud` `#xxl-job` `#zookeeper` 
 > Enterprise-grade microservice management platform based on Spring Cloud Alibaba + Vue3, featuring RBAC dynamic permissions, multi-tenancy, data permissions, workflows, payments, SMS, e-commerce, CRM, ERP, AI, and IoT. Integrates Nacos, Sentinel, Seata, Flowable with code generators.
@@ -4136,7 +4136,7 @@
 ## apache/flink
 
 > [!info]
-> ⭐ 25,881 · Java · 2026-03-21  
+> ⭐ 25,884 · Java · 2026-03-23  
 > [GitHub](https://github.com/apache/flink) · [Website](https://flink.apache.org/)  
 > `#Unified Stream-Batch` `#Event-Time Processing` `#Exactly-Once Semantics` `#Distributed Computing` `#big-data` `#flink` `#java` `#python` `#scala` `#sql` 
 > Apache Flink is an open source distributed stream processing framework supporting unified stream and batch computing. Core strengths include event-time semantics, exactly-once processing guarantees, high throughput and low latency. With Java fluent API, flexible windowing, custom triggers and back-pressure handling, it integrates with YARN, HDFS and other Hadoop ecosystem components, widely used for real-time analytics and event-driven applications.
@@ -4156,7 +4156,7 @@
 ## baomidou/mybatis-plus
 
 > [!info]
-> ⭐ 17,323 · Java · 2026-02-07  
+> ⭐ 17,322 · Java · 2026-02-07  
 > [GitHub](https://github.com/baomidou/mybatis-plus) · [Website](https://baomidou.com)  
 > `#Code Generator` `#Query Wrapper` `#ORM Framework` `#Pagination Plugin` `#mybatis` `#mybatis-plus` `#mybatis-spring` `#mysql` `#orm` `#orm-framework` `#postgresql` `#toolkit` 
 > MyBatis-Plus is a powerful enhanced toolkit of MyBatis that simplifies Java persistence layer development through code generators, conditional query builders, automatic pagination, and Lambda-style APIs. It supports auto key generation, SQL injection defense, and Active Record pattern, fully compatible with MyBatis.
@@ -4176,7 +4176,7 @@
 ## dbeaver/dbeaver
 
 > [!info]
-> ⭐ 49,217 · Java · 2026-03-21  
+> ⭐ 49,232 · Java · 2026-03-22  
 > [GitHub](https://github.com/dbeaver/dbeaver) · [Website](https://dbeaver.io)  
 > `#Database Management` `#SQL Client` `#Eclipse RCP` `#JDBC Driver` `#ai` `#copilot` `#database` `#db2` `#dbeaver` `#erd` `#gui` `#java` `#jdbc` `#mysql` `#nosql` `#openai` `#oracle` `#postgresql` `#redshift` `#sql` `#sqlite` `#sqlserver` 
 > DBeaver is a free multi-platform database management tool supporting 100+ database drivers. Built with Java/Eclipse RCP, it offers SQL editing, data visualization, ER diagrams, AI code completion, and GIS spatial data viewing. Connects to virtually any database via JDBC/ODBC, ideal for developers, DBAs, and analysts.
@@ -4206,7 +4206,7 @@
 ## ceph/ceph
 
 > [!info]
-> ⭐ 16,356 · C++ · 2026-03-21  
+> ⭐ 16,360 · C++ · 2026-03-21  
 > [GitHub](https://github.com/ceph/ceph) · [Website](https://ceph.io)  
 > `#Distributed Storage` `#Unified Storage` `#Object Storage` `#Block Storage` `#Software-Defined Storage` `#block-storage` `#cloud-storage` `#distributed-file-system` `#distributed-storage` `#erasure-coding` `#fuse` `#hdfs` `#high-performance` `#highly-available` `#iscsi` `#kubernetes` `#nfs` `#nvme-over-fabrics` `#object-store` `#posix` `#replication` `#s3` `#smb` `#software-defined-storage` `#storage` 
 > Ceph is a unified distributed storage platform that provides object, block, and file storage through a decentralized architecture. It delivers high scalability, reliability, and performance for cloud computing, software-defined storage, and enterprise data center deployments, remaining one of the most active open-source storage projects worldwide.
@@ -4236,7 +4236,7 @@
 ## kevin2li/PDF-Guru
 
 > [!info]
-> ⭐ 3,993 · Vue · 2025-05-31  
+> ⭐ 3,995 · Vue · 2025-05-31  
 > [GitHub](https://github.com/kevin2li/PDF-Guru) · [Website](https://guru.kevin2li.com/)  
 > `#Spaced Repetition` `#AI Flashcard Generation` `#Knowledge Management` `#Multi-format Conversion` `#ai-flashcards` `#anki-flashcards` `#anki-to-pdf` `#excel-to-anki` `#markdown-to-anki` `#mindmap-to-anki` `#mubu-to-anki` `#pdf-to-anki` `#pdf-toolbox` `#pdf-watermark` `#wereader-to-anki` `#word-to-anki` 
 > Universal knowledge-to-Anki converter enabling one-click flashcard creation from PDF/Word/Excel/images/WeChat Reading/mind maps. Features AI-powered key point extraction, video frame capture, LAN sync, and PDF export. Cross-platform tool for building personal long-term memory knowledge bases.
@@ -4256,7 +4256,7 @@
 ## 0x5bfa/FluentHub
 
 > [!info]
-> ⭐ 1,232 · C# · 2026-03-16  
+> ⭐ 1,233 · C# · 2026-03-16  
 > [GitHub](https://github.com/0x5bfa/FluentHub)  
 > `#WinUI3` `#GitHub Client` `#Fluent Design` `#.NET 8` `#client` `#csharp` `#developer-tools` `#fluent` `#fluenthub` `#github` `#github-api` `#graphql` `#hacktoberfest` `#mica` `#mit-license` `#modern` `#oauth` `#power-user` `#powerful` `#uwp` `#windows` `#windows-11` `#winui` `#xaml` 
 > FluentHub is a stylish yet powerful GitHub client for Windows built on WinAppSdk/WinUI3 with FluentUI design language. It features multi-tab multitasking, powerful page navigation, and seamless GitHub API integration for creating issues and pull requests directly within the app.
@@ -4266,7 +4266,7 @@
 ## AbdBarho/stable-diffusion-webui-docker
 
 > [!info]
-> ⭐ 7,330 · Shell · 2024-08-18  
+> ⭐ 7,331 · Shell · 2024-08-18  
 > [GitHub](https://github.com/AbdBarho/stable-diffusion-webui-docker)  
 > `#Docker Containerization` `#Stable Diffusion` `#AI Image Generation` `#docker` `#docker-compse` `#gradio` `#pytorch` `#stable-diffusion` 
 > This project provides Docker containerization for running Stable Diffusion AI image generation locally with minimal setup. It supports both AUTOMATIC1111 and ComfyUI web interfaces, enabling text-to-image and image-to-image generation through an intuitive browser-based UI.
@@ -4296,7 +4296,7 @@
 ## siyuan-note/siyuan
 
 > [!info]
-> ⭐ 42,019 · TypeScript · 2026-03-21  
+> ⭐ 42,038 · TypeScript · 2026-03-22  
 > [GitHub](https://github.com/siyuan-note/siyuan) · [Website](https://b3log.org/siyuan)  
 > `#Knowledge Management` `#Bidirectional Linking` `#Self-hosted` `#Privacy-first` `#anki` `#chatgpt` `#deepseek` `#electron` `#evernote` `#knowledge-base` `#local-first` `#markdown` `#note-taking` `#notes-app` `#notion` `#obsidian` `#ocr` `#ollama` `#openclaw` `#pdf` `#s3` `#self-hosted` `#webdav` 
 > SiYuan is a privacy-first, self-hosted open-source personal knowledge management system built with TypeScript and Golang. It features bidirectional linking, block-level references, and Markdown editing, with optional Docker deployment for complete local data storage. Available on desktop and mobile platforms for building personal knowledge bases.
@@ -4326,7 +4326,7 @@
 ## PromtEngineer/localGPT
 
 > [!info]
-> ⭐ 22,212 · Python · 2026-03-10  
+> ⭐ 22,213 · Python · 2026-03-10  
 > [GitHub](https://github.com/PromtEngineer/localGPT)  
 > `#Local LLM` `#Document Intelligence` `#Privacy Computing` `#Hybrid Search` 
 > A fully private, on-premise document intelligence platform enabling chat with local GPT models. Features a hybrid search engine combining semantic similarity, keyword matching, and Late Chunking, with a smart router for automatic RAG vs direct LLM answering. Built with pure Python core, supports GPU/CPU/HPU/MPS platforms, handles PDF/DOCX formats, ensuring 100% data privacy.
@@ -4336,7 +4336,7 @@
 ## ramon-victor/freegpt-webui
 
 > [!info]
-> ⭐ 5,660 · Python · 2023-09-26  
+> ⭐ 5,659 · Python · 2023-09-26  
 > [GitHub](https://github.com/ramon-victor/freegpt-webui) · [Website](https://freegpt-webui-chimera.ramonvc.repl.co)  
 > `#GPT-3.5/4` `#Web Chat UI` `#G4F Integration` `#API-Free Access` `#apifree` `#chatgpt` `#chatgpt-api` `#chatgpt-clone` `#freegpt` `#freegpt4` `#gpt-4` `#gpt-4-api` `#gpt-4-free` `#gpt-free` `#gpt-interface` `#gpt3` `#gpt3-api` `#gpt3-turbo` `#gpt4` `#gpt4all` `#gptfree` `#jailbreak` `#language-model` `#website` 
 > A ChatGPT-style Web UI powered by gpt4free (G4F) API, enabling free access to GPT-3.5/4 without requiring an API key. Features a user-friendly interface, Docker deployment support, and demo hosting on Replit and Hugging Face. The archived project remains as a reference for G4F web integration.
@@ -4346,7 +4346,7 @@
 ## apache/iotdb
 
 > [!info]
-> ⭐ 6,297 · Java · 2026-03-21  
+> ⭐ 6,298 · Java · 2026-03-21  
 > [GitHub](https://github.com/apache/iotdb) · [Website](https://iotdb.apache.org/)  
 > `#Time-Series Database` `#IoT Data Management` `#TsFile` `#Industrial IoT` `#big-data` `#database` `#iot` `#java` `#nosql` `#timeseries` `#tsdb` 
 > Apache IoTDB is a time-series data management system designed for IoT scenarios, supporting integrated data collection, storage, and analysis. With lightweight architecture, it achieves high compression ratios and high-throughput read/write for millions of devices, seamlessly integrating with Hadoop and Spark ecosystem for industrial IoT data analytics.
@@ -4356,7 +4356,7 @@
 ## alibaba/spring-cloud-alibaba
 
 > [!info]
-> ⭐ 29,083 · Java · 2026-03-12  
+> ⭐ 29,084 · Java · 2026-03-22  
 > [GitHub](https://github.com/alibaba/spring-cloud-alibaba) · [Website](https://sca.aliyun.com)  
 > `#Microservices` `#Service Governance` `#Traffic Control` `#Service Discovery` `#alibaba` `#alibaba-middleware` `#alibaba-oss` `#aliyun` `#circuit-breaker` `#cloud-native` `#distributed-configuration` `#distributed-messaging` `#distributed-transaction` `#dubbo` `#java` `#microservices` `#nacos` `#rocketmq` `#service-discovery` `#service-registry` `#spring` `#spring-cloud` `#spring-cloud-alibaba` `#spring-cloud-core` 
 > Spring Cloud Alibaba is an open-source one-stop solution for distributed application development by Alibaba, deeply integrated with the Spring Cloud ecosystem. Core components include Sentinel (flow control and circuit breaking) and Nacos (service discovery and configuration management), supporting distributed transactions, event-driven architecture, and dynamic configuration refresh for building microservices with Alibaba middleware.
@@ -4376,7 +4376,7 @@
 ## pppscn/SmsForwarder
 
 > [!info]
-> ⭐ 24,969 · Kotlin · 2026-03-02  
+> ⭐ 24,975 · Kotlin · 2026-03-02  
 > [GitHub](https://github.com/pppscn/SmsForwarder)  
 > `#Android SMS Forwarder` `#Multi-Channel Notification` `#Remote Control` `#Backup Phone Tool` `#android` `#api` `#app` `#bark` `#call` `#chatgpt` `#dingding` `#forward` `#mqtt` `#pushdear` `#pushplus` `#serverchan` `#sms` `#smtp` `#telegram` `#webhook` `#wechatapp` 
 > Android SMS forwarder monitoring SMS, calls, and app notifications, forwarding to 10+ channels including DingTalk, WeChat Work, Feishu, Email, Bark, Telegram. V3.0 adds remote control server for sending SMS, checking calls and battery. Supports Android 4.4-13.0 with zero privacy data collection.
@@ -4406,7 +4406,7 @@
 ## gedoor/legado
 
 > [!info]
-> ⭐ 44,992 · Kotlin · 2026-03-17  
+> ⭐ 45,018 · Kotlin · 2026-03-17  
 > [GitHub](https://github.com/gedoor/legado)  
 > `#Android Reader` `#Custom Book Source` `#Web Novel Scraper` `#Open Source Reader` 
 > Legado is an open-source Android novel reader supporting custom book source rules for web content scraping, plus local TXT/EPUB reading. Features highly customizable reading interface with fonts, colors, backgrounds, page-flip modes, book source search, subscriptions, and ad-free open-source experience.
@@ -4426,7 +4426,7 @@
 ## winsw/winsw
 
 > [!info]
-> ⭐ 13,783 · C# · 2026-03-19  
+> ⭐ 13,788 · C# · 2026-03-19  
 > [GitHub](https://github.com/winsw/winsw)  
 > `#Windows Service Wrapper` `#.NET 7` `#Service Management` `#XML Configuration` `#csharp` `#dotnet` `#hacktoberfest` `#nuget` `#windows-service` `#windows-service-wrapper` 
 > WinSW wraps any executable as a Windows service with full lifecycle management. Supports .NET Framework 4.6.1+ and .NET 7, offering native 64/32-bit binaries. Uses XML configuration for service definition, enabling install, start, stop, restart and logging. Released under permissive license.
@@ -4456,7 +4456,7 @@
 ## opengoofy/hippo4j
 
 > [!info]
-> ⭐ 5,992 · Java · 2026-03-12  
+> ⭐ 5,993 · Java · 2026-03-12  
 > [GitHub](https://github.com/opengoofy/hippo4j) · [Website](https://hippo4j.github.io)  
 > `#Dynamic Thread Pool` `#Observability Platform` `#High Concurrency` `#Java Thread Pool Monitoring` `#blocking-queue` `#dynamic` `#dynamic-threadpool` `#java` `#kafka` `#monitor` `#resizable` `#rocketmq` `#springboot` `#thread-pool` 
 > Hippo4j is a dynamic observable thread pool framework for high-concurrency scenarios, addressing pain points like difficult parameter evaluation, unaware task accumulation, and lack of monitoring. It provides runtime thread pool parameter modification, real-time monitoring, four alarm strategies, task context transfer, and graceful shutdown, supporting both configuration center and standalone deployment modes.
@@ -4466,7 +4466,7 @@
 ## quarkusio/quarkus
 
 > [!info]
-> ⭐ 15,548 · Java · 2026-03-21  
+> ⭐ 15,550 · Java · 2026-03-22  
 > [GitHub](https://github.com/quarkusio/quarkus) · [Website](https://quarkus.io)  
 > `#Cloud Native Framework` `#Java Microservices` `#Container-First` `#Reactive Programming` `#cloud-native` `#hacktoberfest` `#java` `#kubernetes` `#reactive` 
 > Quarkus is Red Hat's cloud-native Java framework designed with a container-first philosophy. It achieves lightning-fast startup by moving computation to compile time, supporting both JVM and GraalVM native compilation for optimal Kubernetes deployment. The framework unifies reactive and imperative programming models while deeply integrating standards like RESTEasy, Hibernate, Vert.x, and MicroProfile, delivering an exceptional development experience for microservices.
@@ -4476,7 +4476,7 @@
 ## KouShenhai/KCloud-Platform-IoT
 
 > [!info]
-> ⭐ 654 · Java · 2026-03-21  
+> ⭐ 654 · Java · 2026-03-22  
 > [GitHub](https://github.com/KouShenhai/KCloud-Platform-IoT) · [Website](https://koushenhai.github.io)  
 > `#DDD Architecture` `#Multi-tenant IoT Platform` `#Spring Cloud Microservices` `#Distributed Transactions` `#ddd` `#elasticsearch` `#grpc` `#iot` `#kafka` `#modbus` `#mongodb` `#mqtt` `#mybatis` `#mybatis-plus` `#nacos` `#netty` `#postgresql` `#redis` `#spring-boot` `#spring-cloud` `#spring-cloud-alibaba` `#spring-security` `#tcp` `#udp` 
 > Enterprise-grade multi-tenant IoT cloud platform built on Spring Boot 4.0.3, Spring Cloud 2025.1.0, and Spring Cloud Alibaba 2025.1.0.0. Implements DDD architecture with Alibaba COLA framework, offering service discovery, config center, gray routing, circuit breaking, distributed transactions, caching, and locking. Supports Shell/Docker/K8s deployment with RBAC, covering system management, IoT management, and monitoring modules.
@@ -4486,7 +4486,7 @@
 ## nICEnnnnnnnLee/BilibiliDown
 
 > [!info]
-> ⭐ 4,586 · Java · 2026-01-10  
+> ⭐ 4,590 · Java · 2026-01-10  
 > [GitHub](https://github.com/nICEnnnnnnnLee/BilibiliDown) · [Website](http://nICEnnnnnnnLee.github.io/BilibiliDown/)  
 > `#Java Downloader` `#Bilibili Batch Download` `#FFmpeg Transcoding` `#Cross-platform Tool` `#bilibili` `#cookie` `#download-videos` `#java` `#video-downloader` 
 > A cross-platform Bilibili video downloader built with Java, supporting Windows, Linux, and Mac. Features GUI for batch downloading videos from creator pages, favorites, and watch-later lists. Uses FFmpeg for video transcoding (FLV merging and M4S to MP4), requiring logged-in Bilibili account.
@@ -4496,7 +4496,7 @@
 ## rust-lang/rust
 
 > [!info]
-> ⭐ 111,414 · Rust · 2026-03-22  
+> ⭐ 111,437 · Rust · 2026-03-23  
 > [GitHub](https://github.com/rust-lang/rust) · [Website](https://www.rust-lang.org)  
 > `#Systems Programming` `#Memory Safety` `#Ownership Model` `#WebAssembly` `#compiler` `#language` `#rust` 
 > Rust is a systems programming language developed by Mozilla that guarantees memory and thread safety through its ownership model and type system, eliminating null pointers and data races at compile time. Features Cargo, rustfmt, and Clippy tooling, widely used for WebAssembly, embedded development, and high-performance services.
@@ -4526,7 +4526,7 @@
 ## sunface/rust-course
 
 > [!info]
-> ⭐ 30,129 · Rust · 2026-03-12  
+> ⭐ 30,130 · Rust · 2026-03-12  
 > [GitHub](https://github.com/sunface/rust-course) · [Website](https://course.rs)  
 > `#Rust Programming` `#Systems Programming` `#Async/Await` `#Technical Book` `#book` `#chinese` `#course` `#deno` `#javascript` `#learn` `#learning` `#programming-courses` `#rust` `#rust-book` `#rust-course` `#rust-lang` `#rust-learn` `#rust-learning` `#rust-study` `#study` `#wasm` 
 > A comprehensive Chinese Rust tutorial covering complete knowledge from beginner to advanced, including ownership, lifetimes, concurrency, and async programming. Features practical exercises and cookbook code snippets, helping developers efficiently master this GC-free, high-performance, secure systems programming language. Open-source with continuous updates.
@@ -4536,7 +4536,7 @@
 ## wg/wrk
 
 > [!info]
-> ⭐ 40,138 · C · 2023-12-30  
+> ⭐ 40,140 · C · 2023-12-30  
 > [GitHub](https://github.com/wg/wrk)  
 > `#HTTP Benchmarking` `#Multi-threaded` `#Event-driven` `#LuaJIT Scripting` 
 > wrk is a modern HTTP benchmarking tool featuring a multithreaded architecture with scalable event notification systems (epoll/kqueue), capable of generating substantial load on single multi-core CPUs. It supports LuaJIT scripting for custom request generation, response processing, and reporting, making it ideal for web server performance evaluation.
@@ -4596,7 +4596,7 @@
 ## mcmilk/7-Zip-zstd
 
 > [!info]
-> ⭐ 6,784 · C · 2026-03-06  
+> ⭐ 6,790 · C · 2026-03-06  
 > [GitHub](https://github.com/mcmilk/7-Zip-zstd) · [Website](https://mcmilk.de/projects/7-Zip-zstd/)  
 > `#File Compression` `#Zstandard Compression` `#Multi-format Archive` `#7-Zip Fork` `#7-zip` `#7z` `#7zip` `#archiver` `#brotli` `#flzma2` `#lizard` `#lz4` `#lz5` `#lzip` `#lzma` `#lzma2` `#zstandard` `#zstd` 
 > 7-Zip ZS is an enhanced version of 7-Zip with native support for six modern compression algorithms: Zstandard, Brotli, LZ4, LZ5, Lizard, and Fast-LZMA2. These algorithms offer a wide range from ultra-fast to high-compression options for various use cases. The project provides both full installer (with GUI and Explorer integration) and standalone codec plugin.
@@ -4626,7 +4626,7 @@
 ## immersive-translate/immersive-translate
 
 > [!info]
-> ⭐ 17,296 · N/A · 2026-03-19  
+> ⭐ 17,306 · N/A · 2026-03-19  
 > [GitHub](https://github.com/immersive-translate/immersive-translate) · [Website](https://immersivetranslate.com)  
 > `#Browser Extension` `#Web Translation` `#Bilingual Reading` `#Document Translation` `#chrome-extension` `#safari-extension` `#translation` `#userscript` 
 > A bilingual web page translation browser extension enabling immersive dual-language reading. Supports input box translation, hover-to-translate for paragraphs, plus document translation for PDF, Epub, subtitles, and TXT files. Integrates multiple translation services with a clean, immersive interface. Note: This repository is for release distribution only; source code is not included as the software is closed-source.
@@ -4636,7 +4636,7 @@
 ## lsd-rs/lsd
 
 > [!info]
-> ⭐ 15,581 · Rust · 2026-03-21  
+> ⭐ 15,583 · Rust · 2026-03-21  
 > [GitHub](https://github.com/lsd-rs/lsd)  
 > `#Rust CLI Tool` `#File Listing Enhancement` `#Terminal UI` `#Tree View` `#color` `#hacktoberfest` `#icons` `#ls` `#nerd-fonts` `#rust` 
 > LSDeluxe is a modern Rust-based replacement for the classic ls command, featuring colored output, file icons, and tree-view functionality. Available on MacOS, Linux, and Windows with Nerd Font support for enhanced terminal file browsing.
@@ -4646,7 +4646,7 @@
 ## whyour/qinglong
 
 > [!info]
-> ⭐ 19,419 · TypeScript · 2026-03-13  
+> ⭐ 19,418 · TypeScript · 2026-03-13  
 > [GitHub](https://github.com/whyour/qinglong) · [Website](https://qinglong.online)  
 > `#Cron Job` `#Task Scheduler` `#Docker Deployment` `#Automation Script` `#crontab` `#docker` `#javascript` `#python` `#shell` `#task-manager` `#typescript` 
 > QingLong is a powerful timed task management platform supporting Python3, JavaScript, Shell, and TypeScript. It provides a web interface for script, environment variable and configuration file management, featuring second-level cron jobs, real-time log viewing, system notifications, dark mode, mobile access, with Docker and npm deployment options.
@@ -4666,7 +4666,7 @@
 ## dragonflydb/dragonfly
 
 > [!info]
-> ⭐ 30,210 · C++ · 2026-03-21  
+> ⭐ 30,216 · C++ · 2026-03-22  
 > [GitHub](https://github.com/dragonflydb/dragonfly) · [Website](https://www.dragonflydb.io/)  
 > `#In-Memory Database` `#Redis-Compatible` `#Multi-threaded Architecture` `#High-Performance Cache` `#cache` `#cpp` `#database` `#fibers` `#in-memory` `#in-memory-database` `#key-value` `#keydb` `#memcached` `#message-broker` `#multi-threading` `#nosql` `#redis` `#valkey` `#vector-search` 
 > Dragonfly is a high-performance in-memory data store fully compatible with Redis and Memcached APIs. Built with a multi-threaded architecture for vertical scaling, it delivers 25X throughput improvement over Redis with lower tail latency and 80% resource reduction. Zero code changes are required for adoption, making it ideal for high-concurrency caching and session storage scenarios.
@@ -4676,7 +4676,7 @@
 ## JosefNemec/Playnite
 
 > [!info]
-> ⭐ 12,688 · C# · 2026-02-20  
+> ⭐ 12,691 · C# · 2026-02-20  
 > [GitHub](https://github.com/JosefNemec/Playnite) · [Website](https://playnite.link)  
 > `#Game Library Manager` `#WPF Application` `#Multi-platform Integration` `#Emulator Support` `#csharp` `#gaming` `#launcher` `#wpf` 
 > Playnite is an open-source video game library manager and launcher integrating major platforms like Steam, Epic, GOG, EA App, and Battle.net, with built-in game emulation support. Extensible via plugins (.NET languages) and themes, it stores all game data locally for privacy. Built with C#/WPF for Windows desktop.
@@ -4686,7 +4686,7 @@
 ## Flow-Launcher/Flow.Launcher
 
 > [!info]
-> ⭐ 14,236 · C# · 2026-03-21  
+> ⭐ 14,240 · C# · 2026-03-22  
 > [GitHub](https://github.com/Flow-Launcher/Flow.Launcher) · [Website](https://flowlauncher.com)  
 > `#Windows Launcher` `#Instant File Search` `#Plugin Architecture` `#Productivity Tool` `#alfred` `#application-launcher` `#desktop` `#finder` `#flow-launcher` `#hacktoberfest` `#keyboard-launcher` `#launcher` `#launchy` `#listary` `#plugins` `#portable` `#productivity` `#productivity-tools` `#raycast` `#search` `#spotlight` `#windows` `#wox` 
 > Flow Launcher is a Windows-powered quick file search and application launcher featuring community-developed plugins. It enables searching applications, files, bookmarks, and web content with plugin-based architecture, offering hotkey integration, Everything/Windows Index support to significantly enhance Windows workflow efficiency.
@@ -4696,7 +4696,7 @@
 ## facebookresearch/segment-anything
 
 > [!info]
-> ⭐ 53,722 · Jupyter Notebook · 2024-09-18  
+> ⭐ 53,730 · Jupyter Notebook · 2024-09-18  
 > [GitHub](https://github.com/facebookresearch/segment-anything)  
 > `#Image Segmentation` `#Foundation Model` `#Zero-shot Learning` `#Promptable Segmentation` 
 > Segment Anything Model (SAM) is a revolutionary image segmentation foundation model developed by Meta AI that generates high-quality object masks from arbitrary prompts like points, boxes, or text. Trained on 11M images and 1.1B masks, it demonstrates powerful zero-shot segmentation performance, supporting both automatic and interactive segmentation modes, setting a new benchmark in computer vision.
@@ -4716,7 +4716,7 @@
 ## amir20/dozzle
 
 > [!info]
-> ⭐ 12,113 · Go · 2026-03-21  
+> ⭐ 12,118 · Go · 2026-03-22  
 > [GitHub](https://github.com/amir20/dozzle) · [Website](https://dozzle.dev/)  
 > `#Container Logs` `#Realtime Monitoring` `#Docker Tools` `#Log Viewer` `#docker` `#docker-container` `#golang` `#k8s` `#log` `#logging` `#logging-server` `#real-time` `#sever-events` `#swarm` `#vuejs` 
 > Dozzle is a lightweight, web-based realtime log viewer for Docker containers, supporting Docker, Swarm and Kubernetes. It focuses purely on live log monitoring without storing files, offering intelligent fuzzy search, regex and SQL query capabilities. Features include split-screen viewing, realtime CPU/memory stats, multi-user authentication, agent mode for distributed monitoring, and dark mode, with a compact 7MB Docker image.
@@ -4736,7 +4736,7 @@
 ## Keldos-Li/typora-latex-theme
 
 > [!info]
-> ⭐ 5,738 · SCSS · 2025-11-28  
+> ⭐ 5,739 · SCSS · 2025-11-28  
 > [GitHub](https://github.com/Keldos-Li/typora-latex-theme)  
 > `#Typora Theme` `#LaTeX Typography` `#Academic Writing` `#CSS Theme` `#latex` `#typora` `#typora-theme` `#typora-themes` 
 > A Typora theme mimicking Chinese LaTeX document style, designed for undergraduate course papers and lab reports. Default template follows Zhejiang University format with light/dark modes. Customizable via CSS for fonts and margins. Write in Markdown, export to PDF for professional LaTeX-like typography while maintaining simplicity.
@@ -4756,7 +4756,7 @@
 ## nullpo-head/wsl-distrod
 
 > [!info]
-> ⭐ 1,949 · Rust · 2025-10-05  
+> ⭐ 1,950 · Rust · 2025-10-05  
 > [GitHub](https://github.com/nullpo-head/wsl-distrod)  
 > `#WSL 2` `#systemd` `#Multi-distro Installer` `#Windows Integration` `#almalinux` `#amazonlinux` `#arch-linux` `#centos` `#debian` `#fedora` `#gentoo` `#linuxmint` `#oraclelinux` `#rockylinux` `#ubuntu` `#wsl` `#wsl-environment` `#wsl-installation` `#wsl2` 
 > Distrod is a systemd-based meta-distro for WSL 2 that enables installing Ubuntu, Arch, Debian, Gentoo and more with systemd in under a minute. It provides auto-start on Windows boot and built-in port forwarding to expose Linux services outside Windows.
@@ -4806,7 +4806,7 @@
 ## Anduin2017/HowToCook
 
 > [!info]
-> ⭐ 98,966 · Dockerfile · 2026-03-21  
+> ⭐ 98,982 · Dockerfile · 2026-03-21  
 > [GitHub](https://github.com/Anduin2017/HowToCook) · [Website](https://cook.aiursoft.com)  
 > `#Programmer Cooking` `#Home Cooking` `#Structured Recipe` `#Open Source Community` `#chinese` `#cookbook` `#cooking` `#dishes` `#recipes` 
 > A structured cooking guide designed for programmers, replacing traditional vague recipes with precise step-by-step instructions. Covers vegetable and meat dishes, difficulty-rated 1-5 stars, includes kitchen equipment tutorials and cooking fundamentals. Community-driven open-source project with Docker deployment and PDF download support.
@@ -4816,7 +4816,7 @@
 ## XIU2/TrackersListCollection
 
 > [!info]
-> ⭐ 30,825 · N/A · 2026-03-22  
+> ⭐ 30,834 · N/A · 2026-03-23  
 > [GitHub](https://github.com/XIU2/TrackersListCollection) · [Website](https://trackerslist.com)  
 > `#BT Download Acceleration` `#BitTorrent Tracker` `#Daily Update` `#Download Tool` `#aria2` `#aria2-format-tracker` `#bittorrent` `#bittorrent-trackers` `#qbittorrent` `#torrent` `#torrent-tracker` `#tracker` `#trackers` `#trackerslist` `#utorrent` 
 > A daily-updated collection of 148 popular BitTorrent trackers with 72 best ones curated. Offers multiple categories (best/all/http/nohttp) and protocols (HTTP/UDP) to effectively improve BT download speed, compatible with qBittorrent, Aria2, BitComet and other major clients.
@@ -4826,7 +4826,7 @@
 ## qbittorrent/qBittorrent
 
 > [!info]
-> ⭐ 36,101 · C++ · 2026-03-21  
+> ⭐ 36,125 · C++ · 2026-03-22  
 > [GitHub](https://github.com/qbittorrent/qBittorrent) · [Website](https://www.qbittorrent.org)  
 > `#BitTorrent Client` `#C++/Qt` `#P2P Download` `#libtorrent` `#bittorrent` `#bittorrent-client` `#c-plus-plus` `#crossplatform` `#torrent` `#torrent-client` 
 > An open-source BitTorrent client built with C++/Qt, powered by the libtorrent engine. Cross-platform, fast and stable with Unicode support, featuring integrated search, RSS subscription, and bandwidth control. A solid open-source alternative to μTorrent.
@@ -4836,7 +4836,7 @@
 ## c0re100/qBittorrent-Enhanced-Edition
 
 > [!info]
-> ⭐ 25,344 · C++ · 2025-11-15  
+> ⭐ 25,351 · C++ · 2025-11-15  
 > [GitHub](https://github.com/c0re100/qBittorrent-Enhanced-Edition) · [Website](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
 > `#BitTorrent Client` `#Qt/C++` `#P2P Download` `#Anti-Leech` `#bittorrent` `#bittorrent-client` 
 > Unofficial enhanced qBittorrent client optimized for mainland China users. Features auto-banning of domestic clients like Xunlei, QQ, Baidu, plus optional blocking of unknown Chinese peers and BitTorrent media players. Built with C++/Qt and libtorrent, integrates DB-IP geo-location database for country identification, supporting Windows, Linux, and macOS.
@@ -4846,7 +4846,7 @@
 ## vladmandic/sdnext
 
 > [!info]
-> ⭐ 7,013 · Python · 2026-03-21  
+> ⭐ 7,015 · Python · 2026-03-22  
 > [GitHub](https://github.com/vladmandic/sdnext) · [Website](https://vladmandic.github.io/sdnext-docs/)  
 > `#Diffusion Models` `#WebUI` `#Multi-Platform Support` `#AI Image Generation` `#ai-art` `#diffusers` `#flux` `#generative-art` `#llm` `#qwen` `#sdnext` `#sdxl` `#stable-diffusion` `#stable-diffusion-ai` `#stable-diffusion-webui` `#wandb` `#webui` 
 > SD.Next is an all-in-one WebUI for AI image and video generation based on Stable Diffusion models. It features cross-platform support (CUDA/ROCm/DirectML/OpenVINO/MPS), advanced optimization (Triton/quantization/compilation), and image captioning via 150+ OpenCLiP models. Includes desktop/mobile UI with 10-language localization.
@@ -4856,7 +4856,7 @@
 ## kubesphere/kubesphere
 
 > [!info]
-> ⭐ 16,874 · Go · 2025-11-06  
+> ⭐ 16,873 · Go · 2025-11-06  
 > [GitHub](https://github.com/kubesphere/kubesphere) · [Website](https://kubesphere.io)  
 > `#Kubernetes` `#Container Platform` `#Multi-cloud` `#DevOps` `#argocd` `#cloud-native` `#cncf` `#container-management` `#devops` `#ebpf` `#hacktoberfest` `#istio` `#jenkins` `#k8s` `#kubernetes` `#kubernetes-platform-solution` `#kubesphere` `#llm` `#multi-cluster` `#observability` `#servicemesh` 
 > KubeSphere is a distributed operating system for cloud-native application management built on Kubernetes, providing unified container management across multi-cloud, data centers, and edge environments. With a plug-and-play extensible architecture, it offers multi-tenant management, DevOps pipelines, application store, and cluster operations through an intuitive web UI.
@@ -4866,7 +4866,7 @@
 ## gradio-app/gradio
 
 > [!info]
-> ⭐ 42,096 · Python · 2026-03-21  
+> ⭐ 42,117 · Python · 2026-03-22  
 > [GitHub](https://github.com/gradio-app/gradio) · [Website](http://www.gradio.app)  
 > `#ML Web Apps` `#Python UI Framework` `#Model Deployment` `#Interactive Demos` `#data-analysis` `#data-science` `#data-visualization` `#deep-learning` `#deploy` `#gradio` `#gradio-interface` `#interface` `#machine-learning` `#models` `#python` `#python-notebook` `#ui` `#ui-components` 
 > Gradio is an open-source Python library for rapidly building and sharing machine learning web apps. With just a few lines of Python code, you can create interactive demos for models, APIs, or any functions, then generate public sharing links instantly. No frontend experience required, dramatically lowering the barrier to ML application deployment.
@@ -4886,7 +4886,7 @@
 ## Significant-Gravitas/AutoGPT
 
 > [!info]
-> ⭐ 182,676 · Python · 2026-03-21  
+> ⭐ 182,719 · Python · 2026-03-22  
 > [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [Website](https://agpt.co)  
 > `#AI Agent Platform` `#Low-code Automation` `#Workflow Orchestration` `#Docker Containerization` `#ai` `#artificial-intelligence` `#autonomous-agents` `#gpt-4` `#llama-api` `#openai` `#python` 
 > AutoGPT is an AI agent building and deployment platform enabling low-code workflow automation. Users can create custom agents or use pre-built templates to automate complex tasks. Supports self-hosted and cloud deployment via Docker containerization.
@@ -4896,7 +4896,7 @@
 ## AirtestProject/Airtest
 
 > [!info]
-> ⭐ 9,224 · Python · 2025-12-04  
+> ⭐ 9,225 · Python · 2025-12-04  
 > [GitHub](https://github.com/AirtestProject/Airtest) · [Website](http://airtest.netease.com/)  
 > `#Game Automation Testing` `#Cross-platform UI Testing` `#Image Recognition Automation` `#Mobile Testing Framework` `#android` `#automated-testing` `#automation` `#game` `#ios` `#test-automation` `#test-framework` `#unity3d` `#windows` 
 > Airtest is a NetEase open-source cross-platform UI automation framework for games and apps on Android, iOS and Windows. It uses image recognition to locate UI elements without code injection. Features AirtestIDE GUI tool, supports large-scale device farm testing with HTML reports and screen recording, integrates with Poco for UI object hierarchy access.
@@ -4906,7 +4906,7 @@
 ## SuperMonster003/AutoJs6
 
 > [!info]
-> ⭐ 5,504 · Java · 2026-03-16  
+> ⭐ 5,511 · Java · 2026-03-16  
 > [GitHub](https://github.com/SuperMonster003/AutoJs6) · [Website](https://docs.autojs6.com)  
 > `#Android Automation` `#JavaScript Scripting` `#Accessibility Services` `#Rhino Engine` `#android` `#autojs` `#autojs6` `#automated-tool` `#automation` `#javascript` 
 > AutoJs6 is an open-source fork of Auto.js, a JavaScript automation tool for Android leveraging accessibility services. Powered by Rhino JavaScript engine, it provides rich APIs for screen capture, UI element manipulation, and file operations. Ideal for automated testing, batch processing, and productivity enhancement on Android devices. Development started in December 2021 with ongoing updates.
@@ -4965,7 +4965,7 @@
 ## alibaba/fastjson2
 
 > [!info]
-> ⭐ 4,282 · Java · 2026-03-15  
+> ⭐ 4,283 · Java · 2026-03-15  
 > [GitHub](https://github.com/alibaba/fastjson2)  
 > `#High-Performance JSON` `#JSONB Binary Format` `#Kotlin Support` `#Alibaba Open Source` `#android` `#big-data` `#deserialization` `#fastjson` `#fastjson2` `#graal` `#graalvm-native-image` `#high-performance` `#java` `#java-json` `#json` `#json-deserialization` `#json-parser` `#json-path` `#json-serialization` `#json-serializer` `#jsonb` `#serialization` 
 > Alibaba's high-performance Java JSON library, serving as the next-generation upgrade of fastjson. Supports both JSON and JSONB protocols with full and partial parsing capabilities. Runs on Java servers, Android clients, and Kotlin. Features significantly improved performance over v1 and built-in JSON Schema validation. Apache 2.0 licensed.
@@ -4985,7 +4985,7 @@
 ## cxasm/notepad--
 
 > [!info]
-> ⭐ 9,116 · C++ · 2026-03-12  
+> ⭐ 9,121 · C++ · 2026-03-12  
 > [GitHub](https://github.com/cxasm/notepad--)  
 > `#Cross-platform Editor` `#Domestic Software` `#UOS Support` `#Lightweight Editor` 
 > Notepad-- is a lightweight cross-platform text editor supporting Windows/Linux/Mac, with focus on domestic UOS system, aiming to provide a Chinese-made alternative for text editing software.
@@ -4995,7 +4995,7 @@
 ## bigemon/ChatGPT-ToolBox
 
 > [!info]
-> ⭐ 2,036 · JavaScript · 2023-08-21  
+> ⭐ 2,034 · JavaScript · 2023-08-21  
 > [GitHub](https://github.com/bigemon/ChatGPT-ToolBox)  
 > `#Bookmarklet` `#ChatGPT Enhancement` `#Session Management` `#AI-Generated Code` `#cgpt` `#chatgpt` `#chrome-bookmark` `#chrome-bookmark-extesnsion` `#chrome-plugin` `#gpt` `#gpt-turbo` `#tampermonkey` `#tool` `#toolbox` `#userscript` 
 > An AI-written ChatGPT enhancement toolkit running as a browser bookmarklet. Features include bypassing high-load login restrictions, disabling data monitoring, connection maintenance, mixed API access, session import/export, chat history download, and GPT4-Mobile unlocking. No plugin installation required—just add the JS code to bookmarks for immediate use.
@@ -5015,7 +5015,7 @@
 ## zhongyang219/MusicPlayer2
 
 > [!info]
-> ⭐ 6,271 · C++ · 2026-03-15  
+> ⭐ 6,275 · C++ · 2026-03-15  
 > [GitHub](https://github.com/zhongyang219/MusicPlayer2)  
 > `#C++/MFC` `#Audio Spectrum Analysis` `#Desktop Lyrics` `#Dual Engine Playback` 
 > MusicPlayer2 is a powerful Windows local music player built with C++/MFC. It features lyrics display with karaoke effects, online lyrics and album art downloading, spectrum analysis, equalizer, desktop lyrics, and taskbar lyric display. Supports dual playback engines (BASS/FFMpeg) with multiple interface themes, catering to music enthusiasts seeking highly customizable playback experience.
@@ -5025,7 +5025,7 @@
 ## lllyasviel/ControlNet
 
 > [!info]
-> ⭐ 33,756 · Python · 2024-02-25  
+> ⭐ 33,760 · Python · 2024-02-25  
 > [GitHub](https://github.com/lllyasviel/ControlNet)  
 > `#Diffusion Model Control` `#Zero Convolution` `#Conditional Image Generation` `#Stable Diffusion` 
 > ControlNet is a conditional control framework for text-to-image diffusion models, implementing fine-grained control by duplicating network blocks into 'locked' and 'trainable' copies. Its core innovation 'zero convolution' initializes weights and biases to zero, causing no interference before training and enabling fine-tuning on small datasets or personal devices. This architecture reuses Stable Diffusion encoder as a robust backbone for multi-condition control including edge, pose, and depth, with memory usage comparable to original SD.
@@ -5045,7 +5045,7 @@
 ## dail8859/NotepadNext
 
 > [!info]
-> ⭐ 13,666 · C++ · 2026-03-21  
+> ⭐ 13,673 · C++ · 2026-03-22  
 > [GitHub](https://github.com/dail8859/NotepadNext)  
 > `#Qt6` `#C++` `#Cross-platform Editor` `#Notepad++ Fork` `#desktop` `#editor` `#linux` `#macos` `#notepad` `#notepad-plus-plus` `#qt` `#qt6` 
 > A cross-platform text editor built with Qt 6.5, serving as an independent reimplementation of Notepad++. Supports Windows, Linux, and macOS under GPL v3 license. Currently in development with known bugs; not recommended for critical tasks.
@@ -5065,7 +5065,7 @@
 ## mapstruct/mapstruct
 
 > [!info]
-> ⭐ 7,632 · Java · 2026-03-15  
+> ⭐ 7,633 · Java · 2026-03-15  
 > [GitHub](https://github.com/mapstruct/mapstruct) · [Website](https://mapstruct.org/)  
 > `#Annotation Processor` `#Code Generation` `#Object Mapping` `#Compile-time Processing` `#annotation-processor` `#bean-mapping` `#java` `#javabeans` `#mapping` `#mapstruct` `#no-reflection` `#records` 
 > MapStruct is a Java annotation processor that generates type-safe bean mappers at compile time. By declaring mapping interfaces with annotations, the generator automatically creates implementation classes, offering significant performance advantages and compile-time type checking compared to runtime reflection frameworks. Supports Java 8+ and Java 16+ records with customizable mapping configurations, ideal for DTO conversion and object copying in enterprise applications.
@@ -5075,7 +5075,7 @@
 ## apache/incubator-seata
 
 > [!info]
-> ⭐ 25,963 · Java · 2026-03-20  
+> ⭐ 25,964 · Java · 2026-03-20  
 > [GitHub](https://github.com/apache/incubator-seata) · [Website](https://seata.apache.org/)  
 > `#Distributed Transaction` `#Microservices` `#AT Mode` `#XA Protocol` `#at` `#consistency` `#distributed-transaction` `#microservice` `#saga` `#tcc` `#xa` 
 > Apache Seata is a distributed transaction solution from Apache Software Foundation, designed for microservices architecture. It supports AT, TCC, Saga, and XA transaction modes with high performance and ease of use. Core components include Transaction Coordinator, Transaction Manager, and Resource Manager, implementing parse-execute in phase one and commit/rollback in phase two to solve cross-service data consistency issues.
@@ -5125,7 +5125,7 @@
 ## DominikDoom/a1111-sd-webui-tagcomplete
 
 > [!info]
-> ⭐ 2,774 · JavaScript · 2026-03-21  
+> ⭐ 2,775 · JavaScript · 2026-03-21  
 > [GitHub](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)  
 > `#Tag Autocomplete` `#Stable Diffusion` `#Danbooru Tags` `#WebUI Extension` 
 > A Booru-style tag autocompletion extension for AUTOMATIC1111's Stable Diffusion WebUI. Supports Danbooru and e621 tags (top 100k), instant completion hints, keyboard navigation, dark/light mode. Also supports Wildcards, Extra Networks (Embeddings, Hypernets, LoRA, LyCORIS), Chants custom presets, and multilingual translations.
@@ -5135,7 +5135,7 @@
 ## alibaba/arthas
 
 > [!info]
-> ⭐ 37,196 · Java · 2026-03-13  
+> ⭐ 37,198 · Java · 2026-03-13  
 > [GitHub](https://github.com/alibaba/arthas) · [Website](https://arthas.aliyun.com/)  
 > `#Java Diagnostic Tool` `#JVM Runtime Analysis` `#Production Debugging` `#Bytecode Instrumentation` `#agent` `#alibaba` `#arthas` `#classloader` `#diagnosis` `#java` `#jvm` `#trace` `#trouble-shooting` 
 > Arthas is an open-source Java diagnostic tool by Alibaba that enables real-time production troubleshooting without code modification or JVM restart. It supports class loading inspection, decompilation, method call tracing, performance profiling, and system metrics monitoring via an interactive CLI.
@@ -5165,7 +5165,7 @@
 ## the1812/Bilibili-Evolved
 
 > [!info]
-> ⭐ 28,784 · TypeScript · 2026-03-21  
+> ⭐ 28,791 · TypeScript · 2026-03-23  
 > [GitHub](https://github.com/the1812/Bilibili-Evolved)  
 > `#Userscript` `#Bilibili Enhancement` `#Browser Extension` `#Modular Architecture` `#bilibili` `#tampermonkey` `#userscript` 
 > A modular userscript enhancing Bilibili with features like danmaku control, video download, and UI customization. Runs on Tampermonkey/Violentmonkey with a settings panel for component management. Requires manual module installation and has moderate hardware demands.
@@ -5185,7 +5185,7 @@
 ## AUTOMATIC1111/stable-diffusion-webui
 
 > [!info]
-> ⭐ 161,926 · Python · 2026-03-02  
+> ⭐ 161,947 · Python · 2026-03-02  
 > [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  
 > `#Stable Diffusion` `#AI Image Generation` `#Gradio` `#Web Interface` `#ai` `#ai-art` `#deep-learning` `#diffusion` `#gradio` `#image-generation` `#image2image` `#img2img` `#pytorch` `#stable-diffusion` `#text2image` `#torch` `#txt2img` `#unstable` `#upscaling` `#web` 
 > A Gradio-based web UI for Stable Diffusion, providing complete AI painting capabilities including txt2img, img2img, inpainting, and outpainting. Integrates GFPGAN face restoration, RealESRGAN upscaling, Textual Inversion, with support for custom scripts and checkpoint merging. The most popular open-source AI image generation tool.
@@ -5195,7 +5195,7 @@
 ## marktext/marktext
 
 > [!info]
-> ⭐ 54,631 · JavaScript · 2026-03-04  
+> ⭐ 54,654 · JavaScript · 2026-03-04  
 > [GitHub](https://github.com/marktext/marktext) · [Website](https://www.marktext.me)  
 > `#Markdown Editor` `#Electron` `#Cross-platform Desktop` `#Writing Tool` `#dark-mode` `#editor` `#electron` `#element-ui` `#emoji` `#focus-mode` `#latex` `#linux` `#mac` `#macos` `#markdown` `#marktext` `#next-generation` `#source-code` `#typewriter-mode` `#vue` `#windows` 
 > A simple and elegant open-source markdown editor focused on speed and usability. Available for Linux, macOS and Windows, it offers real-time preview, syntax highlighting, and multiple editing modes. Built with Electron, it delivers a seamless writing experience for users seeking efficiency.
@@ -5205,7 +5205,7 @@
 ## taosdata/TDengine
 
 > [!info]
-> ⭐ 24,787 · C · 2026-03-21  
+> ⭐ 24,787 · C · 2026-03-23  
 > [GitHub](https://github.com/taosdata/TDengine) · [Website](https://tdengine.com)  
 > `#Time-Series Database` `#Industrial IoT` `#High-Performance` `#Cluster Deployment` `#bigdata` `#cloud-native` `#cluster` `#connected-vehicles` `#database` `#distributed` `#financial-analysis` `#industrial-iot` `#iot` `#metrics` `#monitoring` `#scalability` `#sql` `#tdengine` `#time-series` `#time-series-database` `#tsdb` 
 > TDengine is a high-performance, scalable time-series database developed by TAOS Data, specifically designed for Industrial IoT scenarios. It supports high-speed writes and queries, horizontal scaling, cluster deployment, and provides standard SQL interfaces with multi-language SDKs.
@@ -5264,7 +5264,7 @@
 ## chinabugotech/hutool
 
 > [!info]
-> ⭐ 30,332 · Java · 2026-03-20  
+> ⭐ 30,331 · Java · 2026-03-20  
 > [GitHub](https://github.com/chinabugotech/hutool) · [Website](https://hutool.cn)  
 > `#http` `#hutool` `#java` `#json` `#orm` `#tool` `#util` 
 > Hutool is a comprehensive Java utility library that streamlines common development tasks by providing well-encapsulated tools for string manipulation, numeric processing, collection handling, encoding, date formatting, file operations, IO streaming, encryption, database JDBC, JSON, and HTTP client operations. It offers modular components including core utilities, caching, cron scheduling, cryptography, and database operations with thorough Chinese documentation.
@@ -5274,7 +5274,7 @@
 ## Cosium/spring-data-jpa-entity-graph
 
 > [!info]
-> ⭐ 533 · Java · 2026-03-16  
+> ⭐ 533 · Java · 2026-03-23  
 > [GitHub](https://github.com/Cosium/spring-data-jpa-entity-graph)  
 > `#Spring Data JPA` `#Dynamic EntityGraph` `#JPA Extension` `#Runtime Optimization` `#entity-graph` `#jpa` `#orm` `#spring-data` `#spring-data-jpa` 
 > This library extends Spring Data JPA to enable dynamic EntityGraph usage at runtime. Unlike Spring Data JPA's static annotation-based EntityGraph, it allows passing EntityGraph as a method parameter, letting developers choose which related entities to load dynamically per request, optimizing queries for different use cases.
@@ -5303,7 +5303,7 @@
 ## jetlinks/jetlinks-community
 
 > [!info]
-> ⭐ 6,412 · Java · 2026-03-13  
+> ⭐ 6,411 · Java · 2026-03-13  
 > [GitHub](https://github.com/jetlinks/jetlinks-community) · [Website](https://www.jetlinks.cn/)  
 > `#IoT Platform` `#Reactive Architecture` `#Multi-protocol Gateway` `#Rule Engine` `#iot` `#iot-platform` `#java` `#jetlinks` `#mqtt` `#netty` `#r2dbc` `#reactive-streams` `#reactor` `#rule-engine` `#spring-boot` `#tcp` `#webflux` `#websocket` 
 > JetLinks is an enterprise-grade IoT platform built on Java 17, Spring Boot 3, WebFlux, Netty, and Vert.x. It features a fully reactive architecture supporting unified device access via TCP/UDP/MQTT/HTTP/CoAP protocols, with unified thing model management, real-time data processing, device alerting, and a flexible rule engine. Minimal deployment requires only Java 17, Redis, and TimescaleDB.
@@ -5313,7 +5313,7 @@
 ## zlt2000/microservices-platform
 
 > [!info]
-> ⭐ 4,749 · Java · 2025-04-28  
+> ⭐ 4,750 · Java · 2025-04-28  
 > [GitHub](https://github.com/zlt2000/microservices-platform) · [Website](http://zlt2000.cn)  
 > `#Spring Cloud Microservices` `#Multi-tenant Architecture` `#RBAC Authentication` `#Service Governance` `#elk` `#gpe` `#java` `#jwt` `#microservices` `#nacos` `#oauth2` `#platform` `#rbac` `#sentiel` `#spring-boot` `#spring-cloud` `#spring-cloud-alibaba` `#zuul` 
 > Enterprise-grade microservices multi-tenant architecture built on Spring Boot 3.x, Spring Cloud 2022, and Spring Cloud Alibaba. Features front-end separation with deeply customized Spring Authorization Server implementing RBAC+JWT+OAuth2 stateless authentication. Supports application-level multi-tenant isolation, integrated with application monitoring,链路追踪, unified logging, slow SQL monitoring, distributed task scheduling, and code generation. Provides complete CI/CD deployment, ideal for learning and production use.
@@ -5323,7 +5323,7 @@
 ## zhongyang219/TrafficMonitor
 
 > [!info]
-> ⭐ 43,557 · C++ · 2026-02-12  
+> ⭐ 43,571 · C++ · 2026-02-12  
 > [GitHub](https://github.com/zhongyang219/TrafficMonitor)  
 > `#Windows Desktop` `#Network Monitoring` `#System Resource Monitor` `#Floating Widget` 
 > TrafficMonitor is a Windows desktop network speed monitoring floating widget that displays real-time network transfer rates, CPU and memory usage. It supports taskbar embedding, skin customization, historical traffic statistics, and hardware monitoring (temperature/GPU/disk). Offers Standard and Lite versions with different permission requirements.
@@ -5333,7 +5333,7 @@
 ## leiurayer/downkyi
 
 > [!info]
-> ⭐ 24,162 · N/A · 2025-07-21  
+> ⭐ 24,167 · N/A · 2025-07-21  
 > [GitHub](https://github.com/leiurayer/downkyi)  
 > `#WPF` `#Video Download` `#8K Video` `#Batch Processing` 
 > Downkyi is a professional Bilibili video downloader supporting 8K, HDR, and Dolby Vision formats with batch downloading. Features a built-in toolkit for audio/video extraction and watermark removal, developed with WPF for a clean and efficient interface.
@@ -5343,7 +5343,7 @@
 ## lin-xin/vue-manage-system
 
 > [!info]
-> ⭐ 19,639 · Vue · 2024-08-17  
+> ⭐ 19,643 · Vue · 2024-08-17  
 > [GitHub](https://github.com/lin-xin/vue-manage-system) · [Website](https://lin-xin.github.io/example/vue-manage-system/)  
 > `#Vue3` `#Element Plus` `#TypeScript` `#Admin System` `#element-plus` `#pinia` `#typescript` `#vue` 
 > A comprehensive backend admin system template built with Vue3, Pinia, Element Plus, and TypeScript, powered by Vite 3. Features include authentication, dashboard, data tables/forms, charts, rich text/Markdown editor, image upload, permission management, three-level menus, custom icons, and theme switching. With clean code structure, ideal for rapid development of outsourcing projects or enterprise internal management systems.
@@ -5363,7 +5363,7 @@
 ## babysor/MockingBird
 
 > [!info]
-> ⭐ 36,887 · Python · 2026-03-03  
+> ⭐ 36,888 · Python · 2026-03-03  
 > [GitHub](https://github.com/babysor/MockingBird)  
 > `#Voice Cloning` `#Deep Learning` `#Real-time Speech Synthesis` `#PyTorch` `#ai` `#deep-learning` `#pytorch` `#speech` `#text-to-speech` `#tts` 
 > MockingBird is a deep learning-based real-time voice cloning tool that can clone any voice from just 5 seconds of audio and generate new speech. Built with PyTorch, it supports Mandarin Chinese and multiple datasets, provides web server interface, and runs across Windows, Linux and M1 Mac platforms. Core technology derives from Real-Time Voice Cloning.
@@ -5443,7 +5443,7 @@
 ## nu774/qaac
 
 > [!info]
-> ⭐ 947 · C++ · 2025-05-07  
+> ⭐ 948 · C++ · 2025-05-07  
 > [GitHub](https://github.com/nu774/qaac)  
 > `#CoreAudioToolbox` `#AAC Encoder` `#ALAC Encoder` `#CLI Tool` 
 > qaac is a CLI audio encoder leveraging Apple CoreAudioToolbox to encode AAC and ALAC formats. It requires iTunes installation for CoreAudioToolbox DLLs. Note: CoreAudioToolbox versions 7.9.8.x through 7.10.9.0 have glitch issues in AAC CBR mode.
@@ -5463,7 +5463,7 @@
 ## clearw5/Auto.js
 
 > [!info]
-> ⭐ 12,875 · N/A · 2023-02-11  
+> ⭐ 12,877 · N/A · 2023-02-11  
 > [GitHub](https://github.com/clearw5/Auto.js) · [Website](https://pro.autojs.org)  
 > `#Android Automation` `#JavaScript IDE` `#Scripting` `#android` `#autojs` `#automation` `#javascript` `#javascript-ide` `#nodejs` `#tasker` `#uiautomator` `#workflow` 
 > Auto.js is a JavaScript-based automation and workflow IDE for Android, designed for programming education and productivity enhancement. It enables script development for tasks like UI automation and screen interaction. The project uses the Mozilla Public License with a non-commercial use restriction.
@@ -5473,7 +5473,7 @@
 ## langren1353/GM_script
 
 > [!info]
-> ⭐ 6,051 · JavaScript · 2026-02-05  
+> ⭐ 6,050 · JavaScript · 2026-02-05  
 > [GitHub](https://github.com/langren1353/GM_script) · [Website](https://www.ntaow.com/aboutscript.html)  
 > `#Userscript` `#Search Engine Optimization` `#Ad Blocker` `#TamperMonkey` `#gm-scripts` `#greasemonkey` `#tampermonkey` 
 > An open-source TamperMonkey userscript that removes search result redirects on Baidu, Sogou, and Google, displaying original URLs directly while blocking ads and Baidu author content. Supports Favicon icons, single/double-column layouts, eye-protection mode, and custom CSS styling. Continuously maintained since 2015, now at V27.
@@ -5493,7 +5493,7 @@
 ## netchx/netch
 
 > [!info]
-> ⭐ 17,471 · C# · 2026-03-01  
+> ⭐ 17,473 · C# · 2026-03-22  
 > [GitHub](https://github.com/netchx/netch)  
 > `#Proxy Client` `#Windows Networking` `#Gaming Acceleration` `#.NET 6` `#fullcone` `#netch` `#netfiltersdk` `#shadowsocks` `#shadowsocksr` `#socks` `#tun2socks` `#vless` `#vmess` 
 > Netch is a Windows proxy client built on .NET 6.0, supporting ProcessMode, ShareMode, TunMode, and WebMode with kernel-level drivers (Netfilter/WinTUN). It supports Socks5, Shadowsocks, ShadowsocksR, WireGuard, Trojan, VMess, and VLESS protocols, featuring UDP FullCone NAT for gaming acceleration and network proxy scenarios.
@@ -5513,7 +5513,7 @@
 ## elunez/eladmin
 
 > [!info]
-> ⭐ 21,933 · Java · 2026-03-13  
+> ⭐ 21,932 · Java · 2026-03-13  
 > [GitHub](https://github.com/elunez/eladmin) · [Website](https://eladmin.vip/demo)  
 > `#Spring Boot` `#RBAC Authorization` `#Code Generator` `#JPA ORM` `#admin` `#eladmin` `#element-ui` `#jpa` `#jwt` `#redis` `#spring-boot` `#spring-security` `#swagger2` `#vue` 
 > A Spring Boot 2.7.18 and Jpa-based full-stack admin system with modular architecture. Features RBAC permission control via Spring Security and Redis, supporting data dictionaries, data permissions, dynamic routing, and one-click code generation. Includes enterprise features like logging, scheduled tasks, and DevOps deployment with Vue frontend.
@@ -5523,7 +5523,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 146,956 · Python · 2026-02-28  
+> ⭐ 147,043 · Python · 2026-02-28  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#Open Source Curation` `#Beginner Projects` `#Monthly Newsletter` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub is a Chinese community project that curates interesting and beginner-friendly open-source projects from GitHub. It publishes a monthly newsletter on the 28th, featuring projects, books, and practical examples to help developers discover quality resources and foster a love for open source.
