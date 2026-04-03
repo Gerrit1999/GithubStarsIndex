@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-04-03 01:17 UTC · Total: 511
+> Updated: 2026-04-03 01:23 UTC · Total: 511
 
 ---
 
@@ -522,7 +522,7 @@
 ## clash-verge-rev/clash-verge-rev
 
 > [!info]
-> ⭐ 107,238 · TypeScript · 2026-04-03  
+> ⭐ 107,239 · TypeScript · 2026-04-03  
 > [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) · [Website](https://www.clashverge.dev)  
 > `#Tauri` `#Clash.Meta` `#代理客户端` `#跨平台` `#clash` `#clash-meta` `#clash-verge` `#linux` `#mac` `#mihomo` `#tauri-app` `#windows` 
 > Clash Verge Rev 是一款基于 Tauri 2 和 Rust 构建的现代化跨平台代理客户端，支持 Windows、macOS 和 Linux。它内置 Clash.Meta (mihomo) 内核，提供系统代理、TUN 模式、可视化规则编辑、主题定制及 WebDav 同步等功能，界面简洁美观，适合追求高性能与稳定性的用户。
@@ -542,7 +542,7 @@
 ## louis-e/arnis
 
 > [!info]
-> ⭐ 14,206 · Rust · 2026-04-02  
+> ⭐ 14,207 · Rust · 2026-04-02  
 > [GitHub](https://github.com/louis-e/arnis) · [Website](https://arnismc.com/)  
 > `#maps` `#minecraft` `#openstreetmap` `#osm` `#overpass-api` `#rust` `#tauri` 
 > 生成失败
@@ -552,7 +552,7 @@
 ## pascalorg/editor
 
 > [!info]
-> ⭐ 9,250 · TypeScript · 2026-04-02  
+> ⭐ 9,251 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/pascalorg/editor) · [Website](https://editor.pascal.app)  
 > 
 > 生成失败
@@ -562,7 +562,7 @@
 ## shuding/cobe
 
 > [!info]
-> ⭐ 4,795 · TypeScript · 2026-03-25  
+> ⭐ 4,796 · TypeScript · 2026-03-25  
 > [GitHub](https://github.com/shuding/cobe) · [Website](https://cobe.vercel.app)  
 > `#globe` `#webgl` 
 > 生成失败
@@ -700,7 +700,7 @@
 ## zeroclaw-labs/zeroclaw
 
 > [!info]
-> ⭐ 29,265 · Rust · 2026-04-02  
+> ⭐ 29,267 · Rust · 2026-04-02  
 > [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [Website](https://www.zeroclawlabs.ai/)  
 > `#Rust运行时` `#超轻量级AI` `#边缘计算` `#自主代理框架` `#agent` `#agentic` `#ai` `#infra` `#ml` `#openclaw` `#os` `#zeroclaw` 
 > ZeroClaw是100% Rust编写的超轻量级AI助手运行时基础设施，可在<5MB内存下运行，采用trait驱动架构实现模型、工具、内存和执行层的全组件可插拔替换，支持一次构建、随地部署的自主代理工作流。
@@ -790,7 +790,7 @@
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 133,659 · JavaScript · 2026-04-03  
+> ⭐ 133,670 · JavaScript · 2026-04-03  
 > [GitHub](https://github.com/affaan-m/everything-claude-code) · [Website](https://ecc.tools)  
 > `#Claude Code` `#AI 代理配置` `#MCP` `#持续学习` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > 这是一个由 Anthropic 黑客马拉松获奖者整理的 Claude Code 完整配置集合，包含生产级代理、技能、钩子、命令、规则和 MCP 配置，经过 10 个月高强度实战验证，支持多语言与持续学习优化。
@@ -800,7 +800,7 @@
 ## Alishahryar1/free-claude-code
 
 > [!info]
-> ⭐ 1,425 · Python · 2026-03-30  
+> ⭐ 1,426 · Python · 2026-03-30  
 > [GitHub](https://github.com/Alishahryar1/free-claude-code)  
 > `#API代理` `#Claude Code` `#NVIDIA NIM` `#LLM网关` 
 > 一个轻量级代理服务器，将Claude Code的Anthropic API调用转换为NVIDIA NIM、OpenRouter或LM Studio格式。只需设置2个环境变量即可免费使用Claude Code CLI和VSCode扩展，支持NVIDIA NIM每分钟40次免费请求、OpenRouter数百种模型，或LM Studio本地离线运行。具有思维Token解析、启发式工具解析、请求优化、Discord机器人及智能速率限制等高级功能。
@@ -1098,7 +1098,7 @@
 ## modelcontextprotocol/servers
 
 > [!info]
-> ⭐ 82,832 · TypeScript · 2026-03-29  
+> ⭐ 82,833 · TypeScript · 2026-03-29  
 > [GitHub](https://github.com/modelcontextprotocol/servers) · [Website](https://modelcontextprotocol.io)  
 > `#Model Context Protocol` `#LLM 工具集成` `#参考实现` 
 > 该仓库是 Model Context Protocol (MCP) 的官方参考服务器集合，提供多种语言 SDK 实现示例，涵盖文件系统、Git、内存、时间等核心功能，用于演示 MCP 如何为 LLM 提供安全可控的工具与数据访问能力，适合开发者学习与二次开发。
@@ -1198,7 +1198,7 @@
 ## open-telemetry/opentelemetry-java-instrumentation
 
 > [!info]
-> ⭐ 2,498 · Java · 2026-04-02  
+> ⭐ 2,498 · Java · 2026-04-03  
 > [GitHub](https://github.com/open-telemetry/opentelemetry-java-instrumentation) · [Website](https://opentelemetry.io)  
 > `#Java Agent` `#字节码插桩` `#自动可观测性` `#分布式追踪` 
 > OpenTelemetry Java Instrumentation 是为 Java 8+ 应用提供的自动插桩工具，通过 Java Agent 技术动态注入字节码，无需修改源代码即可自动捕获流行库和框架的遥测数据（ traces、metrics、logs）。支持多种导出格式和灵活配置，是构建应用可观测性的标准解决方案。
@@ -1527,7 +1527,7 @@
 ## rustfs/rustfs
 
 > [!info]
-> ⭐ 24,086 · Rust · 2026-04-02  
+> ⭐ 24,087 · Rust · 2026-04-02  
 > [GitHub](https://github.com/rustfs/rustfs) · [Website](https://rustfs.com/download/)  
 > `#对象存储` `#Rust` `#S3兼容` `#分布式存储` `#ai-native` `#ai-storage` `#amazon-s3` `#bigdata` `#cloud-native` `#filesystem` `#minio` `#multi-cloud` `#object-storage` `#objectstorage` `#rust` `#s3` 
 > RustFS是使用Rust开发的高性能分布式对象存储系统，完全兼容S3协议。4KB对象负载性能比MinIO快2.3倍，支持与MinIO、Ceph等S3兼容平台的数据迁移和共存。采用Apache 2.0开源许可证，针对数据湖、AI和大数据工作负载优化，具备可扩展和容错架构。
@@ -1627,7 +1627,7 @@
 ## langfuse/langfuse
 
 > [!info]
-> ⭐ 24,258 · TypeScript · 2026-04-02  
+> ⭐ 24,261 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/langfuse/langfuse) · [Website](https://langfuse.com/docs)  
 > `#LLM可观测性` `#提示词管理` `#LLM工程平台` `#AI评估` `#analytics` `#autogen` `#evaluation` `#langchain` `#large-language-models` `#llama-index` `#llm` `#llm-evaluation` `#llm-observability` `#llmops` `#monitoring` `#observability` `#open-source` `#openai` `#playground` `#prompt-engineering` `#prompt-management` `#self-hosted` `#ycombinator` 
 > 开源LLM工程平台，提供LLM可观测性、指标追踪、评估、提示词管理、playground和数据集管理功能。支持与OpenTelemetry、Langchain、OpenAI SDK、LiteLLM等主流框架集成，提供自托管和云端部署选项，Y Combinator W23孵化项目。
@@ -1637,7 +1637,7 @@
 ## langgenius/dify
 
 > [!info]
-> ⭐ 135,532 · TypeScript · 2026-04-02  
+> ⭐ 135,533 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/langgenius/dify) · [Website](https://dify.ai)  
 > `#AI工作流` `#智能体开发` `#大模型集成` `#自托管平台` `#agent` `#agentic-ai` `#agentic-framework` `#agentic-workflow` `#ai` `#automation` `#gemini` `#genai` `#gpt` `#gpt-4` `#llm` `#low-code` `#mcp` `#nextjs` `#no-code` `#openai` `#orchestration` `#python` `#rag` `#workflow` 
 > Dify 是一个生产就绪的 AI 智能体工作流开发平台，支持可视化编排复杂任务流程，集成大模型与外部工具。提供云端服务与自托管方案，适用于构建知识库问答、AI 播客生成等场景，具备高扩展性与企业级部署能力。
@@ -1667,7 +1667,7 @@
 ## google-gemini/gemini-cli
 
 > [!info]
-> ⭐ 100,030 · TypeScript · 2026-04-03  
+> ⭐ 100,031 · TypeScript · 2026-04-03  
 > [GitHub](https://github.com/google-gemini/gemini-cli) · [Website](https://geminicli.com)  
 > `#终端AI助手` `#Gemini模型` `#MCP协议` `#开发者工具` `#ai` `#ai-agents` `#cli` `#gemini` `#gemini-api` `#mcp-client` `#mcp-server` 
 > Gemini CLI 是一个开源 AI 代理工具，将谷歌 Gemini 模型能力直接集成到终端中。支持免费调用（60次/分钟）、1M 上下文窗口、内置搜索与文件操作工具，并通过 MCP 协议实现可扩展集成，专为开发者打造终端优先的高效交互体验。
@@ -1947,7 +1947,7 @@
 ## jingyaogong/minimind-v
 
 > [!info]
-> ⭐ 7,240 · Python · 2026-04-02  
+> ⭐ 7,241 · Python · 2026-04-02  
 > [GitHub](https://github.com/jingyaogong/minimind-v) · [Website](https://jingyaogong.github.io/minimind-v)  
 > `#视觉语言模型` `#小参数模型` `#多模态学习` `#CLIP视觉编码器` `#artificial-intelligence` `#chatgpt` `#vision-language-model` 
 > 一个超小参数视觉语言模型训练项目，可在1小时内用约1.3元成本训练26M参数的VLM。包含完整的数据清洗、预训练和监督微调流程，基于CLIP视觉编码器和MiniMind语言模型构建，支持个人GPU快速推理，适合作为视觉语言模型入门教程。
@@ -2135,7 +2135,7 @@
 ## zai-org/GLM-4
 
 > [!info]
-> ⭐ 7,072 · Python · 2025-07-04  
+> ⭐ 7,073 · Python · 2025-07-04  
 > [GitHub](https://github.com/zai-org/GLM-4)  
 > `#大语言模型` `#多模态模型` `#推理模型` `#开源模型` `#chatglm` `#chatglm-6b` `#glm` `#glm-4` `#glm4` 
 > GLM-4-0414系列是智谱AI开源的多语言多模态对话模型，包含32B参数的Base、推理(Z1)和深度思考(Rumination)变体。模型基于15T高质量数据预训练，采用强化学习后训练技术，在代码生成、函数调用、指令遵循等任务上达到GPT-4o级别性能，支持本地部署。
@@ -2155,7 +2155,7 @@
 ## infiniflow/ragflow
 
 > [!info]
-> ⭐ 76,947 · Python · 2026-04-02  
+> ⭐ 76,948 · Python · 2026-04-02  
 > [GitHub](https://github.com/infiniflow/ragflow) · [Website](https://ragflow.io)  
 > `#检索增强生成` `#智能体` `#大语言模型` `#上下文引擎` `#agent` `#agentic` `#agentic-ai` `#agentic-workflow` `#ai` `#ai-search` `#context-engineering` `#context-retrieval` `#deep-research` `#deepseek` `#deepseek-r1` `#document-parser` `#document-understanding` `#graphrag` `#llm` `#mcp` `#ollama` `#openai` `#rag` `#retrieval-augmented-generation` 
 > RAGFlow 是一款领先的开源检索增强生成（RAG）引擎，融合先进 RAG 技术与智能体（Agent）能力，为大型语言模型构建高质量上下文层。支持企业级可扩展部署，提供端到端 RAG 工作流与预置智能体模板，显著提升 LLM 应用的准确性与可控性。
@@ -2355,7 +2355,7 @@
 ## dockur/windows
 
 > [!info]
-> ⭐ 50,800 · Shell · 2026-04-01  
+> ⭐ 50,799 · Shell · 2026-04-01  
 > [GitHub](https://github.com/dockur/windows)  
 > `#Windows容器化` `#KVM虚拟化` `#桌面虚拟化` `#RDP远程桌面` `#docker` `#docker-container` `#virtualization` `#windows` `#windows-virtual-desktop` `#windows-virtual-machine` `#windows-virtual-machines` `#windows-vm` 
 > 一款在Docker容器中运行完整Windows系统的开源项目，支持Windows 11/10/8.1/7及Server 2025/2022等版本。通过KVM硬件虚拟化加速，提供Web浏览器远程访问（端口8006）和RDP连接，实现自动化ISO下载与安装，适合开发测试、桌面虚拟化及CI/CD场景。
@@ -2815,7 +2815,7 @@
 ## NginxProxyManager/nginx-proxy-manager
 
 > [!info]
-> ⭐ 32,344 · TypeScript · 2026-04-02  
+> ⭐ 32,345 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) · [Website](https://nginxproxymanager.com)  
 > `#Docker容器化` `#Nginx反向代理` `#Let's Encrypt SSL` `#Web管理界面` `#nginx` `#nginx-proxy` 
 > Nginx Proxy Manager 是一个基于 Docker 的反向代理管理工具，提供可视化 Web 界面简化 Nginx 配置。支持 Let's Encrypt 免费 SSL 证书自动申请与续期，可轻松配置域名转发、重定向、访问控制和用户权限管理。适用于家庭网络服务暴露到公网的场景，无需深入了解 Nginx 即可完成反向代理部署。
@@ -3455,7 +3455,7 @@
 ## nomic-ai/gpt4all
 
 > [!info]
-> ⭐ 77,229 · C++ · 2025-05-27  
+> ⭐ 77,230 · C++ · 2025-05-27  
 > [GitHub](https://github.com/nomic-ai/gpt4all) · [Website](https://nomic.ai/gpt4all)  
 > `#本地LLM` `#llama.cpp` `#隐私计算` `#跨平台AI` `#ai-chat` `#llm-inference` 
 > GPT4All是一个开源项目，允许用户在普通桌面和笔记本电脑上本地运行大型语言模型，无需API调用或GPU支持。项目基于llama.cpp实现，支持Windows、macOS和Linux多平台，提供Python客户端，可用于商业用途。新版本已支持DeepSeek R1蒸馏模型。
@@ -3534,7 +3534,7 @@
 ## abi/screenshot-to-code
 
 > [!info]
-> ⭐ 72,124 · TypeScript · 2026-03-26  
+> ⭐ 72,125 · TypeScript · 2026-03-26  
 > [GitHub](https://github.com/abi/screenshot-to-code) · [Website](https://screenshottocode.com)  
 > `#AI代码生成` `#前端开发` `#设计转代码` 
 > screenshot-to-code 是一款基于 AI 的工具，可将截图、设计稿或 Figma 文件快速转换为高质量的 HTML、Tailwind、React、Vue 等前端代码。支持 Gemini、Claude Opus、GPT 等主流模型，并提供视频原型生成实验功能，大幅提升开发效率。
@@ -3624,7 +3624,7 @@
 ## deepseek-ai/DeepSeek-Coder
 
 > [!info]
-> ⭐ 22,991 · Python · 2025-11-11  
+> ⭐ 22,990 · Python · 2025-11-11  
 > [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [Website](https://chat.deepseek.com/)  
 > `#代码大语言模型` `#代码补全` `#大模型训练` `#开源代码模型` 
 > DeepSeek-Coder是由DeepSeek团队开发的专业代码大语言模型系列，在2T tokens数据上从头训练，支持1B至33B多种参数规模。该模型采用16K窗口大小和fill-in-the-blank任务，实现项目级代码补全与填充功能。在HumanEval、MBPP、DS-1000等基准测试中超越CodeLlama等开源模型，性能对标GPT-3.5。
@@ -3734,7 +3734,7 @@
 ## yangshun/tech-interview-handbook
 
 > [!info]
-> ⭐ 138,528 · TypeScript · 2026-03-20  
+> ⭐ 138,529 · TypeScript · 2026-03-20  
 > [GitHub](https://github.com/yangshun/tech-interview-handbook) · [Website](https://www.techinterviewhandbook.org)  
 > `#算法面试` `#LeetCode刷题` `#技术面试准备` `#简历优化` `#algorithm` `#algorithm-interview` `#algorithm-interview-questions` `#algorithms` `#behavioral-interviews` `#coding-interviews` `#interview-practice` `#interview-preparation` `#interview-questions` `#system-design` 
 > 由 Blind 75 作者创建的技术面试prep handbook，收录超100万人使用。提供算法cheatsheet、Grind 75精选题库、简历指南、行为问题等全流程资源，涵盖从投简历到薪资谈判的每个环节，是忙碌工程师的高效面试准备指南。
@@ -3994,7 +3994,7 @@
 ## timescale/timescaledb
 
 > [!info]
-> ⭐ 22,282 · C · 2026-04-02  
+> ⭐ 22,283 · C · 2026-04-02  
 > [GitHub](https://github.com/timescale/timescaledb) · [Website](https://www.tigerdata.com/)  
 > `#时序数据库` `#PostgreSQL扩展` `#列式存储` `#hypertable` `#analytics` `#database` `#financial-analysis` `#hacktoberfest` `#iot` `#postgres` `#postgresql` `#sql` `#tigerdata` `#time-series` `#time-series-database` `#timescaledb` `#tsdb` 
 > TimescaleDB 是 PostgreSQL 的时序数据库扩展，专为高频写入和实时分析场景设计。它通过 hypertable（超表）实现自动分区，结合列式存储提升分析查询性能，完美兼容 PostgreSQL 生态。适用于 IoT 监控、金融行情、应用性能监测等大规模时序数据处理领域。
@@ -4014,7 +4014,7 @@
 ## rustdesk/rustdesk
 
 > [!info]
-> ⭐ 110,450 · Rust · 2026-04-01  
+> ⭐ 110,451 · Rust · 2026-04-01  
 > [GitHub](https://github.com/rustdesk/rustdesk) · [Website](https://rustdesk.com)  
 > `#远程桌面` `#Rust` `#自托管` `#跨平台` `#android` `#anydesk` `#dart` `#flatpak` `#flutter` `#flutter-apps` `#ios` `#linux` `#macos` `#p2p` `#rdp` `#remote-control` `#remote-desktop` `#rust` `#rust-lang` `#teamviewer` `#vnc` `#wayland` `#windows` 
 > Rust编写的开源远程桌面软件，可自托管作为TeamViewer替代方案。开箱即用，支持Windows、Linux、macOS、Android及iOS多平台，用户完全掌控数据安全，支持部署自有中继服务器。
@@ -4324,7 +4324,7 @@
 ## kevin2li/PDF-Guru
 
 > [!info]
-> ⭐ 3,997 · Vue · 2025-05-31  
+> ⭐ 3,998 · Vue · 2025-05-31  
 > [GitHub](https://github.com/kevin2li/PDF-Guru) · [Website](https://guru.kevin2li.com/)  
 > `#间隔重复` `#AI智能制卡` `#知识管理` `#全格式转换` `#ai-flashcards` `#anki-flashcards` `#anki-to-pdf` `#excel-to-anki` `#markdown-to-anki` `#mindmap-to-anki` `#mubu-to-anki` `#pdf-to-anki` `#pdf-toolbox` `#pdf-watermark` `#wereader-to-anki` `#word-to-anki` 
 > 全格式知识转Anki卡片工具，支持PDF/Word/Excel/图片/微信读书/思维导图等一键制卡。集成AI智能提取要点、视频关键帧截取、Anki局域网同步、卡片导出PDF等核心功能，跨平台支持，是构建个人长期记忆知识库的高效中枢转换器。
@@ -4974,7 +4974,7 @@
 ## Significant-Gravitas/AutoGPT
 
 > [!info]
-> ⭐ 183,066 · Python · 2026-04-02  
+> ⭐ 183,068 · Python · 2026-04-02  
 > [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [Website](https://agpt.co)  
 > `#AI代理平台` `#低代码自动化` `#工作流编排` `#Docker容器化` `#agentic-ai` `#agents` `#ai` `#artificial-intelligence` `#autonomous-agents` `#claude` `#gpt` `#llama-api` `#llm` `#openai` `#python` 
 > AutoGPT是一个AI代理构建与部署平台，支持通过低代码可视化界面创建自动化工作流。用户可自定义AI代理或使用预置模板，完成复杂任务自动化。提供自托管与云托管两种部署方式，基于Docker容器化运行。
@@ -5063,7 +5063,7 @@
 ## PowerJob/PowerJob
 
 > [!info]
-> ⭐ 7,721 · Java · 2026-03-07  
+> ⭐ 7,722 · Java · 2026-03-07  
 > [GitHub](https://github.com/PowerJob/PowerJob) · [Website](http://www.powerjob.tech/)  
 > `#分布式任务调度` `#MapReduce` `#工作流编排` `#企业级中间件` `#cron` `#distributed` `#java` `#job` `#job-scheduler` `#mapreduce` `#scheduler` `#workflow` 
 > PowerJob是一款企业级分布式任务调度中间件，支持CRON、固定频率、延迟等多种定时策略，提供单机、广播、Map、MapReduce四种执行模式，内置工作流DAG支持和多语言处理器（Java/Shell/Python）。具备水平扩展能力和容错机制，广泛应用于定时任务、批量数据处理、延迟订单等企业场景。
@@ -5253,7 +5253,7 @@
 ## the1812/Bilibili-Evolved
 
 > [!info]
-> ⭐ 28,878 · TypeScript · 2026-04-02  
+> ⭐ 28,879 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/the1812/Bilibili-Evolved)  
 > `#用户脚本` `#哔哩哔哩增强` `#浏览器扩展` `#模块化架构` `#bilibili` `#tampermonkey` `#userscript` 
 > 基于Tampermonkey/Violentmonkey的哔哩哔哩网站增强用户脚本，采用模块化组件架构提供弹幕控制、视频下载、界面定制等扩展功能。内置设置面板支持组件热插拔，需手动添加功能模块，对性能有一定要求。
@@ -5283,7 +5283,7 @@
 ## marktext/marktext
 
 > [!info]
-> ⭐ 54,853 · JavaScript · 2026-03-04  
+> ⭐ 54,854 · JavaScript · 2026-03-04  
 > [GitHub](https://github.com/marktext/marktext) · [Website](https://www.marktext.me)  
 > `#Markdown编辑器` `#Electron` `#跨平台桌面应用` `#写作工具` `#dark-mode` `#editor` `#electron` `#element-ui` `#emoji` `#focus-mode` `#latex` `#linux` `#mac` `#macos` `#markdown` `#marktext` `#next-generation` `#source-code` `#typewriter-mode` `#vue` `#windows` 
 > 一款简洁优雅的开源Markdown编辑器，专注于速度与可用性。支持Linux、macOS和Windows三大平台，提供实时预览、语法高亮、多种编辑模式等功能。采用Electron框架构建，为追求高效写作体验的用户提供流畅的编辑体验。

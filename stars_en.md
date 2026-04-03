@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-04-03 01:17 UTC · Total: 511
+> Updated: 2026-04-03 01:23 UTC · Total: 511
 
 ---
 
@@ -522,7 +522,7 @@
 ## clash-verge-rev/clash-verge-rev
 
 > [!info]
-> ⭐ 107,238 · TypeScript · 2026-04-03  
+> ⭐ 107,239 · TypeScript · 2026-04-03  
 > [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) · [Website](https://www.clashverge.dev)  
 > `#Tauri` `#Clash.Meta` `#Proxy Client` `#Cross-platform` `#clash` `#clash-meta` `#clash-verge` `#linux` `#mac` `#mihomo` `#tauri-app` `#windows` 
 > Clash Verge Rev is a modern, cross-platform proxy GUI client built with Tauri 2 and Rust, supporting Windows, macOS, and Linux. It integrates the Clash.Meta (mihomo) core, offering system proxy, TUN mode, visual rule editing, theme customization, and WebDav sync, delivering a sleek interface and high-performance proxy experience.
@@ -542,7 +542,7 @@
 ## louis-e/arnis
 
 > [!info]
-> ⭐ 14,206 · Rust · 2026-04-02  
+> ⭐ 14,207 · Rust · 2026-04-02  
 > [GitHub](https://github.com/louis-e/arnis) · [Website](https://arnismc.com/)  
 > `#maps` `#minecraft` `#openstreetmap` `#osm` `#overpass-api` `#rust` `#tauri` 
 > Generation failed
@@ -552,7 +552,7 @@
 ## pascalorg/editor
 
 > [!info]
-> ⭐ 9,250 · TypeScript · 2026-04-02  
+> ⭐ 9,251 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/pascalorg/editor) · [Website](https://editor.pascal.app)  
 > 
 > Generation failed
@@ -562,7 +562,7 @@
 ## shuding/cobe
 
 > [!info]
-> ⭐ 4,795 · TypeScript · 2026-03-25  
+> ⭐ 4,796 · TypeScript · 2026-03-25  
 > [GitHub](https://github.com/shuding/cobe) · [Website](https://cobe.vercel.app)  
 > `#globe` `#webgl` 
 > Generation failed
@@ -700,7 +700,7 @@
 ## zeroclaw-labs/zeroclaw
 
 > [!info]
-> ⭐ 29,265 · Rust · 2026-04-02  
+> ⭐ 29,267 · Rust · 2026-04-02  
 > [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [Website](https://www.zeroclawlabs.ai/)  
 > `#Rust Runtime` `#Edge AI` `#Autonomous Agents` `#Lightweight Infrastructure` `#agent` `#agentic` `#ai` `#infra` `#ml` `#openclaw` `#os` `#zeroclaw` 
 > ZeroClaw is a 100% Rust ultra-lightweight AI assistant runtime requiring <5MB RAM, featuring trait-driven architecture with fully swappable models, tools, memory, and execution layers for autonomous agentic workflows deployable anywhere.
@@ -790,7 +790,7 @@
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 133,659 · JavaScript · 2026-04-03  
+> ⭐ 133,670 · JavaScript · 2026-04-03  
 > [GitHub](https://github.com/affaan-m/everything-claude-code) · [Website](https://ecc.tools)  
 > `#Claude Code` `#AI Agent Configuration` `#MCP` `#Continuous Learning` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > A battle-tested, production-ready collection of Claude Code configurations—including agents, skills, hooks, commands, rules, and MCPs—curated by an Anthropic hackathon winner, with 10+ months of real-world usage and continuous learning optimizations.
@@ -800,7 +800,7 @@
 ## Alishahryar1/free-claude-code
 
 > [!info]
-> ⭐ 1,425 · Python · 2026-03-30  
+> ⭐ 1,426 · Python · 2026-03-30  
 > [GitHub](https://github.com/Alishahryar1/free-claude-code)  
 > `#API Proxy` `#Claude Code` `#NVIDIA NIM` `#LLM Gateway` 
 > A lightweight proxy server that translates Claude Code's Anthropic API calls into NVIDIA NIM, OpenRouter, or LM Studio formats. Just set 2 env vars to use Claude Code CLI and VSCode extension for free—40 req/min on NVIDIA NIM, hundreds of models on OpenRouter, or fully local with LM Studio. Features thinking token parsing, heuristic tool parser, request optimization, Discord bot, and smart rate limiting.
@@ -1098,7 +1098,7 @@
 ## modelcontextprotocol/servers
 
 > [!info]
-> ⭐ 82,832 · TypeScript · 2026-03-29  
+> ⭐ 82,833 · TypeScript · 2026-03-29  
 > [GitHub](https://github.com/modelcontextprotocol/servers) · [Website](https://modelcontextprotocol.io)  
 > `#Model Context Protocol` `#LLM Tool Integration` `#Reference Implementation` 
 > This repository hosts official reference implementations of Model Context Protocol (MCP) servers, showcasing secure, controlled access for LLMs to tools and data sources. It includes examples across multiple SDKs (Python, TypeScript, Go, etc.) and features like filesystem, Git, memory, and time operations, serving as educational resources for MCP server development.
@@ -1198,7 +1198,7 @@
 ## open-telemetry/opentelemetry-java-instrumentation
 
 > [!info]
-> ⭐ 2,498 · Java · 2026-04-02  
+> ⭐ 2,498 · Java · 2026-04-03  
 > [GitHub](https://github.com/open-telemetry/opentelemetry-java-instrumentation) · [Website](https://opentelemetry.io)  
 > `#Java Agent` `#Bytecode Instrumentation` `#Auto-Observability` `#Distributed Tracing` 
 > OpenTelemetry Java Instrumentation provides auto-instrumentation for Java 8+ applications via Java Agent technology that dynamically injects bytecode to capture telemetry data (traces, metrics, logs) from popular libraries and frameworks without code changes. Supports multiple export formats and flexible configuration for observability.
@@ -1527,7 +1527,7 @@
 ## rustfs/rustfs
 
 > [!info]
-> ⭐ 24,086 · Rust · 2026-04-02  
+> ⭐ 24,087 · Rust · 2026-04-02  
 > [GitHub](https://github.com/rustfs/rustfs) · [Website](https://rustfs.com/download/)  
 > `#Object Storage` `#Rust` `#S3-Compatible` `#Distributed Storage` `#ai-native` `#ai-storage` `#amazon-s3` `#bigdata` `#cloud-native` `#filesystem` `#minio` `#multi-cloud` `#object-storage` `#objectstorage` `#rust` `#s3` 
 > RustFS is a high-performance, distributed object storage system built in Rust with full S3 compatibility. It delivers 2.3x faster performance than MinIO for 4KB object payloads and supports seamless migration and coexistence with other S3-compatible platforms like MinIO and Ceph. Licensed under Apache 2.0, it's optimized for data lakes, AI, and big data workloads with scalable and fault-tolerant architecture.
@@ -1627,7 +1627,7 @@
 ## langfuse/langfuse
 
 > [!info]
-> ⭐ 24,258 · TypeScript · 2026-04-02  
+> ⭐ 24,261 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/langfuse/langfuse) · [Website](https://langfuse.com/docs)  
 > `#LLM Observability` `#Prompt Management` `#LLM Engineering` `#AI Evaluation` `#analytics` `#autogen` `#evaluation` `#langchain` `#large-language-models` `#llama-index` `#llm` `#llm-evaluation` `#llm-observability` `#llmops` `#monitoring` `#observability` `#open-source` `#openai` `#playground` `#prompt-engineering` `#prompt-management` `#self-hosted` `#ycombinator` 
 > Open-source LLM engineering platform offering observability, metrics tracking, evals, prompt management, playground, and dataset management. Integrates with OpenTelemetry, Langchain, OpenAI SDK, and LiteLLM. Supports self-hosted and cloud deployment. Y Combinator W23 batch.
@@ -1637,7 +1637,7 @@
 ## langgenius/dify
 
 > [!info]
-> ⭐ 135,532 · TypeScript · 2026-04-02  
+> ⭐ 135,533 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/langgenius/dify) · [Website](https://dify.ai)  
 > `#AI Workflow` `#Agent Development` `#LLM Integration` `#Self-hosted Platform` `#agent` `#agentic-ai` `#agentic-framework` `#agentic-workflow` `#ai` `#automation` `#gemini` `#genai` `#gpt` `#gpt-4` `#llm` `#low-code` `#mcp` `#nextjs` `#no-code` `#openai` `#orchestration` `#python` `#rag` `#workflow` 
 > Dify is a production-ready platform for building agentic workflows with visual orchestration, integrating LLMs and external tools. It offers both cloud and self-hosted deployment, ideal for applications like knowledge-based Q&A and AI podcast generation, with high scalability and enterprise-grade features.
@@ -1667,7 +1667,7 @@
 ## google-gemini/gemini-cli
 
 > [!info]
-> ⭐ 100,030 · TypeScript · 2026-04-03  
+> ⭐ 100,031 · TypeScript · 2026-04-03  
 > [GitHub](https://github.com/google-gemini/gemini-cli) · [Website](https://geminicli.com)  
 > `#Terminal AI Agent` `#Gemini Models` `#Model Context Protocol` `#Developer Tools` `#ai` `#ai-agents` `#cli` `#gemini` `#gemini-api` `#mcp-client` `#mcp-server` 
 > Gemini CLI is an open-source AI agent that brings Google's Gemini models directly into the terminal. It offers free-tier access (60 req/min), a 1M-token context window, built-in tools like Google Search and file operations, and extensibility via the Model Context Protocol (MCP), designed for developers who work primarily in the command line.
@@ -1947,7 +1947,7 @@
 ## jingyaogong/minimind-v
 
 > [!info]
-> ⭐ 7,240 · Python · 2026-04-02  
+> ⭐ 7,241 · Python · 2026-04-02  
 > [GitHub](https://github.com/jingyaogong/minimind-v) · [Website](https://jingyaogong.github.io/minimind-v)  
 > `#Vision Language Model` `#Compact Model` `#Multimodal Learning` `#CLIP Encoder` `#artificial-intelligence` `#chatgpt` `#vision-language-model` 
 > An ultra-compact Vision Language Model project that trains a 26M-parameter VLM in just 1 hour at ~$0.18 cost. Features complete pipeline of data cleaning, pretraining, and SFT, built on CLIP vision encoder and MiniMind language model, supporting personal GPU inference and ideal for VLM learning.
@@ -2135,7 +2135,7 @@
 ## zai-org/GLM-4
 
 > [!info]
-> ⭐ 7,072 · Python · 2025-07-04  
+> ⭐ 7,073 · Python · 2025-07-04  
 > [GitHub](https://github.com/zai-org/GLM-4)  
 > `#Large Language Model` `#Multimodal Model` `#Reasoning Model` `#Open Source Model` `#chatglm` `#chatglm-6b` `#glm` `#glm-4` `#glm4` 
 > GLM-4-0414 series is an open-source multilingual multimodal chat model from Zhipu AI, featuring 32B parameter variants including Base, reasoning (Z1), and rumination models. Pretrained on 15T high-quality data with RL post-training, it achieves GPT-4o-level performance in code generation, function calling, and instruction following while supporting local deployment.
@@ -2155,7 +2155,7 @@
 ## infiniflow/ragflow
 
 > [!info]
-> ⭐ 76,947 · Python · 2026-04-02  
+> ⭐ 76,948 · Python · 2026-04-02  
 > [GitHub](https://github.com/infiniflow/ragflow) · [Website](https://ragflow.io)  
 > `#Retrieval-Augmented Generation` `#Agent` `#Large Language Models` `#Context Engine` `#agent` `#agentic` `#agentic-ai` `#agentic-workflow` `#ai` `#ai-search` `#context-engineering` `#context-retrieval` `#deep-research` `#deepseek` `#deepseek-r1` `#document-parser` `#document-understanding` `#graphrag` `#llm` `#mcp` `#ollama` `#openai` `#rag` `#retrieval-augmented-generation` 
 > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that integrates advanced RAG with Agent capabilities to deliver a superior context layer for LLMs. It enables scalable, enterprise-ready RAG workflows with pre-built agent templates, enhancing accuracy and controllability in LLM applications.
@@ -2355,7 +2355,7 @@
 ## dockur/windows
 
 > [!info]
-> ⭐ 50,800 · Shell · 2026-04-01  
+> ⭐ 50,799 · Shell · 2026-04-01  
 > [GitHub](https://github.com/dockur/windows)  
 > `#Windows Containerization` `#KVM Virtualization` `#Desktop Virtualization` `#RDP Remote Access` `#docker` `#docker-container` `#virtualization` `#windows` `#windows-virtual-desktop` `#windows-virtual-machine` `#windows-virtual-machines` `#windows-vm` 
 > An open-source project enabling Windows to run inside Docker containers, supporting Windows 11/10/8.1/7 and Server versions. Features KVM hardware virtualization acceleration, web-based remote access via browser, and automated ISO downloading. Ideal for development testing, desktop virtualization, and CI/CD pipelines.
@@ -2815,7 +2815,7 @@
 ## NginxProxyManager/nginx-proxy-manager
 
 > [!info]
-> ⭐ 32,344 · TypeScript · 2026-04-02  
+> ⭐ 32,345 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager) · [Website](https://nginxproxymanager.com)  
 > `#Docker Containerization` `#Nginx Reverse Proxy` `#Let's Encrypt SSL` `#Web Admin Interface` `#nginx` `#nginx-proxy` 
 > Nginx Proxy Manager is a Docker-based reverse proxy management tool with a visual Web UI to simplify Nginx configuration. It supports free Let's Encrypt SSL certificate auto-renewal, domain forwarding, redirection, access control and user management. Ideal for exposing home network services to the internet without deep Nginx knowledge.
@@ -3455,7 +3455,7 @@
 ## nomic-ai/gpt4all
 
 > [!info]
-> ⭐ 77,229 · C++ · 2025-05-27  
+> ⭐ 77,230 · C++ · 2025-05-27  
 > [GitHub](https://github.com/nomic-ai/gpt4all) · [Website](https://nomic.ai/gpt4all)  
 > `#Local LLM` `#llama.cpp` `#Privacy-First AI` `#Cross-Platform` `#ai-chat` `#llm-inference` 
 > GPT4All is an open-source project enabling users to run large language models locally on everyday desktops and laptops without API calls or GPUs. Built on llama.cpp, it supports Windows, macOS and Linux with Python bindings, available for commercial use. The latest version supports DeepSeek R1 distillations.
@@ -3534,7 +3534,7 @@
 ## abi/screenshot-to-code
 
 > [!info]
-> ⭐ 72,124 · TypeScript · 2026-03-26  
+> ⭐ 72,125 · TypeScript · 2026-03-26  
 > [GitHub](https://github.com/abi/screenshot-to-code) · [Website](https://screenshottocode.com)  
 > `#AI Code Generation` `#Frontend Development` `#Design to Code` 
 > screenshot-to-code is an AI-powered tool that converts screenshots, mockups, or Figma designs into clean, functional frontend code (HTML/Tailwind/React/Vue). It supports top models like Gemini, Claude Opus, and GPT, with experimental video-to-prototype capabilities for rapid development.
@@ -3624,7 +3624,7 @@
 ## deepseek-ai/DeepSeek-Coder
 
 > [!info]
-> ⭐ 22,991 · Python · 2025-11-11  
+> ⭐ 22,990 · Python · 2025-11-11  
 > [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [Website](https://chat.deepseek.com/)  
 > `#Code LLM` `#Code Completion` `#LLM Pre-training` `#Open Source Code Model` 
 > DeepSeek-Coder is a series of specialized code large language models developed by DeepSeek, trained from scratch on 2T tokens with sizes ranging from 1B to 33B parameters. Featuring a 16K context window and fill-in-the-blank tasks, it enables project-level code completion and infilling. It outperforms CodeLlama and other open-source models on HumanEval, MBPP, and DS-1000 benchmarks, achieving competitive performance with GPT-3.5.
@@ -3734,7 +3734,7 @@
 ## yangshun/tech-interview-handbook
 
 > [!info]
-> ⭐ 138,528 · TypeScript · 2026-03-20  
+> ⭐ 138,529 · TypeScript · 2026-03-20  
 > [GitHub](https://github.com/yangshun/tech-interview-handbook) · [Website](https://www.techinterviewhandbook.org)  
 > `#Algorithm Interview` `#LeetCode Practice` `#Technical Interview Prep` `#Resume Optimization` `#algorithm` `#algorithm-interview` `#algorithm-interview-questions` `#algorithms` `#behavioral-interviews` `#coding-interviews` `#interview-practice` `#interview-preparation` `#interview-questions` `#system-design` 
 > Created by the author of Blind 75, this handbook has helped 1M+ engineers ace tech interviews. It offers curated algorithm cheatsheets, Grind 75 question sets, resume guides, and behavioral questions covering the full interview journey from application to offer negotiation.
@@ -3994,7 +3994,7 @@
 ## timescale/timescaledb
 
 > [!info]
-> ⭐ 22,282 · C · 2026-04-02  
+> ⭐ 22,283 · C · 2026-04-02  
 > [GitHub](https://github.com/timescale/timescaledb) · [Website](https://www.tigerdata.com/)  
 > `#time-series database` `#PostgreSQL extension` `#columnar storage` `#hypertable` `#analytics` `#database` `#financial-analysis` `#hacktoberfest` `#iot` `#postgres` `#postgresql` `#sql` `#tigerdata` `#time-series` `#time-series-database` `#timescaledb` `#tsdb` 
 > TimescaleDB is a PostgreSQL extension for time-series data, engineered for high-throughput writes and real-time analytics. It uses hypertables for automatic partitioning and columnar storage for analytical query acceleration, fully compatible with the PostgreSQL ecosystem. Ideal for IoT monitoring, financial trading, and APM use cases.
@@ -4014,7 +4014,7 @@
 ## rustdesk/rustdesk
 
 > [!info]
-> ⭐ 110,450 · Rust · 2026-04-01  
+> ⭐ 110,451 · Rust · 2026-04-01  
 > [GitHub](https://github.com/rustdesk/rustdesk) · [Website](https://rustdesk.com)  
 > `#Remote Desktop` `#Rust` `#Self-hosted` `#Cross-platform` `#android` `#anydesk` `#dart` `#flatpak` `#flutter` `#flutter-apps` `#ios` `#linux` `#macos` `#p2p` `#rdp` `#remote-control` `#remote-desktop` `#rust` `#rust-lang` `#teamviewer` `#vnc` `#wayland` `#windows` 
 > Open-source remote desktop written in Rust, self-hostable alternative to TeamViewer. Works out of the box across Windows, Linux, macOS, Android and iOS with full data control and optional self-deployed relay servers.
@@ -4324,7 +4324,7 @@
 ## kevin2li/PDF-Guru
 
 > [!info]
-> ⭐ 3,997 · Vue · 2025-05-31  
+> ⭐ 3,998 · Vue · 2025-05-31  
 > [GitHub](https://github.com/kevin2li/PDF-Guru) · [Website](https://guru.kevin2li.com/)  
 > `#Spaced Repetition` `#AI Flashcard Generation` `#Knowledge Management` `#Multi-format Conversion` `#ai-flashcards` `#anki-flashcards` `#anki-to-pdf` `#excel-to-anki` `#markdown-to-anki` `#mindmap-to-anki` `#mubu-to-anki` `#pdf-to-anki` `#pdf-toolbox` `#pdf-watermark` `#wereader-to-anki` `#word-to-anki` 
 > Universal knowledge-to-Anki converter enabling one-click flashcard creation from PDF/Word/Excel/images/WeChat Reading/mind maps. Features AI-powered key point extraction, video frame capture, LAN sync, and PDF export. Cross-platform tool for building personal long-term memory knowledge bases.
@@ -4974,7 +4974,7 @@
 ## Significant-Gravitas/AutoGPT
 
 > [!info]
-> ⭐ 183,066 · Python · 2026-04-02  
+> ⭐ 183,068 · Python · 2026-04-02  
 > [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [Website](https://agpt.co)  
 > `#AI Agent Platform` `#Low-code Automation` `#Workflow Orchestration` `#Docker Containerization` `#agentic-ai` `#agents` `#ai` `#artificial-intelligence` `#autonomous-agents` `#claude` `#gpt` `#llama-api` `#llm` `#openai` `#python` 
 > AutoGPT is an AI agent building and deployment platform enabling low-code workflow automation. Users can create custom agents or use pre-built templates to automate complex tasks. Supports self-hosted and cloud deployment via Docker containerization.
@@ -5063,7 +5063,7 @@
 ## PowerJob/PowerJob
 
 > [!info]
-> ⭐ 7,721 · Java · 2026-03-07  
+> ⭐ 7,722 · Java · 2026-03-07  
 > [GitHub](https://github.com/PowerJob/PowerJob) · [Website](http://www.powerjob.tech/)  
 > `#Distributed Job Scheduling` `#MapReduce` `#Workflow Orchestration` `#Enterprise Middleware` `#cron` `#distributed` `#java` `#job` `#job-scheduler` `#mapreduce` `#scheduler` `#workflow` 
 > PowerJob is an enterprise-grade distributed job scheduling middleware featuring multiple timing strategies (CRON, fixed-rate, delay), four execution modes (standalone, broadcast, Map, MapReduce), DAG workflow support, and multilingual processors. With horizontal scaling and fault tolerance, it excels in scheduled tasks, batch processing, and delayed job scenarios.
@@ -5253,7 +5253,7 @@
 ## the1812/Bilibili-Evolved
 
 > [!info]
-> ⭐ 28,878 · TypeScript · 2026-04-02  
+> ⭐ 28,879 · TypeScript · 2026-04-02  
 > [GitHub](https://github.com/the1812/Bilibili-Evolved)  
 > `#Userscript` `#Bilibili Enhancement` `#Browser Extension` `#Modular Architecture` `#bilibili` `#tampermonkey` `#userscript` 
 > A modular userscript enhancing Bilibili with features like danmaku control, video download, and UI customization. Runs on Tampermonkey/Violentmonkey with a settings panel for component management. Requires manual module installation and has moderate hardware demands.
@@ -5283,7 +5283,7 @@
 ## marktext/marktext
 
 > [!info]
-> ⭐ 54,853 · JavaScript · 2026-03-04  
+> ⭐ 54,854 · JavaScript · 2026-03-04  
 > [GitHub](https://github.com/marktext/marktext) · [Website](https://www.marktext.me)  
 > `#Markdown Editor` `#Electron` `#Cross-platform Desktop` `#Writing Tool` `#dark-mode` `#editor` `#electron` `#element-ui` `#emoji` `#focus-mode` `#latex` `#linux` `#mac` `#macos` `#markdown` `#marktext` `#next-generation` `#source-code` `#typewriter-mode` `#vue` `#windows` 
 > A simple and elegant open-source markdown editor focused on speed and usability. Available for Linux, macOS and Windows, it offers real-time preview, syntax highlighting, and multiple editing modes. Built with Electron, it delivers a seamless writing experience for users seeking efficiency.
