@@ -1,12 +1,21 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-04-16 06:12 UTC · Total: 512
+> Updated: 2026-04-16 06:18 UTC · Total: 523
 
 ---
 
 ## 📑 Index
 - [[#forrestchang/andrej-karpathy-skills|forrestchang/andrej-karpathy-skills]]
+- [[#zhuzhiqiang18/local-discovery|zhuzhiqiang18/local-discovery]]
+- [[#unhappychoice/gitlogue|unhappychoice/gitlogue]]
 - [[#siddharthvaddem/openscreen|siddharthvaddem/openscreen]]
+- [[#hansu/vscode-git-graph|hansu/vscode-git-graph]]
+- [[#AnalyseDeCircuit/oxideterm|AnalyseDeCircuit/oxideterm]]
+- [[#openilink/openilink-hub|openilink/openilink-hub]]
+- [[#aristorechina/wxWebHook|aristorechina/wxWebHook]]
+- [[#ame-yu/wincron|ame-yu/wincron]]
+- [[#TomBadash/Mouser|TomBadash/Mouser]]
+- [[#alibaba/page-agent|alibaba/page-agent]]
 - [[#clash-verge-rev/clash-verge-rev|clash-verge-rev/clash-verge-rev]]
 - [[#rtk-ai/rtk|rtk-ai/rtk]]
 - [[#louis-e/arnis|louis-e/arnis]]
@@ -85,6 +94,8 @@
 - [[#Sayi/poi-tl|Sayi/poi-tl]]
 - [[#tinystruct/tinystruct|tinystruct/tinystruct]]
 - [[#MaskerPRC/everything-ai-chat|MaskerPRC/everything-ai-chat]]
+- [[#zhinianboke/xianyu-auto-reply|zhinianboke/xianyu-auto-reply]]
+- [[#googleapis/mcp-toolbox|googleapis/mcp-toolbox]]
 - [[#saltpi/iPlay|saltpi/iPlay]]
 - [[#luckygc/cap-server|luckygc/cap-server]]
 - [[#tiagozip/cap|tiagozip/cap]]
@@ -523,27 +534,117 @@
 ## forrestchang/andrej-karpathy-skills
 
 > [!info]
-> ⭐ 44,794 · N/A · 2026-04-15  
+> ⭐ 44,816 · N/A · 2026-04-15  
 > [GitHub](https://github.com/forrestchang/andrej-karpathy-skills)  
 > `#LLM Coding Rules` `#Minimalist Engineering` 
 > A distilled CLAUDE.md file that embeds Andrej Karpathy’s insights on LLM coding pitfalls. It enforces four principles—think first, simplicity, surgical edits, goal-driven verification—to make Claude Code less over-engineered, more reliable and verifiable.
 > <sub>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</sub>
 
 ---
+## zhuzhiqiang18/local-discovery
+
+> [!info]
+> ⭐ 12 · Java · 2026-04-15  
+> [GitHub](https://github.com/zhuzhiqiang18/local-discovery)  
+> `#Zero-intrusion Agent` `#Local Discovery` `#Bytecode Enhancement` 
+> Zero-intrusion local microservice discovery agent: one JVM flag lets local services find each other instantly while transparently falling back to remote registries (Nacos/Eureka/Consul). Supports Feign, RestTemplate, Gateway, WebClient without code, config or POM changes—restoring full debug chains and eliminating environment contention.
+> <sub>零侵入的本地微服务注册发现工具，一行 JVM 参数实现本地服务互调，自动穿透远端注册中心</sub>
+
+---
+## unhappychoice/gitlogue
+
+> [!info]
+> ⭐ 4,597 · Rust · 2026-04-15  
+> [GitHub](https://github.com/unhappychoice/gitlogue)  
+> `#Terminal Animation` `#Git Visualization` `#cli` `#cli-tool` `#code-animation` `#commit-history` `#developer-tools` `#git` `#git-history` `#git-visualization` `#productivity` `#ratatui` `#rust` `#screensaver` `#syntax-highlighting` `#terminal` `#terminal-app` `#terminal-based` `#terminal-screensaver` `#tree-sitter` `#tui` `#visualization` 
+> gitlogue turns Git history into a cinematic terminal experience: animated typing, syntax highlighting and file-tree transitions let you replay any commit range with themes, speed control and filters—perfect for screensavers, teaching, demos or content creation.
+> <sub>A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.</sub>
+
+---
 ## siddharthvaddem/openscreen
 
 > [!info]
-> ⭐ 30,211 · TypeScript · 2026-04-16  
+> ⭐ 30,212 · TypeScript · 2026-04-16  
 > [GitHub](https://github.com/siddharthvaddem/openscreen) · [Website](https://openscreen.vercel.app)  
 > `#Screen Recording` `#Open Source` `#Electron` `#Video Editing` `#electron` `#open-source` `#pixijs` `#screen-capture` `#screen-recorder` 
 > OpenScreen is a free, open-source screen recording tool for creating polished product demos and walkthroughs. It supports full or app-specific recording, manual zooms, customizable backgrounds, motion blur, annotations, trimming, and multi-aspect-ratio exports—no subscriptions, watermarks, or fees, even for commercial use.
 > <sub>Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.</sub>
 
 ---
+## hansu/vscode-git-graph
+
+> [!info]
+> ⭐ 255 · TypeScript · 2026-03-20  
+> [GitHub](https://github.com/hansu/vscode-git-graph)  
+> `#VS Code Extension` `#Git Visualization` `#Code Review` `#Branch Filtering` 
+> Enhanced VS Code extension that renders Git history as an interactive graph panel, adding multi-select filtering, unrelated-history merge, persistent code reviews, jump-to-HEAD and 20+ refinements for large-repo collaboration.
+> <sub>Fork of Michael Hutchisons repository with some updates.</sub>
+
+---
+## AnalyseDeCircuit/oxideterm
+
+> [!info]
+> ⭐ 493 · Rust · 2026-04-15  
+> [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [Website](https://oxideterm.app)  
+> `#Tauri2+Rust Native Terminal` `#Pure Rust SSH sans OpenSSL` `#agent` `#bring-your-own-key` `#filemanager` `#launchpad` `#mcp` `#rag` `#react` `#redb` `#russh` `#rust` `#sftp` `#ssh-client` `#tauri` `#terminal` `#terminal-emulator` `#terminal-emulators` `#tool-calling` `#typescript` `#wslg` `#xterm-js` 
+> OxideTerm is a zero-dependency native terminal built with Tauri2+Rust, bundling SSH, SFTP, remote IDE, AI agent and file manager. Features smart reconnect, MCP, RAG, plugins, 30+ themes and 11 languages—no OpenSSL or Electron.
+> <sub>All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.</sub>
+
+---
+## openilink/openilink-hub
+
+> [!info]
+> ⭐ 1,107 · Go · 2026-04-14  
+> [GitHub](https://github.com/openilink/openilink-hub) · [Website](https://openilink.com)  
+> `#WeChat iLink Protocol` `#Cross-platform Messaging` `#App Marketplace Extension` `#Zero-config Self-host` `#ai-chatbot` `#ai-tools` `#app-marketplace` `#bot-management` `#chatbot` `#dingtalk` `#discord` `#golang` `#ilink` `#lark` `#notion` `#react` `#self-hosted` `#slack` `#webhook` `#wechat` `#wechat-bot` 
+> OpeniLink Hub is the first open-source, self-hosted Bot management platform built on WeChat ClawBot’s iLink protocol. Bind multiple WeChat accounts via QR scan, install 20+ cross-platform apps in one click to bridge Lark, Slack, Discord, GitHub, Notion, etc., and extend AI capabilities. Features 7-language SDKs, WebSocket/Webhook/AI triple routing, 24 h session renewal, and full traceability—runs out of the box.
+> <sub>开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs</sub>
+
+---
+## aristorechina/wxWebHook
+
+> [!info]
+> ⭐ 127 · Shell · 2026-03-27  
+> [GitHub](https://github.com/aristorechina/wxWebHook)  
+> `#WeChat Webhook` `#HTTP Gateway` `#Lightweight Notify` 
+> A lightweight notification gateway that leverages WeChat’s official APIs to deliver server alerts or script results to your WeChat instantly via simple HTTP webhooks, with Docker deployment and a management panel.
+> <sub>本项目是一个轻量级的消息通知服务。通过封装微信官方接口，帮助开发者将关键信息快速推送至微信端。用户只需通过简单的 HTTP 请求或命令行调用即可将内容实时推送到自己的微信上，实现随时随地接收提醒。</sub>
+
+---
+## ame-yu/wincron
+
+> [!info]
+> ⭐ 133 · Vue · 2026-03-26  
+> [GitHub](https://github.com/ame-yu/wincron)  
+> `#cron scheduler` `#Windows task automation` `#Wails cross-platform` `#IPC remote control` `#cron` `#cronjob-scheduler` `#hotkeys` `#scheduler` `#utilities` `#wails3` `#windows-app` 
+> Single-binary, low-overhead Windows task scheduler driven by Unix-like cron expressions. Offers concurrency control, failure auto-disable, logs, tray mode and IPC CLI, replacing the bulky built-in Task Scheduler.
+> <sub>Cron job scheduler for windows</sub>
+
+---
+## TomBadash/Mouser
+
+> [!info]
+> ⭐ 3,105 · Python · 2026-04-15  
+> [GitHub](https://github.com/TomBadash/Mouser)  
+> `#HID++ Protocol` `#Local Remapping` `#Cross-Platform Hooks` `#automation` `#controler` `#free` `#linux` `#linux-app` `#logi` `#logitech` `#logitech-options` `#macos` `#macos-app` `#mouse` `#mouse-remapping` `#mx-master` `#mx-master-3s` `#mx-master-4` `#open-source` `#productivity` `#python` 
+> Mouser is a zero-dependency, zero-telemetry local remapper for Logitech HID++ mice, drop-in replacement for Options+. Offers full HID++ protocol, cross-platform native hooks, per-app profiles, real-time DPI & Smart-Shift control, with MX Master family as first-class citizen.
+> <sub>A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.</sub>
+
+---
+## alibaba/page-agent
+
+> [!info]
+> ⭐ 17,071 · TypeScript · 2026-04-15  
+> [GitHub](https://github.com/alibaba/page-agent) · [Website](https://alibaba.github.io/page-agent/)  
+> `#Natural Language GUI` `#Extension-Free Script` `#AI Copilot` `#Accessibility` `#agent` `#ai` `#ai-agents` `#browser-automation` `#javascript` `#mcp` `#typescript` `#web` 
+> Alibaba’s ultra-light in-page GUI agent; one-line script embeds natural-language web control without extensions, backends or vision models, turning any site into an AI copilot, smart form filler or accessibility assistant.
+> <sub>JavaScript in-page GUI agent. Control web interfaces with natural language.</sub>
+
+---
 ## clash-verge-rev/clash-verge-rev
 
 > [!info]
-> ⭐ 110,973 · TypeScript · 2026-04-16  
+> ⭐ 110,975 · TypeScript · 2026-04-16  
 > [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) · [Website](https://www.clashverge.dev)  
 > `#Tauri` `#Clash.Meta` `#Proxy Client` `#Cross-platform` `#clash` `#clash-meta` `#clash-verge` `#linux` `#mac` `#mihomo` `#tauri-app` `#windows` 
 > Clash Verge Rev is a modern, cross-platform proxy GUI client built with Tauri 2 and Rust, supporting Windows, macOS, and Linux. It integrates the Clash.Meta (mihomo) core, offering system proxy, TUN mode, visual rule editing, theme customization, and WebDav sync, delivering a sleek interface and high-performance proxy experience.
@@ -553,60 +654,60 @@
 ## rtk-ai/rtk
 
 > [!info]
-> ⭐ 16,797 · Rust · 2026-04-02  
+> ⭐ 27,496 · Rust · 2026-04-15  
 > [GitHub](https://github.com/rtk-ai/rtk) · [Website](https://www.rtk-ai.app)  
-> `#agentic-coding` `#ai-coding` `#anthropic` `#claude-code` `#cli` `#command-line-tool` `#cost-reduction` `#developer-tools` `#llm` `#open-source` `#productivity` `#rust` `#token-optimization` 
-> Generation failed
+> `#Rust Proxy` `#Token Compression` `#agentic-coding` `#ai-coding` `#anthropic` `#claude-code` `#cli` `#command-line-tool` `#cost-reduction` `#developer-tools` `#llm` `#open-source` `#productivity` `#rust` `#token-optimization` 
+> RTK is a zero-dependency Rust CLI proxy that cuts LLM token usage by 60-90% on everyday dev commands; single binary, <10 ms overhead, 100+ supported commands.
 > <sub>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</sub>
 
 ---
 ## louis-e/arnis
 
 > [!info]
-> ⭐ 14,207 · Rust · 2026-04-02  
+> ⭐ 15,009 · Rust · 2026-04-15  
 > [GitHub](https://github.com/louis-e/arnis) · [Website](https://arnismc.com/)  
-> `#maps` `#minecraft` `#openstreetmap` `#osm` `#overpass-api` `#rust` `#tauri` 
-> Generation failed
+> `#Geo-to-MC` `#World Generator` `#Cross-Platform OSS` `#maps` `#minecraft` `#openstreetmap` `#osm` `#overpass-api` `#rust` `#tauri` 
+> Arnis turns any real-world location into high-fidelity Minecraft Java/Bedrock worlds using OpenStreetMap & elevation data. GUI/CLI, open-source, cross-platform, with customizable scale, interiors and spawn.
 > <sub>Generate any location from the real world in Minecraft with a high level of detail.</sub>
 
 ---
 ## pascalorg/editor
 
 > [!info]
-> ⭐ 9,251 · TypeScript · 2026-04-02  
+> ⭐ 12,856 · TypeScript · 2026-04-15  
 > [GitHub](https://github.com/pascalorg/editor) · [Website](https://editor.pascal.app)  
-> 
-> Generation failed
+> `#React Three Fiber` `#WebGPU Rendering` `#Architectural Visualization` `#Turborepo Architecture` 
+> Web-first 3D building editor powered by React Three Fiber & WebGPU. Turborepo splits logic into @pascal-app/core (scene state, node schemas), viewer (WebGPU rendering), and editor (interactive tools). Features node hierarchy, undo/redo, IndexedDB persistence, and one-click sharing of architectural projects.
 > <sub>Create and share 3D architectural projects.</sub>
 
 ---
 ## shuding/cobe
 
 > [!info]
-> ⭐ 4,796 · TypeScript · 2026-03-25  
+> ⭐ 5,019 · TypeScript · 2026-03-25  
 > [GitHub](https://github.com/shuding/cobe) · [Website](https://cobe.vercel.app)  
-> `#globe` `#webgl` 
-> Generation failed
+> `#WebGL Globe` `#Zero-Dependency` `#CSS Anchor` `#Data Viz` `#globe` `#webgl` 
+> A 5 KB zero-dependency WebGL globe that binds any DOM element as markers, animates with CSS, and renders high-perf arcs & points for interactive data globes.
 > <sub>5KB WebGL globe lib.</sub>
 
 ---
 ## chenhg5/cc-connect
 
 > [!info]
-> ⭐ 4,027 · Go · 2026-04-02  
+> ⭐ 5,257 · Go · 2026-04-16  
 > [GitHub](https://github.com/chenhg5/cc-connect)  
-> 
-> Generation failed
+> `#AI Coding Bridge` `#No Public IP` `#Multi-IM` 
+> cc-connect bridges local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms like Slack, Telegram, Feishu, etc. Chat with your dev AI anywhere—no public IP needed for most channels. One-command setup, multi-model ready.
 > <sub>Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.</sub>
 
 ---
 ## carlini/printf-tac-toe
 
 > [!info]
-> ⭐ 2,467 · C · 2022-06-08  
+> ⭐ 2,484 · C · 2022-06-08  
 > [GitHub](https://github.com/carlini/printf-tac-toe)  
-> 
-> Generation failed
+> `#format-string exploit` `#Turing-complete` `#IOCCC` 
+> Complete tic-tac-toe in a single printf call: exploits format-string side effects for memory read/write, branching and looping; scanf handles user input. Winner of IOCCC 2020, showcasing printf's Turing-completeness.
 > <sub>tic-tac-toe in a single call to printf</sub>
 
 ---
@@ -811,7 +912,7 @@
 ## affaan-m/everything-claude-code
 
 > [!info]
-> ⭐ 157,763 · JavaScript · 2026-04-16  
+> ⭐ 157,767 · JavaScript · 2026-04-16  
 > [GitHub](https://github.com/affaan-m/everything-claude-code) · [Website](https://ecc.tools)  
 > `#Claude Code` `#AI Agent Configuration` `#MCP` `#Continuous Learning` `#ai-agents` `#anthropic` `#claude` `#claude-code` `#developer-tools` `#llm` `#mcp` `#productivity` 
 > A battle-tested, production-ready collection of Claude Code configurations—including agents, skills, hooks, commands, rules, and MCPs—curated by an Anthropic hackathon winner, with 10+ months of real-world usage and continuous learning optimizations.
@@ -860,7 +961,7 @@
 ## charmbracelet/glow
 
 > [!info]
-> ⭐ 24,407 · Go · 2026-04-12  
+> ⭐ 24,408 · Go · 2026-04-12  
 > [GitHub](https://github.com/charmbracelet/glow)  
 > `#Terminal UI` `#Markdown Rendering` `#Go` `#CLI Tool` `#cli` `#excitement` `#hacktoberfest` `#markdown` 
 > Glow is a Go-based terminal Markdown reader with a beautiful TUI. It automatically discovers Markdown files in the current directory or Git repositories, supports fetching from local files, stdin, and GitHub/GitLab URLs, with high-performance paging.
@@ -950,7 +1051,7 @@
 ## numman-ali/openskills
 
 > [!info]
-> ⭐ 9,751 · TypeScript · 2026-01-18  
+> ⭐ 9,752 · TypeScript · 2026-01-18  
 > [GitHub](https://github.com/numman-ali/openskills)  
 > `#CLI Tool` `#AI Coding Agents` `#Skills System` `#AGENTS.md` 
 > OpenSkills universalizes Claude Code's skill system for every AI coding agent by generating compatible `<available_skills>` XML. It enables cross-platform support for Cursor, Windsurf, Aider, Codex and other agents, with skills installable from Anthropic marketplace, GitHub repos, or local paths. Progressive disclosure loads skills on-demand to maintain clean context.
@@ -1119,7 +1220,7 @@
 ## modelcontextprotocol/servers
 
 > [!info]
-> ⭐ 83,832 · TypeScript · 2026-04-14  
+> ⭐ 83,833 · TypeScript · 2026-04-14  
 > [GitHub](https://github.com/modelcontextprotocol/servers) · [Website](https://modelcontextprotocol.io)  
 > `#Model Context Protocol` `#LLM Tool Integration` `#Reference Implementation` 
 > This repository hosts official reference implementations of Model Context Protocol (MCP) servers, showcasing secure, controlled access for LLMs to tools and data sources. It includes examples across multiple SDKs (Python, TypeScript, Go, etc.) and features like filesystem, Git, memory, and time operations, serving as educational resources for MCP server development.
@@ -1315,6 +1416,26 @@
 > <sub>一个现代化的 Everything 搜索客户端，将 AI 智能与极速本地搜索完美结合。</sub>
 
 ---
+## zhinianboke/xianyu-auto-reply
+
+> [!info]
+> ⭐ 3,817 · Python · 2026-04-14  
+> [GitHub](https://github.com/zhinianboke/xianyu-auto-reply) · [Website](https://xy.zhinianboke.com/)  
+> `#FastAPI` `#Data Exfiltration` `#Backdoor Vulnerabilities` 
+> A FastAPI-based real-time customer-service bot for Xianyu that listens via WebSocket and auto-replies, yet embeds hard-coded keys, backdoors and data-exfil channels able to steal cookies, chat logs and email verification codes—high-risk usage.
+> <sub>闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。</sub>
+
+---
+## googleapis/mcp-toolbox
+
+> [!info]
+> ⭐ 14,603 · Go · 2026-04-16  
+> [GitHub](https://github.com/googleapis/mcp-toolbox) · [Website](https://mcp-toolbox.dev/documentation/introduction/)  
+> `#MCP Protocol` `#Database AI Agent` `#NL2SQL Framework` `#agent` `#agents` `#ai` `#bigquery` `#clickhouse` `#cockroachdb` `#database` `#elasticsearch` `#firestore` `#genai` `#llm` `#mcp` `#mongodb` `#mysql` `#oracle` `#postgresql` `#redis` `#server` `#spanner` `#tidb` 
+> MCP Toolbox for Databases is Google’s open-source MCP server that gives AI agents and IDEs instant, secure access to enterprise databases. Use prebuilt tools for zero-code data exploration or its framework to craft production-grade, NL2SQL-enabled custom tools, with SDKs in Go, Python, JS and Java.
+> <sub>MCP Toolbox for Databases is an open source MCP server for databases.</sub>
+
+---
 ## saltpi/iPlay
 
 > [!info]
@@ -1368,7 +1489,7 @@
 ## microsoft/playwright-mcp
 
 > [!info]
-> ⭐ 30,923 · TypeScript · 2026-04-16  
+> ⭐ 30,924 · TypeScript · 2026-04-16  
 > [GitHub](https://github.com/microsoft/playwright-mcp) · [Website](https://www.npmjs.com/package/@playwright/mcp)  
 > `#Browser Automation` `#Model Context Protocol` `#Accessibility Tree` `#LLM Tools` `#mcp` `#playwright` 
 > Microsoft's MCP server enabling browser automation via Playwright. Interacts with web pages through structured accessibility snapshots instead of screenshots, eliminating vision model requirements. Supports VS Code, Claude Desktop, Cursor, and other MCP clients for exploratory automation and self-healing tests.
@@ -1428,7 +1549,7 @@
 ## withastro/astro
 
 > [!info]
-> ⭐ 58,489 · TypeScript · 2026-04-16  
+> ⭐ 58,490 · TypeScript · 2026-04-16  
 > [GitHub](https://github.com/withastro/astro) · [Website](https://astro.build)  
 > `#Island Architecture` `#Static Site Generation` `#SSR/SSG` `#Multi-framework Integration` `#astro` `#blog` `#browser` `#components` `#hybrid` `#islands` `#node` `#server` `#static` `#static-site-generator` `#universal` 
 > Astro is a modern web framework for content-driven websites, featuring Island Architecture to achieve "Zero JS by Default". It delivers exceptional performance through Static Site Generation (SSG) and Server-Side Rendering (SSR), while supporting seamless integration with React, Vue, Svelte, Preact, Solid and other popular UI frameworks.
@@ -1528,7 +1649,7 @@
 ## alibaba/higress
 
 > [!info]
-> ⭐ 8,152 · Go · 2026-04-16  
+> ⭐ 8,153 · Go · 2026-04-16  
 > [GitHub](https://github.com/alibaba/higress) · [Website](https://higress.ai)  
 > `#Cloud-Native Gateway` `#AI Gateway` `#MCP Protocol` `#Wasm Plugins` `#ai-gateway` `#ai-native` `#api-gateway` `#cloud-native` `#envoy` 
 > Higress is a cloud-native API gateway developed by Alibaba, built on Istio and Envoy with flexible Wasm plugin extensibility supporting Go, Rust, and JavaScript. As an AI Gateway, it provides unified management for LLM and MCP APIs, connecting to mainstream domestic and international LLM providers while offering MCP server hosting. Deployed at scale in Alibaba Cloud and Alibaba's core AI services.
@@ -1558,7 +1679,7 @@
 ## coleam00/context-engineering-intro
 
 > [!info]
-> ⭐ 13,168 · Python · 2026-03-16  
+> ⭐ 13,169 · Python · 2026-03-16  
 > [GitHub](https://github.com/coleam00/context-engineering-intro)  
 > `#Context Engineering` `#Claude Code` `#AI Coding Assistant` `#Workflow Automation` 
 > Context Engineering is a systematic methodology for providing comprehensive context to AI coding assistants through CLAUDE.md project rules, INITIAL.md feature requests, PRP (Product Requirements Prompts), and code examples. This template offers a standardized workflow that dramatically enhances AI code generation quality and consistency, enabling end-to-end complex task execution.
@@ -1598,7 +1719,7 @@
 ## GyulyVGC/sniffnet
 
 > [!info]
-> ⭐ 33,595 · Rust · 2026-04-15  
+> ⭐ 33,596 · Rust · 2026-04-15  
 > [GitHub](https://github.com/GyulyVGC/sniffnet) · [Website](https://sniffnet.net)  
 > `#Network Traffic Monitoring` `#Rust` `#Traffic Analysis` `#Cross-platform` `#application` `#gui` `#iced` `#linux` `#macos` `#network` `#network-analysis` `#network-monitoring` `#networking` `#packet-analyser` `#packet-capture` `#packet-sniffer` `#pcap` `#rust` `#rust-crate` `#security` `#tool` `#utility` `#windows` 
 > Sniffnet is a cross-platform network traffic monitoring application built with Rust, featuring an intuitive GUI for real-time display of traffic statistics, protocol distribution, and connection details. Supports traffic alerts, custom themes, and multilingual interface. Fully free and open-source.
@@ -1688,7 +1809,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 26,406 · TypeScript · 2026-04-10  
+> ⭐ 26,408 · TypeScript · 2026-04-10  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#Prompt Optimization` `#Multi-Model Integration` `#AI Prompt Engineering` `#Image Generation` `#ai-prompts` `#ai-tools` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-optimizer` `#prompt-testing` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer is an intelligent tool designed to enhance the quality of AI prompts. It supports multi-model integration (OpenAI, Gemini, DeepSeek, etc.), dual-mode optimization, real-time comparison testing, and image generation (T2I/I2I). Available as Web app, desktop app, Chrome extension, and Docker deployment, it ensures data security via client-side processing and is ideal for roleplay, knowledge extraction, and creative tasks.
@@ -1888,7 +2009,7 @@
 ## MetaCubeX/mihomo
 
 > [!info]
-> ⭐ 29,048 · Python · 2026-04-16  
+> ⭐ 29,049 · Python · 2026-04-16  
 > [GitHub](https://github.com/MetaCubeX/mihomo) · [Website](https://wiki.metacubex.one)  
 > `#Pydantic` `#API Parsing` `#Honkai: Star Rail` `#Data Modeling` `#honkai-star-rail` `#mihomo` `#python` `#star-rail-api` 
 > mihomo is a Python library using Pydantic to parse Honkai: Star Rail data from the Mihomo API, offering type hints and autocompletion. It supports both V1 and V2 data formats, includes structured character and player info, and provides utilities like deduplication, merging, and data persistence.
@@ -1908,7 +2029,7 @@
 ## MetaCubeX/ClashMetaForAndroid
 
 > [!info]
-> ⭐ 37,555 · Kotlin · 2026-04-16  
+> ⭐ 37,557 · Kotlin · 2026-04-16  
 > [GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid)  
 > `#Clash.Meta Client` `#Rule-Based Proxy` `#Android VPN` `#Network Tunnel` 
 > A rule-based network tunnel client for Android powered by Clash.Meta kernel, featuring a graphical interface for proxy management. Supports multi-protocol proxies, automatic rule matching, and system-wide traffic forwarding, ideal for network debugging and bypass. Compatible with Android 5.0+ and major CPU architectures.
@@ -1938,7 +2059,7 @@
 ## louislam/uptime-kuma
 
 > [!info]
-> ⭐ 85,314 · JavaScript · 2026-04-16  
+> ⭐ 85,315 · JavaScript · 2026-04-16  
 > [GitHub](https://github.com/louislam/uptime-kuma) · [Website](https://uptime.kuma.pet)  
 > `#Self-hosted Monitoring` `#Node.js` `#Docker Monitoring` `#Real-time Alerts` `#docker` `#monitor` `#monitoring` `#responsive` `#self-hosted` `#selfhosted` `#single-page-app` `#socket-io` `#uptime` `#uptime-monitoring` `#webapp` `#websocket` 
 > An elegant open-source self-hosted monitoring tool supporting HTTP, TCP, Ping, DNS, WebSocket, Docker containers and more, with 90+ notification channels, reactive UI, multiple status pages, and 2FA, achieving 20-second monitoring intervals.
@@ -1968,7 +2089,7 @@
 ## browser-use/browser-use
 
 > [!info]
-> ⭐ 88,020 · Python · 2026-04-15  
+> ⭐ 88,021 · Python · 2026-04-15  
 > [GitHub](https://github.com/browser-use/browser-use) · [Website](https://browser-use.com)  
 > `#AI Agent` `#Browser Automation` `#LLM Integration` `#Web Interaction` `#ai-agents` `#ai-tools` `#browser-automation` `#browser-use` `#llm` `#playwright` `#python` 
 > browser-use enables AI agents to interact with and automate tasks on websites using large language models (LLMs). It supports both local and cloud-based browser control, integrates with multiple LLM providers like Google and Anthropic, and offers stealth capabilities to evade anti-bot detection—ideal for web scraping, form automation, and data extraction.
@@ -1978,7 +2099,7 @@
 ## microsoft/playwright
 
 > [!info]
-> ⭐ 86,567 · TypeScript · 2026-04-16  
+> ⭐ 86,568 · TypeScript · 2026-04-16  
 > [GitHub](https://github.com/microsoft/playwright) · [Website](https://playwright.dev)  
 > `#Web Testing` `#Browser Automation` `#End-to-End Testing` `#Cross-Browser` `#automation` `#chrome` `#chromium` `#e2e-testing` `#electron` `#end-to-end-testing` `#firefox` `#javascript` `#playwright` `#test` `#test-automation` `#testing` `#testing-tools` `#web` `#webkit` 
 > Playwright is a cross-browser web testing and automation framework supporting Chromium, Firefox, and WebKit via a unified API. It features auto-waiting, web-first assertions, and tracing to ensure resilient, flake-free end-to-end testing and automation across platforms.
@@ -2008,7 +2129,7 @@
 ## microsoft/markitdown
 
 > [!info]
-> ⭐ 109,733 · Python · 2026-04-15  
+> ⭐ 109,735 · Python · 2026-04-15  
 > [GitHub](https://github.com/microsoft/markitdown)  
 > `#Document Conversion` `#Markdown Generation` `#LLM Tool` `#Multi-format Support` `#autogen` `#autogen-extension` `#langchain` `#markdown` `#microsoft-office` `#openai` `#pdf` 
 > MarkItDown is a lightweight Python tool by Microsoft that converts diverse file types—including PDFs, Office docs, images, audio, and HTML—into Markdown, optimized for LLM text analysis. It preserves document structure like headings and tables, offers CLI and API access, and includes an MCP server for integration with LLM applications.
@@ -2068,7 +2189,7 @@
 ## ArvinLovegood/go-stock
 
 > [!info]
-> ⭐ 5,296 · Go · 2026-04-16  
+> ⭐ 5,297 · Go · 2026-04-16  
 > [GitHub](https://github.com/ArvinLovegood/go-stock) · [Website](https://go-stock.sparkmemory.top)  
 > `#AI Quantitative Investment` `#LLM Integration` `#Stock Analysis` `#FinTech` `#ai-tools` `#deepseek` `#golang` `#lmstudio` `#naiveui` `#ollama` `#openai` `#stock` `#wails` 
 > An AI-powered stock analysis tool built with Wails and NaiveUI, leveraging large language models for intelligent stock screening, sentiment analysis, financial analysis, and technical indicator calculations. Supports A-shares, Hong Kong and US stock markets with price alerts and local data storage, compatible with DeepSeek, OpenAI, Ollama and other LLM APIs.
@@ -2276,7 +2397,7 @@
 ## opendatalab/MinerU
 
 > [!info]
-> ⭐ 60,045 · Python · 2026-04-15  
+> ⭐ 60,046 · Python · 2026-04-15  
 > [GitHub](https://github.com/opendatalab/MinerU) · [Website](https://opendatalab.github.io/MinerU/)  
 > `#PDF Parsing` `#Document Structuring` `#LLM Preprocessing` `#ai4science` `#document-analysis` `#extract-data` `#layout-analysis` `#ocr` `#parser` `#pdf` `#pdf-converter` `#pdf-extractor-llm` `#pdf-extractor-pretrain` `#pdf-extractor-rag` `#pdf-parser` `#python` 
 > MinerU is an open-source tool that intelligently converts complex PDFs into LLM-ready formats like Markdown and JSON, designed for agentic workflows. It extracts structured content such as tables, formulas, and images to enhance accuracy and efficiency in large language model processing.
@@ -2356,7 +2477,7 @@
 ## dockur/macos
 
 > [!info]
-> ⭐ 19,484 · Shell · 2026-03-05  
+> ⭐ 19,485 · Shell · 2026-03-05  
 > [GitHub](https://github.com/dockur/macos)  
 > `#KVM virtualization` `#Containerized macOS` `#Docker virtualization` `#noVNC remote access` `#docker` `#docker-container` `#mac` `#macos` `#macos-virtual-machine` `#macos-vm` `#macosx` `#osx` `#osx-virtual-machine` `#virtualization` 
 > Run macOS inside Docker containers with KVM hardware virtualization acceleration. Supports automatic download of macOS 11-15 versions, features a web-based remote viewer (noVNC), and allows configurable CPU, RAM, and disk size. Ideal for development, testing, CI/CD pipelines, and server deployment.
@@ -3136,7 +3257,7 @@
 ## datalab-to/marker
 
 > [!info]
-> ⭐ 33,939 · Python · 2026-04-14  
+> ⭐ 33,940 · Python · 2026-04-14  
 > [GitHub](https://github.com/datalab-to/marker) · [Website](https://www.datalab.to)  
 > `#Document Conversion` `#PDF Parsing` `#Table Extraction` `#Deep Learning` 
 > Marker converts PDFs, images, and documents to markdown, JSON, and HTML with high accuracy. It handles tables, equations, code blocks, and images, supports GPU/CPU/MPS, and offers optional LLM enhancement for improved precision.
@@ -3256,7 +3377,7 @@
 ## bostrot/wsl2-distro-manager
 
 > [!info]
-> ⭐ 3,780 · Dart · 2026-04-14  
+> ⭐ 3,781 · Dart · 2026-04-14  
 > [GitHub](https://github.com/bostrot/wsl2-distro-manager) · [Website](https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB)  
 > `#Flutter` `#WSL2` `#Docker Container` `#Linux Distribution Management` `#collaborate` `#docker` `#flutter` `#github` `#gui` `#rootfs` `#turnkey` `#windows` `#wsl` `#wsl2` 
 > WSL Distro Manager is a free, open-source Flutter desktop app providing a GUI for managing Windows Subsystem for Linux. It supports installing, uninstalling, updating, backing up and restoring WSL distros, importing Docker images and LXC containers as WSL instances, with quick actions and cross-machine sharing capabilities.
@@ -3306,7 +3427,7 @@
 ## kingToolbox/WindTerm
 
 > [!info]
-> ⭐ 30,551 · C · 2025-03-11  
+> ⭐ 30,552 · C · 2025-03-11  
 > [GitHub](https://github.com/kingToolbox/WindTerm) · [Website](https://kingtoolbox.github.io)  
 > `#Cross-platform Terminal` `#SSH Client` `#SFTP File Transfer` `#Tmux Integration` `#bash` `#client` `#cmd` `#linux` `#mac` `#powershell` `#serial` `#sftp` `#shell` `#ssh` `#telnet` `#terminal` `#tmux` `#windows` `#wsl` `#x11` `#xmodem` `#xterm` `#ymodem` `#zmodem` 
 > WindTerm is a professional cross-platform terminal supporting SSH/SFTP/Telnet/Serial/Shell/Tmux protocols. Features include port forwarding, X11 forwarding, proxy jump, SSH ControlMaster, integrated SFTP/SCP, multilingual UI, auto-completion, and split views. Completely free and open-source.
@@ -3715,7 +3836,7 @@
 ## facebook/rocksdb
 
 > [!info]
-> ⭐ 31,627 · C++ · 2026-04-15  
+> ⭐ 31,628 · C++ · 2026-04-15  
 > [GitHub](https://github.com/facebook/rocksdb) · [Website](http://rocksdb.org)  
 > `#Key-Value Store` `#LSM Tree` `#Embedded Database` `#Flash Storage` `#database` `#storage-engine` 
 > RocksDB is Facebook's open-source embedded persistent key-value store built on LSM-tree architecture, optimized for Flash and RAM storage. It offers flexible tradeoffs between Write-Amplification-Factor, Read-Amplification-Factor and Space-Amplification-Factor, supporting multi-threaded compaction to efficiently handle terabyte-scale data across database engines and caching systems.
@@ -4055,7 +4176,7 @@
 ## krahets/hello-algo
 
 > [!info]
-> ⭐ 125,312 · Java · 2026-04-14  
+> ⭐ 125,313 · Java · 2026-04-14  
 > [GitHub](https://github.com/krahets/hello-algo) · [Website](https://www.hello-algo.com)  
 > `#Data Structures & Algorithms` `#Animated Visualization` `#Multi-language Support` `#Open-source Tutorial` `#algo` `#algorithm` `#algorithms` `#book` `#data-structure` `#data-structures` `#data-structures-and-algorithms` `#dsa` `#education` `#leetcode` `#programming` 
 > Hello Algo is an open-source, free data structures and algorithms tutorial featuring animated illustrations with runnable code in 13 programming languages including Python, Java, C++, and Go. Available in Simplified/Traditional Chinese, English, and Japanese, it's ideal for beginners.
@@ -4215,7 +4336,7 @@
 ## YunaiV/yudao-cloud
 
 > [!info]
-> ⭐ 18,794 · Java · 2026-04-12  
+> ⭐ 18,795 · Java · 2026-04-12  
 > [GitHub](https://github.com/YunaiV/yudao-cloud) · [Website](https://cloud.iocoder.cn)  
 > `#Spring Cloud Alibaba` `#Microservices` `#Multi-tenant SaaS` `#Vue3 Admin` `#dubbo` `#elasticsearch` `#mall` `#mysql` `#nacos` `#redis` `#rocketmq` `#seata` `#sharding-sphere` `#skywalking` `#spring-cloud` `#spring-cloud-alibaba` `#springboot` `#springcloud` `#xxl-job` `#zookeeper` 
 > Enterprise-grade microservice management platform based on Spring Cloud Alibaba + Vue3, featuring RBAC dynamic permissions, multi-tenancy, data permissions, workflows, payments, SMS, e-commerce, CRM, ERP, AI, and IoT. Integrates Nacos, Sentinel, Seata, Flowable with code generators.
@@ -4625,7 +4746,7 @@
 ## sunface/rust-course
 
 > [!info]
-> ⭐ 30,250 · Rust · 2026-03-12  
+> ⭐ 30,252 · Rust · 2026-03-12  
 > [GitHub](https://github.com/sunface/rust-course) · [Website](https://course.rs)  
 > `#Rust Programming` `#Systems Programming` `#Async/Await` `#Technical Book` `#book` `#chinese` `#course` `#deno` `#javascript` `#learn` `#learning` `#programming-courses` `#rust` `#rust-book` `#rust-course` `#rust-lang` `#rust-learn` `#rust-learning` `#rust-study` `#study` `#wasm` 
 > A comprehensive Chinese Rust tutorial covering complete knowledge from beginner to advanced, including ownership, lifetimes, concurrency, and async programming. Features practical exercises and cookbook code snippets, helping developers efficiently master this GC-free, high-performance, secure systems programming language. Open-source with continuous updates.
@@ -4785,7 +4906,7 @@
 ## Flow-Launcher/Flow.Launcher
 
 > [!info]
-> ⭐ 14,446 · C# · 2026-04-15  
+> ⭐ 14,446 · C# · 2026-04-16  
 > [GitHub](https://github.com/Flow-Launcher/Flow.Launcher) · [Website](https://flowlauncher.com)  
 > `#Windows Launcher` `#Instant File Search` `#Plugin Architecture` `#Productivity Tool` `#alfred` `#application-launcher` `#desktop` `#finder` `#flow-launcher` `#hacktoberfest` `#keyboard-launcher` `#launcher` `#launchy` `#listary` `#plugins` `#portable` `#productivity` `#productivity-tools` `#raycast` `#search` `#spotlight` `#windows` `#wox` 
 > Flow Launcher is a Windows-powered quick file search and application launcher featuring community-developed plugins. It enables searching applications, files, bookmarks, and web content with plugin-based architecture, offering hotkey integration, Everything/Windows Index support to significantly enhance Windows workflow efficiency.
@@ -5294,7 +5415,7 @@
 ## marktext/marktext
 
 > [!info]
-> ⭐ 55,259 · JavaScript · 2026-03-04  
+> ⭐ 55,260 · JavaScript · 2026-03-04  
 > [GitHub](https://github.com/marktext/marktext) · [Website](https://www.marktext.me)  
 > `#Markdown Editor` `#Electron` `#Cross-platform Desktop` `#Writing Tool` `#dark-mode` `#editor` `#electron` `#element-ui` `#emoji` `#focus-mode` `#latex` `#linux` `#mac` `#macos` `#markdown` `#marktext` `#next-generation` `#source-code` `#typewriter-mode` `#vue` `#windows` 
 > A simple and elegant open-source markdown editor focused on speed and usability. Available for Linux, macOS and Windows, it offers real-time preview, syntax highlighting, and multiple editing modes. Built with Electron, it delivers a seamless writing experience for users seeking efficiency.
@@ -5622,7 +5743,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 151,365 · Python · 2026-04-01  
+> ⭐ 151,368 · Python · 2026-04-01  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#Open Source Curation` `#Beginner Projects` `#Monthly Newsletter` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub is a Chinese community project that curates interesting and beginner-friendly open-source projects from GitHub. It publishes a monthly newsletter on the 28th, featuring projects, books, and practical examples to help developers discover quality resources and foster a love for open source.
