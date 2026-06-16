@@ -48,6 +48,7 @@ STARS_JSON_PATH = DATA_DIR / "stars.json"
 TEMPLATES_DIR = SCRIPT_DIR / "templates"
 DEFAULT_MD_TEMPLATE = "stars.md.j2"
 STARS_MD_PATH_DEFAULT = SCRIPT_DIR / "stars.md"
+README_FETCH_FAILED = object()
 
 # 确保数据目录存在
 DATA_DIR.mkdir(exist_ok=True)
@@ -260,15 +261,32 @@ class GitHubClient:
             page += 1
         return repos
 
-    def get_readme(self, full_name: str, max_length: int) -> str:
+    def get_readme(self, full_name: str, max_length: int) -> str | object:
         url = f"{self.BASE_URL}/repos/{full_name}/readme"
-        try:
-            resp = self._get(url)
-            data = resp.json()
-            content = base64.b64decode(data["content"]).decode("utf-8", errors="ignore")
-            return content[:max_length]
-        except Exception:
-            return ""
+        for attempt in range(3):
+            try:
+                resp = self.session.get(url, timeout=30)
+                if resp.status_code == 404:
+                    log.info(f"仓库无 README，使用描述生成摘要: {full_name}")
+                    return ""
+                if resp.status_code == 403 and "rate limit" in resp.text.lower():
+                    reset_time = int(
+                        resp.headers.get("X-RateLimit-Reset", time.time() + 60)
+                    )
+                    wait = max(reset_time - int(time.time()), 5)
+                    log.warning(f"API 限速，等待 {wait} 秒...")
+                    time.sleep(wait)
+                    continue
+                resp.raise_for_status()
+                data = resp.json()
+                content = base64.b64decode(data["content"]).decode("utf-8", errors="ignore")
+                return content[:max_length]
+            except requests.RequestException as e:
+                log.warning(f"README 请求失败（第 {attempt + 1} 次）[{full_name}]: {e}")
+                time.sleep(2**attempt)
+
+        log.warning(f"README 获取失败，跳过本次处理: {full_name}")
+        return README_FETCH_FAILED
 
     def push_file(self, repo: str, path: str, content: str, msg: str, pat: str) -> bool:
         url = f"{self.BASE_URL}/repos/{repo}/contents/{path}"
@@ -521,6 +539,9 @@ def main():
             readme_content = gh.get_readme(
                 fname, cfg["ai"].get("max_readme_length", 4000)
             )
+
+            if readme_content is README_FETCH_FAILED:
+                return False
 
             if not readme_content and not repo_data["description"]:
                 summ = {"zh": "暂无描述。", "tags": []}
