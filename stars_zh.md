@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-07-16 07:15 UTC · Total: 570
+> Updated: 2026-07-16 07:21 UTC · Total: 570
 
 ---
 
@@ -581,10 +581,10 @@
 ## Stack-Cairn/LiveAgent
 
 > [!info]
-> ⭐ 679 · TypeScript · 2026-07-16  
+> ⭐ 680 · TypeScript · 2026-07-16  
 > [GitHub](https://github.com/Stack-Cairn/LiveAgent)  
 > `#ai-agents` `#ai-tools` `#claude-code` `#claude-desktop` `#codex` `#codex-app` `#desktop-app` `#hermes` `#hermes-agent` `#mcp` `#oepnclaw` `#open-source` `#skills` `#tauri` `#typescript` `#webui` 
-> 生成失败
+> 暂无摘要
 > <sub>A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!</sub>
 
 ---
@@ -594,7 +594,7 @@
 > ⭐ 10,154 · Rust · 2026-07-16  
 > [GitHub](https://github.com/t8y2/dbx) · [Website](https://dbxio.com)  
 > `#clickhouse` `#database` `#database-client` `#database-management` `#gui` `#mongodb` `#mysql` `#postgresql` `#redis` `#rust` `#sql-server` `#sqlite` `#tauri` `#vue` 
-> 生成失败
+> 暂无摘要
 > <sub>20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。</sub>
 
 ---
@@ -603,8 +603,8 @@
 > [!info]
 > ⭐ 14,274 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/plait-board/drawnix) · [Website](https://drawnix.com)  
-> `#collaboration` `#drawing` `#flowchart` `#localfirst` `#mind-map` `#mindmap` `#productivity` `#whiteboard` 
-> 生成失败
+> `#白板工具` `#思维导图` `#插件架构` `#开源SaaS` `#collaboration` `#drawing` `#flowchart` `#localfirst` `#mind-map` `#mindmap` `#productivity` `#whiteboard` 
+> Drawnix 是一款开源一体化白板工具，集成思维导图、流程图、自由画等功能。基于插件架构，支持 Angular/React 多 UI 框架，底层依赖 Plait 画图框架和 Slate 富文本框架。特性包括免费开源、无限画布、自动保存、导出 PNG/JSON、Mermaid 转流程图、Markdown 转思维导图等。适用于团队协作、知识管理、创意设计等场景。
 > <sub>开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.</sub>
 
 ---
@@ -614,14 +614,14 @@
 > ⭐ 386 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/electroluxcode/onlyoffice-web-comp) · [Website](https://onlyoffice-web-comp.vercel.app/)  
 > `#local` `#office` `#onlyoffice` `#react` `#typescript` `#web` 
-> 生成失败
+> 暂无摘要
 > <sub>A component based on OnlyOffice (v9) for viewing, editing, and converting documents entirely on the user's device, no backend required.基于 OnlyOffice (v9) 的纯前端组件，封装文档查看、编辑、转换功能，全在用户设备本地运行，无需后端，即插即用</sub>
 
 ---
 ## openai/codex
 
 > [!info]
-> ⭐ 98,631 · Rust · 2026-07-16  
+> ⭐ 98,635 · Rust · 2026-07-16  
 > [GitHub](https://github.com/openai/codex)  
 > `#编码代理` `#终端工具` `#AI辅助编程` 
 > Codex CLI 是 OpenAI 推出的轻量级终端编码代理，支持本地运行，可通过 ChatGPT 订阅或 API 密钥使用。提供跨平台安装方式（curl、npm、Homebrew），集成到终端工作流，实现代码生成、调试等 AI 辅助编程功能。
@@ -634,7 +634,7 @@
 > ⭐ 179 · JavaScript · 2026-07-13  
 > [GitHub](https://github.com/axuitomo/CF-EMBY-PROXY-UI) · [Website](https://show.xyz9923.qzz.io/)  
 > 
-> 生成失败
+> 暂无摘要
 > <sub>一个单文件 worker.js 项目：统一多台 Emby 节点入口、隐藏源站 IP、支持直连/反代混合策略、提供 /admin 可视化后台，并集成日志、Cloudflare 统计、Telegram 日报与多层缓存优化。【下面展示链接的访问密码为123】</sub>
 
 ---
@@ -654,14 +654,14 @@
 > ⭐ 930 · JavaScript · 2026-07-06  
 > [GitHub](https://github.com/caigg188/LDStatusPro) · [Website](https://ldspro.qzz.io/)  
 > 
-> 生成失败
+> 暂无摘要
 > <sub>一款功能强大的 Linux.do 社区增强工具以及相关综合服务开源项目。包含油猴脚本、LD士多项目前端源码、LDStatusPro官网源码。</sub>
 
 ---
 ## Graphify-Labs/graphify
 
 > [!info]
-> ⭐ 88,056 · Python · 2026-07-15  
+> ⭐ 88,064 · Python · 2026-07-15  
 > [GitHub](https://github.com/Graphify-Labs/graphify) · [Website](https://www.graphify.com)  
 > `#知识图谱` `#AI编码助手` `#代码解析` `#tree-sitter` `#antigravity` `#claude-code` `#codex` `#gemini` `#graphrag` `#knowledge-graph` `#leiden` `#openclaw` `#rag` `#skills` `#tree-sitter` 
 > Graphify 是一个 AI 编码助手技能，可将任何代码、SQL 模式、脚本、文档、图片或视频文件夹转换为可查询的知识图谱。它支持 Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等多种 AI 助手。核心亮点：使用 tree-sitter AST 进行本地代码解析（无 LLM，数据不离开机器），文档/图片/视频使用助手模型进行语义处理。每条边都标记为 EXTRACTED（显式）或 INFERRED（推断），透明可追溯。不是向量索引，而是真正的知识图谱。
@@ -734,7 +734,7 @@
 > ⭐ 1,895 · Dart · 2026-07-15  
 > [GitHub](https://github.com/omnimind-ai/OmniBot) · [Website](https://omnimind-ai.github.io/OmniBot-Docs/)  
 > `#agent` `#ai` `#alpine` `#android` `#automation` `#bot` `#claw` `#codex` `#gui` `#linux` `#on-device` `#skills` 
-> 生成失败
+> 暂无摘要
 > <sub>Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range of tasks in the Android world || 你的手机 AI 代理，她可以操作终端，也可以完成 Android 世界的广泛任务</sub>
 
 ---
@@ -761,7 +761,7 @@
 ## 648540858/wvp-GB28181-pro
 
 > [!info]
-> ⭐ 7,159 · Java · 2026-07-16  
+> ⭐ 7,160 · Java · 2026-07-16  
 > [GitHub](https://github.com/648540858/wvp-GB28181-pro) · [Website](https://doc.wvp-pro.cn)  
 > `#GB28181` `#视频监控平台` `#国标级联` `#1078` `#28181` `#28181web` `#808` `#gb28181` `#gb28181server` `#wvp` 
 > 基于GB28181-2016、部标808/1078标准的开源视频平台，集成管理界面，支持海康/大华等设备接入、NAT穿透、国标级联，可将非国标流转换为国标共享，提供RTSP/RTMP/HLS等多协议输出。
@@ -821,7 +821,7 @@
 ## KeygraphHQ/shannon
 
 > [!info]
-> ⭐ 45,734 · TypeScript · 2026-07-15  
+> ⭐ 45,735 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/KeygraphHQ/shannon) · [Website](https://keygraph.io/)  
 > `#白盒AI渗透测试` `#Web应用安全` `#源码驱动漏洞验证` `#浏览器自动化利用` `#penetration-testing` `#pentesting` `#security-audit` `#security-automation` `#security-tools` 
 > Shannon Lite 是面向 Web 应用与 API 的自治白盒 AI 渗透测试工具，可结合源码分析、浏览器自动化与命令行利用链，识别攻击路径并执行真实漏洞验证。其核心价值在于仅输出具备可复现 PoC 的安全问题，适合在本地开发、发布前验证及持续安全测试中提前拦截高风险漏洞。
@@ -851,7 +851,7 @@
 ## farion1231/cc-switch
 
 > [!info]
-> ⭐ 117,705 · Rust · 2026-07-15  
+> ⭐ 117,711 · Rust · 2026-07-15  
 > [GitHub](https://github.com/farion1231/cc-switch) · [Website](https://ccswitch.io)  
 > `#Tauri跨平台桌面应用` `#AI编码助手聚合` `#多模型切换管理` `#ai-tools` `#claude-code` `#codex` `#desktop-app` `#hermes` `#hermes-agent` `#mcp` `#minimax` `#omo` `#open-source` `#openclaw` `#openclaw-ui` `#opencode` `#provider-management` `#rust` `#skills` `#skills-management` `#tauri` `#typescript` `#wsl-support` 
 > CC Switch 是基于 Tauri 2 构建的跨平台桌面管理器，统一整合 Claude Code、Codex、Gemini CLI、OpenCode、OpenClaw 与 Hermes Agent 等多种 AI 编码工具。它面向多模型、多账号与多终端工作流，突出一站式切换、集中管理和桌面级分发能力，适合开发者提升工具协同效率并降低环境切换成本。
@@ -891,7 +891,7 @@
 ## tailscale/tailscale
 
 > [!info]
-> ⭐ 34,038 · Go · 2026-07-16  
+> ⭐ 34,039 · Go · 2026-07-16  
 > [GitHub](https://github.com/tailscale/tailscale) · [Website](https://tailscale.com)  
 > `#WireGuard 组网` `#零信任访问` `#跨平台网络守护进程` `#Go 网络基础设施` `#2fa` `#oauth` `#sso` `#tailscale` `#vpn` `#wireguard` 
 > Tailscale 是基于 WireGuard 构建的零配置私有网络方案，核心开源内容涵盖跨平台 `tailscaled` 守护进程与 `tailscale` CLI。它面向远程办公、设备互联、内网访问与安全组网场景，以 Go 实现多平台支持，并通过简化部署、强化身份认证与版本化发行流程，降低安全网络接入门槛。
@@ -941,7 +941,7 @@
 ## getpaseo/paseo
 
 > [!info]
-> ⭐ 10,478 · TypeScript · 2026-07-15  
+> ⭐ 10,480 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/getpaseo/paseo) · [Website](https://paseo.sh)  
 > `#多智能体编排` `#自托管开发工具` `#本地守护进程` `#跨端 AI 编码` `#ade` `#agents` `#android` `#claude-code` `#codex` `#copilot` `#developer-tools` `#hermes` `#ios` `#linux` `#mobile` `#opencode` `#orchestration` `#pi` `#windows` 
 > Paseo 是一个面向多智能体编程协作的自托管编排平台，通过本地 daemon 统一连接 Claude Code、Codex、Copilot、OpenCode 与 Pi。它支持桌面、移动端、Web 与 CLI 跨端接入，并提供并行执行、语音控制、远程守护进程和隐私优先的开发体验，适合在个人设备或团队环境中高效调度 AI 编码代理。
@@ -971,7 +971,7 @@
 ## iOfficeAI/OfficeCLI
 
 > [!info]
-> ⭐ 18,007 · C# · 2026-07-14  
+> ⭐ 18,009 · C# · 2026-07-14  
 > [GitHub](https://github.com/iOfficeAI/OfficeCLI) · [Website](https://officecli.ai)  
 > `#AI代理办公自动化` `#Office文档引擎` `#单文件跨平台CLI` `#文档可视化渲染` `#agent` `#ai` `#claude-code` `#cli` `#codex` `#docx` `#excel` `#office` `#openclaw` `#pptx` `#presentation` `#skills` `#word` `#xlsx` 
 > OfficeCLI 是面向 AI 代理的跨平台 Office 自动化工具，以单一二进制方式提供 Word、Excel、PowerPoint 的读取、编辑、生成与渲染能力，无需安装 Microsoft Office。其核心亮点是代理友好的渲染引擎，可将 docx、xlsx、pptx 转为 HTML 或 PNG，帮助智能体完成“生成—查看—修正”闭环，适用于文档生成、报表处理、演示文稿自动化等场景。
@@ -1011,7 +1011,7 @@
 ## JuliusBrussee/caveman
 
 > [!info]
-> ⭐ 89,969 · JavaScript · 2026-07-03  
+> ⭐ 89,972 · JavaScript · 2026-07-03  
 > [GitHub](https://github.com/JuliusBrussee/caveman) · [Website](https://caveman.so/)  
 > `#AI 编码代理` `#Prompt 压缩` `#Token 成本优化` `#多语言输出` `#ai` `#anthropic` `#caveman` `#claude` `#claude-code` `#llm` `#meme` `#prompt-engineering` `#skill` `#tokens` 
 > caveman 是面向 Claude Code 及多种 AI 编码代理的压缩表达技能插件，通过“穴居人式”提示风格在保持技术准确性的前提下，将回复 token 成本降低约 65% 到 75%。它支持多档压缩模式与跨语言输出，适合高频代码协作、终端代理和成本敏感的 AI 开发工作流。
@@ -1021,7 +1021,7 @@
 ## anomalyco/opencode
 
 > [!info]
-> ⭐ 186,307 · TypeScript · 2026-07-16  
+> ⭐ 186,306 · TypeScript · 2026-07-16  
 > [GitHub](https://github.com/anomalyco/opencode) · [Website](https://opencode.ai)  
 > `#AI 编码代理` `#终端开发工具` `#跨平台桌面应用` 
 > OpenCode 是面向终端与桌面的开源 AI 编码代理，提供安装便捷的 CLI 与桌面应用，支持多平台分发。它聚焦开发者在本地环境中的代码生成、修改与协作式执行，强调开放源码、自主可控和较新的发行链路，适合个人开发、团队辅助编程及跨平台工程环境集成。
@@ -1091,7 +1091,7 @@
 ## siddharthvaddem/openscreen
 
 > [!info]
-> ⭐ 39,439 · TypeScript · 2026-06-17  
+> ⭐ 39,441 · TypeScript · 2026-06-17  
 > [GitHub](https://github.com/siddharthvaddem/openscreen)  
 > `#开源录屏` `#产品演示制作` `#本地离线字幕` `#Screen Studio 替代` `#electron` `#open-source` `#pixijs` `#screen-capture` `#screen-recorder` 
 > OpenScreen 是一款面向产品演示、教程录制与社媒短视频制作的开源桌面工具，主打免费商用、无订阅和无水印。它集成屏幕/窗口录制、系统与麦克风音频、摄像头画中画、自动缩放、字幕离线生成、时间线剪辑与多比例导出，覆盖 Screen Studio 的核心场景，突出本地处理、可定制性与内容生产效率。
@@ -1161,7 +1161,7 @@
 ## alibaba/page-agent
 
 > [!info]
-> ⭐ 26,810 · TypeScript · 2026-07-16  
+> ⭐ 26,811 · TypeScript · 2026-07-16  
 > [GitHub](https://github.com/alibaba/page-agent) · [Website](https://alibaba.github.io/page-agent/)  
 > `#页内GUI智能体` `#DOM自动化` `#自然语言控件操作` `#前端LLM集成` `#agent` `#ai` `#ai-agents` `#browser-automation` `#javascript` `#mcp` `#typescript` `#web` 
 > Page Agent 是阿里巴巴推出的页内 GUI 智能体框架，通过纯 JavaScript 在网页内部执行自然语言驱动的 DOM 操作，无需浏览器扩展、截图或无头浏览器。它支持自带 LLM，适用于 SaaS Copilot、表单自动填写、无障碍交互及跨页面浏览器自动化，并以文本化页面理解、低接入成本和可扩展 MCP/Chrome Extension 为主要亮点。
@@ -1171,7 +1171,7 @@
 ## clash-verge-rev/clash-verge-rev
 
 > [!info]
-> ⭐ 131,821 · TypeScript · 2026-07-16  
+> ⭐ 131,823 · TypeScript · 2026-07-16  
 > [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) · [Website](https://www.clashverge.dev)  
 > `#Tauri 桌面客户端` `#Clash.Meta 代理工具` `#跨平台网络代理` `#mihomo 内核` `#clash` `#clash-meta` `#clash-verge` `#linux` `#mac` `#mihomo` `#tauri-app` `#windows` 
 > Clash Verge Rev 是基于 Rust 与 Tauri 2 的跨平台 Clash.Meta 图形客户端，面向 Windows、macOS 与 Linux 提供定制化代理管理。项目内置 mihomo 内核，支持 TUN、系统代理守卫、配置增强、规则与节点可视化编辑，并提供主题定制、CSS 注入及 WebDAV 同步，兼顾性能、易用性与高级网络控制能力。
@@ -1241,7 +1241,7 @@
 ## iOfficeAI/AionUi
 
 > [!info]
-> ⭐ 30,163 · TypeScript · 2026-07-15  
+> ⭐ 30,164 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/iOfficeAI/AionUi) · [Website](https://www.aionui.com)  
 > `#多代理协作` `#AI CLI 编排` `#本地自动化` `#跨平台桌面应用` `#acp` `#agent-team` `#ai` `#ai-agent` `#chat` `#chatbot` `#claude-code` `#clawdbot` `#codex` `#cowork` `#gemini` `#gemini-cli` `#hermes` `#llm` `#nano-banana` `#office` `#openclaw` `#opencode` `#skills` `#webui` 
 > AionUi 是面向 AI CLI 助手的本地化协作平台，将 Codex、Claude Code、Hermes Agent 等 20+ 代理统一到单一界面。它支持文件操作、多步骤任务执行、远程访问与 Cron 持续自动化，强调零配置、跨平台和用户可控，适合代码开发、运维自动化及长期代理协作场景。
@@ -1261,7 +1261,7 @@
 ## abhigyanpatwari/GitNexus
 
 > [!info]
-> ⭐ 44,193 · TypeScript · 2026-07-16  
+> ⭐ 44,194 · TypeScript · 2026-07-16  
 > [GitHub](https://github.com/abhigyanpatwari/GitNexus) · [Website](https://gitnexus.vercel.app)  
 > `#代码知识图谱` `#Graph RAG` `#MCP 集成` `#零服务器代码分析` 
 > GitNexus 是一款零服务器代码智能引擎，可在浏览器或本地将 GitHub 仓库/ZIP 索引为知识图谱，揭示依赖、调用链与执行流，并通过 Graph RAG 与 MCP 为 AI 编程助手提供更可靠的架构级上下文。其亮点在于纯客户端运行、知识图谱驱动分析，以及兼顾 Web 可视化探索与 CLI 集成开发。
@@ -1430,7 +1430,7 @@
 ## mindfold-ai/Trellis
 
 > [!info]
-> ⭐ 12,690 · TypeScript · 2026-07-15  
+> ⭐ 12,691 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/mindfold-ai/Trellis) · [Website](https://docs.trytrellis.app)  
 > `#AI 编程代理` `#工程化上下文管理` `#任务驱动工作流` `#多平台代理框架` `#agentic-coding` `#ai-workflow` `#claudecode` `#codex` `#harness` 
 > Trellis 是面向 AI 编程代理的工程化框架，通过在仓库内持久化 specs、tasks 与 workspace memory，让每次会话自动继承项目规范、任务上下文和历史决策。它适合团队协作开发与多代理场景，亮点是任务中心工作流、自动注入上下文，以及跨 14 个 AI 编码平台复用统一工程标准。
@@ -1450,7 +1450,7 @@
 ## Alishahryar1/free-claude-code
 
 > [!info]
-> ⭐ 40,433 · Python · 2026-07-16  
+> ⭐ 40,434 · Python · 2026-07-16  
 > [GitHub](https://github.com/Alishahryar1/free-claude-code)  
 > `#Anthropic兼容代理` `#Claude Code网关` `#多模型路由` `#开发者AI集成` 
 > free-claude-code 是一个面向 Claude Code 生态的 Anthropic 兼容代理，将 CLI、VS Code、JetBrains 与聊天机器人请求转发到 17 种云端或本地模型提供商。项目亮点在于按模型路由、流式响应、工具调用、/model 选择器兼容，以及集成管理后台、语音转写与远程机器人接入，适合低成本替代官方后端或统一多模型入口。
@@ -1799,7 +1799,7 @@
 ## toeverything/AFFiNE
 
 > [!info]
-> ⭐ 70,491 · TypeScript · 2026-07-15  
+> ⭐ 70,492 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/toeverything/AFFiNE) · [Website](https://affine.pro)  
 > `#本地优先协作` `#无限画布编辑器` `#知识管理平台` `#多模态 AI` `#app` `#crdt` `#editor` `#electron` `#knowledge-base` `#markdown` `#miro` `#notes` `#notion` `#notion-alternative` `#rust` `#rust-lang` `#rust-language` `#table` `#tableview` `#whiteboard` `#wiki` `#workspace` 
 > AFFiNE 是面向知识管理与协作创作的一体化工作空间，将文档、白板、表格与演示在同一块无限画布上融合，提供本地优先、实时协同与自托管能力。其亮点在于块级内容自由编排、多模态 AI 辅助创作，以及作为 Notion 与 Miro 替代方案的开源可定制架构。
@@ -1939,7 +1939,7 @@
 ## zhinianboke/xianyu-auto-reply
 
 > [!info]
-> ⭐ 5,784 · Python · 2026-07-16  
+> ⭐ 5,785 · Python · 2026-07-16  
 > [GitHub](https://github.com/zhinianboke/xianyu-auto-reply) · [Website](https://xy.zhinianboke.com/)  
 > `#FastAPI自动化客服` `#闲鱼多账号运营` `#WebSocket消息处理` `#Playwright流程自动化` 
 > 该项目是面向闲鱼平台的多账号自动化运营系统，采用 FastAPI、React、MySQL、Redis 与 Playwright 构建，覆盖实时消息接入、关键词与 AI 自动回复、自动发货、自动评价、商品发布及返佣选品等流程。其亮点在于 WebSocket 实时通信、多服务拆分架构，以及将客服、履约与营销任务整合为可部署的自动化闭环。
@@ -2099,7 +2099,7 @@
 ## tw93/Pake
 
 > [!info]
-> ⭐ 59,922 · Rust · 2026-07-12  
+> ⭐ 59,923 · Rust · 2026-07-12  
 > [GitHub](https://github.com/tw93/Pake)  
 > `#Rust桌面打包` `#Tauri跨平台应用` `#网页转桌面应用` `#轻量级替代Electron` `#chatgpt` `#claude` `#desktop` `#gemini` `#hight-performance` `#linux` `#macos` `#no-electron` `#package` `#rust` `#tauri` `#windows` `#youtube` 
 > Pake 是一个基于 Rust 与 Tauri 的网页转桌面应用打包工具，可将任意网站一键生成 macOS、Windows、Linux 原生应用。它以约 5MB 的轻量体积、低内存占用和更快启动速度替代传统 Electron 方案，并提供 CLI、在线构建、图标与窗口配置、快捷键、拖拽及样式定制等能力，适合个人工具封装、内容平台桌面化和跨平台快速分发。
@@ -2399,7 +2399,7 @@
 ## honojs/hono
 
 > [!info]
-> ⭐ 31,368 · TypeScript · 2026-07-15  
+> ⭐ 31,369 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/honojs/hono) · [Website](https://hono.dev)  
 > `#Web标准框架` `#多运行时` `#边缘计算` `#TypeScript路由` `#aws-lambda` `#bun` `#cloudflare` `#cloudflare-workers` `#deno` `#npm` `#router` `#typescript` `#web-framework` 
 > Hono 是基于 Web Standard API 的超轻量 TypeScript Web 框架，面向 Cloudflare Workers、Deno、Bun、Node.js 与 AWS Lambda 等多运行时统一开发。其核心亮点是零依赖、小体积与高速路由实现，兼顾内置中间件、良好类型支持和一致的部署体验，适合构建边缘服务、Serverless API 与高性能 Web 应用。
@@ -2609,7 +2609,7 @@
 ## browser-use/browser-use
 
 > [!info]
-> ⭐ 104,985 · Python · 2026-07-15  
+> ⭐ 104,987 · Python · 2026-07-15  
 > [GitHub](https://github.com/browser-use/browser-use) · [Website](https://browser-use.com)  
 > `#浏览器代理` `#Rust 原生运行时` `#AI 网页自动化` `#LLM 工具调用` `#ai-agents` `#ai-tools` `#browser-automation` `#browser-use` `#llm` `#playwright` `#python` 
 > browser-use 通过 Python API、Rust 核心与浏览器执行层，为大模型提供真实网页操作能力，支持点击、输入、恢复重试与持久化工具调用。适用于网页自动化、AI Agent 在线任务执行和复杂工作流编排，亮点是原生核心运行时、面向前沿模型的浏览器 harness，以及可扩展的云端与本地部署模式。
@@ -2649,7 +2649,7 @@
 ## microsoft/markitdown
 
 > [!info]
-> ⭐ 166,468 · Python · 2026-06-24  
+> ⭐ 166,470 · Python · 2026-06-24  
 > [GitHub](https://github.com/microsoft/markitdown)  
 > `#Python文档转换` `#Markdown语义保真` `#LLM数据预处理` `#多格式解析` `#autogen` `#autogen-extension` `#langchain` `#markdown` `#microsoft-office` `#openai` `#pdf` 
 > MarkItDown 是微软推出的轻量级 Python 文档转换工具，面向 LLM 与文本分析流程，将 PDF、Office、图片、音频、HTML、结构化文本等多种输入统一转为保留标题、表格、列表与链接语义的 Markdown。其亮点在于面向机器消费的结构保真、可选依赖扩展、多格式覆盖及命令行/管道友好集成能力。
@@ -2699,7 +2699,7 @@
 ## nelvko/clash-for-linux-install
 
 > [!info]
-> ⭐ 14,106 · Shell · 2026-07-14  
+> ⭐ 14,107 · Shell · 2026-07-14  
 > [GitHub](https://github.com/nelvko/clash-for-linux-install)  
 > `#Shell 自动化` `#Linux 代理管理` `#Mihomo/Clash` `#订阅转换` `#clash` `#clash-meta` `#linux` `#mihomo` `#subconverter` 
 > clashctl 是面向 Linux 的 mihomo/clash 一键部署与运维工具，覆盖内核、Web 面板与依赖安装，兼容 root/普通用户、容器及多种 init 系统。其亮点在于统一管理代理启停、TUN、日志、密钥与升级，并提供多订阅切换、定时更新及 subconverter 格式转换，适合自建代理环境的快速落地与日常维护。
@@ -2709,7 +2709,7 @@
 ## ArvinLovegood/go-stock
 
 > [!info]
-> ⭐ 6,890 · Go · 2026-07-11  
+> ⭐ 6,891 · Go · 2026-07-11  
 > [GitHub](https://github.com/ArvinLovegood/go-stock) · [Website](https://go-stock.sparkmemory.top)  
 > `#AI股票分析` `#Wails桌面应用` `#本地化数据隐私` `#多模型接入` `#ai-tools` `#deepseek` `#golang` `#lmstudio` `#naiveui` `#ollama` `#openai` `#stock` `#wails` 
 > go-stock 是面向 A股、港股、美股的本地化 AI 股票分析工具，基于 Wails 与 NaiveUI 构建，集成行情获取、热点资讯解读、资金与财务分析、情绪研判及涨跌预警。其亮点在于兼容 OpenAI、DeepSeek、Ollama 等多模型生态，支持市场与个股双层分析，并强调数据全程本地保存，兼顾隐私与实用性。
@@ -2777,7 +2777,7 @@
 ## khoj-ai/khoj
 
 > [!info]
-> ⭐ 35,751 · Python · 2026-06-24  
+> ⭐ 35,752 · Python · 2026-06-24  
 > [GitHub](https://github.com/khoj-ai/khoj) · [Website](https://khoj.dev)  
 > `#自托管AI助手` `#RAG知识检索` `#多模型智能体` `#语义搜索自动化` `#agent` `#ai` `#assistant` `#chat` `#chatgpt` `#emacs` `#image-generation` `#llama3` `#llamacpp` `#llm` `#obsidian` `#obsidian-md` `#offline-llm` `#productivity` `#rag` `#research` `#self-hosted` `#semantic-search` `#stt` `#whatsapp-ai` 
 > Khoj 是可自托管的“AI 第二大脑”，将本地或在线大模型与个人文档、网页检索和自动化能力整合到统一平台。它支持多端访问、语义搜索、自定义智能体、定时研究与通知分发，兼顾个人私有部署与企业级扩展，亮点在于多模型兼容、文档增强问答和从本地到云端的平滑伸缩。
@@ -2807,7 +2807,7 @@
 ## infiniflow/ragflow
 
 > [!info]
-> ⭐ 85,169 · Go · 2026-07-16  
+> ⭐ 85,171 · Go · 2026-07-16  
 > [GitHub](https://github.com/infiniflow/ragflow) · [Website](https://ragflow.io)  
 > `#RAG引擎` `#Agent增强` `#企业知识库` `#自托管AI` `#agentic-ai` `#agentic-retrieval` `#agentic-search` `#ai` `#ai-agents` `#context-engine` `#context-management` `#llm-apps` `#rag` `#retrieval-augmented-generation` 
 > RAGFlow 是面向企业知识库与智能问答场景的开源 RAG 引擎，将检索增强生成与 Agent 能力融合，提供更强上下文编排层。项目强调文档解析、知识索引、检索召回与推理协同，支持云端与自托管部署，适合构建高质量企业搜索、知识助手和复杂工作流型 LLM 应用。
@@ -2917,7 +2917,7 @@
 ## opendatalab/MinerU
 
 > [!info]
-> ⭐ 74,764 · Python · 2026-07-15  
+> ⭐ 74,765 · Python · 2026-07-15  
 > [GitHub](https://github.com/opendatalab/MinerU) · [Website](https://opendatalab.github.io/MinerU/)  
 > `#文档智能解析` `#PDF转Markdown` `#结构化JSON抽取` `#Agent工作流` `#ai4science` `#document-analysis` `#docx` `#extract-data` `#layout-analysis` `#ocr` `#parser` `#pdf` `#pdf-converter` `#pdf-extractor-llm` `#pdf-extractor-pretrain` `#pdf-extractor-rag` `#pdf-parser` `#pptx` `#python` `#xlsx` 
 > MinerU 是面向 LLM/Agent 工作流的文档解析工具，可将 PDF、Office 等复杂文档高保真转换为 Markdown 与结构化 JSON。其核心价值在于保留版面、表格等关键信息，降低知识入库、检索增强生成与自动化处理前的清洗成本，适用于企业知识库、数据抽取与文档智能分析。
@@ -3067,7 +3067,7 @@
 ## BCUninstaller/Bulk-Crap-Uninstaller
 
 > [!info]
-> ⭐ 20,242 · C# · 2026-06-18  
+> ⭐ 20,243 · C# · 2026-06-18  
 > [GitHub](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) · [Website](https://www.bcuninstaller.com/)  
 > `#Windows 批量卸载` `#残留清理` `#.NET 桌面工具` `#软件资产治理` `#application-manager` `#application-uninstaller` `#bloatware` `#bulk-actions` `#bulk-uninstall` `#cleaner` `#debloat` `#disk-space` `#inno-setup` `#msi` `#nsis` `#portableapps` `#software-management` `#unattended-uninstall` `#uninstall` `#uninstaller` `#windows` `#windows-10` `#windows-forms` 
 > BCUninstaller 是面向 Windows 的批量卸载与残留清理工具，适合 IT 运维、装机维护及个人环境治理。它支持静默批处理卸载、孤立程序识别，并兼容 Store 应用、Steam、Windows 功能及 NSIS/MSI/InnoSetup 等安装体系，结合 .NET 8 与便携版分发提升部署灵活性。
@@ -3407,7 +3407,7 @@
 ## aristocratos/btop
 
 > [!info]
-> ⭐ 33,509 · C++ · 2026-07-15  
+> ⭐ 33,508 · C++ · 2026-07-15  
 > [GitHub](https://github.com/aristocratos/btop)  
 > `#终端资源监控` `#跨平台系统监控` `#C++23 TUI` 
 > btop 是一款基于 C++23 开发的跨平台终端资源监控工具，面向 Linux、macOS 与多种 BSD 系统，集中展示 CPU、内存、磁盘、网络及进程状态。其核心价值在于以高性能、低开销和彩色交互式 TUI 提供直观运维体验，并支持主题化、自定义配置和多平台持续构建。
@@ -3527,7 +3527,7 @@
 ## makeplane/plane
 
 > [!info]
-> ⭐ 54,544 · TypeScript · 2026-07-16  
+> ⭐ 54,545 · TypeScript · 2026-07-16  
 > [GitHub](https://github.com/makeplane/plane) · [Website](http://plane.so)  
 > `#开源项目管理` `#Django+React Router` `#敏捷研发协作` `#自托管部署` `#boards` `#bug-tracker` `#django` `#docker` `#gantt` `#issue-tracker` `#jira` `#jira-alternative` `#kanban` `#linear` `#postgresql` `#product-management` `#project-management` `#project-planning` `#python` `#react` `#redis` `#typescipt` `#vite` `#work-management` 
 > Plane 是面向产品、研发与跨职能团队的开源项目管理平台，对标 Jira、Linear 与 ClickUp，覆盖任务跟踪、冲刺周期、模块拆分、文档协作和实时分析。其亮点在于 React Router + Django + Node.js 组合架构，既支持云端快速开箱，也支持 Docker、Kubernetes 自托管，兼顾团队协同效率与企业级部署灵活性。
@@ -3597,7 +3597,7 @@
 ## nvm-sh/nvm
 
 > [!info]
-> ⭐ 94,151 · Shell · 2026-07-15  
+> ⭐ 94,152 · Shell · 2026-07-15  
 > [GitHub](https://github.com/nvm-sh/nvm)  
 > `#Node.js版本管理` `#POSIX Shell` `#Bash自动化` `#.nvmrc工作流` `#bash` `#install` `#lts` `#node` `#node-js` `#nodejs` `#nvm` `#nvmrc` `#posix` `#posix-compliant` `#shell` `#version-manager` `#zsh` 
 > nvm 是面向 POSIX Shell 的 Node.js 版本管理工具，通过 Bash 脚本在命令行中安装、切换和隔离多个 Node 版本，适合本地开发、CI/CD、跨项目运行时治理。其亮点在于零侵入 shell 集成、`.nvmrc` 自动化工作流、支持 LTS 与镜像源配置，并兼顾 macOS、Linux、Docker 等环境。
@@ -3697,7 +3697,7 @@
 ## Eugeny/tabby
 
 > [!info]
-> ⭐ 73,279 · TypeScript · 2026-07-14  
+> ⭐ 73,280 · TypeScript · 2026-07-14  
 > [GitHub](https://github.com/Eugeny/tabby) · [Website](https://tabby.sh)  
 > `#跨平台终端模拟器` `#SSH/串口客户端` `#远程运维工具` `#高度可配置` `#serial` `#ssh-client` `#telnet-client` `#terminal` `#terminal-emulators` 
 > Tabby 是一款面向 Windows、macOS 与 Linux 的现代终端模拟器，集成 SSH、Telnet、串口与 SFTP/Web 能力，适合开发、运维和远程设备管理。其亮点在于高度可配置的快捷键与分屏、跨平台 Shell 兼容、加密凭据管理、Zmodem 文件传输，以及对高吞吐输出和完整 Unicode 的稳健支持。
@@ -3867,7 +3867,7 @@
 ## xai-org/grok-1
 
 > [!info]
-> ⭐ 51,745 · Python · 2024-08-30  
+> ⭐ 51,747 · Python · 2024-08-30  
 > [GitHub](https://github.com/xai-org/grok-1)  
 > `#JAX推理` `#混合专家MoE` `#314B大模型` `#8位量化` 
 > Grok-1 是 xAI 开源的 314B 参数大语言模型示例仓库，提供基于 JAX 的权重加载、推理采样与运行验证代码。其核心亮点是 8 专家 MoE 架构、每 token 激活 2 个专家、支持 RoPE、激活分片与 8-bit 量化，适用于超大模型研究、推理验证和分布式系统适配，但对 GPU 显存要求极高。
@@ -3927,7 +3927,7 @@
 ## excalidraw/excalidraw
 
 > [!info]
-> ⭐ 127,606 · TypeScript · 2026-07-15  
+> ⭐ 127,607 · TypeScript · 2026-07-15  
 > [GitHub](https://github.com/excalidraw/excalidraw) · [Website](https://excalidraw.com)  
 > `#虚拟白板` `#React 绘图编辑器` `#实时协作` `#端到端加密` `#canvas` `#collaboration` `#diagrams` `#drawing` `#hacktoberfest` `#productivity` `#whiteboard` 
 > Excalidraw 是一款开源虚拟白板与可嵌入式绘图编辑器，面向流程图、线框图、教学演示和协作草图场景。其核心亮点在于手绘风画布、无限白板、开放 `.excalidraw` 格式，以及实时协作与端到端加密能力；同时提供 React npm 包，便于开发者快速集成自定义绘图体验。
@@ -4166,7 +4166,7 @@
 ## apache/cassandra
 
 > [!info]
-> ⭐ 9,914 · Java · 2026-07-15  
+> ⭐ 9,915 · Java · 2026-07-15  
 > [GitHub](https://github.com/apache/cassandra) · [Website](https://cassandra.apache.org/)  
 > `#分布式数据库` `#宽列存储` `#线性扩展` `#高可用容错` `#cassandra` `#database` `#java` 
 > Apache Cassandra 是面向大规模集群的开源分布式事务型数据库，采用分区式行存模型与 CQL 接口，在通用硬件或云环境中实现线性扩展和高容错。其核心价值在于跨节点透明分片、自动重分区及持续高性能，适用于高可用业务、海量写入、全球多节点部署等场景。
@@ -4196,7 +4196,7 @@
 ## SigNoz/signoz
 
 > [!info]
-> ⭐ 29,859 · TypeScript · 2026-07-16  
+> ⭐ 29,862 · TypeScript · 2026-07-16  
 > [GitHub](https://github.com/SigNoz/signoz) · [Website](https://signoz.io)  
 > `#OpenTelemetry 可观测性` `#APM 监控` `#ClickHouse 日志分析` `#分布式追踪` `#apm` `#application-monitoring` `#distributed-tracing` `#go` `#good-first-issue` `#jaeger` `#log` `#logs` `#metrics` `#monitoring` `#nextjs` `#observability` `#open-source` `#opentelemetry` `#prometheus` `#react` `#reactjs` `#self-hosted` `#tracing` `#typescript` 
 > SigNoz 是基于 OpenTelemetry 的开源可观测性平台，将日志、指标与分布式追踪统一到单一系统中，面向 APM、微服务排障与基础设施监控场景。其亮点在于以 ClickHouse 支撑高性能日志分析，提供开箱即用的延迟、错误率、Apdex 等观测能力，并以仪表盘、Flamegraph 与 Gantt 图提升问题定位效率。
@@ -4516,7 +4516,7 @@
 ## apache/dolphinscheduler
 
 > [!info]
-> ⭐ 14,370 · Java · 2026-07-15  
+> ⭐ 14,371 · Java · 2026-07-15  
 > [GitHub](https://github.com/apache/dolphinscheduler) · [Website](https://dolphinscheduler.apache.org/)  
 > `#数据工作流编排` `#低代码调度平台` `#云原生调度` `#多主多工作器架构` `#airflow` `#azkaban` `#cloud-native` `#data-pipelines` `#job-scheduler` `#orchestration` `#powerful-data-pipelines` `#task-scheduler` `#workflow` `#workflow-orchestration` `#workflow-schedule` 
 > Apache DolphinScheduler 是面向数据管道与复杂任务依赖的现代工作流编排平台，支持通过 Web UI、Python SDK 和 OpenAPI 以低代码方式构建高性能流程。其核心亮点在于去中心化多 Master/Worker 高可用架构、横向扩展能力、丰富内置任务类型，以及对 Docker、Kubernetes、多云和多租户场景的原生支持，适合企业级数据开发与调度治理。
@@ -4916,7 +4916,7 @@
 ## dbeaver/dbeaver
 
 > [!info]
-> ⭐ 51,025 · Java · 2026-07-15  
+> ⭐ 51,026 · Java · 2026-07-15  
 > [GitHub](https://github.com/dbeaver/dbeaver) · [Website](https://dbeaver.io)  
 > `#通用数据库客户端` `#Java Eclipse RCP` `#JDBC/ODBC 连接` `#AI SQL 补全` `#ai` `#database` `#databricks` `#db2` `#dbeaver` `#erd` `#gui` `#java` `#jdbc` `#mysql` `#nosql` `#oracle` `#postgresql` `#redshift` `#snowflake` `#sql` `#sqlite` `#sqlserver` 
 > DBeaver 是一款基于 Java、Eclipse RCP 与 OSGi 构建的跨平台通用数据库工具，面向开发者、DBA 与数据分析人员。它内置 100+ 驱动并兼容 JDBC/ODBC 数据库，集成 SQL/数据/模式编辑、ER 图、导入导出、迁移、执行计划、空间数据浏览及 AI 补全，适合多源数据库开发、运维与数据治理场景。
@@ -5386,7 +5386,7 @@
 ## whyour/qinglong
 
 > [!info]
-> ⭐ 19,696 · TypeScript · 2026-07-09  
+> ⭐ 19,697 · TypeScript · 2026-07-09  
 > [GitHub](https://github.com/whyour/qinglong) · [Website](https://qinglong.online)  
 > `#定时任务平台` `#脚本调度` `#Docker 部署` `#Web 运维面板` `#crontab` `#docker` `#javascript` `#python` `#shell` `#task-manager` `#typescript` 
 > 青龙是面向自动化运维与脚本调度的定时任务管理平台，支持 Python3、JavaScript、Shell、TypeScript 多语言任务统一运行。其核心价值在于提供 Web 化的脚本、环境变量、配置与日志管理，并支持秒级调度、系统通知、移动端和 Docker 部署，适合个人自动化、服务器任务编排与轻量作业平台场景。
@@ -5935,7 +5935,7 @@
 ## marktext/marktext
 
 > [!info]
-> ⭐ 58,759 · TypeScript · 2026-07-05  
+> ⭐ 58,760 · TypeScript · 2026-07-05  
 > [GitHub](https://github.com/marktext/marktext) · [Website](https://www.marktext.me)  
 > `#Markdown 编辑器` `#所见即所得预览` `#跨平台桌面应用` `#CommonMark/GFM` `#dark-mode` `#editor` `#electron` `#focus-mode` `#latex` `#linux` `#mac` `#macos` `#markdown` `#marktext` `#source-code` `#typewriter-mode` `#vue` `#windows` 
 > MarkText 是一款面向 Linux、macOS 与 Windows 的跨平台 Markdown 编辑器，主打所见即所得实时预览、简洁无干扰写作体验与高可用性。它兼容 CommonMark、GFM 及部分 Pandoc 语法，支持数学公式等扩展，适合技术写作、文档编辑与知识整理场景。
@@ -6262,7 +6262,7 @@
 ## 521xueweihan/HelloGitHub
 
 > [!info]
-> ⭐ 165,425 · Python · 2026-06-29  
+> ⭐ 165,426 · Python · 2026-06-29  
 > [GitHub](https://github.com/521xueweihan/HelloGitHub) · [Website](https://hellogithub.com)  
 > `#开源项目策展` `#技术月刊` `#开发者教育` `#入门友好` `#awesome` `#github` `#hellogithub` `#python` 
 > HelloGitHub 是面向中文开发者的开源项目月刊与发现平台，持续筛选有趣、入门友好的 GitHub 项目，并扩展到开源书籍、实战案例和企业级项目。其亮点在于长期高频策展、多语言内容组织与清晰期刊归档，适合新手建立开源视野、寻找学习样例和项目灵感。
