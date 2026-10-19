@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-10-19 08:14 UTC · Total: 598
+> Updated: 2026-10-19 08:17 UTC · Total: 598
 
 ---
 
@@ -621,8 +621,8 @@
 > [!info]
 > ⭐ 173 · Rust · 2026-10-19  
 > [GitHub](https://github.com/mosheng1/QcClip)  
-> 
-> 生成失败
+> `#Rust` `#GPUI 原生桌面应用` `#剪贴板历史管理` `#本地优先效率工具` 
+> QcClip 是一款基于纯 Rust 与 GPUI 原生渲染的高性能剪贴板管理工具，主要面向 Windows 用户。支持文本、图片、文件及链接历史记录，提供全文搜索、标签分类、收藏置顶、快捷粘贴和多条合并操作。通过延迟加载、资源优化与重复内容去重提升响应效率，并支持本地数据存储、备份导入导出及应用级隐私控制，适合高频复制粘贴与常用素材管理。
 > <sub>QcClip 是一款使用纯 Rust、基于 GPUI 框架原生渲染的高性能剪贴板工具</sub>
 
 ---
@@ -631,8 +631,8 @@
 > [!info]
 > ⭐ 10,866 · N/A · 2026-10-16  
 > [GitHub](https://github.com/privacy-protection-tools/anti-AD) · [Website](https://anti-ad.net)  
-> `#adblock` `#adguardhome` `#dnsmasq` `#easylist` `#neohosts` `#php` `#pi-hole` `#surge` 
-> 生成失败
+> `#DNS广告过滤` `#隐私保护` `#多平台过滤规则` `#adblock` `#adguardhome` `#dnsmasq` `#easylist` `#neohosts` `#php` `#pi-hole` `#surge` 
+> anti-AD 是面向中文互联网的高命中率广告过滤与隐私保护规则集，通过聚合、去重和优化上游 Hosts 与广告过滤列表，剔除失效域名并增强黑白名单机制。基于 DNS 域名解析层拦截广告、应用内广告及跟踪统计请求，兼容 AdGuardHome、Pi-hole、Clash、mihomo、sing-box 等多种网络组件，提供多格式规则及自动化构建支持。
 > <sub>致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式</sub>
 
 ---
@@ -641,8 +641,8 @@
 > [!info]
 > ⭐ 6,667 · Adblock Filter List · 2026-10-16  
 > [GitHub](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [Website](https://AWAvenue.top)  
-> `#adblock` `#adblock-list` `#adguard` `#adguard-blocklist` `#adguardhome` `#clash` `#dns` `#dnsmasq` `#filterlist` `#filters` `#mihomo` `#python` `#smartdns` 
-> 生成失败
+> `#网络层广告过滤` `#AdGuard 规则集` `#隐私与流量防护` `#adblock` `#adblock-list` `#adguard` `#adguard-blocklist` `#adguardhome` `#clash` `#dns` `#dnsmasq` `#filterlist` `#filters` `#mihomo` `#python` `#smartdns` 
+> AWAvenue 秋风广告规则是一套轻量、高命中率的网络层广告过滤规则集，通过拦截广告 SDK 与服务器的通信，减少应用广告、视频广告及智能电视开机广告。支持 AdGuard、AdAway、Hosts、MosDNS、ClashMeta、Quantumult X 等多种工具，并提供广告、隐私和不受欢迎内容的分级订阅，在过滤效果、设备性能与正常使用体验之间取得平衡，适合个人用户及路由器级网络防护部署。
 > <sub>众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。</sub>
 
 ---
@@ -651,8 +651,8 @@
 > [!info]
 > ⭐ 4,182 · Go · 2026-10-19  
 > [GitHub](https://github.com/pgsty/silo) · [Website](https://silo.pgsty.com)  
-> `#minio` `#object-storage` `#pigsty` `#s3` 
-> 生成失败
+> `#S3 兼容对象存储` `#MinIO 分支维护` `#PostgreSQL 备份存储` `#minio` `#object-storage` `#pigsty` `#s3` 
+> Silo 是 PGSTY 维护的 MinIO 独立分支，提供兼容 S3 协议的对象存储服务，延续社区版 MinIO 的构建、发布与维护。项目支持 Linux 软件包、多架构 Docker 镜像及完整 Web 控制台，强化对象锁定、IAM 授权、STS 撤销和并发迁移保护，适用于 PostgreSQL 备份、持久化存储及自托管对象存储基础设施。
 > <sub>S3-Compatible Object Storage. A MinIO fork maintained by PGSTY</sub>
 
 ---
@@ -661,8 +661,8 @@
 > [!info]
 > ⭐ 6,047 · TypeScript · 2026-10-19  
 > [GitHub](https://github.com/oomol-lab/open-connector) · [Website](https://oomol.com)  
-> `#agent-tools` `#ai-agents` `#api-gateway` `#automation` `#cli` `#cloudflare-workers` `#connectors` `#integration-platform` `#mcp` `#model-context-protocol` `#oauth` `#oomol` `#openapi` `#openconnector` `#saas-integrations` `#sdk` `#self-hosted` `#typescript` 
-> 生成失败
+> `#AI智能体连接器` `#MCP工具集成` `#OAuth2认证网关` `#SaaS工作流自动化` `#agent-tools` `#ai-agents` `#api-gateway` `#automation` `#cli` `#cloudflare-workers` `#connectors` `#integration-platform` `#mcp` `#model-context-protocol` `#oauth` `#oomol` `#openapi` `#openconnector` `#saas-integrations` `#sdk` `#self-hosted` `#typescript` 
+> OpenConnector 是面向 AI 智能体的开源 SaaS 连接与认证网关，整合 1500 余家服务商及上万种预置 Action，通过 SDK、CLI、MCP、HTTP 和 OpenAPI 统一调用。支持 OAuth2、API 密钥、权限策略与运行日志审计，可本地、自托管或云端部署，适用于智能体工具集成与企业自动化工作流。
 > <sub>Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.</sub>
 
 ---
@@ -671,8 +671,8 @@
 > [!info]
 > ⭐ 792 · Shell · 2026-06-09  
 > [GitHub](https://github.com/eooce/ssh_tool)  
-> 
-> 生成失败
+> `#VPS自动化运维` `#Shell一键部署` `#NAT网络与代理节点` 
+> eooce/ssh_tool 是一款面向 VPS 运维的 Shell 一键脚本工具箱，集成常用服务器管理工具、代理节点搭建脚本及 NAT 母鸡与小鸡部署功能，旨在简化重复配置与部署流程。支持 Debian、Ubuntu、CentOS、Alpine、Fedora、Rocky Linux、Amazon Linux、Oracle Linux 等发行版，可通过 curl 快速启动，适用于 VPS 初始化、节点搭建与轻量级服务器自动化运维。
 > <sub>VPS一键脚本工具箱！</sub>
 
 ---
@@ -681,8 +681,8 @@
 > [!info]
 > ⭐ 1,096 · Swift · 2026-10-19  
 > [GitHub](https://github.com/scholay/xsime) · [Website](https://xsime.com)  
-> 
-> 生成失败
+> `#Rime输入法引擎` `#AI文本工作流` `#跨平台输入法` 
+> XSIME（犀术IME）是一款基于 Rime 的跨平台输入法与文本工作台，支持全拼、双拼、五笔及并击输入。创新融合 Buffer 文本缓冲区、Capsule 知识胶囊与 Mailbox 对话窗口，提供 AI 翻译、生成、润色、剪贴板管理及个人知识归档，让用户无需离开当前应用即可完成文本处理。
 > <sub>XSIME / 犀术IME / 犀術IME — 心有灵犀，落笔见术。Cross-platform input method and text workbench, powered by Rime.</sub>
 
 ---
@@ -691,8 +691,8 @@
 > [!info]
 > ⭐ 7,905 · Kotlin · 2026-10-16  
 > [GitHub](https://github.com/jev-chat/jev-chat-jarvis) · [Website](https://chatjevs.com)  
-> `#accessibility-service` `#ai-assistant` `#android` `#chat-assistant` `#chat-copilot` `#llm` `#ocr` `#qq` `#whatsapp` 
-> 生成失败
+> `#AI 对话意图识别` `#聊天风险评估` `#跨平台智能回复` `#accessibility-service` `#ai-assistant` `#android` `#chat-assistant` `#chat-copilot` `#llm` `#ocr` `#qq` `#whatsapp` 
+> jev-chat 是一款开源 AI 聊天决策助手，先分析对话意图、交互风险及对方需求，再生成经判断校验和排序的回复建议，支持一键填入输入框，由用户自主决定是否发送。覆盖 Android、Windows、macOS 和 iOS，适配多种聊天应用，采用用户自备模型 API 密钥的方式调用服务，强调隐私控制与人工确认，适用于日常社交、职场沟通及高敏感度对话场景。
 > <sub>The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。</sub>
 
 ---
@@ -701,8 +701,8 @@
 > [!info]
 > ⭐ 298 · TypeScript · 2026-10-14  
 > [GitHub](https://github.com/openvetta/open-vetta) · [Website](https://www.openvetta.com)  
-> `#agent-tools` `#ai-agent` `#byok` `#coding-agent` `#cross-platform` `#desktop-app` `#developer-tools` `#electron` `#harness` `#knowledge-base` `#llmwiki` `#local-first` `#mcp` `#plugin-system` `#privacy-first` `#skills` `#typescript` `#vetta` `#workflow-automation` 
-> 生成失败
+> `#本地优先 AI 智能体` `#MCP 工具集成` `#可扩展工作流` `#agent-tools` `#ai-agent` `#byok` `#coding-agent` `#cross-platform` `#desktop-app` `#developer-tools` `#electron` `#harness` `#knowledge-base` `#llmwiki` `#local-first` `#mcp` `#plugin-system` `#privacy-first` `#skills` `#typescript` `#vetta` `#workflow-automation` 
+> Open Vetta 是一款开源、以本地优先为核心的跨平台桌面 AI 智能体，支持代码开发、文档处理、数据分析与研究等真实任务。通过 BYOK 模型接入、MCP 协议、技能、插件及可复用工作流扩展能力，并提供私有知识库、工具权限控制与可审查的执行记录，兼顾自动化效率、数据自主权和执行透明度。
 > <sub>Open-source, local-first AI agent for coding and real work. BYOK models, MCP, skills, plugins, workflows, and private knowledge bases.</sub>
 
 ---
@@ -787,7 +787,7 @@
 ## mattpocock/skills
 
 > [!info]
-> ⭐ 296,640 · Shell · 2026-10-13  
+> ⭐ 296,644 · Shell · 2026-10-13  
 > [GitHub](https://github.com/mattpocock/skills) · [Website](https://aihero.dev/skills)  
 > `#AI代理技能` `#工程实践` `#可组合技能` 
 > 该仓库提供一套面向真实工程实践的AI代理技能集，源自作者日常开发经验。技能设计为轻量、可组合、可定制，支持Claude Code、Codex等主流编码代理。通过插件或命令行快速安装，并配置问题追踪器、标签等。强调工程控制而非“vibe coding”，帮助开发者精准对齐需求并提升代理执行质量。
@@ -856,7 +856,7 @@
 ## dh374374/ChaiChaiEmbyTV
 
 > [!info]
-> ⭐ 1,700 · N/A · 2026-10-18  
+> ⭐ 1,701 · N/A · 2026-10-18  
 > [GitHub](https://github.com/dh374374/ChaiChaiEmbyTV)  
 > `#Emby客户端` `#Android TV` `#弹幕支持` `#Jetpack Compose` 
 > ChaiChaiEmbyTV 是一款专为 Android TV 设计的 Emby 客户端，核心亮点是支持弹幕功能。它通过 Jetpack Compose 构建原生 TV 界面，集成快手 AkDanmaku 弹幕引擎，可配置多个弹幕 API 实现自动匹配与手动搜索。支持倍速播放、多音轨/字幕切换、外挂字幕延迟调整、播放进度同步、多服务器管理及扫码配置。技术栈包括 AndroidX Media3、FFmpeg 扩展、MVVM 架构等。
@@ -926,7 +926,7 @@
 ## openai/codex
 
 > [!info]
-> ⭐ 129,843 · Rust · 2026-10-19  
+> ⭐ 129,844 · Rust · 2026-10-19  
 > [GitHub](https://github.com/openai/codex)  
 > `#编码代理` `#终端工具` `#AI辅助编程` 
 > Codex CLI 是 OpenAI 推出的轻量级终端编码代理，支持本地运行，可通过 ChatGPT 订阅或 API 密钥使用。提供跨平台安装方式（curl、npm、Homebrew），集成到终端工作流，实现代码生成、调试等 AI 辅助编程功能。
@@ -1156,7 +1156,7 @@
 ## farion1231/cc-switch
 
 > [!info]
-> ⭐ 146,099 · Rust · 2026-10-19  
+> ⭐ 146,100 · Rust · 2026-10-19  
 > [GitHub](https://github.com/farion1231/cc-switch) · [Website](https://ccswitch.io)  
 > `#Tauri跨平台桌面应用` `#AI编码助手聚合` `#多模型切换管理` `#ai-tools` `#claude-code` `#codex` `#desktop-app` `#grok` `#grokbuild` `#hermes` `#hermes-agent` `#mcp` `#open-source` `#openclaw` `#openclaw-ui` `#opencode` `#pi` `#provider-management` `#rust` `#skills` `#skills-management` `#tauri` `#wsl-support` 
 > CC Switch 是基于 Tauri 2 构建的跨平台桌面管理器，统一整合 Claude Code、Codex、Gemini CLI、OpenCode、OpenClaw 与 Hermes Agent 等多种 AI 编码工具。它面向多模型、多账号与多终端工作流，突出一站式切换、集中管理和桌面级分发能力，适合开发者提升工具协同效率并降低环境切换成本。
@@ -1256,7 +1256,7 @@
 ## alchaincyf/huashu-design
 
 > [!info]
-> ⭐ 25,372 · HTML · 2026-10-17  
+> ⭐ 25,373 · HTML · 2026-10-17  
 > [GitHub](https://github.com/alchaincyf/huashu-design)  
 > `#HTML原生设计` `#Agent 设计自动化` `#高保真原型与动画` `#PPTX/MP4 导出` 
 > Huashu Design 是面向 Claude Code、Codex 等 Agent 的 HTML 原生设计 skill，可用自然语言快速生成高保真原型、演讲幻灯片、信息图与产品动画，并支持 MP4/GIF/PPTX 导出。其亮点在于三套设计顾问逻辑、40 种风格库、5 维评审体系，以及基于 Stage/Sprite 的动画引擎与 Playwright 可点击验证，兼顾生成质量、交付性与跨 Agent 通用性。
@@ -1316,7 +1316,7 @@
 ## JuliusBrussee/caveman
 
 > [!info]
-> ⭐ 113,536 · Go · 2026-10-19  
+> ⭐ 113,537 · Go · 2026-10-19  
 > [GitHub](https://github.com/JuliusBrussee/caveman) · [Website](https://docs.caveman.so/caveman)  
 > `#AI 编码代理` `#Prompt 压缩` `#Token 成本优化` `#多语言输出` `#ai` `#anthropic` `#caveman` `#claude` `#claude-code` `#llm` `#meme` `#prompt-engineering` `#skill` `#tokens` 
 > caveman 是面向 Claude Code 及多种 AI 编码代理的压缩表达技能插件，通过“穴居人式”提示风格在保持技术准确性的前提下，将回复 token 成本降低约 65% 到 75%。它支持多档压缩模式与跨语言输出，适合高频代码协作、终端代理和成本敏感的 AI 开发工作流。
@@ -1326,7 +1326,7 @@
 ## anomalyco/opencode
 
 > [!info]
-> ⭐ 216,985 · TypeScript · 2026-10-19  
+> ⭐ 216,987 · TypeScript · 2026-10-19  
 > [GitHub](https://github.com/anomalyco/opencode) · [Website](https://opencode.ai)  
 > `#AI 编码代理` `#终端开发工具` `#跨平台桌面应用` 
 > OpenCode 是面向终端与桌面的开源 AI 编码代理，提供安装便捷的 CLI 与桌面应用，支持多平台分发。它聚焦开发者在本地环境中的代码生成、修改与协作式执行，强调开放源码、自主可控和较新的发行链路，适合个人开发、团队辅助编程及跨平台工程环境集成。
@@ -2594,7 +2594,7 @@
 ## langgenius/dify
 
 > [!info]
-> ⭐ 158,858 · Python · 2026-10-19  
+> ⭐ 158,859 · Python · 2026-10-19  
 > [GitHub](https://github.com/langgenius/dify) · [Website](https://dify.ai)  
 > `#智能体工作流` `#LLM应用编排` `#知识库检索` `#私有化部署` `#agent` `#agentic-ai` `#agentic-framework` `#agentic-workflow` `#ai` `#automation` `#claude` `#deepseek` `#genai` `#gpt` `#llm` `#low-code` `#mcp` `#nextjs` `#no-code` `#openai` `#python` `#skills` `#workflow` 
 > Dify 是面向生产环境的智能体工作流开发平台，整合 LLM 应用编排、知识库检索、可观测运营与自托管部署能力。它适合企业快速构建聊天助手、AI 工作流和多步骤自动化系统，亮点在于低代码编排、云端与私有化兼容，以及围绕模型、数据与工具链的一体化平台设计。
@@ -2656,8 +2656,8 @@
 > [!info]
 > ⭐ 4,078 · Rust · 2026-10-18  
 > [GitHub](https://github.com/donutbrowser/donutbrowser) · [Website](https://donutbrowser.com)  
-> `#anti-detect` `#anti-detect-browser` `#anti-detection` `#browser` `#browser-automation` `#browser-fingerprint-bypass` `#browser-fingerprinting` `#browser-management` `#chromium` `#management` `#manager` `#orchestration` `#orchestrator` `#privacy` `#profile-management` 
-> 生成失败
+> `#浏览器指纹隔离` `#Chromium 反检测` `#MCP 智能体自动化` `#端到端加密隐私` `#anti-detect` `#anti-detect-browser` `#anti-detection` `#browser` `#browser-automation` `#browser-fingerprint-bypass` `#browser-fingerprinting` `#browser-management` `#chromium` `#management` `#manager` `#orchestration` `#orchestrator` `#privacy` `#profile-management` 
+> Donut Browser 是一款基于 Wayfern 隐私增强型 Chromium 内核的开源反检测浏览器，支持无限独立配置文件，为每个账号隔离浏览器指纹、Cookie、扩展和代理，降低多账号关联风险。数据默认本地存储，提供零遥测、临时配置文件、端到端加密同步，以及通过 REST API、CDP 和 MCP 集成浏览器自动化与 AI 智能体的能力，适用于多账号管理和隐私隔离场景。
 > <sub>The Most Private Anti-Detect Browser 🍩</sub>
 
 ---
@@ -2724,7 +2724,7 @@
 ## 78/xiaozhi-esp32
 
 > [!info]
-> ⭐ 31,492 · C++ · 2026-10-19  
+> ⭐ 31,493 · C++ · 2026-10-19  
 > [GitHub](https://github.com/78/xiaozhi-esp32) · [Website](https://xiaozhi.me)  
 > `#ESP32语音助手` `#MCP协议` `#流式语音交互` `#边缘设备控制` `#chatbot` `#esp32` `#mcp` 
 > xiaozhi-esp32 是面向 ESP32 终端的 MCP 聊天机器人方案，融合离线唤醒、流式 ASR/LLM/TTS、OPUS 编解码与说话人识别，支持 WebSocket 或 MQTT+UDP 通信。项目覆盖 70+ 开源硬件，可联动 OLED/LCD、GPIO、舵机等设备，并通过云侧 MCP 扩展智能家居、桌面控制与知识检索等能力。
@@ -3006,8 +3006,8 @@
 > [!info]
 > ⭐ 15,037 · Shell · 2026-10-18  
 > [GitHub](https://github.com/nelvko/clashctl)  
-> `#clash` `#clash-meta` `#linux` `#mihomo` `#subconverter` 
-> 生成失败
+> `#Mihomo/Clash` `#Linux代理管理` `#Shell自动化` `#订阅转换` `#clash` `#clash-meta` `#linux` `#mihomo` `#subconverter` 
+> clashctl 是面向 Linux 的 Mihomo/Clash 代理环境安装与管理工具，基于 Shell 实现一键部署内核、Web 面板及运行依赖。支持 root 与普通用户、容器环境及多种服务管理器，提供代理开关、节点切换、订阅转换与更新、TUN 模式、Mixin 配置和内核升级，适用于个人开发者及服务器用户快速搭建和维护代理环境。
 > <sub>😼 优雅地使用基于 clash/mihomo 的代理环境</sub>
 
 ---
@@ -3222,7 +3222,7 @@
 ## opendatalab/MinerU
 
 > [!info]
-> ⭐ 82,021 · Python · 2026-10-19  
+> ⭐ 82,022 · Python · 2026-10-19  
 > [GitHub](https://github.com/opendatalab/MinerU) · [Website](https://opendatalab.github.io/MinerU/)  
 > `#文档智能解析` `#PDF转Markdown` `#结构化JSON抽取` `#Agent工作流` `#ai4science` `#document-analysis` `#docx` `#extract-data` `#layout-analysis` `#ocr` `#parser` `#pdf` `#pdf-converter` `#pdf-extractor-llm` `#pdf-extractor-pretrain` `#pdf-extractor-rag` `#pdf-parser` `#pptx` `#python` `#xlsx` 
 > MinerU 是面向 LLM/Agent 工作流的文档解析工具，可将 PDF、Office 等复杂文档高保真转换为 Markdown 与结构化 JSON。其核心价值在于保留版面、表格等关键信息，降低知识入库、检索增强生成与自动化处理前的清洗成本，适用于企业知识库、数据抽取与文档智能分析。
@@ -3952,7 +3952,7 @@
 ## hwanz/SSR-V2ray-Trojan
 
 > [!info]
-> ⭐ 20,911 · N/A · 2026-10-01  
+> ⭐ 20,912 · N/A · 2026-10-01  
 > [GitHub](https://github.com/hwanz/SSR-V2ray-Trojan)  
 > `#机场评测` `#SSR/V2Ray/Trojan` `#Clash生态` `#科学上网选购指南` 
 > 该仓库聚焦中文“机场”推荐与评测，围绕 SSR、V2Ray、Trojan 及 Clash 生态，持续整理不同线路类型、带宽稳定性、解锁能力、资费与适用人群。其价值在于把分散的代理服务经验沉淀为可检索的选购指南，强调中转/专线差异、避坑策略、客户端兼容性与长期更新，适合科学上网用户做决策参考。
@@ -4204,8 +4204,8 @@
 > [!info]
 > ⭐ 4,031 · Dart · 2026-10-01  
 > [GitHub](https://github.com/bostrot/wslmanager) · [Website](https://wslmanager.com)  
-> `#ai` `#developer-tools` `#docker` `#flutter` `#gui` `#llm` `#macos` `#mcp` `#model-context-protocol` `#rootfs` `#turnkey` `#virtual-machine` `#virtualization` `#windows` `#windows-subsystem-for-linux` `#wsl` `#wsl2` 
-> 生成失败
+> `#WSL发行版管理` `#MCP智能体集成` `#跨平台Linux虚拟化` `#ai` `#developer-tools` `#docker` `#flutter` `#gui` `#llm` `#macos` `#mcp` `#model-context-protocol` `#rootfs` `#turnkey` `#virtual-machine` `#virtualization` `#windows` `#windows-subsystem-for-linux` `#wsl` `#wsl2` 
+> WSL Manager 是一款开源跨平台 Linux 环境管理工具，通过图形界面简化 Windows WSL 发行版的安装、迁移、备份、恢复与磁盘管理，并支持 macOS 原生虚拟机。其集成 Docker 镜像导入、命令片段、SSH 远程管理及 MCP 服务端，可让 AI 智能体通过工具接口操作 Linux 环境，适用于开发环境配置、团队协作与跨设备迁移。
 > <sub>GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL over SSH.</sub>
 
 ---
@@ -4691,7 +4691,7 @@
 ## yangshun/tech-interview-handbook
 
 > [!info]
-> ⭐ 143,068 · TypeScript · 2026-08-07  
+> ⭐ 143,069 · TypeScript · 2026-08-07  
 > [GitHub](https://github.com/yangshun/tech-interview-handbook) · [Website](https://www.techinterviewhandbook.org)  
 > `#技术面试准备` `#Blind 75 / Grind 75` `#算法题精选` `#求职全流程指南` `#algorithm` `#algorithm-interview` `#algorithm-interview-questions` `#algorithms` `#behavioral-interviews` `#coding-interviews` `#interview-practice` `#interview-preparation` `#interview-questions` `#system-design` 
 > Tech Interview Handbook 面向时间有限的软件工程师，提供覆盖求职、算法刷题、行为面试、简历优化到谈薪的系统化面试资料。其核心亮点是以 Blind 75、Grind 75 和专题速查表为代表的高质量精选内容，强调少而精、可直接执行，帮助候选人以更高效率建立完整的技术面试准备路径。
@@ -5161,7 +5161,7 @@
 ## YunaiV/yudao-cloud
 
 > [!info]
-> ⭐ 19,641 · Java · 2026-10-07  
+> ⭐ 19,642 · Java · 2026-10-07  
 > [GitHub](https://github.com/YunaiV/yudao-cloud) · [Website](https://cloud.iocoder.cn)  
 > `#Spring Cloud Alibaba` `#多租户后台` `#RBAC权限` `#工作流集成` `#dubbo` `#elasticsearch` `#mall` `#mysql` `#nacos` `#redis` `#rocketmq` `#seata` `#sharding-sphere` `#skywalking` `#spring-cloud` `#spring-cloud-alibaba` `#springboot` `#springcloud` `#xxl-job` `#zookeeper` 
 > yudao-cloud 是基于 Spring Cloud Alibaba、MyBatis Plus 与 Vue 的开源云原生后台管理系统，面向企业级业务中台与用户小程序。它突出 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM/ERP/MES、IM、AI 与 IoT 集成，适合快速搭建复杂业务系统。
