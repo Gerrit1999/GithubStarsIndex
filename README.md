@@ -76,14 +76,21 @@ graph TD
 
 进入仓库的 **Settings → Secrets and variables → Actions** 进行配置：
 
-**🔐 必填项 (Required Secrets/Variables)**
-- `GH_USERNAME`: 要抓取 Stars 的 GitHub 用户名。
+**🔐 必填 Secrets**
 - `AI_API_KEY`: 你的 AI 接口 API Key。
 
-**📋 可选项 (Optional Variables)**
-以下参数有内置默认值，通常无需配置：
+**🔐 可选 Secrets**
+在 **Secrets** 标签页中配置，未设置时使用内置默认值：
 - `AI_BASE_URL`: AI 接口地址 (默认使用 OpenAI 官方地址)。
 - `AI_MODEL`: 模型名称 (默认 `gpt-4o-mini`)。
+
+> 如果此前在 Variables 中配置了 `AI_BASE_URL` 和 `AI_MODEL`，请将其值复制到同名 Secrets；工作流改为仅从 Secrets 读取这两项。确认 Secrets 已设置后，可删除原来的 Variables。
+
+**📋 必填 Variables**
+- `GH_USERNAME`: 要抓取 Stars 的 GitHub 用户名。
+
+**📋 可选 Variables**
+以下参数有内置默认值，通常无需配置：
 - `OUTPUT_FILENAME`: 生成文件的基准名 (默认 `stars`)。
 - `VAULT_SYNC_PATH`: Vault 里的存放目录 (默认 `GitHub-Stars/`)。
 - `PAGES_SYNC_ENABLED`: 是否同步到 Pages (默认 `true`)。

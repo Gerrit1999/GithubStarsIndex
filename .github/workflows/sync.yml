@@ -83,12 +83,12 @@ jobs:
           # ── Secrets（机密，加密保存）──
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    # Actions 自动注入，无需手动添加
           AI_API_KEY: ${{ secrets.AI_API_KEY }}        # AI API Key
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}      # AI 接口地址
+          AI_MODEL: ${{ secrets.AI_MODEL }}            # AI 模型名称
           VAULT_PAT: ${{ secrets.VAULT_PAT }}          # Vault 仓库写权限 PAT（Vault 同步时必填）
 
           # ── Variables（非机密，明文，在 Settings → Variables 中配置）──
           GH_USERNAME: ${{ vars.GH_USERNAME }}         # 要抓取 Stars 的 GitHub 用户名
-          AI_BASE_URL: ${{ vars.AI_BASE_URL }}         # AI 接口地址
-          AI_MODEL: ${{ vars.AI_MODEL }}
           MAX_CONCURRENCY: ${{ vars.MAX_CONCURRENCY }}
           OUTPUT_FILENAME: ${{ vars.OUTPUT_FILENAME }}
           VAULT_SYNC_ENABLED: ${{ vars.VAULT_SYNC_ENABLED }}
